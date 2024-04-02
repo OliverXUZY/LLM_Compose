@@ -1,0 +1,9706 @@
+[
+    {
+        "input": "0 # 1",
+        "output": "2"
+    },
+    {
+        "input": "0 # 2",
+        "output": "3"
+    },
+    {
+        "input": "1 # 1",
+        "output": "3"
+    },
+    {
+        "input": "0 # 3",
+        "output": "4"
+    },
+    {
+        "input": "1 # 3",
+        "output": "5"
+    },
+    {
+        "input": "0 # 6",
+        "output": "7"
+    },
+    {
+        "input": "1 # 5",
+        "output": "7"
+    },
+    {
+        "input": "2 # 4",
+        "output": "7"
+    },
+    {
+        "input": "4 # 2",
+        "output": "7"
+    },
+    {
+        "input": "5 # 1",
+        "output": "7"
+    },
+    {
+        "input": "1 # 6",
+        "output": "8"
+    },
+    {
+        "input": "2 # 5",
+        "output": "8"
+    },
+    {
+        "input": "6 # 1",
+        "output": "8"
+    },
+    {
+        "input": "0 # 8",
+        "output": "9"
+    },
+    {
+        "input": "1 # 7",
+        "output": "9"
+    },
+    {
+        "input": "2 # 6",
+        "output": "9"
+    },
+    {
+        "input": "4 # 4",
+        "output": "9"
+    },
+    {
+        "input": "2 # 7",
+        "output": "10"
+    },
+    {
+        "input": "5 # 4",
+        "output": "10"
+    },
+    {
+        "input": "6 # 3",
+        "output": "10"
+    },
+    {
+        "input": "1 # 9",
+        "output": "11"
+    },
+    {
+        "input": "2 # 8",
+        "output": "11"
+    },
+    {
+        "input": "3 # 7",
+        "output": "11"
+    },
+    {
+        "input": "4 # 6",
+        "output": "11"
+    },
+    {
+        "input": "5 # 5",
+        "output": "11"
+    },
+    {
+        "input": "6 # 4",
+        "output": "11"
+    },
+    {
+        "input": "8 # 2",
+        "output": "11"
+    },
+    {
+        "input": "9 # 1",
+        "output": "11"
+    },
+    {
+        "input": "0 # 11",
+        "output": "12"
+    },
+    {
+        "input": "2 # 9",
+        "output": "12"
+    },
+    {
+        "input": "3 # 8",
+        "output": "12"
+    },
+    {
+        "input": "6 # 5",
+        "output": "12"
+    },
+    {
+        "input": "8 # 3",
+        "output": "12"
+    },
+    {
+        "input": "0 # 12",
+        "output": "13"
+    },
+    {
+        "input": "6 # 6",
+        "output": "13"
+    },
+    {
+        "input": "8 # 4",
+        "output": "13"
+    },
+    {
+        "input": "9 # 3",
+        "output": "13"
+    },
+    {
+        "input": "1 # 12",
+        "output": "14"
+    },
+    {
+        "input": "3 # 10",
+        "output": "14"
+    },
+    {
+        "input": "5 # 8",
+        "output": "14"
+    },
+    {
+        "input": "6 # 7",
+        "output": "14"
+    },
+    {
+        "input": "8 # 5",
+        "output": "14"
+    },
+    {
+        "input": "10 # 3",
+        "output": "14"
+    },
+    {
+        "input": "11 # 2",
+        "output": "14"
+    },
+    {
+        "input": "2 # 12",
+        "output": "15"
+    },
+    {
+        "input": "3 # 11",
+        "output": "15"
+    },
+    {
+        "input": "4 # 10",
+        "output": "15"
+    },
+    {
+        "input": "7 # 7",
+        "output": "15"
+    },
+    {
+        "input": "10 # 4",
+        "output": "15"
+    },
+    {
+        "input": "11 # 3",
+        "output": "15"
+    },
+    {
+        "input": "13 # 1",
+        "output": "15"
+    },
+    {
+        "input": "2 # 13",
+        "output": "16"
+    },
+    {
+        "input": "3 # 12",
+        "output": "16"
+    },
+    {
+        "input": "9 # 6",
+        "output": "16"
+    },
+    {
+        "input": "13 # 2",
+        "output": "16"
+    },
+    {
+        "input": "14 # 1",
+        "output": "16"
+    },
+    {
+        "input": "2 # 14",
+        "output": "17"
+    },
+    {
+        "input": "3 # 13",
+        "output": "17"
+    },
+    {
+        "input": "5 # 11",
+        "output": "17"
+    },
+    {
+        "input": "6 # 10",
+        "output": "17"
+    },
+    {
+        "input": "7 # 9",
+        "output": "17"
+    },
+    {
+        "input": "8 # 8",
+        "output": "17"
+    },
+    {
+        "input": "11 # 5",
+        "output": "17"
+    },
+    {
+        "input": "13 # 3",
+        "output": "17"
+    },
+    {
+        "input": "15 # 1",
+        "output": "17"
+    },
+    {
+        "input": "0 # 17",
+        "output": "18"
+    },
+    {
+        "input": "3 # 14",
+        "output": "18"
+    },
+    {
+        "input": "5 # 12",
+        "output": "18"
+    },
+    {
+        "input": "10 # 7",
+        "output": "18"
+    },
+    {
+        "input": "12 # 5",
+        "output": "18"
+    },
+    {
+        "input": "0 # 18",
+        "output": "19"
+    },
+    {
+        "input": "1 # 17",
+        "output": "19"
+    },
+    {
+        "input": "2 # 16",
+        "output": "19"
+    },
+    {
+        "input": "4 # 14",
+        "output": "19"
+    },
+    {
+        "input": "9 # 9",
+        "output": "19"
+    },
+    {
+        "input": "10 # 8",
+        "output": "19"
+    },
+    {
+        "input": "12 # 6",
+        "output": "19"
+    },
+    {
+        "input": "15 # 3",
+        "output": "19"
+    },
+    {
+        "input": "0 # 19",
+        "output": "20"
+    },
+    {
+        "input": "1 # 18",
+        "output": "20"
+    },
+    {
+        "input": "3 # 16",
+        "output": "20"
+    },
+    {
+        "input": "6 # 13",
+        "output": "20"
+    },
+    {
+        "input": "8 # 11",
+        "output": "20"
+    },
+    {
+        "input": "9 # 10",
+        "output": "20"
+    },
+    {
+        "input": "11 # 8",
+        "output": "20"
+    },
+    {
+        "input": "12 # 7",
+        "output": "20"
+    },
+    {
+        "input": "13 # 6",
+        "output": "20"
+    },
+    {
+        "input": "17 # 2",
+        "output": "20"
+    },
+    {
+        "input": "0 # 20",
+        "output": "21"
+    },
+    {
+        "input": "1 # 19",
+        "output": "21"
+    },
+    {
+        "input": "3 # 17",
+        "output": "21"
+    },
+    {
+        "input": "4 # 16",
+        "output": "21"
+    },
+    {
+        "input": "7 # 13",
+        "output": "21"
+    },
+    {
+        "input": "8 # 12",
+        "output": "21"
+    },
+    {
+        "input": "10 # 10",
+        "output": "21"
+    },
+    {
+        "input": "13 # 7",
+        "output": "21"
+    },
+    {
+        "input": "16 # 4",
+        "output": "21"
+    },
+    {
+        "input": "19 # 1",
+        "output": "21"
+    },
+    {
+        "input": "0 # 21",
+        "output": "22"
+    },
+    {
+        "input": "2 # 19",
+        "output": "22"
+    },
+    {
+        "input": "4 # 17",
+        "output": "22"
+    },
+    {
+        "input": "7 # 14",
+        "output": "22"
+    },
+    {
+        "input": "8 # 13",
+        "output": "22"
+    },
+    {
+        "input": "9 # 12",
+        "output": "22"
+    },
+    {
+        "input": "12 # 9",
+        "output": "22"
+    },
+    {
+        "input": "13 # 8",
+        "output": "22"
+    },
+    {
+        "input": "15 # 6",
+        "output": "22"
+    },
+    {
+        "input": "0 # 22",
+        "output": "23"
+    },
+    {
+        "input": "1 # 21",
+        "output": "23"
+    },
+    {
+        "input": "3 # 19",
+        "output": "23"
+    },
+    {
+        "input": "4 # 18",
+        "output": "23"
+    },
+    {
+        "input": "5 # 17",
+        "output": "23"
+    },
+    {
+        "input": "8 # 14",
+        "output": "23"
+    },
+    {
+        "input": "9 # 13",
+        "output": "23"
+    },
+    {
+        "input": "11 # 11",
+        "output": "23"
+    },
+    {
+        "input": "13 # 9",
+        "output": "23"
+    },
+    {
+        "input": "14 # 8",
+        "output": "23"
+    },
+    {
+        "input": "20 # 2",
+        "output": "23"
+    },
+    {
+        "input": "3 # 20",
+        "output": "24"
+    },
+    {
+        "input": "4 # 19",
+        "output": "24"
+    },
+    {
+        "input": "5 # 18",
+        "output": "24"
+    },
+    {
+        "input": "8 # 15",
+        "output": "24"
+    },
+    {
+        "input": "12 # 11",
+        "output": "24"
+    },
+    {
+        "input": "13 # 10",
+        "output": "24"
+    },
+    {
+        "input": "14 # 9",
+        "output": "24"
+    },
+    {
+        "input": "15 # 8",
+        "output": "24"
+    },
+    {
+        "input": "17 # 6",
+        "output": "24"
+    },
+    {
+        "input": "19 # 4",
+        "output": "24"
+    },
+    {
+        "input": "21 # 2",
+        "output": "24"
+    },
+    {
+        "input": "5 # 19",
+        "output": "25"
+    },
+    {
+        "input": "7 # 17",
+        "output": "25"
+    },
+    {
+        "input": "9 # 15",
+        "output": "25"
+    },
+    {
+        "input": "12 # 12",
+        "output": "25"
+    },
+    {
+        "input": "14 # 10",
+        "output": "25"
+    },
+    {
+        "input": "15 # 9",
+        "output": "25"
+    },
+    {
+        "input": "17 # 7",
+        "output": "25"
+    },
+    {
+        "input": "18 # 6",
+        "output": "25"
+    },
+    {
+        "input": "20 # 4",
+        "output": "25"
+    },
+    {
+        "input": "21 # 3",
+        "output": "25"
+    },
+    {
+        "input": "22 # 2",
+        "output": "25"
+    },
+    {
+        "input": "0 # 25",
+        "output": "26"
+    },
+    {
+        "input": "2 # 23",
+        "output": "26"
+    },
+    {
+        "input": "4 # 21",
+        "output": "26"
+    },
+    {
+        "input": "5 # 20",
+        "output": "26"
+    },
+    {
+        "input": "6 # 19",
+        "output": "26"
+    },
+    {
+        "input": "7 # 18",
+        "output": "26"
+    },
+    {
+        "input": "10 # 15",
+        "output": "26"
+    },
+    {
+        "input": "13 # 12",
+        "output": "26"
+    },
+    {
+        "input": "14 # 11",
+        "output": "26"
+    },
+    {
+        "input": "15 # 10",
+        "output": "26"
+    },
+    {
+        "input": "16 # 9",
+        "output": "26"
+    },
+    {
+        "input": "18 # 7",
+        "output": "26"
+    },
+    {
+        "input": "22 # 3",
+        "output": "26"
+    },
+    {
+        "input": "0 # 26",
+        "output": "27"
+    },
+    {
+        "input": "1 # 25",
+        "output": "27"
+    },
+    {
+        "input": "2 # 24",
+        "output": "27"
+    },
+    {
+        "input": "3 # 23",
+        "output": "27"
+    },
+    {
+        "input": "4 # 22",
+        "output": "27"
+    },
+    {
+        "input": "5 # 21",
+        "output": "27"
+    },
+    {
+        "input": "6 # 20",
+        "output": "27"
+    },
+    {
+        "input": "8 # 18",
+        "output": "27"
+    },
+    {
+        "input": "9 # 17",
+        "output": "27"
+    },
+    {
+        "input": "10 # 16",
+        "output": "27"
+    },
+    {
+        "input": "11 # 15",
+        "output": "27"
+    },
+    {
+        "input": "12 # 14",
+        "output": "27"
+    },
+    {
+        "input": "13 # 13",
+        "output": "27"
+    },
+    {
+        "input": "14 # 12",
+        "output": "27"
+    },
+    {
+        "input": "15 # 11",
+        "output": "27"
+    },
+    {
+        "input": "17 # 9",
+        "output": "27"
+    },
+    {
+        "input": "18 # 8",
+        "output": "27"
+    },
+    {
+        "input": "19 # 7",
+        "output": "27"
+    },
+    {
+        "input": "22 # 4",
+        "output": "27"
+    },
+    {
+        "input": "24 # 2",
+        "output": "27"
+    },
+    {
+        "input": "0 # 27",
+        "output": "28"
+    },
+    {
+        "input": "13 # 14",
+        "output": "28"
+    },
+    {
+        "input": "14 # 13",
+        "output": "28"
+    },
+    {
+        "input": "16 # 11",
+        "output": "28"
+    },
+    {
+        "input": "17 # 10",
+        "output": "28"
+    },
+    {
+        "input": "18 # 9",
+        "output": "28"
+    },
+    {
+        "input": "21 # 6",
+        "output": "28"
+    },
+    {
+        "input": "22 # 5",
+        "output": "28"
+    },
+    {
+        "input": "23 # 4",
+        "output": "28"
+    },
+    {
+        "input": "26 # 1",
+        "output": "28"
+    },
+    {
+        "input": "2 # 26",
+        "output": "29"
+    },
+    {
+        "input": "5 # 23",
+        "output": "29"
+    },
+    {
+        "input": "6 # 22",
+        "output": "29"
+    },
+    {
+        "input": "8 # 20",
+        "output": "29"
+    },
+    {
+        "input": "9 # 19",
+        "output": "29"
+    },
+    {
+        "input": "11 # 17",
+        "output": "29"
+    },
+    {
+        "input": "12 # 16",
+        "output": "29"
+    },
+    {
+        "input": "13 # 15",
+        "output": "29"
+    },
+    {
+        "input": "17 # 11",
+        "output": "29"
+    },
+    {
+        "input": "18 # 10",
+        "output": "29"
+    },
+    {
+        "input": "19 # 9",
+        "output": "29"
+    },
+    {
+        "input": "22 # 6",
+        "output": "29"
+    },
+    {
+        "input": "23 # 5",
+        "output": "29"
+    },
+    {
+        "input": "24 # 4",
+        "output": "29"
+    },
+    {
+        "input": "26 # 2",
+        "output": "29"
+    },
+    {
+        "input": "0 # 29",
+        "output": "30"
+    },
+    {
+        "input": "2 # 27",
+        "output": "30"
+    },
+    {
+        "input": "3 # 26",
+        "output": "30"
+    },
+    {
+        "input": "4 # 25",
+        "output": "30"
+    },
+    {
+        "input": "5 # 24",
+        "output": "30"
+    },
+    {
+        "input": "8 # 21",
+        "output": "30"
+    },
+    {
+        "input": "9 # 20",
+        "output": "30"
+    },
+    {
+        "input": "12 # 17",
+        "output": "30"
+    },
+    {
+        "input": "13 # 16",
+        "output": "30"
+    },
+    {
+        "input": "14 # 15",
+        "output": "30"
+    },
+    {
+        "input": "17 # 12",
+        "output": "30"
+    },
+    {
+        "input": "19 # 10",
+        "output": "30"
+    },
+    {
+        "input": "21 # 8",
+        "output": "30"
+    },
+    {
+        "input": "23 # 6",
+        "output": "30"
+    },
+    {
+        "input": "26 # 3",
+        "output": "30"
+    },
+    {
+        "input": "28 # 1",
+        "output": "30"
+    },
+    {
+        "input": "1 # 29",
+        "output": "31"
+    },
+    {
+        "input": "6 # 24",
+        "output": "31"
+    },
+    {
+        "input": "8 # 22",
+        "output": "31"
+    },
+    {
+        "input": "12 # 18",
+        "output": "31"
+    },
+    {
+        "input": "13 # 17",
+        "output": "31"
+    },
+    {
+        "input": "14 # 16",
+        "output": "31"
+    },
+    {
+        "input": "16 # 14",
+        "output": "31"
+    },
+    {
+        "input": "17 # 13",
+        "output": "31"
+    },
+    {
+        "input": "21 # 9",
+        "output": "31"
+    },
+    {
+        "input": "23 # 7",
+        "output": "31"
+    },
+    {
+        "input": "24 # 6",
+        "output": "31"
+    },
+    {
+        "input": "25 # 5",
+        "output": "31"
+    },
+    {
+        "input": "26 # 4",
+        "output": "31"
+    },
+    {
+        "input": "0 # 31",
+        "output": "32"
+    },
+    {
+        "input": "1 # 30",
+        "output": "32"
+    },
+    {
+        "input": "2 # 29",
+        "output": "32"
+    },
+    {
+        "input": "6 # 25",
+        "output": "32"
+    },
+    {
+        "input": "7 # 24",
+        "output": "32"
+    },
+    {
+        "input": "8 # 23",
+        "output": "32"
+    },
+    {
+        "input": "11 # 20",
+        "output": "32"
+    },
+    {
+        "input": "12 # 19",
+        "output": "32"
+    },
+    {
+        "input": "13 # 18",
+        "output": "32"
+    },
+    {
+        "input": "14 # 17",
+        "output": "32"
+    },
+    {
+        "input": "17 # 14",
+        "output": "32"
+    },
+    {
+        "input": "19 # 12",
+        "output": "32"
+    },
+    {
+        "input": "20 # 11",
+        "output": "32"
+    },
+    {
+        "input": "21 # 10",
+        "output": "32"
+    },
+    {
+        "input": "23 # 8",
+        "output": "32"
+    },
+    {
+        "input": "26 # 5",
+        "output": "32"
+    },
+    {
+        "input": "27 # 4",
+        "output": "32"
+    },
+    {
+        "input": "28 # 3",
+        "output": "32"
+    },
+    {
+        "input": "29 # 2",
+        "output": "32"
+    },
+    {
+        "input": "30 # 1",
+        "output": "32"
+    },
+    {
+        "input": "0 # 32",
+        "output": "33"
+    },
+    {
+        "input": "1 # 31",
+        "output": "33"
+    },
+    {
+        "input": "3 # 29",
+        "output": "33"
+    },
+    {
+        "input": "4 # 28",
+        "output": "33"
+    },
+    {
+        "input": "5 # 27",
+        "output": "33"
+    },
+    {
+        "input": "8 # 24",
+        "output": "33"
+    },
+    {
+        "input": "13 # 19",
+        "output": "33"
+    },
+    {
+        "input": "15 # 17",
+        "output": "33"
+    },
+    {
+        "input": "17 # 15",
+        "output": "33"
+    },
+    {
+        "input": "21 # 11",
+        "output": "33"
+    },
+    {
+        "input": "22 # 10",
+        "output": "33"
+    },
+    {
+        "input": "23 # 9",
+        "output": "33"
+    },
+    {
+        "input": "24 # 8",
+        "output": "33"
+    },
+    {
+        "input": "27 # 5",
+        "output": "33"
+    },
+    {
+        "input": "29 # 3",
+        "output": "33"
+    },
+    {
+        "input": "30 # 2",
+        "output": "33"
+    },
+    {
+        "input": "0 # 33",
+        "output": "34"
+    },
+    {
+        "input": "2 # 31",
+        "output": "34"
+    },
+    {
+        "input": "4 # 29",
+        "output": "34"
+    },
+    {
+        "input": "8 # 25",
+        "output": "34"
+    },
+    {
+        "input": "12 # 21",
+        "output": "34"
+    },
+    {
+        "input": "21 # 12",
+        "output": "34"
+    },
+    {
+        "input": "26 # 7",
+        "output": "34"
+    },
+    {
+        "input": "29 # 4",
+        "output": "34"
+    },
+    {
+        "input": "30 # 3",
+        "output": "34"
+    },
+    {
+        "input": "31 # 2",
+        "output": "34"
+    },
+    {
+        "input": "32 # 1",
+        "output": "34"
+    },
+    {
+        "input": "0 # 34",
+        "output": "35"
+    },
+    {
+        "input": "1 # 33",
+        "output": "35"
+    },
+    {
+        "input": "2 # 32",
+        "output": "35"
+    },
+    {
+        "input": "4 # 30",
+        "output": "35"
+    },
+    {
+        "input": "5 # 29",
+        "output": "35"
+    },
+    {
+        "input": "6 # 28",
+        "output": "35"
+    },
+    {
+        "input": "7 # 27",
+        "output": "35"
+    },
+    {
+        "input": "8 # 26",
+        "output": "35"
+    },
+    {
+        "input": "9 # 25",
+        "output": "35"
+    },
+    {
+        "input": "12 # 22",
+        "output": "35"
+    },
+    {
+        "input": "17 # 17",
+        "output": "35"
+    },
+    {
+        "input": "21 # 13",
+        "output": "35"
+    },
+    {
+        "input": "24 # 10",
+        "output": "35"
+    },
+    {
+        "input": "25 # 9",
+        "output": "35"
+    },
+    {
+        "input": "26 # 8",
+        "output": "35"
+    },
+    {
+        "input": "28 # 6",
+        "output": "35"
+    },
+    {
+        "input": "33 # 1",
+        "output": "35"
+    },
+    {
+        "input": "0 # 35",
+        "output": "36"
+    },
+    {
+        "input": "1 # 34",
+        "output": "36"
+    },
+    {
+        "input": "4 # 31",
+        "output": "36"
+    },
+    {
+        "input": "6 # 29",
+        "output": "36"
+    },
+    {
+        "input": "10 # 25",
+        "output": "36"
+    },
+    {
+        "input": "11 # 24",
+        "output": "36"
+    },
+    {
+        "input": "13 # 22",
+        "output": "36"
+    },
+    {
+        "input": "15 # 20",
+        "output": "36"
+    },
+    {
+        "input": "17 # 18",
+        "output": "36"
+    },
+    {
+        "input": "18 # 17",
+        "output": "36"
+    },
+    {
+        "input": "20 # 15",
+        "output": "36"
+    },
+    {
+        "input": "21 # 14",
+        "output": "36"
+    },
+    {
+        "input": "23 # 12",
+        "output": "36"
+    },
+    {
+        "input": "24 # 11",
+        "output": "36"
+    },
+    {
+        "input": "26 # 9",
+        "output": "36"
+    },
+    {
+        "input": "27 # 8",
+        "output": "36"
+    },
+    {
+        "input": "30 # 5",
+        "output": "36"
+    },
+    {
+        "input": "31 # 4",
+        "output": "36"
+    },
+    {
+        "input": "33 # 2",
+        "output": "36"
+    },
+    {
+        "input": "34 # 1",
+        "output": "36"
+    },
+    {
+        "input": "0 # 36",
+        "output": "37"
+    },
+    {
+        "input": "3 # 33",
+        "output": "37"
+    },
+    {
+        "input": "5 # 31",
+        "output": "37"
+    },
+    {
+        "input": "9 # 27",
+        "output": "37"
+    },
+    {
+        "input": "10 # 26",
+        "output": "37"
+    },
+    {
+        "input": "12 # 24",
+        "output": "37"
+    },
+    {
+        "input": "13 # 23",
+        "output": "37"
+    },
+    {
+        "input": "15 # 21",
+        "output": "37"
+    },
+    {
+        "input": "16 # 20",
+        "output": "37"
+    },
+    {
+        "input": "17 # 19",
+        "output": "37"
+    },
+    {
+        "input": "19 # 17",
+        "output": "37"
+    },
+    {
+        "input": "25 # 11",
+        "output": "37"
+    },
+    {
+        "input": "28 # 8",
+        "output": "37"
+    },
+    {
+        "input": "30 # 6",
+        "output": "37"
+    },
+    {
+        "input": "33 # 3",
+        "output": "37"
+    },
+    {
+        "input": "34 # 2",
+        "output": "37"
+    },
+    {
+        "input": "35 # 1",
+        "output": "37"
+    },
+    {
+        "input": "0 # 37",
+        "output": "38"
+    },
+    {
+        "input": "2 # 35",
+        "output": "38"
+    },
+    {
+        "input": "9 # 28",
+        "output": "38"
+    },
+    {
+        "input": "13 # 24",
+        "output": "38"
+    },
+    {
+        "input": "20 # 17",
+        "output": "38"
+    },
+    {
+        "input": "23 # 14",
+        "output": "38"
+    },
+    {
+        "input": "24 # 13",
+        "output": "38"
+    },
+    {
+        "input": "26 # 11",
+        "output": "38"
+    },
+    {
+        "input": "28 # 9",
+        "output": "38"
+    },
+    {
+        "input": "29 # 8",
+        "output": "38"
+    },
+    {
+        "input": "31 # 6",
+        "output": "38"
+    },
+    {
+        "input": "36 # 1",
+        "output": "38"
+    },
+    {
+        "input": "0 # 38",
+        "output": "39"
+    },
+    {
+        "input": "2 # 36",
+        "output": "39"
+    },
+    {
+        "input": "3 # 35",
+        "output": "39"
+    },
+    {
+        "input": "5 # 33",
+        "output": "39"
+    },
+    {
+        "input": "7 # 31",
+        "output": "39"
+    },
+    {
+        "input": "8 # 30",
+        "output": "39"
+    },
+    {
+        "input": "9 # 29",
+        "output": "39"
+    },
+    {
+        "input": "12 # 26",
+        "output": "39"
+    },
+    {
+        "input": "16 # 22",
+        "output": "39"
+    },
+    {
+        "input": "19 # 19",
+        "output": "39"
+    },
+    {
+        "input": "20 # 18",
+        "output": "39"
+    },
+    {
+        "input": "21 # 17",
+        "output": "39"
+    },
+    {
+        "input": "22 # 16",
+        "output": "39"
+    },
+    {
+        "input": "23 # 15",
+        "output": "39"
+    },
+    {
+        "input": "25 # 13",
+        "output": "39"
+    },
+    {
+        "input": "27 # 11",
+        "output": "39"
+    },
+    {
+        "input": "28 # 10",
+        "output": "39"
+    },
+    {
+        "input": "31 # 7",
+        "output": "39"
+    },
+    {
+        "input": "33 # 5",
+        "output": "39"
+    },
+    {
+        "input": "35 # 3",
+        "output": "39"
+    },
+    {
+        "input": "36 # 2",
+        "output": "39"
+    },
+    {
+        "input": "2 # 37",
+        "output": "40"
+    },
+    {
+        "input": "5 # 34",
+        "output": "40"
+    },
+    {
+        "input": "6 # 33",
+        "output": "40"
+    },
+    {
+        "input": "7 # 32",
+        "output": "40"
+    },
+    {
+        "input": "8 # 31",
+        "output": "40"
+    },
+    {
+        "input": "14 # 25",
+        "output": "40"
+    },
+    {
+        "input": "15 # 24",
+        "output": "40"
+    },
+    {
+        "input": "17 # 22",
+        "output": "40"
+    },
+    {
+        "input": "18 # 21",
+        "output": "40"
+    },
+    {
+        "input": "19 # 20",
+        "output": "40"
+    },
+    {
+        "input": "20 # 19",
+        "output": "40"
+    },
+    {
+        "input": "21 # 18",
+        "output": "40"
+    },
+    {
+        "input": "22 # 17",
+        "output": "40"
+    },
+    {
+        "input": "23 # 16",
+        "output": "40"
+    },
+    {
+        "input": "24 # 15",
+        "output": "40"
+    },
+    {
+        "input": "28 # 11",
+        "output": "40"
+    },
+    {
+        "input": "29 # 10",
+        "output": "40"
+    },
+    {
+        "input": "31 # 8",
+        "output": "40"
+    },
+    {
+        "input": "36 # 3",
+        "output": "40"
+    },
+    {
+        "input": "38 # 1",
+        "output": "40"
+    },
+    {
+        "input": "0 # 40",
+        "output": "41"
+    },
+    {
+        "input": "1 # 39",
+        "output": "41"
+    },
+    {
+        "input": "7 # 33",
+        "output": "41"
+    },
+    {
+        "input": "9 # 31",
+        "output": "41"
+    },
+    {
+        "input": "15 # 25",
+        "output": "41"
+    },
+    {
+        "input": "16 # 24",
+        "output": "41"
+    },
+    {
+        "input": "22 # 18",
+        "output": "41"
+    },
+    {
+        "input": "26 # 14",
+        "output": "41"
+    },
+    {
+        "input": "27 # 13",
+        "output": "41"
+    },
+    {
+        "input": "31 # 9",
+        "output": "41"
+    },
+    {
+        "input": "33 # 7",
+        "output": "41"
+    },
+    {
+        "input": "39 # 1",
+        "output": "41"
+    },
+    {
+        "input": "0 # 41",
+        "output": "42"
+    },
+    {
+        "input": "1 # 40",
+        "output": "42"
+    },
+    {
+        "input": "2 # 39",
+        "output": "42"
+    },
+    {
+        "input": "3 # 38",
+        "output": "42"
+    },
+    {
+        "input": "6 # 35",
+        "output": "42"
+    },
+    {
+        "input": "8 # 33",
+        "output": "42"
+    },
+    {
+        "input": "9 # 32",
+        "output": "42"
+    },
+    {
+        "input": "11 # 30",
+        "output": "42"
+    },
+    {
+        "input": "14 # 27",
+        "output": "42"
+    },
+    {
+        "input": "15 # 26",
+        "output": "42"
+    },
+    {
+        "input": "16 # 25",
+        "output": "42"
+    },
+    {
+        "input": "17 # 24",
+        "output": "42"
+    },
+    {
+        "input": "20 # 21",
+        "output": "42"
+    },
+    {
+        "input": "26 # 15",
+        "output": "42"
+    },
+    {
+        "input": "27 # 14",
+        "output": "42"
+    },
+    {
+        "input": "30 # 11",
+        "output": "42"
+    },
+    {
+        "input": "32 # 9",
+        "output": "42"
+    },
+    {
+        "input": "33 # 8",
+        "output": "42"
+    },
+    {
+        "input": "34 # 7",
+        "output": "42"
+    },
+    {
+        "input": "40 # 1",
+        "output": "42"
+    },
+    {
+        "input": "1 # 41",
+        "output": "43"
+    },
+    {
+        "input": "2 # 40",
+        "output": "43"
+    },
+    {
+        "input": "3 # 39",
+        "output": "43"
+    },
+    {
+        "input": "6 # 36",
+        "output": "43"
+    },
+    {
+        "input": "8 # 34",
+        "output": "43"
+    },
+    {
+        "input": "11 # 31",
+        "output": "43"
+    },
+    {
+        "input": "15 # 27",
+        "output": "43"
+    },
+    {
+        "input": "16 # 26",
+        "output": "43"
+    },
+    {
+        "input": "17 # 25",
+        "output": "43"
+    },
+    {
+        "input": "21 # 21",
+        "output": "43"
+    },
+    {
+        "input": "22 # 20",
+        "output": "43"
+    },
+    {
+        "input": "23 # 19",
+        "output": "43"
+    },
+    {
+        "input": "27 # 15",
+        "output": "43"
+    },
+    {
+        "input": "30 # 12",
+        "output": "43"
+    },
+    {
+        "input": "36 # 6",
+        "output": "43"
+    },
+    {
+        "input": "37 # 5",
+        "output": "43"
+    },
+    {
+        "input": "38 # 4",
+        "output": "43"
+    },
+    {
+        "input": "40 # 2",
+        "output": "43"
+    },
+    {
+        "input": "1 # 42",
+        "output": "44"
+    },
+    {
+        "input": "3 # 40",
+        "output": "44"
+    },
+    {
+        "input": "6 # 37",
+        "output": "44"
+    },
+    {
+        "input": "9 # 34",
+        "output": "44"
+    },
+    {
+        "input": "11 # 32",
+        "output": "44"
+    },
+    {
+        "input": "12 # 31",
+        "output": "44"
+    },
+    {
+        "input": "13 # 30",
+        "output": "44"
+    },
+    {
+        "input": "14 # 29",
+        "output": "44"
+    },
+    {
+        "input": "15 # 28",
+        "output": "44"
+    },
+    {
+        "input": "16 # 27",
+        "output": "44"
+    },
+    {
+        "input": "17 # 26",
+        "output": "44"
+    },
+    {
+        "input": "19 # 24",
+        "output": "44"
+    },
+    {
+        "input": "21 # 22",
+        "output": "44"
+    },
+    {
+        "input": "22 # 21",
+        "output": "44"
+    },
+    {
+        "input": "23 # 20",
+        "output": "44"
+    },
+    {
+        "input": "30 # 13",
+        "output": "44"
+    },
+    {
+        "input": "31 # 12",
+        "output": "44"
+    },
+    {
+        "input": "32 # 11",
+        "output": "44"
+    },
+    {
+        "input": "33 # 10",
+        "output": "44"
+    },
+    {
+        "input": "34 # 9",
+        "output": "44"
+    },
+    {
+        "input": "35 # 8",
+        "output": "44"
+    },
+    {
+        "input": "38 # 5",
+        "output": "44"
+    },
+    {
+        "input": "39 # 4",
+        "output": "44"
+    },
+    {
+        "input": "40 # 3",
+        "output": "44"
+    },
+    {
+        "input": "41 # 2",
+        "output": "44"
+    },
+    {
+        "input": "42 # 1",
+        "output": "44"
+    },
+    {
+        "input": "1 # 43",
+        "output": "45"
+    },
+    {
+        "input": "2 # 42",
+        "output": "45"
+    },
+    {
+        "input": "4 # 40",
+        "output": "45"
+    },
+    {
+        "input": "5 # 39",
+        "output": "45"
+    },
+    {
+        "input": "6 # 38",
+        "output": "45"
+    },
+    {
+        "input": "12 # 32",
+        "output": "45"
+    },
+    {
+        "input": "13 # 31",
+        "output": "45"
+    },
+    {
+        "input": "14 # 30",
+        "output": "45"
+    },
+    {
+        "input": "16 # 28",
+        "output": "45"
+    },
+    {
+        "input": "19 # 25",
+        "output": "45"
+    },
+    {
+        "input": "20 # 24",
+        "output": "45"
+    },
+    {
+        "input": "23 # 21",
+        "output": "45"
+    },
+    {
+        "input": "24 # 20",
+        "output": "45"
+    },
+    {
+        "input": "27 # 17",
+        "output": "45"
+    },
+    {
+        "input": "29 # 15",
+        "output": "45"
+    },
+    {
+        "input": "30 # 14",
+        "output": "45"
+    },
+    {
+        "input": "34 # 10",
+        "output": "45"
+    },
+    {
+        "input": "35 # 9",
+        "output": "45"
+    },
+    {
+        "input": "36 # 8",
+        "output": "45"
+    },
+    {
+        "input": "37 # 7",
+        "output": "45"
+    },
+    {
+        "input": "38 # 6",
+        "output": "45"
+    },
+    {
+        "input": "41 # 3",
+        "output": "45"
+    },
+    {
+        "input": "43 # 1",
+        "output": "45"
+    },
+    {
+        "input": "2 # 43",
+        "output": "46"
+    },
+    {
+        "input": "4 # 41",
+        "output": "46"
+    },
+    {
+        "input": "5 # 40",
+        "output": "46"
+    },
+    {
+        "input": "7 # 38",
+        "output": "46"
+    },
+    {
+        "input": "13 # 32",
+        "output": "46"
+    },
+    {
+        "input": "15 # 30",
+        "output": "46"
+    },
+    {
+        "input": "18 # 27",
+        "output": "46"
+    },
+    {
+        "input": "20 # 25",
+        "output": "46"
+    },
+    {
+        "input": "22 # 23",
+        "output": "46"
+    },
+    {
+        "input": "28 # 17",
+        "output": "46"
+    },
+    {
+        "input": "29 # 16",
+        "output": "46"
+    },
+    {
+        "input": "30 # 15",
+        "output": "46"
+    },
+    {
+        "input": "31 # 14",
+        "output": "46"
+    },
+    {
+        "input": "32 # 13",
+        "output": "46"
+    },
+    {
+        "input": "33 # 12",
+        "output": "46"
+    },
+    {
+        "input": "35 # 10",
+        "output": "46"
+    },
+    {
+        "input": "36 # 9",
+        "output": "46"
+    },
+    {
+        "input": "37 # 8",
+        "output": "46"
+    },
+    {
+        "input": "39 # 6",
+        "output": "46"
+    },
+    {
+        "input": "41 # 4",
+        "output": "46"
+    },
+    {
+        "input": "42 # 3",
+        "output": "46"
+    },
+    {
+        "input": "44 # 1",
+        "output": "46"
+    },
+    {
+        "input": "0 # 46",
+        "output": "47"
+    },
+    {
+        "input": "4 # 42",
+        "output": "47"
+    },
+    {
+        "input": "5 # 41",
+        "output": "47"
+    },
+    {
+        "input": "6 # 40",
+        "output": "47"
+    },
+    {
+        "input": "8 # 38",
+        "output": "47"
+    },
+    {
+        "input": "9 # 37",
+        "output": "47"
+    },
+    {
+        "input": "10 # 36",
+        "output": "47"
+    },
+    {
+        "input": "11 # 35",
+        "output": "47"
+    },
+    {
+        "input": "12 # 34",
+        "output": "47"
+    },
+    {
+        "input": "13 # 33",
+        "output": "47"
+    },
+    {
+        "input": "14 # 32",
+        "output": "47"
+    },
+    {
+        "input": "16 # 30",
+        "output": "47"
+    },
+    {
+        "input": "19 # 27",
+        "output": "47"
+    },
+    {
+        "input": "22 # 24",
+        "output": "47"
+    },
+    {
+        "input": "25 # 21",
+        "output": "47"
+    },
+    {
+        "input": "29 # 17",
+        "output": "47"
+    },
+    {
+        "input": "32 # 14",
+        "output": "47"
+    },
+    {
+        "input": "35 # 11",
+        "output": "47"
+    },
+    {
+        "input": "38 # 8",
+        "output": "47"
+    },
+    {
+        "input": "39 # 7",
+        "output": "47"
+    },
+    {
+        "input": "41 # 5",
+        "output": "47"
+    },
+    {
+        "input": "45 # 1",
+        "output": "47"
+    },
+    {
+        "input": "1 # 46",
+        "output": "48"
+    },
+    {
+        "input": "3 # 44",
+        "output": "48"
+    },
+    {
+        "input": "9 # 38",
+        "output": "48"
+    },
+    {
+        "input": "11 # 36",
+        "output": "48"
+    },
+    {
+        "input": "13 # 34",
+        "output": "48"
+    },
+    {
+        "input": "19 # 28",
+        "output": "48"
+    },
+    {
+        "input": "20 # 27",
+        "output": "48"
+    },
+    {
+        "input": "22 # 25",
+        "output": "48"
+    },
+    {
+        "input": "24 # 23",
+        "output": "48"
+    },
+    {
+        "input": "26 # 21",
+        "output": "48"
+    },
+    {
+        "input": "28 # 19",
+        "output": "48"
+    },
+    {
+        "input": "31 # 16",
+        "output": "48"
+    },
+    {
+        "input": "32 # 15",
+        "output": "48"
+    },
+    {
+        "input": "35 # 12",
+        "output": "48"
+    },
+    {
+        "input": "41 # 6",
+        "output": "48"
+    },
+    {
+        "input": "43 # 4",
+        "output": "48"
+    },
+    {
+        "input": "44 # 3",
+        "output": "48"
+    },
+    {
+        "input": "0 # 48",
+        "output": "49"
+    },
+    {
+        "input": "1 # 47",
+        "output": "49"
+    },
+    {
+        "input": "3 # 45",
+        "output": "49"
+    },
+    {
+        "input": "4 # 44",
+        "output": "49"
+    },
+    {
+        "input": "6 # 42",
+        "output": "49"
+    },
+    {
+        "input": "12 # 36",
+        "output": "49"
+    },
+    {
+        "input": "14 # 34",
+        "output": "49"
+    },
+    {
+        "input": "15 # 33",
+        "output": "49"
+    },
+    {
+        "input": "17 # 31",
+        "output": "49"
+    },
+    {
+        "input": "18 # 30",
+        "output": "49"
+    },
+    {
+        "input": "20 # 28",
+        "output": "49"
+    },
+    {
+        "input": "21 # 27",
+        "output": "49"
+    },
+    {
+        "input": "22 # 26",
+        "output": "49"
+    },
+    {
+        "input": "23 # 25",
+        "output": "49"
+    },
+    {
+        "input": "24 # 24",
+        "output": "49"
+    },
+    {
+        "input": "25 # 23",
+        "output": "49"
+    },
+    {
+        "input": "28 # 20",
+        "output": "49"
+    },
+    {
+        "input": "30 # 18",
+        "output": "49"
+    },
+    {
+        "input": "31 # 17",
+        "output": "49"
+    },
+    {
+        "input": "32 # 16",
+        "output": "49"
+    },
+    {
+        "input": "43 # 5",
+        "output": "49"
+    },
+    {
+        "input": "45 # 3",
+        "output": "49"
+    },
+    {
+        "input": "46 # 2",
+        "output": "49"
+    },
+    {
+        "input": "1 # 48",
+        "output": "50"
+    },
+    {
+        "input": "2 # 47",
+        "output": "50"
+    },
+    {
+        "input": "3 # 46",
+        "output": "50"
+    },
+    {
+        "input": "5 # 44",
+        "output": "50"
+    },
+    {
+        "input": "6 # 43",
+        "output": "50"
+    },
+    {
+        "input": "8 # 41",
+        "output": "50"
+    },
+    {
+        "input": "10 # 39",
+        "output": "50"
+    },
+    {
+        "input": "13 # 36",
+        "output": "50"
+    },
+    {
+        "input": "14 # 35",
+        "output": "50"
+    },
+    {
+        "input": "16 # 33",
+        "output": "50"
+    },
+    {
+        "input": "17 # 32",
+        "output": "50"
+    },
+    {
+        "input": "19 # 30",
+        "output": "50"
+    },
+    {
+        "input": "21 # 28",
+        "output": "50"
+    },
+    {
+        "input": "23 # 26",
+        "output": "50"
+    },
+    {
+        "input": "24 # 25",
+        "output": "50"
+    },
+    {
+        "input": "26 # 23",
+        "output": "50"
+    },
+    {
+        "input": "27 # 22",
+        "output": "50"
+    },
+    {
+        "input": "28 # 21",
+        "output": "50"
+    },
+    {
+        "input": "29 # 20",
+        "output": "50"
+    },
+    {
+        "input": "30 # 19",
+        "output": "50"
+    },
+    {
+        "input": "31 # 18",
+        "output": "50"
+    },
+    {
+        "input": "33 # 16",
+        "output": "50"
+    },
+    {
+        "input": "36 # 13",
+        "output": "50"
+    },
+    {
+        "input": "38 # 11",
+        "output": "50"
+    },
+    {
+        "input": "39 # 10",
+        "output": "50"
+    },
+    {
+        "input": "45 # 4",
+        "output": "50"
+    },
+    {
+        "input": "46 # 3",
+        "output": "50"
+    },
+    {
+        "input": "0 # 50",
+        "output": "51"
+    },
+    {
+        "input": "4 # 46",
+        "output": "51"
+    },
+    {
+        "input": "6 # 44",
+        "output": "51"
+    },
+    {
+        "input": "7 # 43",
+        "output": "51"
+    },
+    {
+        "input": "9 # 41",
+        "output": "51"
+    },
+    {
+        "input": "13 # 37",
+        "output": "51"
+    },
+    {
+        "input": "15 # 35",
+        "output": "51"
+    },
+    {
+        "input": "16 # 34",
+        "output": "51"
+    },
+    {
+        "input": "18 # 32",
+        "output": "51"
+    },
+    {
+        "input": "20 # 30",
+        "output": "51"
+    },
+    {
+        "input": "22 # 28",
+        "output": "51"
+    },
+    {
+        "input": "26 # 24",
+        "output": "51"
+    },
+    {
+        "input": "27 # 23",
+        "output": "51"
+    },
+    {
+        "input": "30 # 20",
+        "output": "51"
+    },
+    {
+        "input": "31 # 19",
+        "output": "51"
+    },
+    {
+        "input": "33 # 17",
+        "output": "51"
+    },
+    {
+        "input": "34 # 16",
+        "output": "51"
+    },
+    {
+        "input": "35 # 15",
+        "output": "51"
+    },
+    {
+        "input": "36 # 14",
+        "output": "51"
+    },
+    {
+        "input": "40 # 10",
+        "output": "51"
+    },
+    {
+        "input": "43 # 7",
+        "output": "51"
+    },
+    {
+        "input": "47 # 3",
+        "output": "51"
+    },
+    {
+        "input": "48 # 2",
+        "output": "51"
+    },
+    {
+        "input": "1 # 50",
+        "output": "52"
+    },
+    {
+        "input": "3 # 48",
+        "output": "52"
+    },
+    {
+        "input": "6 # 45",
+        "output": "52"
+    },
+    {
+        "input": "7 # 44",
+        "output": "52"
+    },
+    {
+        "input": "8 # 43",
+        "output": "52"
+    },
+    {
+        "input": "10 # 41",
+        "output": "52"
+    },
+    {
+        "input": "11 # 40",
+        "output": "52"
+    },
+    {
+        "input": "12 # 39",
+        "output": "52"
+    },
+    {
+        "input": "13 # 38",
+        "output": "52"
+    },
+    {
+        "input": "14 # 37",
+        "output": "52"
+    },
+    {
+        "input": "16 # 35",
+        "output": "52"
+    },
+    {
+        "input": "17 # 34",
+        "output": "52"
+    },
+    {
+        "input": "18 # 33",
+        "output": "52"
+    },
+    {
+        "input": "19 # 32",
+        "output": "52"
+    },
+    {
+        "input": "20 # 31",
+        "output": "52"
+    },
+    {
+        "input": "22 # 29",
+        "output": "52"
+    },
+    {
+        "input": "23 # 28",
+        "output": "52"
+    },
+    {
+        "input": "25 # 26",
+        "output": "52"
+    },
+    {
+        "input": "26 # 25",
+        "output": "52"
+    },
+    {
+        "input": "30 # 21",
+        "output": "52"
+    },
+    {
+        "input": "31 # 20",
+        "output": "52"
+    },
+    {
+        "input": "37 # 14",
+        "output": "52"
+    },
+    {
+        "input": "38 # 13",
+        "output": "52"
+    },
+    {
+        "input": "41 # 10",
+        "output": "52"
+    },
+    {
+        "input": "42 # 9",
+        "output": "52"
+    },
+    {
+        "input": "43 # 8",
+        "output": "52"
+    },
+    {
+        "input": "47 # 4",
+        "output": "52"
+    },
+    {
+        "input": "48 # 3",
+        "output": "52"
+    },
+    {
+        "input": "0 # 52",
+        "output": "53"
+    },
+    {
+        "input": "2 # 50",
+        "output": "53"
+    },
+    {
+        "input": "6 # 46",
+        "output": "53"
+    },
+    {
+        "input": "9 # 43",
+        "output": "53"
+    },
+    {
+        "input": "13 # 39",
+        "output": "53"
+    },
+    {
+        "input": "16 # 36",
+        "output": "53"
+    },
+    {
+        "input": "17 # 35",
+        "output": "53"
+    },
+    {
+        "input": "18 # 34",
+        "output": "53"
+    },
+    {
+        "input": "19 # 33",
+        "output": "53"
+    },
+    {
+        "input": "23 # 29",
+        "output": "53"
+    },
+    {
+        "input": "28 # 24",
+        "output": "53"
+    },
+    {
+        "input": "33 # 19",
+        "output": "53"
+    },
+    {
+        "input": "36 # 16",
+        "output": "53"
+    },
+    {
+        "input": "39 # 13",
+        "output": "53"
+    },
+    {
+        "input": "40 # 12",
+        "output": "53"
+    },
+    {
+        "input": "45 # 7",
+        "output": "53"
+    },
+    {
+        "input": "47 # 5",
+        "output": "53"
+    },
+    {
+        "input": "48 # 4",
+        "output": "53"
+    },
+    {
+        "input": "49 # 3",
+        "output": "53"
+    },
+    {
+        "input": "50 # 2",
+        "output": "53"
+    },
+    {
+        "input": "0 # 53",
+        "output": "54"
+    },
+    {
+        "input": "2 # 51",
+        "output": "54"
+    },
+    {
+        "input": "7 # 46",
+        "output": "54"
+    },
+    {
+        "input": "12 # 41",
+        "output": "54"
+    },
+    {
+        "input": "14 # 39",
+        "output": "54"
+    },
+    {
+        "input": "15 # 38",
+        "output": "54"
+    },
+    {
+        "input": "16 # 37",
+        "output": "54"
+    },
+    {
+        "input": "17 # 36",
+        "output": "54"
+    },
+    {
+        "input": "18 # 35",
+        "output": "54"
+    },
+    {
+        "input": "19 # 34",
+        "output": "54"
+    },
+    {
+        "input": "20 # 33",
+        "output": "54"
+    },
+    {
+        "input": "22 # 31",
+        "output": "54"
+    },
+    {
+        "input": "23 # 30",
+        "output": "54"
+    },
+    {
+        "input": "24 # 29",
+        "output": "54"
+    },
+    {
+        "input": "25 # 28",
+        "output": "54"
+    },
+    {
+        "input": "27 # 26",
+        "output": "54"
+    },
+    {
+        "input": "29 # 24",
+        "output": "54"
+    },
+    {
+        "input": "30 # 23",
+        "output": "54"
+    },
+    {
+        "input": "31 # 22",
+        "output": "54"
+    },
+    {
+        "input": "33 # 20",
+        "output": "54"
+    },
+    {
+        "input": "34 # 19",
+        "output": "54"
+    },
+    {
+        "input": "35 # 18",
+        "output": "54"
+    },
+    {
+        "input": "36 # 17",
+        "output": "54"
+    },
+    {
+        "input": "39 # 14",
+        "output": "54"
+    },
+    {
+        "input": "40 # 13",
+        "output": "54"
+    },
+    {
+        "input": "41 # 12",
+        "output": "54"
+    },
+    {
+        "input": "45 # 8",
+        "output": "54"
+    },
+    {
+        "input": "52 # 1",
+        "output": "54"
+    },
+    {
+        "input": "0 # 54",
+        "output": "55"
+    },
+    {
+        "input": "2 # 52",
+        "output": "55"
+    },
+    {
+        "input": "3 # 51",
+        "output": "55"
+    },
+    {
+        "input": "4 # 50",
+        "output": "55"
+    },
+    {
+        "input": "6 # 48",
+        "output": "55"
+    },
+    {
+        "input": "7 # 47",
+        "output": "55"
+    },
+    {
+        "input": "10 # 44",
+        "output": "55"
+    },
+    {
+        "input": "12 # 42",
+        "output": "55"
+    },
+    {
+        "input": "15 # 39",
+        "output": "55"
+    },
+    {
+        "input": "16 # 38",
+        "output": "55"
+    },
+    {
+        "input": "17 # 37",
+        "output": "55"
+    },
+    {
+        "input": "19 # 35",
+        "output": "55"
+    },
+    {
+        "input": "20 # 34",
+        "output": "55"
+    },
+    {
+        "input": "23 # 31",
+        "output": "55"
+    },
+    {
+        "input": "24 # 30",
+        "output": "55"
+    },
+    {
+        "input": "27 # 27",
+        "output": "55"
+    },
+    {
+        "input": "29 # 25",
+        "output": "55"
+    },
+    {
+        "input": "30 # 24",
+        "output": "55"
+    },
+    {
+        "input": "31 # 23",
+        "output": "55"
+    },
+    {
+        "input": "33 # 21",
+        "output": "55"
+    },
+    {
+        "input": "35 # 19",
+        "output": "55"
+    },
+    {
+        "input": "36 # 18",
+        "output": "55"
+    },
+    {
+        "input": "38 # 16",
+        "output": "55"
+    },
+    {
+        "input": "40 # 14",
+        "output": "55"
+    },
+    {
+        "input": "42 # 12",
+        "output": "55"
+    },
+    {
+        "input": "44 # 10",
+        "output": "55"
+    },
+    {
+        "input": "46 # 8",
+        "output": "55"
+    },
+    {
+        "input": "47 # 7",
+        "output": "55"
+    },
+    {
+        "input": "48 # 6",
+        "output": "55"
+    },
+    {
+        "input": "49 # 5",
+        "output": "55"
+    },
+    {
+        "input": "50 # 4",
+        "output": "55"
+    },
+    {
+        "input": "51 # 3",
+        "output": "55"
+    },
+    {
+        "input": "52 # 2",
+        "output": "55"
+    },
+    {
+        "input": "53 # 1",
+        "output": "55"
+    },
+    {
+        "input": "1 # 54",
+        "output": "56"
+    },
+    {
+        "input": "3 # 52",
+        "output": "56"
+    },
+    {
+        "input": "4 # 51",
+        "output": "56"
+    },
+    {
+        "input": "5 # 50",
+        "output": "56"
+    },
+    {
+        "input": "10 # 45",
+        "output": "56"
+    },
+    {
+        "input": "11 # 44",
+        "output": "56"
+    },
+    {
+        "input": "14 # 41",
+        "output": "56"
+    },
+    {
+        "input": "15 # 40",
+        "output": "56"
+    },
+    {
+        "input": "16 # 39",
+        "output": "56"
+    },
+    {
+        "input": "20 # 35",
+        "output": "56"
+    },
+    {
+        "input": "21 # 34",
+        "output": "56"
+    },
+    {
+        "input": "22 # 33",
+        "output": "56"
+    },
+    {
+        "input": "24 # 31",
+        "output": "56"
+    },
+    {
+        "input": "25 # 30",
+        "output": "56"
+    },
+    {
+        "input": "27 # 28",
+        "output": "56"
+    },
+    {
+        "input": "28 # 27",
+        "output": "56"
+    },
+    {
+        "input": "31 # 24",
+        "output": "56"
+    },
+    {
+        "input": "32 # 23",
+        "output": "56"
+    },
+    {
+        "input": "33 # 22",
+        "output": "56"
+    },
+    {
+        "input": "34 # 21",
+        "output": "56"
+    },
+    {
+        "input": "35 # 20",
+        "output": "56"
+    },
+    {
+        "input": "37 # 18",
+        "output": "56"
+    },
+    {
+        "input": "39 # 16",
+        "output": "56"
+    },
+    {
+        "input": "40 # 15",
+        "output": "56"
+    },
+    {
+        "input": "43 # 12",
+        "output": "56"
+    },
+    {
+        "input": "46 # 9",
+        "output": "56"
+    },
+    {
+        "input": "51 # 4",
+        "output": "56"
+    },
+    {
+        "input": "0 # 56",
+        "output": "57"
+    },
+    {
+        "input": "2 # 54",
+        "output": "57"
+    },
+    {
+        "input": "4 # 52",
+        "output": "57"
+    },
+    {
+        "input": "5 # 51",
+        "output": "57"
+    },
+    {
+        "input": "6 # 50",
+        "output": "57"
+    },
+    {
+        "input": "8 # 48",
+        "output": "57"
+    },
+    {
+        "input": "11 # 45",
+        "output": "57"
+    },
+    {
+        "input": "13 # 43",
+        "output": "57"
+    },
+    {
+        "input": "14 # 42",
+        "output": "57"
+    },
+    {
+        "input": "16 # 40",
+        "output": "57"
+    },
+    {
+        "input": "20 # 36",
+        "output": "57"
+    },
+    {
+        "input": "21 # 35",
+        "output": "57"
+    },
+    {
+        "input": "23 # 33",
+        "output": "57"
+    },
+    {
+        "input": "24 # 32",
+        "output": "57"
+    },
+    {
+        "input": "25 # 31",
+        "output": "57"
+    },
+    {
+        "input": "26 # 30",
+        "output": "57"
+    },
+    {
+        "input": "28 # 28",
+        "output": "57"
+    },
+    {
+        "input": "29 # 27",
+        "output": "57"
+    },
+    {
+        "input": "30 # 26",
+        "output": "57"
+    },
+    {
+        "input": "31 # 25",
+        "output": "57"
+    },
+    {
+        "input": "32 # 24",
+        "output": "57"
+    },
+    {
+        "input": "33 # 23",
+        "output": "57"
+    },
+    {
+        "input": "34 # 22",
+        "output": "57"
+    },
+    {
+        "input": "35 # 21",
+        "output": "57"
+    },
+    {
+        "input": "36 # 20",
+        "output": "57"
+    },
+    {
+        "input": "37 # 19",
+        "output": "57"
+    },
+    {
+        "input": "39 # 17",
+        "output": "57"
+    },
+    {
+        "input": "40 # 16",
+        "output": "57"
+    },
+    {
+        "input": "44 # 12",
+        "output": "57"
+    },
+    {
+        "input": "45 # 11",
+        "output": "57"
+    },
+    {
+        "input": "48 # 8",
+        "output": "57"
+    },
+    {
+        "input": "52 # 4",
+        "output": "57"
+    },
+    {
+        "input": "53 # 3",
+        "output": "57"
+    },
+    {
+        "input": "55 # 1",
+        "output": "57"
+    },
+    {
+        "input": "0 # 57",
+        "output": "58"
+    },
+    {
+        "input": "3 # 54",
+        "output": "58"
+    },
+    {
+        "input": "6 # 51",
+        "output": "58"
+    },
+    {
+        "input": "8 # 49",
+        "output": "58"
+    },
+    {
+        "input": "11 # 46",
+        "output": "58"
+    },
+    {
+        "input": "12 # 45",
+        "output": "58"
+    },
+    {
+        "input": "14 # 43",
+        "output": "58"
+    },
+    {
+        "input": "15 # 42",
+        "output": "58"
+    },
+    {
+        "input": "20 # 37",
+        "output": "58"
+    },
+    {
+        "input": "21 # 36",
+        "output": "58"
+    },
+    {
+        "input": "24 # 33",
+        "output": "58"
+    },
+    {
+        "input": "25 # 32",
+        "output": "58"
+    },
+    {
+        "input": "26 # 31",
+        "output": "58"
+    },
+    {
+        "input": "27 # 30",
+        "output": "58"
+    },
+    {
+        "input": "30 # 27",
+        "output": "58"
+    },
+    {
+        "input": "35 # 22",
+        "output": "58"
+    },
+    {
+        "input": "36 # 21",
+        "output": "58"
+    },
+    {
+        "input": "37 # 20",
+        "output": "58"
+    },
+    {
+        "input": "38 # 19",
+        "output": "58"
+    },
+    {
+        "input": "40 # 17",
+        "output": "58"
+    },
+    {
+        "input": "41 # 16",
+        "output": "58"
+    },
+    {
+        "input": "42 # 15",
+        "output": "58"
+    },
+    {
+        "input": "45 # 12",
+        "output": "58"
+    },
+    {
+        "input": "49 # 8",
+        "output": "58"
+    },
+    {
+        "input": "50 # 7",
+        "output": "58"
+    },
+    {
+        "input": "51 # 6",
+        "output": "58"
+    },
+    {
+        "input": "52 # 5",
+        "output": "58"
+    },
+    {
+        "input": "54 # 3",
+        "output": "58"
+    },
+    {
+        "input": "1 # 57",
+        "output": "59"
+    },
+    {
+        "input": "2 # 56",
+        "output": "59"
+    },
+    {
+        "input": "4 # 54",
+        "output": "59"
+    },
+    {
+        "input": "7 # 51",
+        "output": "59"
+    },
+    {
+        "input": "8 # 50",
+        "output": "59"
+    },
+    {
+        "input": "10 # 48",
+        "output": "59"
+    },
+    {
+        "input": "11 # 47",
+        "output": "59"
+    },
+    {
+        "input": "12 # 46",
+        "output": "59"
+    },
+    {
+        "input": "15 # 43",
+        "output": "59"
+    },
+    {
+        "input": "17 # 41",
+        "output": "59"
+    },
+    {
+        "input": "19 # 39",
+        "output": "59"
+    },
+    {
+        "input": "20 # 38",
+        "output": "59"
+    },
+    {
+        "input": "27 # 31",
+        "output": "59"
+    },
+    {
+        "input": "28 # 30",
+        "output": "59"
+    },
+    {
+        "input": "30 # 28",
+        "output": "59"
+    },
+    {
+        "input": "31 # 27",
+        "output": "59"
+    },
+    {
+        "input": "32 # 26",
+        "output": "59"
+    },
+    {
+        "input": "33 # 25",
+        "output": "59"
+    },
+    {
+        "input": "34 # 24",
+        "output": "59"
+    },
+    {
+        "input": "35 # 23",
+        "output": "59"
+    },
+    {
+        "input": "36 # 22",
+        "output": "59"
+    },
+    {
+        "input": "41 # 17",
+        "output": "59"
+    },
+    {
+        "input": "42 # 16",
+        "output": "59"
+    },
+    {
+        "input": "43 # 15",
+        "output": "59"
+    },
+    {
+        "input": "44 # 14",
+        "output": "59"
+    },
+    {
+        "input": "45 # 13",
+        "output": "59"
+    },
+    {
+        "input": "46 # 12",
+        "output": "59"
+    },
+    {
+        "input": "47 # 11",
+        "output": "59"
+    },
+    {
+        "input": "48 # 10",
+        "output": "59"
+    },
+    {
+        "input": "49 # 9",
+        "output": "59"
+    },
+    {
+        "input": "51 # 7",
+        "output": "59"
+    },
+    {
+        "input": "52 # 6",
+        "output": "59"
+    },
+    {
+        "input": "54 # 4",
+        "output": "59"
+    },
+    {
+        "input": "55 # 3",
+        "output": "59"
+    },
+    {
+        "input": "56 # 2",
+        "output": "59"
+    },
+    {
+        "input": "1 # 58",
+        "output": "60"
+    },
+    {
+        "input": "2 # 57",
+        "output": "60"
+    },
+    {
+        "input": "3 # 56",
+        "output": "60"
+    },
+    {
+        "input": "4 # 55",
+        "output": "60"
+    },
+    {
+        "input": "5 # 54",
+        "output": "60"
+    },
+    {
+        "input": "7 # 52",
+        "output": "60"
+    },
+    {
+        "input": "12 # 47",
+        "output": "60"
+    },
+    {
+        "input": "13 # 46",
+        "output": "60"
+    },
+    {
+        "input": "14 # 45",
+        "output": "60"
+    },
+    {
+        "input": "15 # 44",
+        "output": "60"
+    },
+    {
+        "input": "18 # 41",
+        "output": "60"
+    },
+    {
+        "input": "21 # 38",
+        "output": "60"
+    },
+    {
+        "input": "22 # 37",
+        "output": "60"
+    },
+    {
+        "input": "24 # 35",
+        "output": "60"
+    },
+    {
+        "input": "26 # 33",
+        "output": "60"
+    },
+    {
+        "input": "27 # 32",
+        "output": "60"
+    },
+    {
+        "input": "28 # 31",
+        "output": "60"
+    },
+    {
+        "input": "29 # 30",
+        "output": "60"
+    },
+    {
+        "input": "30 # 29",
+        "output": "60"
+    },
+    {
+        "input": "31 # 28",
+        "output": "60"
+    },
+    {
+        "input": "32 # 27",
+        "output": "60"
+    },
+    {
+        "input": "35 # 24",
+        "output": "60"
+    },
+    {
+        "input": "37 # 22",
+        "output": "60"
+    },
+    {
+        "input": "39 # 20",
+        "output": "60"
+    },
+    {
+        "input": "41 # 18",
+        "output": "60"
+    },
+    {
+        "input": "46 # 13",
+        "output": "60"
+    },
+    {
+        "input": "52 # 7",
+        "output": "60"
+    },
+    {
+        "input": "53 # 6",
+        "output": "60"
+    },
+    {
+        "input": "55 # 4",
+        "output": "60"
+    },
+    {
+        "input": "0 # 60",
+        "output": "61"
+    },
+    {
+        "input": "1 # 59",
+        "output": "61"
+    },
+    {
+        "input": "3 # 57",
+        "output": "61"
+    },
+    {
+        "input": "7 # 53",
+        "output": "61"
+    },
+    {
+        "input": "10 # 50",
+        "output": "61"
+    },
+    {
+        "input": "15 # 45",
+        "output": "61"
+    },
+    {
+        "input": "18 # 42",
+        "output": "61"
+    },
+    {
+        "input": "19 # 41",
+        "output": "61"
+    },
+    {
+        "input": "21 # 39",
+        "output": "61"
+    },
+    {
+        "input": "25 # 35",
+        "output": "61"
+    },
+    {
+        "input": "26 # 34",
+        "output": "61"
+    },
+    {
+        "input": "27 # 33",
+        "output": "61"
+    },
+    {
+        "input": "28 # 32",
+        "output": "61"
+    },
+    {
+        "input": "29 # 31",
+        "output": "61"
+    },
+    {
+        "input": "30 # 30",
+        "output": "61"
+    },
+    {
+        "input": "32 # 28",
+        "output": "61"
+    },
+    {
+        "input": "34 # 26",
+        "output": "61"
+    },
+    {
+        "input": "40 # 20",
+        "output": "61"
+    },
+    {
+        "input": "41 # 19",
+        "output": "61"
+    },
+    {
+        "input": "42 # 18",
+        "output": "61"
+    },
+    {
+        "input": "44 # 16",
+        "output": "61"
+    },
+    {
+        "input": "45 # 15",
+        "output": "61"
+    },
+    {
+        "input": "46 # 14",
+        "output": "61"
+    },
+    {
+        "input": "48 # 12",
+        "output": "61"
+    },
+    {
+        "input": "49 # 11",
+        "output": "61"
+    },
+    {
+        "input": "50 # 10",
+        "output": "61"
+    },
+    {
+        "input": "51 # 9",
+        "output": "61"
+    },
+    {
+        "input": "53 # 7",
+        "output": "61"
+    },
+    {
+        "input": "54 # 6",
+        "output": "61"
+    },
+    {
+        "input": "56 # 4",
+        "output": "61"
+    },
+    {
+        "input": "57 # 3",
+        "output": "61"
+    },
+    {
+        "input": "58 # 2",
+        "output": "61"
+    },
+    {
+        "input": "0 # 61",
+        "output": "62"
+    },
+    {
+        "input": "2 # 59",
+        "output": "62"
+    },
+    {
+        "input": "3 # 58",
+        "output": "62"
+    },
+    {
+        "input": "4 # 57",
+        "output": "62"
+    },
+    {
+        "input": "5 # 56",
+        "output": "62"
+    },
+    {
+        "input": "9 # 52",
+        "output": "62"
+    },
+    {
+        "input": "10 # 51",
+        "output": "62"
+    },
+    {
+        "input": "12 # 49",
+        "output": "62"
+    },
+    {
+        "input": "14 # 47",
+        "output": "62"
+    },
+    {
+        "input": "15 # 46",
+        "output": "62"
+    },
+    {
+        "input": "19 # 42",
+        "output": "62"
+    },
+    {
+        "input": "21 # 40",
+        "output": "62"
+    },
+    {
+        "input": "24 # 37",
+        "output": "62"
+    },
+    {
+        "input": "29 # 32",
+        "output": "62"
+    },
+    {
+        "input": "30 # 31",
+        "output": "62"
+    },
+    {
+        "input": "34 # 27",
+        "output": "62"
+    },
+    {
+        "input": "37 # 24",
+        "output": "62"
+    },
+    {
+        "input": "40 # 21",
+        "output": "62"
+    },
+    {
+        "input": "42 # 19",
+        "output": "62"
+    },
+    {
+        "input": "43 # 18",
+        "output": "62"
+    },
+    {
+        "input": "44 # 17",
+        "output": "62"
+    },
+    {
+        "input": "45 # 16",
+        "output": "62"
+    },
+    {
+        "input": "49 # 12",
+        "output": "62"
+    },
+    {
+        "input": "51 # 10",
+        "output": "62"
+    },
+    {
+        "input": "52 # 9",
+        "output": "62"
+    },
+    {
+        "input": "53 # 8",
+        "output": "62"
+    },
+    {
+        "input": "57 # 4",
+        "output": "62"
+    },
+    {
+        "input": "59 # 2",
+        "output": "62"
+    },
+    {
+        "input": "60 # 1",
+        "output": "62"
+    },
+    {
+        "input": "1 # 61",
+        "output": "63"
+    },
+    {
+        "input": "3 # 59",
+        "output": "63"
+    },
+    {
+        "input": "4 # 58",
+        "output": "63"
+    },
+    {
+        "input": "6 # 56",
+        "output": "63"
+    },
+    {
+        "input": "7 # 55",
+        "output": "63"
+    },
+    {
+        "input": "8 # 54",
+        "output": "63"
+    },
+    {
+        "input": "10 # 52",
+        "output": "63"
+    },
+    {
+        "input": "16 # 46",
+        "output": "63"
+    },
+    {
+        "input": "24 # 38",
+        "output": "63"
+    },
+    {
+        "input": "25 # 37",
+        "output": "63"
+    },
+    {
+        "input": "28 # 34",
+        "output": "63"
+    },
+    {
+        "input": "29 # 33",
+        "output": "63"
+    },
+    {
+        "input": "30 # 32",
+        "output": "63"
+    },
+    {
+        "input": "31 # 31",
+        "output": "63"
+    },
+    {
+        "input": "35 # 27",
+        "output": "63"
+    },
+    {
+        "input": "36 # 26",
+        "output": "63"
+    },
+    {
+        "input": "37 # 25",
+        "output": "63"
+    },
+    {
+        "input": "40 # 22",
+        "output": "63"
+    },
+    {
+        "input": "41 # 21",
+        "output": "63"
+    },
+    {
+        "input": "42 # 20",
+        "output": "63"
+    },
+    {
+        "input": "44 # 18",
+        "output": "63"
+    },
+    {
+        "input": "45 # 17",
+        "output": "63"
+    },
+    {
+        "input": "46 # 16",
+        "output": "63"
+    },
+    {
+        "input": "49 # 13",
+        "output": "63"
+    },
+    {
+        "input": "54 # 8",
+        "output": "63"
+    },
+    {
+        "input": "55 # 7",
+        "output": "63"
+    },
+    {
+        "input": "57 # 5",
+        "output": "63"
+    },
+    {
+        "input": "61 # 1",
+        "output": "63"
+    },
+    {
+        "input": "2 # 61",
+        "output": "64"
+    },
+    {
+        "input": "3 # 60",
+        "output": "64"
+    },
+    {
+        "input": "8 # 55",
+        "output": "64"
+    },
+    {
+        "input": "10 # 53",
+        "output": "64"
+    },
+    {
+        "input": "11 # 52",
+        "output": "64"
+    },
+    {
+        "input": "13 # 50",
+        "output": "64"
+    },
+    {
+        "input": "14 # 49",
+        "output": "64"
+    },
+    {
+        "input": "16 # 47",
+        "output": "64"
+    },
+    {
+        "input": "21 # 42",
+        "output": "64"
+    },
+    {
+        "input": "22 # 41",
+        "output": "64"
+    },
+    {
+        "input": "25 # 38",
+        "output": "64"
+    },
+    {
+        "input": "26 # 37",
+        "output": "64"
+    },
+    {
+        "input": "29 # 34",
+        "output": "64"
+    },
+    {
+        "input": "31 # 32",
+        "output": "64"
+    },
+    {
+        "input": "36 # 27",
+        "output": "64"
+    },
+    {
+        "input": "40 # 23",
+        "output": "64"
+    },
+    {
+        "input": "41 # 22",
+        "output": "64"
+    },
+    {
+        "input": "43 # 20",
+        "output": "64"
+    },
+    {
+        "input": "44 # 19",
+        "output": "64"
+    },
+    {
+        "input": "45 # 18",
+        "output": "64"
+    },
+    {
+        "input": "47 # 16",
+        "output": "64"
+    },
+    {
+        "input": "51 # 12",
+        "output": "64"
+    },
+    {
+        "input": "52 # 11",
+        "output": "64"
+    },
+    {
+        "input": "55 # 8",
+        "output": "64"
+    },
+    {
+        "input": "56 # 7",
+        "output": "64"
+    },
+    {
+        "input": "58 # 5",
+        "output": "64"
+    },
+    {
+        "input": "59 # 4",
+        "output": "64"
+    },
+    {
+        "input": "61 # 2",
+        "output": "64"
+    },
+    {
+        "input": "0 # 64",
+        "output": "65"
+    },
+    {
+        "input": "1 # 63",
+        "output": "65"
+    },
+    {
+        "input": "3 # 61",
+        "output": "65"
+    },
+    {
+        "input": "6 # 58",
+        "output": "65"
+    },
+    {
+        "input": "8 # 56",
+        "output": "65"
+    },
+    {
+        "input": "9 # 55",
+        "output": "65"
+    },
+    {
+        "input": "10 # 54",
+        "output": "65"
+    },
+    {
+        "input": "11 # 53",
+        "output": "65"
+    },
+    {
+        "input": "12 # 52",
+        "output": "65"
+    },
+    {
+        "input": "13 # 51",
+        "output": "65"
+    },
+    {
+        "input": "14 # 50",
+        "output": "65"
+    },
+    {
+        "input": "16 # 48",
+        "output": "65"
+    },
+    {
+        "input": "18 # 46",
+        "output": "65"
+    },
+    {
+        "input": "20 # 44",
+        "output": "65"
+    },
+    {
+        "input": "21 # 43",
+        "output": "65"
+    },
+    {
+        "input": "22 # 42",
+        "output": "65"
+    },
+    {
+        "input": "24 # 40",
+        "output": "65"
+    },
+    {
+        "input": "27 # 37",
+        "output": "65"
+    },
+    {
+        "input": "30 # 34",
+        "output": "65"
+    },
+    {
+        "input": "31 # 33",
+        "output": "65"
+    },
+    {
+        "input": "35 # 29",
+        "output": "65"
+    },
+    {
+        "input": "37 # 27",
+        "output": "65"
+    },
+    {
+        "input": "38 # 26",
+        "output": "65"
+    },
+    {
+        "input": "44 # 20",
+        "output": "65"
+    },
+    {
+        "input": "46 # 18",
+        "output": "65"
+    },
+    {
+        "input": "48 # 16",
+        "output": "65"
+    },
+    {
+        "input": "49 # 15",
+        "output": "65"
+    },
+    {
+        "input": "53 # 11",
+        "output": "65"
+    },
+    {
+        "input": "56 # 8",
+        "output": "65"
+    },
+    {
+        "input": "57 # 7",
+        "output": "65"
+    },
+    {
+        "input": "59 # 5",
+        "output": "65"
+    },
+    {
+        "input": "61 # 3",
+        "output": "65"
+    },
+    {
+        "input": "62 # 2",
+        "output": "65"
+    },
+    {
+        "input": "2 # 63",
+        "output": "66"
+    },
+    {
+        "input": "4 # 61",
+        "output": "66"
+    },
+    {
+        "input": "5 # 60",
+        "output": "66"
+    },
+    {
+        "input": "7 # 58",
+        "output": "66"
+    },
+    {
+        "input": "8 # 57",
+        "output": "66"
+    },
+    {
+        "input": "14 # 51",
+        "output": "66"
+    },
+    {
+        "input": "16 # 49",
+        "output": "66"
+    },
+    {
+        "input": "18 # 47",
+        "output": "66"
+    },
+    {
+        "input": "19 # 46",
+        "output": "66"
+    },
+    {
+        "input": "29 # 36",
+        "output": "66"
+    },
+    {
+        "input": "31 # 34",
+        "output": "66"
+    },
+    {
+        "input": "32 # 33",
+        "output": "66"
+    },
+    {
+        "input": "34 # 31",
+        "output": "66"
+    },
+    {
+        "input": "35 # 30",
+        "output": "66"
+    },
+    {
+        "input": "36 # 29",
+        "output": "66"
+    },
+    {
+        "input": "39 # 26",
+        "output": "66"
+    },
+    {
+        "input": "40 # 25",
+        "output": "66"
+    },
+    {
+        "input": "42 # 23",
+        "output": "66"
+    },
+    {
+        "input": "43 # 22",
+        "output": "66"
+    },
+    {
+        "input": "44 # 21",
+        "output": "66"
+    },
+    {
+        "input": "45 # 20",
+        "output": "66"
+    },
+    {
+        "input": "46 # 19",
+        "output": "66"
+    },
+    {
+        "input": "47 # 18",
+        "output": "66"
+    },
+    {
+        "input": "51 # 14",
+        "output": "66"
+    },
+    {
+        "input": "53 # 12",
+        "output": "66"
+    },
+    {
+        "input": "59 # 6",
+        "output": "66"
+    },
+    {
+        "input": "60 # 5",
+        "output": "66"
+    },
+    {
+        "input": "62 # 3",
+        "output": "66"
+    },
+    {
+        "input": "64 # 1",
+        "output": "66"
+    },
+    {
+        "input": "1 # 65",
+        "output": "67"
+    },
+    {
+        "input": "3 # 63",
+        "output": "67"
+    },
+    {
+        "input": "5 # 61",
+        "output": "67"
+    },
+    {
+        "input": "7 # 59",
+        "output": "67"
+    },
+    {
+        "input": "8 # 58",
+        "output": "67"
+    },
+    {
+        "input": "10 # 56",
+        "output": "67"
+    },
+    {
+        "input": "12 # 54",
+        "output": "67"
+    },
+    {
+        "input": "13 # 53",
+        "output": "67"
+    },
+    {
+        "input": "14 # 52",
+        "output": "67"
+    },
+    {
+        "input": "15 # 51",
+        "output": "67"
+    },
+    {
+        "input": "17 # 49",
+        "output": "67"
+    },
+    {
+        "input": "18 # 48",
+        "output": "67"
+    },
+    {
+        "input": "22 # 44",
+        "output": "67"
+    },
+    {
+        "input": "26 # 40",
+        "output": "67"
+    },
+    {
+        "input": "28 # 38",
+        "output": "67"
+    },
+    {
+        "input": "31 # 35",
+        "output": "67"
+    },
+    {
+        "input": "37 # 29",
+        "output": "67"
+    },
+    {
+        "input": "40 # 26",
+        "output": "67"
+    },
+    {
+        "input": "44 # 22",
+        "output": "67"
+    },
+    {
+        "input": "46 # 20",
+        "output": "67"
+    },
+    {
+        "input": "47 # 19",
+        "output": "67"
+    },
+    {
+        "input": "48 # 18",
+        "output": "67"
+    },
+    {
+        "input": "50 # 16",
+        "output": "67"
+    },
+    {
+        "input": "51 # 15",
+        "output": "67"
+    },
+    {
+        "input": "52 # 14",
+        "output": "67"
+    },
+    {
+        "input": "53 # 13",
+        "output": "67"
+    },
+    {
+        "input": "54 # 12",
+        "output": "67"
+    },
+    {
+        "input": "57 # 9",
+        "output": "67"
+    },
+    {
+        "input": "58 # 8",
+        "output": "67"
+    },
+    {
+        "input": "60 # 6",
+        "output": "67"
+    },
+    {
+        "input": "61 # 5",
+        "output": "67"
+    },
+    {
+        "input": "0 # 67",
+        "output": "68"
+    },
+    {
+        "input": "2 # 65",
+        "output": "68"
+    },
+    {
+        "input": "3 # 64",
+        "output": "68"
+    },
+    {
+        "input": "10 # 57",
+        "output": "68"
+    },
+    {
+        "input": "12 # 55",
+        "output": "68"
+    },
+    {
+        "input": "14 # 53",
+        "output": "68"
+    },
+    {
+        "input": "15 # 52",
+        "output": "68"
+    },
+    {
+        "input": "17 # 50",
+        "output": "68"
+    },
+    {
+        "input": "18 # 49",
+        "output": "68"
+    },
+    {
+        "input": "20 # 47",
+        "output": "68"
+    },
+    {
+        "input": "21 # 46",
+        "output": "68"
+    },
+    {
+        "input": "23 # 44",
+        "output": "68"
+    },
+    {
+        "input": "25 # 42",
+        "output": "68"
+    },
+    {
+        "input": "30 # 37",
+        "output": "68"
+    },
+    {
+        "input": "34 # 33",
+        "output": "68"
+    },
+    {
+        "input": "35 # 32",
+        "output": "68"
+    },
+    {
+        "input": "37 # 30",
+        "output": "68"
+    },
+    {
+        "input": "38 # 29",
+        "output": "68"
+    },
+    {
+        "input": "39 # 28",
+        "output": "68"
+    },
+    {
+        "input": "40 # 27",
+        "output": "68"
+    },
+    {
+        "input": "43 # 24",
+        "output": "68"
+    },
+    {
+        "input": "44 # 23",
+        "output": "68"
+    },
+    {
+        "input": "45 # 22",
+        "output": "68"
+    },
+    {
+        "input": "48 # 19",
+        "output": "68"
+    },
+    {
+        "input": "49 # 18",
+        "output": "68"
+    },
+    {
+        "input": "50 # 17",
+        "output": "68"
+    },
+    {
+        "input": "51 # 16",
+        "output": "68"
+    },
+    {
+        "input": "55 # 12",
+        "output": "68"
+    },
+    {
+        "input": "57 # 10",
+        "output": "68"
+    },
+    {
+        "input": "59 # 8",
+        "output": "68"
+    },
+    {
+        "input": "62 # 5",
+        "output": "68"
+    },
+    {
+        "input": "66 # 1",
+        "output": "68"
+    },
+    {
+        "input": "0 # 68",
+        "output": "69"
+    },
+    {
+        "input": "1 # 67",
+        "output": "69"
+    },
+    {
+        "input": "4 # 64",
+        "output": "69"
+    },
+    {
+        "input": "5 # 63",
+        "output": "69"
+    },
+    {
+        "input": "6 # 62",
+        "output": "69"
+    },
+    {
+        "input": "7 # 61",
+        "output": "69"
+    },
+    {
+        "input": "9 # 59",
+        "output": "69"
+    },
+    {
+        "input": "12 # 56",
+        "output": "69"
+    },
+    {
+        "input": "13 # 55",
+        "output": "69"
+    },
+    {
+        "input": "15 # 53",
+        "output": "69"
+    },
+    {
+        "input": "16 # 52",
+        "output": "69"
+    },
+    {
+        "input": "17 # 51",
+        "output": "69"
+    },
+    {
+        "input": "19 # 49",
+        "output": "69"
+    },
+    {
+        "input": "20 # 48",
+        "output": "69"
+    },
+    {
+        "input": "21 # 47",
+        "output": "69"
+    },
+    {
+        "input": "22 # 46",
+        "output": "69"
+    },
+    {
+        "input": "24 # 44",
+        "output": "69"
+    },
+    {
+        "input": "25 # 43",
+        "output": "69"
+    },
+    {
+        "input": "26 # 42",
+        "output": "69"
+    },
+    {
+        "input": "27 # 41",
+        "output": "69"
+    },
+    {
+        "input": "29 # 39",
+        "output": "69"
+    },
+    {
+        "input": "30 # 38",
+        "output": "69"
+    },
+    {
+        "input": "31 # 37",
+        "output": "69"
+    },
+    {
+        "input": "32 # 36",
+        "output": "69"
+    },
+    {
+        "input": "34 # 34",
+        "output": "69"
+    },
+    {
+        "input": "36 # 32",
+        "output": "69"
+    },
+    {
+        "input": "37 # 31",
+        "output": "69"
+    },
+    {
+        "input": "38 # 30",
+        "output": "69"
+    },
+    {
+        "input": "40 # 28",
+        "output": "69"
+    },
+    {
+        "input": "41 # 27",
+        "output": "69"
+    },
+    {
+        "input": "43 # 25",
+        "output": "69"
+    },
+    {
+        "input": "45 # 23",
+        "output": "69"
+    },
+    {
+        "input": "46 # 22",
+        "output": "69"
+    },
+    {
+        "input": "51 # 17",
+        "output": "69"
+    },
+    {
+        "input": "55 # 13",
+        "output": "69"
+    },
+    {
+        "input": "57 # 11",
+        "output": "69"
+    },
+    {
+        "input": "59 # 9",
+        "output": "69"
+    },
+    {
+        "input": "60 # 8",
+        "output": "69"
+    },
+    {
+        "input": "61 # 7",
+        "output": "69"
+    },
+    {
+        "input": "63 # 5",
+        "output": "69"
+    },
+    {
+        "input": "65 # 3",
+        "output": "69"
+    },
+    {
+        "input": "66 # 2",
+        "output": "69"
+    },
+    {
+        "input": "0 # 69",
+        "output": "70"
+    },
+    {
+        "input": "2 # 67",
+        "output": "70"
+    },
+    {
+        "input": "3 # 66",
+        "output": "70"
+    },
+    {
+        "input": "4 # 65",
+        "output": "70"
+    },
+    {
+        "input": "7 # 62",
+        "output": "70"
+    },
+    {
+        "input": "8 # 61",
+        "output": "70"
+    },
+    {
+        "input": "13 # 56",
+        "output": "70"
+    },
+    {
+        "input": "14 # 55",
+        "output": "70"
+    },
+    {
+        "input": "15 # 54",
+        "output": "70"
+    },
+    {
+        "input": "16 # 53",
+        "output": "70"
+    },
+    {
+        "input": "18 # 51",
+        "output": "70"
+    },
+    {
+        "input": "19 # 50",
+        "output": "70"
+    },
+    {
+        "input": "25 # 44",
+        "output": "70"
+    },
+    {
+        "input": "26 # 43",
+        "output": "70"
+    },
+    {
+        "input": "28 # 41",
+        "output": "70"
+    },
+    {
+        "input": "29 # 40",
+        "output": "70"
+    },
+    {
+        "input": "30 # 39",
+        "output": "70"
+    },
+    {
+        "input": "31 # 38",
+        "output": "70"
+    },
+    {
+        "input": "32 # 37",
+        "output": "70"
+    },
+    {
+        "input": "33 # 36",
+        "output": "70"
+    },
+    {
+        "input": "34 # 35",
+        "output": "70"
+    },
+    {
+        "input": "35 # 34",
+        "output": "70"
+    },
+    {
+        "input": "36 # 33",
+        "output": "70"
+    },
+    {
+        "input": "39 # 30",
+        "output": "70"
+    },
+    {
+        "input": "40 # 29",
+        "output": "70"
+    },
+    {
+        "input": "41 # 28",
+        "output": "70"
+    },
+    {
+        "input": "42 # 27",
+        "output": "70"
+    },
+    {
+        "input": "43 # 26",
+        "output": "70"
+    },
+    {
+        "input": "45 # 24",
+        "output": "70"
+    },
+    {
+        "input": "46 # 23",
+        "output": "70"
+    },
+    {
+        "input": "47 # 22",
+        "output": "70"
+    },
+    {
+        "input": "48 # 21",
+        "output": "70"
+    },
+    {
+        "input": "50 # 19",
+        "output": "70"
+    },
+    {
+        "input": "51 # 18",
+        "output": "70"
+    },
+    {
+        "input": "53 # 16",
+        "output": "70"
+    },
+    {
+        "input": "54 # 15",
+        "output": "70"
+    },
+    {
+        "input": "55 # 14",
+        "output": "70"
+    },
+    {
+        "input": "56 # 13",
+        "output": "70"
+    },
+    {
+        "input": "57 # 12",
+        "output": "70"
+    },
+    {
+        "input": "61 # 8",
+        "output": "70"
+    },
+    {
+        "input": "63 # 6",
+        "output": "70"
+    },
+    {
+        "input": "64 # 5",
+        "output": "70"
+    },
+    {
+        "input": "65 # 4",
+        "output": "70"
+    },
+    {
+        "input": "67 # 2",
+        "output": "70"
+    },
+    {
+        "input": "1 # 69",
+        "output": "71"
+    },
+    {
+        "input": "3 # 67",
+        "output": "71"
+    },
+    {
+        "input": "4 # 66",
+        "output": "71"
+    },
+    {
+        "input": "7 # 63",
+        "output": "71"
+    },
+    {
+        "input": "8 # 62",
+        "output": "71"
+    },
+    {
+        "input": "10 # 60",
+        "output": "71"
+    },
+    {
+        "input": "11 # 59",
+        "output": "71"
+    },
+    {
+        "input": "12 # 58",
+        "output": "71"
+    },
+    {
+        "input": "14 # 56",
+        "output": "71"
+    },
+    {
+        "input": "20 # 50",
+        "output": "71"
+    },
+    {
+        "input": "23 # 47",
+        "output": "71"
+    },
+    {
+        "input": "25 # 45",
+        "output": "71"
+    },
+    {
+        "input": "26 # 44",
+        "output": "71"
+    },
+    {
+        "input": "27 # 43",
+        "output": "71"
+    },
+    {
+        "input": "28 # 42",
+        "output": "71"
+    },
+    {
+        "input": "30 # 40",
+        "output": "71"
+    },
+    {
+        "input": "31 # 39",
+        "output": "71"
+    },
+    {
+        "input": "32 # 38",
+        "output": "71"
+    },
+    {
+        "input": "33 # 37",
+        "output": "71"
+    },
+    {
+        "input": "34 # 36",
+        "output": "71"
+    },
+    {
+        "input": "36 # 34",
+        "output": "71"
+    },
+    {
+        "input": "41 # 29",
+        "output": "71"
+    },
+    {
+        "input": "43 # 27",
+        "output": "71"
+    },
+    {
+        "input": "46 # 24",
+        "output": "71"
+    },
+    {
+        "input": "47 # 23",
+        "output": "71"
+    },
+    {
+        "input": "48 # 22",
+        "output": "71"
+    },
+    {
+        "input": "53 # 17",
+        "output": "71"
+    },
+    {
+        "input": "59 # 11",
+        "output": "71"
+    },
+    {
+        "input": "60 # 10",
+        "output": "71"
+    },
+    {
+        "input": "63 # 7",
+        "output": "71"
+    },
+    {
+        "input": "65 # 5",
+        "output": "71"
+    },
+    {
+        "input": "66 # 4",
+        "output": "71"
+    },
+    {
+        "input": "0 # 71",
+        "output": "72"
+    },
+    {
+        "input": "2 # 69",
+        "output": "72"
+    },
+    {
+        "input": "3 # 68",
+        "output": "72"
+    },
+    {
+        "input": "9 # 62",
+        "output": "72"
+    },
+    {
+        "input": "10 # 61",
+        "output": "72"
+    },
+    {
+        "input": "12 # 59",
+        "output": "72"
+    },
+    {
+        "input": "13 # 58",
+        "output": "72"
+    },
+    {
+        "input": "14 # 57",
+        "output": "72"
+    },
+    {
+        "input": "16 # 55",
+        "output": "72"
+    },
+    {
+        "input": "18 # 53",
+        "output": "72"
+    },
+    {
+        "input": "21 # 50",
+        "output": "72"
+    },
+    {
+        "input": "22 # 49",
+        "output": "72"
+    },
+    {
+        "input": "23 # 48",
+        "output": "72"
+    },
+    {
+        "input": "24 # 47",
+        "output": "72"
+    },
+    {
+        "input": "26 # 45",
+        "output": "72"
+    },
+    {
+        "input": "28 # 43",
+        "output": "72"
+    },
+    {
+        "input": "32 # 39",
+        "output": "72"
+    },
+    {
+        "input": "33 # 38",
+        "output": "72"
+    },
+    {
+        "input": "34 # 37",
+        "output": "72"
+    },
+    {
+        "input": "35 # 36",
+        "output": "72"
+    },
+    {
+        "input": "36 # 35",
+        "output": "72"
+    },
+    {
+        "input": "37 # 34",
+        "output": "72"
+    },
+    {
+        "input": "39 # 32",
+        "output": "72"
+    },
+    {
+        "input": "40 # 31",
+        "output": "72"
+    },
+    {
+        "input": "41 # 30",
+        "output": "72"
+    },
+    {
+        "input": "42 # 29",
+        "output": "72"
+    },
+    {
+        "input": "46 # 25",
+        "output": "72"
+    },
+    {
+        "input": "48 # 23",
+        "output": "72"
+    },
+    {
+        "input": "49 # 22",
+        "output": "72"
+    },
+    {
+        "input": "51 # 20",
+        "output": "72"
+    },
+    {
+        "input": "52 # 19",
+        "output": "72"
+    },
+    {
+        "input": "54 # 17",
+        "output": "72"
+    },
+    {
+        "input": "55 # 16",
+        "output": "72"
+    },
+    {
+        "input": "56 # 15",
+        "output": "72"
+    },
+    {
+        "input": "57 # 14",
+        "output": "72"
+    },
+    {
+        "input": "60 # 11",
+        "output": "72"
+    },
+    {
+        "input": "64 # 7",
+        "output": "72"
+    },
+    {
+        "input": "66 # 5",
+        "output": "72"
+    },
+    {
+        "input": "69 # 2",
+        "output": "72"
+    },
+    {
+        "input": "70 # 1",
+        "output": "72"
+    },
+    {
+        "input": "0 # 72",
+        "output": "73"
+    },
+    {
+        "input": "1 # 71",
+        "output": "73"
+    },
+    {
+        "input": "3 # 69",
+        "output": "73"
+    },
+    {
+        "input": "7 # 65",
+        "output": "73"
+    },
+    {
+        "input": "9 # 63",
+        "output": "73"
+    },
+    {
+        "input": "15 # 57",
+        "output": "73"
+    },
+    {
+        "input": "17 # 55",
+        "output": "73"
+    },
+    {
+        "input": "18 # 54",
+        "output": "73"
+    },
+    {
+        "input": "19 # 53",
+        "output": "73"
+    },
+    {
+        "input": "25 # 47",
+        "output": "73"
+    },
+    {
+        "input": "26 # 46",
+        "output": "73"
+    },
+    {
+        "input": "30 # 42",
+        "output": "73"
+    },
+    {
+        "input": "31 # 41",
+        "output": "73"
+    },
+    {
+        "input": "32 # 40",
+        "output": "73"
+    },
+    {
+        "input": "34 # 38",
+        "output": "73"
+    },
+    {
+        "input": "35 # 37",
+        "output": "73"
+    },
+    {
+        "input": "36 # 36",
+        "output": "73"
+    },
+    {
+        "input": "39 # 33",
+        "output": "73"
+    },
+    {
+        "input": "42 # 30",
+        "output": "73"
+    },
+    {
+        "input": "43 # 29",
+        "output": "73"
+    },
+    {
+        "input": "46 # 26",
+        "output": "73"
+    },
+    {
+        "input": "48 # 24",
+        "output": "73"
+    },
+    {
+        "input": "52 # 20",
+        "output": "73"
+    },
+    {
+        "input": "53 # 19",
+        "output": "73"
+    },
+    {
+        "input": "54 # 18",
+        "output": "73"
+    },
+    {
+        "input": "56 # 16",
+        "output": "73"
+    },
+    {
+        "input": "57 # 15",
+        "output": "73"
+    },
+    {
+        "input": "58 # 14",
+        "output": "73"
+    },
+    {
+        "input": "59 # 13",
+        "output": "73"
+    },
+    {
+        "input": "62 # 10",
+        "output": "73"
+    },
+    {
+        "input": "64 # 8",
+        "output": "73"
+    },
+    {
+        "input": "0 # 73",
+        "output": "74"
+    },
+    {
+        "input": "1 # 72",
+        "output": "74"
+    },
+    {
+        "input": "6 # 67",
+        "output": "74"
+    },
+    {
+        "input": "7 # 66",
+        "output": "74"
+    },
+    {
+        "input": "8 # 65",
+        "output": "74"
+    },
+    {
+        "input": "9 # 64",
+        "output": "74"
+    },
+    {
+        "input": "10 # 63",
+        "output": "74"
+    },
+    {
+        "input": "11 # 62",
+        "output": "74"
+    },
+    {
+        "input": "13 # 60",
+        "output": "74"
+    },
+    {
+        "input": "15 # 58",
+        "output": "74"
+    },
+    {
+        "input": "17 # 56",
+        "output": "74"
+    },
+    {
+        "input": "19 # 54",
+        "output": "74"
+    },
+    {
+        "input": "22 # 51",
+        "output": "74"
+    },
+    {
+        "input": "24 # 49",
+        "output": "74"
+    },
+    {
+        "input": "25 # 48",
+        "output": "74"
+    },
+    {
+        "input": "26 # 47",
+        "output": "74"
+    },
+    {
+        "input": "31 # 42",
+        "output": "74"
+    },
+    {
+        "input": "32 # 41",
+        "output": "74"
+    },
+    {
+        "input": "40 # 33",
+        "output": "74"
+    },
+    {
+        "input": "41 # 32",
+        "output": "74"
+    },
+    {
+        "input": "42 # 31",
+        "output": "74"
+    },
+    {
+        "input": "48 # 25",
+        "output": "74"
+    },
+    {
+        "input": "49 # 24",
+        "output": "74"
+    },
+    {
+        "input": "51 # 22",
+        "output": "74"
+    },
+    {
+        "input": "52 # 21",
+        "output": "74"
+    },
+    {
+        "input": "53 # 20",
+        "output": "74"
+    },
+    {
+        "input": "54 # 19",
+        "output": "74"
+    },
+    {
+        "input": "55 # 18",
+        "output": "74"
+    },
+    {
+        "input": "56 # 17",
+        "output": "74"
+    },
+    {
+        "input": "58 # 15",
+        "output": "74"
+    },
+    {
+        "input": "61 # 12",
+        "output": "74"
+    },
+    {
+        "input": "66 # 7",
+        "output": "74"
+    },
+    {
+        "input": "67 # 6",
+        "output": "74"
+    },
+    {
+        "input": "68 # 5",
+        "output": "74"
+    },
+    {
+        "input": "69 # 4",
+        "output": "74"
+    },
+    {
+        "input": "1 # 73",
+        "output": "75"
+    },
+    {
+        "input": "7 # 67",
+        "output": "75"
+    },
+    {
+        "input": "9 # 65",
+        "output": "75"
+    },
+    {
+        "input": "11 # 63",
+        "output": "75"
+    },
+    {
+        "input": "17 # 57",
+        "output": "75"
+    },
+    {
+        "input": "18 # 56",
+        "output": "75"
+    },
+    {
+        "input": "19 # 55",
+        "output": "75"
+    },
+    {
+        "input": "22 # 52",
+        "output": "75"
+    },
+    {
+        "input": "26 # 48",
+        "output": "75"
+    },
+    {
+        "input": "28 # 46",
+        "output": "75"
+    },
+    {
+        "input": "29 # 45",
+        "output": "75"
+    },
+    {
+        "input": "30 # 44",
+        "output": "75"
+    },
+    {
+        "input": "31 # 43",
+        "output": "75"
+    },
+    {
+        "input": "32 # 42",
+        "output": "75"
+    },
+    {
+        "input": "34 # 40",
+        "output": "75"
+    },
+    {
+        "input": "37 # 37",
+        "output": "75"
+    },
+    {
+        "input": "39 # 35",
+        "output": "75"
+    },
+    {
+        "input": "40 # 34",
+        "output": "75"
+    },
+    {
+        "input": "44 # 30",
+        "output": "75"
+    },
+    {
+        "input": "45 # 29",
+        "output": "75"
+    },
+    {
+        "input": "46 # 28",
+        "output": "75"
+    },
+    {
+        "input": "52 # 22",
+        "output": "75"
+    },
+    {
+        "input": "53 # 21",
+        "output": "75"
+    },
+    {
+        "input": "54 # 20",
+        "output": "75"
+    },
+    {
+        "input": "55 # 19",
+        "output": "75"
+    },
+    {
+        "input": "60 # 14",
+        "output": "75"
+    },
+    {
+        "input": "61 # 13",
+        "output": "75"
+    },
+    {
+        "input": "62 # 12",
+        "output": "75"
+    },
+    {
+        "input": "63 # 11",
+        "output": "75"
+    },
+    {
+        "input": "67 # 7",
+        "output": "75"
+    },
+    {
+        "input": "68 # 6",
+        "output": "75"
+    },
+    {
+        "input": "70 # 4",
+        "output": "75"
+    },
+    {
+        "input": "72 # 2",
+        "output": "75"
+    },
+    {
+        "input": "0 # 75",
+        "output": "76"
+    },
+    {
+        "input": "2 # 73",
+        "output": "76"
+    },
+    {
+        "input": "3 # 72",
+        "output": "76"
+    },
+    {
+        "input": "4 # 71",
+        "output": "76"
+    },
+    {
+        "input": "6 # 69",
+        "output": "76"
+    },
+    {
+        "input": "7 # 68",
+        "output": "76"
+    },
+    {
+        "input": "10 # 65",
+        "output": "76"
+    },
+    {
+        "input": "11 # 64",
+        "output": "76"
+    },
+    {
+        "input": "13 # 62",
+        "output": "76"
+    },
+    {
+        "input": "17 # 58",
+        "output": "76"
+    },
+    {
+        "input": "19 # 56",
+        "output": "76"
+    },
+    {
+        "input": "20 # 55",
+        "output": "76"
+    },
+    {
+        "input": "21 # 54",
+        "output": "76"
+    },
+    {
+        "input": "23 # 52",
+        "output": "76"
+    },
+    {
+        "input": "24 # 51",
+        "output": "76"
+    },
+    {
+        "input": "25 # 50",
+        "output": "76"
+    },
+    {
+        "input": "26 # 49",
+        "output": "76"
+    },
+    {
+        "input": "30 # 45",
+        "output": "76"
+    },
+    {
+        "input": "31 # 44",
+        "output": "76"
+    },
+    {
+        "input": "33 # 42",
+        "output": "76"
+    },
+    {
+        "input": "35 # 40",
+        "output": "76"
+    },
+    {
+        "input": "36 # 39",
+        "output": "76"
+    },
+    {
+        "input": "37 # 38",
+        "output": "76"
+    },
+    {
+        "input": "39 # 36",
+        "output": "76"
+    },
+    {
+        "input": "41 # 34",
+        "output": "76"
+    },
+    {
+        "input": "42 # 33",
+        "output": "76"
+    },
+    {
+        "input": "43 # 32",
+        "output": "76"
+    },
+    {
+        "input": "45 # 30",
+        "output": "76"
+    },
+    {
+        "input": "48 # 27",
+        "output": "76"
+    },
+    {
+        "input": "50 # 25",
+        "output": "76"
+    },
+    {
+        "input": "52 # 23",
+        "output": "76"
+    },
+    {
+        "input": "54 # 21",
+        "output": "76"
+    },
+    {
+        "input": "55 # 20",
+        "output": "76"
+    },
+    {
+        "input": "57 # 18",
+        "output": "76"
+    },
+    {
+        "input": "58 # 17",
+        "output": "76"
+    },
+    {
+        "input": "60 # 15",
+        "output": "76"
+    },
+    {
+        "input": "64 # 11",
+        "output": "76"
+    },
+    {
+        "input": "65 # 10",
+        "output": "76"
+    },
+    {
+        "input": "66 # 9",
+        "output": "76"
+    },
+    {
+        "input": "67 # 8",
+        "output": "76"
+    },
+    {
+        "input": "69 # 6",
+        "output": "76"
+    },
+    {
+        "input": "70 # 5",
+        "output": "76"
+    },
+    {
+        "input": "71 # 4",
+        "output": "76"
+    },
+    {
+        "input": "1 # 75",
+        "output": "77"
+    },
+    {
+        "input": "3 # 73",
+        "output": "77"
+    },
+    {
+        "input": "4 # 72",
+        "output": "77"
+    },
+    {
+        "input": "6 # 70",
+        "output": "77"
+    },
+    {
+        "input": "7 # 69",
+        "output": "77"
+    },
+    {
+        "input": "8 # 68",
+        "output": "77"
+    },
+    {
+        "input": "10 # 66",
+        "output": "77"
+    },
+    {
+        "input": "12 # 64",
+        "output": "77"
+    },
+    {
+        "input": "14 # 62",
+        "output": "77"
+    },
+    {
+        "input": "19 # 57",
+        "output": "77"
+    },
+    {
+        "input": "24 # 52",
+        "output": "77"
+    },
+    {
+        "input": "25 # 51",
+        "output": "77"
+    },
+    {
+        "input": "30 # 46",
+        "output": "77"
+    },
+    {
+        "input": "33 # 43",
+        "output": "77"
+    },
+    {
+        "input": "35 # 41",
+        "output": "77"
+    },
+    {
+        "input": "40 # 36",
+        "output": "77"
+    },
+    {
+        "input": "42 # 34",
+        "output": "77"
+    },
+    {
+        "input": "43 # 33",
+        "output": "77"
+    },
+    {
+        "input": "48 # 28",
+        "output": "77"
+    },
+    {
+        "input": "49 # 27",
+        "output": "77"
+    },
+    {
+        "input": "52 # 24",
+        "output": "77"
+    },
+    {
+        "input": "53 # 23",
+        "output": "77"
+    },
+    {
+        "input": "55 # 21",
+        "output": "77"
+    },
+    {
+        "input": "56 # 20",
+        "output": "77"
+    },
+    {
+        "input": "57 # 19",
+        "output": "77"
+    },
+    {
+        "input": "58 # 18",
+        "output": "77"
+    },
+    {
+        "input": "61 # 15",
+        "output": "77"
+    },
+    {
+        "input": "63 # 13",
+        "output": "77"
+    },
+    {
+        "input": "64 # 12",
+        "output": "77"
+    },
+    {
+        "input": "65 # 11",
+        "output": "77"
+    },
+    {
+        "input": "68 # 8",
+        "output": "77"
+    },
+    {
+        "input": "69 # 7",
+        "output": "77"
+    },
+    {
+        "input": "71 # 5",
+        "output": "77"
+    },
+    {
+        "input": "72 # 4",
+        "output": "77"
+    },
+    {
+        "input": "74 # 2",
+        "output": "77"
+    },
+    {
+        "input": "0 # 77",
+        "output": "78"
+    },
+    {
+        "input": "2 # 75",
+        "output": "78"
+    },
+    {
+        "input": "3 # 74",
+        "output": "78"
+    },
+    {
+        "input": "4 # 73",
+        "output": "78"
+    },
+    {
+        "input": "6 # 71",
+        "output": "78"
+    },
+    {
+        "input": "7 # 70",
+        "output": "78"
+    },
+    {
+        "input": "10 # 67",
+        "output": "78"
+    },
+    {
+        "input": "11 # 66",
+        "output": "78"
+    },
+    {
+        "input": "12 # 65",
+        "output": "78"
+    },
+    {
+        "input": "13 # 64",
+        "output": "78"
+    },
+    {
+        "input": "14 # 63",
+        "output": "78"
+    },
+    {
+        "input": "15 # 62",
+        "output": "78"
+    },
+    {
+        "input": "16 # 61",
+        "output": "78"
+    },
+    {
+        "input": "18 # 59",
+        "output": "78"
+    },
+    {
+        "input": "19 # 58",
+        "output": "78"
+    },
+    {
+        "input": "21 # 56",
+        "output": "78"
+    },
+    {
+        "input": "22 # 55",
+        "output": "78"
+    },
+    {
+        "input": "23 # 54",
+        "output": "78"
+    },
+    {
+        "input": "24 # 53",
+        "output": "78"
+    },
+    {
+        "input": "25 # 52",
+        "output": "78"
+    },
+    {
+        "input": "26 # 51",
+        "output": "78"
+    },
+    {
+        "input": "32 # 45",
+        "output": "78"
+    },
+    {
+        "input": "35 # 42",
+        "output": "78"
+    },
+    {
+        "input": "36 # 41",
+        "output": "78"
+    },
+    {
+        "input": "38 # 39",
+        "output": "78"
+    },
+    {
+        "input": "39 # 38",
+        "output": "78"
+    },
+    {
+        "input": "40 # 37",
+        "output": "78"
+    },
+    {
+        "input": "42 # 35",
+        "output": "78"
+    },
+    {
+        "input": "43 # 34",
+        "output": "78"
+    },
+    {
+        "input": "45 # 32",
+        "output": "78"
+    },
+    {
+        "input": "47 # 30",
+        "output": "78"
+    },
+    {
+        "input": "50 # 27",
+        "output": "78"
+    },
+    {
+        "input": "52 # 25",
+        "output": "78"
+    },
+    {
+        "input": "54 # 23",
+        "output": "78"
+    },
+    {
+        "input": "57 # 20",
+        "output": "78"
+    },
+    {
+        "input": "60 # 17",
+        "output": "78"
+    },
+    {
+        "input": "61 # 16",
+        "output": "78"
+    },
+    {
+        "input": "62 # 15",
+        "output": "78"
+    },
+    {
+        "input": "65 # 12",
+        "output": "78"
+    },
+    {
+        "input": "66 # 11",
+        "output": "78"
+    },
+    {
+        "input": "67 # 10",
+        "output": "78"
+    },
+    {
+        "input": "69 # 8",
+        "output": "78"
+    },
+    {
+        "input": "71 # 6",
+        "output": "78"
+    },
+    {
+        "input": "73 # 4",
+        "output": "78"
+    },
+    {
+        "input": "74 # 3",
+        "output": "78"
+    },
+    {
+        "input": "75 # 2",
+        "output": "78"
+    },
+    {
+        "input": "0 # 78",
+        "output": "79"
+    },
+    {
+        "input": "1 # 77",
+        "output": "79"
+    },
+    {
+        "input": "5 # 73",
+        "output": "79"
+    },
+    {
+        "input": "6 # 72",
+        "output": "79"
+    },
+    {
+        "input": "7 # 71",
+        "output": "79"
+    },
+    {
+        "input": "8 # 70",
+        "output": "79"
+    },
+    {
+        "input": "10 # 68",
+        "output": "79"
+    },
+    {
+        "input": "13 # 65",
+        "output": "79"
+    },
+    {
+        "input": "15 # 63",
+        "output": "79"
+    },
+    {
+        "input": "18 # 60",
+        "output": "79"
+    },
+    {
+        "input": "19 # 59",
+        "output": "79"
+    },
+    {
+        "input": "21 # 57",
+        "output": "79"
+    },
+    {
+        "input": "22 # 56",
+        "output": "79"
+    },
+    {
+        "input": "23 # 55",
+        "output": "79"
+    },
+    {
+        "input": "24 # 54",
+        "output": "79"
+    },
+    {
+        "input": "26 # 52",
+        "output": "79"
+    },
+    {
+        "input": "27 # 51",
+        "output": "79"
+    },
+    {
+        "input": "28 # 50",
+        "output": "79"
+    },
+    {
+        "input": "33 # 45",
+        "output": "79"
+    },
+    {
+        "input": "34 # 44",
+        "output": "79"
+    },
+    {
+        "input": "35 # 43",
+        "output": "79"
+    },
+    {
+        "input": "36 # 42",
+        "output": "79"
+    },
+    {
+        "input": "38 # 40",
+        "output": "79"
+    },
+    {
+        "input": "42 # 36",
+        "output": "79"
+    },
+    {
+        "input": "43 # 35",
+        "output": "79"
+    },
+    {
+        "input": "44 # 34",
+        "output": "79"
+    },
+    {
+        "input": "46 # 32",
+        "output": "79"
+    },
+    {
+        "input": "48 # 30",
+        "output": "79"
+    },
+    {
+        "input": "49 # 29",
+        "output": "79"
+    },
+    {
+        "input": "50 # 28",
+        "output": "79"
+    },
+    {
+        "input": "52 # 26",
+        "output": "79"
+    },
+    {
+        "input": "54 # 24",
+        "output": "79"
+    },
+    {
+        "input": "55 # 23",
+        "output": "79"
+    },
+    {
+        "input": "61 # 17",
+        "output": "79"
+    },
+    {
+        "input": "63 # 15",
+        "output": "79"
+    },
+    {
+        "input": "65 # 13",
+        "output": "79"
+    },
+    {
+        "input": "66 # 12",
+        "output": "79"
+    },
+    {
+        "input": "67 # 11",
+        "output": "79"
+    },
+    {
+        "input": "72 # 6",
+        "output": "79"
+    },
+    {
+        "input": "73 # 5",
+        "output": "79"
+    },
+    {
+        "input": "75 # 3",
+        "output": "79"
+    },
+    {
+        "input": "77 # 1",
+        "output": "79"
+    },
+    {
+        "input": "0 # 79",
+        "output": "80"
+    },
+    {
+        "input": "2 # 77",
+        "output": "80"
+    },
+    {
+        "input": "4 # 75",
+        "output": "80"
+    },
+    {
+        "input": "5 # 74",
+        "output": "80"
+    },
+    {
+        "input": "12 # 67",
+        "output": "80"
+    },
+    {
+        "input": "13 # 66",
+        "output": "80"
+    },
+    {
+        "input": "17 # 62",
+        "output": "80"
+    },
+    {
+        "input": "18 # 61",
+        "output": "80"
+    },
+    {
+        "input": "19 # 60",
+        "output": "80"
+    },
+    {
+        "input": "21 # 58",
+        "output": "80"
+    },
+    {
+        "input": "22 # 57",
+        "output": "80"
+    },
+    {
+        "input": "23 # 56",
+        "output": "80"
+    },
+    {
+        "input": "24 # 55",
+        "output": "80"
+    },
+    {
+        "input": "25 # 54",
+        "output": "80"
+    },
+    {
+        "input": "26 # 53",
+        "output": "80"
+    },
+    {
+        "input": "27 # 52",
+        "output": "80"
+    },
+    {
+        "input": "28 # 51",
+        "output": "80"
+    },
+    {
+        "input": "29 # 50",
+        "output": "80"
+    },
+    {
+        "input": "33 # 46",
+        "output": "80"
+    },
+    {
+        "input": "34 # 45",
+        "output": "80"
+    },
+    {
+        "input": "39 # 40",
+        "output": "80"
+    },
+    {
+        "input": "44 # 35",
+        "output": "80"
+    },
+    {
+        "input": "47 # 32",
+        "output": "80"
+    },
+    {
+        "input": "50 # 29",
+        "output": "80"
+    },
+    {
+        "input": "51 # 28",
+        "output": "80"
+    },
+    {
+        "input": "54 # 25",
+        "output": "80"
+    },
+    {
+        "input": "56 # 23",
+        "output": "80"
+    },
+    {
+        "input": "57 # 22",
+        "output": "80"
+    },
+    {
+        "input": "58 # 21",
+        "output": "80"
+    },
+    {
+        "input": "61 # 18",
+        "output": "80"
+    },
+    {
+        "input": "63 # 16",
+        "output": "80"
+    },
+    {
+        "input": "65 # 14",
+        "output": "80"
+    },
+    {
+        "input": "73 # 6",
+        "output": "80"
+    },
+    {
+        "input": "76 # 3",
+        "output": "80"
+    },
+    {
+        "input": "78 # 1",
+        "output": "80"
+    },
+    {
+        "input": "0 # 80",
+        "output": "81"
+    },
+    {
+        "input": "1 # 79",
+        "output": "81"
+    },
+    {
+        "input": "2 # 78",
+        "output": "81"
+    },
+    {
+        "input": "5 # 75",
+        "output": "81"
+    },
+    {
+        "input": "6 # 74",
+        "output": "81"
+    },
+    {
+        "input": "7 # 73",
+        "output": "81"
+    },
+    {
+        "input": "10 # 70",
+        "output": "81"
+    },
+    {
+        "input": "12 # 68",
+        "output": "81"
+    },
+    {
+        "input": "13 # 67",
+        "output": "81"
+    },
+    {
+        "input": "15 # 65",
+        "output": "81"
+    },
+    {
+        "input": "17 # 63",
+        "output": "81"
+    },
+    {
+        "input": "19 # 61",
+        "output": "81"
+    },
+    {
+        "input": "20 # 60",
+        "output": "81"
+    },
+    {
+        "input": "22 # 58",
+        "output": "81"
+    },
+    {
+        "input": "23 # 57",
+        "output": "81"
+    },
+    {
+        "input": "26 # 54",
+        "output": "81"
+    },
+    {
+        "input": "28 # 52",
+        "output": "81"
+    },
+    {
+        "input": "35 # 45",
+        "output": "81"
+    },
+    {
+        "input": "36 # 44",
+        "output": "81"
+    },
+    {
+        "input": "38 # 42",
+        "output": "81"
+    },
+    {
+        "input": "40 # 40",
+        "output": "81"
+    },
+    {
+        "input": "41 # 39",
+        "output": "81"
+    },
+    {
+        "input": "46 # 34",
+        "output": "81"
+    },
+    {
+        "input": "47 # 33",
+        "output": "81"
+    },
+    {
+        "input": "48 # 32",
+        "output": "81"
+    },
+    {
+        "input": "54 # 26",
+        "output": "81"
+    },
+    {
+        "input": "55 # 25",
+        "output": "81"
+    },
+    {
+        "input": "56 # 24",
+        "output": "81"
+    },
+    {
+        "input": "57 # 23",
+        "output": "81"
+    },
+    {
+        "input": "58 # 22",
+        "output": "81"
+    },
+    {
+        "input": "59 # 21",
+        "output": "81"
+    },
+    {
+        "input": "60 # 20",
+        "output": "81"
+    },
+    {
+        "input": "63 # 17",
+        "output": "81"
+    },
+    {
+        "input": "65 # 15",
+        "output": "81"
+    },
+    {
+        "input": "67 # 13",
+        "output": "81"
+    },
+    {
+        "input": "68 # 12",
+        "output": "81"
+    },
+    {
+        "input": "70 # 10",
+        "output": "81"
+    },
+    {
+        "input": "72 # 8",
+        "output": "81"
+    },
+    {
+        "input": "73 # 7",
+        "output": "81"
+    },
+    {
+        "input": "74 # 6",
+        "output": "81"
+    },
+    {
+        "input": "75 # 5",
+        "output": "81"
+    },
+    {
+        "input": "78 # 2",
+        "output": "81"
+    },
+    {
+        "input": "1 # 80",
+        "output": "82"
+    },
+    {
+        "input": "3 # 78",
+        "output": "82"
+    },
+    {
+        "input": "4 # 77",
+        "output": "82"
+    },
+    {
+        "input": "5 # 76",
+        "output": "82"
+    },
+    {
+        "input": "6 # 75",
+        "output": "82"
+    },
+    {
+        "input": "8 # 73",
+        "output": "82"
+    },
+    {
+        "input": "9 # 72",
+        "output": "82"
+    },
+    {
+        "input": "11 # 70",
+        "output": "82"
+    },
+    {
+        "input": "13 # 68",
+        "output": "82"
+    },
+    {
+        "input": "16 # 65",
+        "output": "82"
+    },
+    {
+        "input": "18 # 63",
+        "output": "82"
+    },
+    {
+        "input": "22 # 59",
+        "output": "82"
+    },
+    {
+        "input": "23 # 58",
+        "output": "82"
+    },
+    {
+        "input": "25 # 56",
+        "output": "82"
+    },
+    {
+        "input": "26 # 55",
+        "output": "82"
+    },
+    {
+        "input": "27 # 54",
+        "output": "82"
+    },
+    {
+        "input": "28 # 53",
+        "output": "82"
+    },
+    {
+        "input": "29 # 52",
+        "output": "82"
+    },
+    {
+        "input": "34 # 47",
+        "output": "82"
+    },
+    {
+        "input": "36 # 45",
+        "output": "82"
+    },
+    {
+        "input": "38 # 43",
+        "output": "82"
+    },
+    {
+        "input": "39 # 42",
+        "output": "82"
+    },
+    {
+        "input": "40 # 41",
+        "output": "82"
+    },
+    {
+        "input": "43 # 38",
+        "output": "82"
+    },
+    {
+        "input": "44 # 37",
+        "output": "82"
+    },
+    {
+        "input": "45 # 36",
+        "output": "82"
+    },
+    {
+        "input": "47 # 34",
+        "output": "82"
+    },
+    {
+        "input": "48 # 33",
+        "output": "82"
+    },
+    {
+        "input": "50 # 31",
+        "output": "82"
+    },
+    {
+        "input": "52 # 29",
+        "output": "82"
+    },
+    {
+        "input": "53 # 28",
+        "output": "82"
+    },
+    {
+        "input": "56 # 25",
+        "output": "82"
+    },
+    {
+        "input": "57 # 24",
+        "output": "82"
+    },
+    {
+        "input": "58 # 23",
+        "output": "82"
+    },
+    {
+        "input": "61 # 20",
+        "output": "82"
+    },
+    {
+        "input": "63 # 18",
+        "output": "82"
+    },
+    {
+        "input": "64 # 17",
+        "output": "82"
+    },
+    {
+        "input": "68 # 13",
+        "output": "82"
+    },
+    {
+        "input": "70 # 11",
+        "output": "82"
+    },
+    {
+        "input": "71 # 10",
+        "output": "82"
+    },
+    {
+        "input": "73 # 8",
+        "output": "82"
+    },
+    {
+        "input": "77 # 4",
+        "output": "82"
+    },
+    {
+        "input": "78 # 3",
+        "output": "82"
+    },
+    {
+        "input": "79 # 2",
+        "output": "82"
+    },
+    {
+        "input": "0 # 82",
+        "output": "83"
+    },
+    {
+        "input": "1 # 81",
+        "output": "83"
+    },
+    {
+        "input": "2 # 80",
+        "output": "83"
+    },
+    {
+        "input": "6 # 76",
+        "output": "83"
+    },
+    {
+        "input": "12 # 70",
+        "output": "83"
+    },
+    {
+        "input": "13 # 69",
+        "output": "83"
+    },
+    {
+        "input": "14 # 68",
+        "output": "83"
+    },
+    {
+        "input": "15 # 67",
+        "output": "83"
+    },
+    {
+        "input": "16 # 66",
+        "output": "83"
+    },
+    {
+        "input": "17 # 65",
+        "output": "83"
+    },
+    {
+        "input": "18 # 64",
+        "output": "83"
+    },
+    {
+        "input": "19 # 63",
+        "output": "83"
+    },
+    {
+        "input": "20 # 62",
+        "output": "83"
+    },
+    {
+        "input": "21 # 61",
+        "output": "83"
+    },
+    {
+        "input": "23 # 59",
+        "output": "83"
+    },
+    {
+        "input": "24 # 58",
+        "output": "83"
+    },
+    {
+        "input": "25 # 57",
+        "output": "83"
+    },
+    {
+        "input": "28 # 54",
+        "output": "83"
+    },
+    {
+        "input": "31 # 51",
+        "output": "83"
+    },
+    {
+        "input": "33 # 49",
+        "output": "83"
+    },
+    {
+        "input": "35 # 47",
+        "output": "83"
+    },
+    {
+        "input": "38 # 44",
+        "output": "83"
+    },
+    {
+        "input": "41 # 41",
+        "output": "83"
+    },
+    {
+        "input": "43 # 39",
+        "output": "83"
+    },
+    {
+        "input": "44 # 38",
+        "output": "83"
+    },
+    {
+        "input": "45 # 37",
+        "output": "83"
+    },
+    {
+        "input": "46 # 36",
+        "output": "83"
+    },
+    {
+        "input": "48 # 34",
+        "output": "83"
+    },
+    {
+        "input": "50 # 32",
+        "output": "83"
+    },
+    {
+        "input": "54 # 28",
+        "output": "83"
+    },
+    {
+        "input": "56 # 26",
+        "output": "83"
+    },
+    {
+        "input": "57 # 25",
+        "output": "83"
+    },
+    {
+        "input": "60 # 22",
+        "output": "83"
+    },
+    {
+        "input": "61 # 21",
+        "output": "83"
+    },
+    {
+        "input": "62 # 20",
+        "output": "83"
+    },
+    {
+        "input": "63 # 19",
+        "output": "83"
+    },
+    {
+        "input": "68 # 14",
+        "output": "83"
+    },
+    {
+        "input": "70 # 12",
+        "output": "83"
+    },
+    {
+        "input": "75 # 7",
+        "output": "83"
+    },
+    {
+        "input": "76 # 6",
+        "output": "83"
+    },
+    {
+        "input": "78 # 4",
+        "output": "83"
+    },
+    {
+        "input": "79 # 3",
+        "output": "83"
+    },
+    {
+        "input": "80 # 2",
+        "output": "83"
+    },
+    {
+        "input": "0 # 83",
+        "output": "84"
+    },
+    {
+        "input": "1 # 82",
+        "output": "84"
+    },
+    {
+        "input": "3 # 80",
+        "output": "84"
+    },
+    {
+        "input": "7 # 76",
+        "output": "84"
+    },
+    {
+        "input": "9 # 74",
+        "output": "84"
+    },
+    {
+        "input": "14 # 69",
+        "output": "84"
+    },
+    {
+        "input": "15 # 68",
+        "output": "84"
+    },
+    {
+        "input": "16 # 67",
+        "output": "84"
+    },
+    {
+        "input": "17 # 66",
+        "output": "84"
+    },
+    {
+        "input": "20 # 63",
+        "output": "84"
+    },
+    {
+        "input": "21 # 62",
+        "output": "84"
+    },
+    {
+        "input": "24 # 59",
+        "output": "84"
+    },
+    {
+        "input": "26 # 57",
+        "output": "84"
+    },
+    {
+        "input": "35 # 48",
+        "output": "84"
+    },
+    {
+        "input": "36 # 47",
+        "output": "84"
+    },
+    {
+        "input": "37 # 46",
+        "output": "84"
+    },
+    {
+        "input": "39 # 44",
+        "output": "84"
+    },
+    {
+        "input": "40 # 43",
+        "output": "84"
+    },
+    {
+        "input": "42 # 41",
+        "output": "84"
+    },
+    {
+        "input": "43 # 40",
+        "output": "84"
+    },
+    {
+        "input": "45 # 38",
+        "output": "84"
+    },
+    {
+        "input": "46 # 37",
+        "output": "84"
+    },
+    {
+        "input": "47 # 36",
+        "output": "84"
+    },
+    {
+        "input": "48 # 35",
+        "output": "84"
+    },
+    {
+        "input": "51 # 32",
+        "output": "84"
+    },
+    {
+        "input": "52 # 31",
+        "output": "84"
+    },
+    {
+        "input": "55 # 28",
+        "output": "84"
+    },
+    {
+        "input": "58 # 25",
+        "output": "84"
+    },
+    {
+        "input": "59 # 24",
+        "output": "84"
+    },
+    {
+        "input": "60 # 23",
+        "output": "84"
+    },
+    {
+        "input": "63 # 20",
+        "output": "84"
+    },
+    {
+        "input": "64 # 19",
+        "output": "84"
+    },
+    {
+        "input": "65 # 18",
+        "output": "84"
+    },
+    {
+        "input": "68 # 15",
+        "output": "84"
+    },
+    {
+        "input": "69 # 14",
+        "output": "84"
+    },
+    {
+        "input": "71 # 12",
+        "output": "84"
+    },
+    {
+        "input": "72 # 11",
+        "output": "84"
+    },
+    {
+        "input": "73 # 10",
+        "output": "84"
+    },
+    {
+        "input": "75 # 8",
+        "output": "84"
+    },
+    {
+        "input": "76 # 7",
+        "output": "84"
+    },
+    {
+        "input": "78 # 5",
+        "output": "84"
+    },
+    {
+        "input": "80 # 3",
+        "output": "84"
+    },
+    {
+        "input": "81 # 2",
+        "output": "84"
+    },
+    {
+        "input": "82 # 1",
+        "output": "84"
+    },
+    {
+        "input": "0 # 84",
+        "output": "85"
+    },
+    {
+        "input": "2 # 82",
+        "output": "85"
+    },
+    {
+        "input": "8 # 76",
+        "output": "85"
+    },
+    {
+        "input": "9 # 75",
+        "output": "85"
+    },
+    {
+        "input": "11 # 73",
+        "output": "85"
+    },
+    {
+        "input": "12 # 72",
+        "output": "85"
+    },
+    {
+        "input": "13 # 71",
+        "output": "85"
+    },
+    {
+        "input": "14 # 70",
+        "output": "85"
+    },
+    {
+        "input": "15 # 69",
+        "output": "85"
+    },
+    {
+        "input": "17 # 67",
+        "output": "85"
+    },
+    {
+        "input": "19 # 65",
+        "output": "85"
+    },
+    {
+        "input": "21 # 63",
+        "output": "85"
+    },
+    {
+        "input": "22 # 62",
+        "output": "85"
+    },
+    {
+        "input": "24 # 60",
+        "output": "85"
+    },
+    {
+        "input": "25 # 59",
+        "output": "85"
+    },
+    {
+        "input": "26 # 58",
+        "output": "85"
+    },
+    {
+        "input": "27 # 57",
+        "output": "85"
+    },
+    {
+        "input": "29 # 55",
+        "output": "85"
+    },
+    {
+        "input": "31 # 53",
+        "output": "85"
+    },
+    {
+        "input": "32 # 52",
+        "output": "85"
+    },
+    {
+        "input": "34 # 50",
+        "output": "85"
+    },
+    {
+        "input": "35 # 49",
+        "output": "85"
+    },
+    {
+        "input": "37 # 47",
+        "output": "85"
+    },
+    {
+        "input": "39 # 45",
+        "output": "85"
+    },
+    {
+        "input": "40 # 44",
+        "output": "85"
+    },
+    {
+        "input": "41 # 43",
+        "output": "85"
+    },
+    {
+        "input": "42 # 42",
+        "output": "85"
+    },
+    {
+        "input": "43 # 41",
+        "output": "85"
+    },
+    {
+        "input": "44 # 40",
+        "output": "85"
+    },
+    {
+        "input": "46 # 38",
+        "output": "85"
+    },
+    {
+        "input": "49 # 35",
+        "output": "85"
+    },
+    {
+        "input": "50 # 34",
+        "output": "85"
+    },
+    {
+        "input": "53 # 31",
+        "output": "85"
+    },
+    {
+        "input": "55 # 29",
+        "output": "85"
+    },
+    {
+        "input": "56 # 28",
+        "output": "85"
+    },
+    {
+        "input": "59 # 25",
+        "output": "85"
+    },
+    {
+        "input": "60 # 24",
+        "output": "85"
+    },
+    {
+        "input": "64 # 20",
+        "output": "85"
+    },
+    {
+        "input": "65 # 19",
+        "output": "85"
+    },
+    {
+        "input": "66 # 18",
+        "output": "85"
+    },
+    {
+        "input": "68 # 16",
+        "output": "85"
+    },
+    {
+        "input": "69 # 15",
+        "output": "85"
+    },
+    {
+        "input": "70 # 14",
+        "output": "85"
+    },
+    {
+        "input": "71 # 13",
+        "output": "85"
+    },
+    {
+        "input": "72 # 12",
+        "output": "85"
+    },
+    {
+        "input": "78 # 6",
+        "output": "85"
+    },
+    {
+        "input": "80 # 4",
+        "output": "85"
+    },
+    {
+        "input": "82 # 2",
+        "output": "85"
+    },
+    {
+        "input": "1 # 84",
+        "output": "86"
+    },
+    {
+        "input": "2 # 83",
+        "output": "86"
+    },
+    {
+        "input": "3 # 82",
+        "output": "86"
+    },
+    {
+        "input": "6 # 79",
+        "output": "86"
+    },
+    {
+        "input": "8 # 77",
+        "output": "86"
+    },
+    {
+        "input": "9 # 76",
+        "output": "86"
+    },
+    {
+        "input": "14 # 71",
+        "output": "86"
+    },
+    {
+        "input": "15 # 70",
+        "output": "86"
+    },
+    {
+        "input": "16 # 69",
+        "output": "86"
+    },
+    {
+        "input": "21 # 64",
+        "output": "86"
+    },
+    {
+        "input": "23 # 62",
+        "output": "86"
+    },
+    {
+        "input": "24 # 61",
+        "output": "86"
+    },
+    {
+        "input": "25 # 60",
+        "output": "86"
+    },
+    {
+        "input": "28 # 57",
+        "output": "86"
+    },
+    {
+        "input": "30 # 55",
+        "output": "86"
+    },
+    {
+        "input": "31 # 54",
+        "output": "86"
+    },
+    {
+        "input": "32 # 53",
+        "output": "86"
+    },
+    {
+        "input": "33 # 52",
+        "output": "86"
+    },
+    {
+        "input": "35 # 50",
+        "output": "86"
+    },
+    {
+        "input": "36 # 49",
+        "output": "86"
+    },
+    {
+        "input": "37 # 48",
+        "output": "86"
+    },
+    {
+        "input": "38 # 47",
+        "output": "86"
+    },
+    {
+        "input": "39 # 46",
+        "output": "86"
+    },
+    {
+        "input": "40 # 45",
+        "output": "86"
+    },
+    {
+        "input": "44 # 41",
+        "output": "86"
+    },
+    {
+        "input": "46 # 39",
+        "output": "86"
+    },
+    {
+        "input": "49 # 36",
+        "output": "86"
+    },
+    {
+        "input": "50 # 35",
+        "output": "86"
+    },
+    {
+        "input": "51 # 34",
+        "output": "86"
+    },
+    {
+        "input": "57 # 28",
+        "output": "86"
+    },
+    {
+        "input": "60 # 25",
+        "output": "86"
+    },
+    {
+        "input": "62 # 23",
+        "output": "86"
+    },
+    {
+        "input": "64 # 21",
+        "output": "86"
+    },
+    {
+        "input": "65 # 20",
+        "output": "86"
+    },
+    {
+        "input": "66 # 19",
+        "output": "86"
+    },
+    {
+        "input": "73 # 12",
+        "output": "86"
+    },
+    {
+        "input": "74 # 11",
+        "output": "86"
+    },
+    {
+        "input": "75 # 10",
+        "output": "86"
+    },
+    {
+        "input": "79 # 6",
+        "output": "86"
+    },
+    {
+        "input": "84 # 1",
+        "output": "86"
+    },
+    {
+        "input": "0 # 86",
+        "output": "87"
+    },
+    {
+        "input": "2 # 84",
+        "output": "87"
+    },
+    {
+        "input": "4 # 82",
+        "output": "87"
+    },
+    {
+        "input": "6 # 80",
+        "output": "87"
+    },
+    {
+        "input": "7 # 79",
+        "output": "87"
+    },
+    {
+        "input": "8 # 78",
+        "output": "87"
+    },
+    {
+        "input": "9 # 77",
+        "output": "87"
+    },
+    {
+        "input": "11 # 75",
+        "output": "87"
+    },
+    {
+        "input": "13 # 73",
+        "output": "87"
+    },
+    {
+        "input": "14 # 72",
+        "output": "87"
+    },
+    {
+        "input": "15 # 71",
+        "output": "87"
+    },
+    {
+        "input": "20 # 66",
+        "output": "87"
+    },
+    {
+        "input": "26 # 60",
+        "output": "87"
+    },
+    {
+        "input": "27 # 59",
+        "output": "87"
+    },
+    {
+        "input": "31 # 55",
+        "output": "87"
+    },
+    {
+        "input": "33 # 53",
+        "output": "87"
+    },
+    {
+        "input": "34 # 52",
+        "output": "87"
+    },
+    {
+        "input": "36 # 50",
+        "output": "87"
+    },
+    {
+        "input": "37 # 49",
+        "output": "87"
+    },
+    {
+        "input": "38 # 48",
+        "output": "87"
+    },
+    {
+        "input": "39 # 47",
+        "output": "87"
+    },
+    {
+        "input": "41 # 45",
+        "output": "87"
+    },
+    {
+        "input": "42 # 44",
+        "output": "87"
+    },
+    {
+        "input": "44 # 42",
+        "output": "87"
+    },
+    {
+        "input": "45 # 41",
+        "output": "87"
+    },
+    {
+        "input": "47 # 39",
+        "output": "87"
+    },
+    {
+        "input": "49 # 37",
+        "output": "87"
+    },
+    {
+        "input": "50 # 36",
+        "output": "87"
+    },
+    {
+        "input": "52 # 34",
+        "output": "87"
+    },
+    {
+        "input": "53 # 33",
+        "output": "87"
+    },
+    {
+        "input": "57 # 29",
+        "output": "87"
+    },
+    {
+        "input": "58 # 28",
+        "output": "87"
+    },
+    {
+        "input": "60 # 26",
+        "output": "87"
+    },
+    {
+        "input": "61 # 25",
+        "output": "87"
+    },
+    {
+        "input": "62 # 24",
+        "output": "87"
+    },
+    {
+        "input": "64 # 22",
+        "output": "87"
+    },
+    {
+        "input": "65 # 21",
+        "output": "87"
+    },
+    {
+        "input": "66 # 20",
+        "output": "87"
+    },
+    {
+        "input": "67 # 19",
+        "output": "87"
+    },
+    {
+        "input": "69 # 17",
+        "output": "87"
+    },
+    {
+        "input": "73 # 13",
+        "output": "87"
+    },
+    {
+        "input": "74 # 12",
+        "output": "87"
+    },
+    {
+        "input": "77 # 9",
+        "output": "87"
+    },
+    {
+        "input": "79 # 7",
+        "output": "87"
+    },
+    {
+        "input": "81 # 5",
+        "output": "87"
+    },
+    {
+        "input": "84 # 2",
+        "output": "87"
+    },
+    {
+        "input": "85 # 1",
+        "output": "87"
+    },
+    {
+        "input": "0 # 87",
+        "output": "88"
+    },
+    {
+        "input": "1 # 86",
+        "output": "88"
+    },
+    {
+        "input": "3 # 84",
+        "output": "88"
+    },
+    {
+        "input": "4 # 83",
+        "output": "88"
+    },
+    {
+        "input": "5 # 82",
+        "output": "88"
+    },
+    {
+        "input": "9 # 78",
+        "output": "88"
+    },
+    {
+        "input": "19 # 68",
+        "output": "88"
+    },
+    {
+        "input": "20 # 67",
+        "output": "88"
+    },
+    {
+        "input": "21 # 66",
+        "output": "88"
+    },
+    {
+        "input": "22 # 65",
+        "output": "88"
+    },
+    {
+        "input": "25 # 62",
+        "output": "88"
+    },
+    {
+        "input": "26 # 61",
+        "output": "88"
+    },
+    {
+        "input": "29 # 58",
+        "output": "88"
+    },
+    {
+        "input": "30 # 57",
+        "output": "88"
+    },
+    {
+        "input": "33 # 54",
+        "output": "88"
+    },
+    {
+        "input": "36 # 51",
+        "output": "88"
+    },
+    {
+        "input": "37 # 50",
+        "output": "88"
+    },
+    {
+        "input": "39 # 48",
+        "output": "88"
+    },
+    {
+        "input": "40 # 47",
+        "output": "88"
+    },
+    {
+        "input": "41 # 46",
+        "output": "88"
+    },
+    {
+        "input": "42 # 45",
+        "output": "88"
+    },
+    {
+        "input": "44 # 43",
+        "output": "88"
+    },
+    {
+        "input": "49 # 38",
+        "output": "88"
+    },
+    {
+        "input": "50 # 37",
+        "output": "88"
+    },
+    {
+        "input": "52 # 35",
+        "output": "88"
+    },
+    {
+        "input": "53 # 34",
+        "output": "88"
+    },
+    {
+        "input": "61 # 26",
+        "output": "88"
+    },
+    {
+        "input": "62 # 25",
+        "output": "88"
+    },
+    {
+        "input": "63 # 24",
+        "output": "88"
+    },
+    {
+        "input": "66 # 21",
+        "output": "88"
+    },
+    {
+        "input": "69 # 18",
+        "output": "88"
+    },
+    {
+        "input": "70 # 17",
+        "output": "88"
+    },
+    {
+        "input": "71 # 16",
+        "output": "88"
+    },
+    {
+        "input": "73 # 14",
+        "output": "88"
+    },
+    {
+        "input": "75 # 12",
+        "output": "88"
+    },
+    {
+        "input": "76 # 11",
+        "output": "88"
+    },
+    {
+        "input": "78 # 9",
+        "output": "88"
+    },
+    {
+        "input": "79 # 8",
+        "output": "88"
+    },
+    {
+        "input": "83 # 4",
+        "output": "88"
+    },
+    {
+        "input": "86 # 1",
+        "output": "88"
+    },
+    {
+        "input": "0 # 88",
+        "output": "89"
+    },
+    {
+        "input": "5 # 83",
+        "output": "89"
+    },
+    {
+        "input": "7 # 81",
+        "output": "89"
+    },
+    {
+        "input": "9 # 79",
+        "output": "89"
+    },
+    {
+        "input": "10 # 78",
+        "output": "89"
+    },
+    {
+        "input": "14 # 74",
+        "output": "89"
+    },
+    {
+        "input": "15 # 73",
+        "output": "89"
+    },
+    {
+        "input": "20 # 68",
+        "output": "89"
+    },
+    {
+        "input": "22 # 66",
+        "output": "89"
+    },
+    {
+        "input": "23 # 65",
+        "output": "89"
+    },
+    {
+        "input": "24 # 64",
+        "output": "89"
+    },
+    {
+        "input": "25 # 63",
+        "output": "89"
+    },
+    {
+        "input": "26 # 62",
+        "output": "89"
+    },
+    {
+        "input": "28 # 60",
+        "output": "89"
+    },
+    {
+        "input": "30 # 58",
+        "output": "89"
+    },
+    {
+        "input": "34 # 54",
+        "output": "89"
+    },
+    {
+        "input": "35 # 53",
+        "output": "89"
+    },
+    {
+        "input": "36 # 52",
+        "output": "89"
+    },
+    {
+        "input": "37 # 51",
+        "output": "89"
+    },
+    {
+        "input": "40 # 48",
+        "output": "89"
+    },
+    {
+        "input": "42 # 46",
+        "output": "89"
+    },
+    {
+        "input": "44 # 44",
+        "output": "89"
+    },
+    {
+        "input": "46 # 42",
+        "output": "89"
+    },
+    {
+        "input": "49 # 39",
+        "output": "89"
+    },
+    {
+        "input": "51 # 37",
+        "output": "89"
+    },
+    {
+        "input": "52 # 36",
+        "output": "89"
+    },
+    {
+        "input": "53 # 35",
+        "output": "89"
+    },
+    {
+        "input": "54 # 34",
+        "output": "89"
+    },
+    {
+        "input": "58 # 30",
+        "output": "89"
+    },
+    {
+        "input": "61 # 27",
+        "output": "89"
+    },
+    {
+        "input": "63 # 25",
+        "output": "89"
+    },
+    {
+        "input": "65 # 23",
+        "output": "89"
+    },
+    {
+        "input": "69 # 19",
+        "output": "89"
+    },
+    {
+        "input": "70 # 18",
+        "output": "89"
+    },
+    {
+        "input": "73 # 15",
+        "output": "89"
+    },
+    {
+        "input": "75 # 13",
+        "output": "89"
+    },
+    {
+        "input": "76 # 12",
+        "output": "89"
+    },
+    {
+        "input": "77 # 11",
+        "output": "89"
+    },
+    {
+        "input": "79 # 9",
+        "output": "89"
+    },
+    {
+        "input": "84 # 4",
+        "output": "89"
+    },
+    {
+        "input": "85 # 3",
+        "output": "89"
+    },
+    {
+        "input": "86 # 2",
+        "output": "89"
+    },
+    {
+        "input": "0 # 89",
+        "output": "90"
+    },
+    {
+        "input": "1 # 88",
+        "output": "90"
+    },
+    {
+        "input": "4 # 85",
+        "output": "90"
+    },
+    {
+        "input": "6 # 83",
+        "output": "90"
+    },
+    {
+        "input": "7 # 82",
+        "output": "90"
+    },
+    {
+        "input": "11 # 78",
+        "output": "90"
+    },
+    {
+        "input": "14 # 75",
+        "output": "90"
+    },
+    {
+        "input": "15 # 74",
+        "output": "90"
+    },
+    {
+        "input": "17 # 72",
+        "output": "90"
+    },
+    {
+        "input": "19 # 70",
+        "output": "90"
+    },
+    {
+        "input": "21 # 68",
+        "output": "90"
+    },
+    {
+        "input": "23 # 66",
+        "output": "90"
+    },
+    {
+        "input": "24 # 65",
+        "output": "90"
+    },
+    {
+        "input": "25 # 64",
+        "output": "90"
+    },
+    {
+        "input": "27 # 62",
+        "output": "90"
+    },
+    {
+        "input": "28 # 61",
+        "output": "90"
+    },
+    {
+        "input": "29 # 60",
+        "output": "90"
+    },
+    {
+        "input": "30 # 59",
+        "output": "90"
+    },
+    {
+        "input": "31 # 58",
+        "output": "90"
+    },
+    {
+        "input": "35 # 54",
+        "output": "90"
+    },
+    {
+        "input": "38 # 51",
+        "output": "90"
+    },
+    {
+        "input": "40 # 49",
+        "output": "90"
+    },
+    {
+        "input": "41 # 48",
+        "output": "90"
+    },
+    {
+        "input": "43 # 46",
+        "output": "90"
+    },
+    {
+        "input": "45 # 44",
+        "output": "90"
+    },
+    {
+        "input": "49 # 40",
+        "output": "90"
+    },
+    {
+        "input": "53 # 36",
+        "output": "90"
+    },
+    {
+        "input": "54 # 35",
+        "output": "90"
+    },
+    {
+        "input": "55 # 34",
+        "output": "90"
+    },
+    {
+        "input": "59 # 30",
+        "output": "90"
+    },
+    {
+        "input": "60 # 29",
+        "output": "90"
+    },
+    {
+        "input": "62 # 27",
+        "output": "90"
+    },
+    {
+        "input": "64 # 25",
+        "output": "90"
+    },
+    {
+        "input": "65 # 24",
+        "output": "90"
+    },
+    {
+        "input": "66 # 23",
+        "output": "90"
+    },
+    {
+        "input": "70 # 19",
+        "output": "90"
+    },
+    {
+        "input": "71 # 18",
+        "output": "90"
+    },
+    {
+        "input": "72 # 17",
+        "output": "90"
+    },
+    {
+        "input": "77 # 12",
+        "output": "90"
+    },
+    {
+        "input": "79 # 10",
+        "output": "90"
+    },
+    {
+        "input": "80 # 9",
+        "output": "90"
+    },
+    {
+        "input": "82 # 7",
+        "output": "90"
+    },
+    {
+        "input": "83 # 6",
+        "output": "90"
+    },
+    {
+        "input": "84 # 5",
+        "output": "90"
+    },
+    {
+        "input": "85 # 4",
+        "output": "90"
+    },
+    {
+        "input": "1 # 89",
+        "output": "91"
+    },
+    {
+        "input": "2 # 88",
+        "output": "91"
+    },
+    {
+        "input": "11 # 79",
+        "output": "91"
+    },
+    {
+        "input": "15 # 75",
+        "output": "91"
+    },
+    {
+        "input": "16 # 74",
+        "output": "91"
+    },
+    {
+        "input": "17 # 73",
+        "output": "91"
+    },
+    {
+        "input": "19 # 71",
+        "output": "91"
+    },
+    {
+        "input": "21 # 69",
+        "output": "91"
+    },
+    {
+        "input": "22 # 68",
+        "output": "91"
+    },
+    {
+        "input": "24 # 66",
+        "output": "91"
+    },
+    {
+        "input": "26 # 64",
+        "output": "91"
+    },
+    {
+        "input": "28 # 62",
+        "output": "91"
+    },
+    {
+        "input": "29 # 61",
+        "output": "91"
+    },
+    {
+        "input": "30 # 60",
+        "output": "91"
+    },
+    {
+        "input": "35 # 55",
+        "output": "91"
+    },
+    {
+        "input": "37 # 53",
+        "output": "91"
+    },
+    {
+        "input": "38 # 52",
+        "output": "91"
+    },
+    {
+        "input": "39 # 51",
+        "output": "91"
+    },
+    {
+        "input": "41 # 49",
+        "output": "91"
+    },
+    {
+        "input": "43 # 47",
+        "output": "91"
+    },
+    {
+        "input": "44 # 46",
+        "output": "91"
+    },
+    {
+        "input": "46 # 44",
+        "output": "91"
+    },
+    {
+        "input": "51 # 39",
+        "output": "91"
+    },
+    {
+        "input": "54 # 36",
+        "output": "91"
+    },
+    {
+        "input": "55 # 35",
+        "output": "91"
+    },
+    {
+        "input": "57 # 33",
+        "output": "91"
+    },
+    {
+        "input": "58 # 32",
+        "output": "91"
+    },
+    {
+        "input": "61 # 29",
+        "output": "91"
+    },
+    {
+        "input": "62 # 28",
+        "output": "91"
+    },
+    {
+        "input": "64 # 26",
+        "output": "91"
+    },
+    {
+        "input": "65 # 25",
+        "output": "91"
+    },
+    {
+        "input": "66 # 24",
+        "output": "91"
+    },
+    {
+        "input": "67 # 23",
+        "output": "91"
+    },
+    {
+        "input": "69 # 21",
+        "output": "91"
+    },
+    {
+        "input": "72 # 18",
+        "output": "91"
+    },
+    {
+        "input": "74 # 16",
+        "output": "91"
+    },
+    {
+        "input": "78 # 12",
+        "output": "91"
+    },
+    {
+        "input": "79 # 11",
+        "output": "91"
+    },
+    {
+        "input": "83 # 7",
+        "output": "91"
+    },
+    {
+        "input": "85 # 5",
+        "output": "91"
+    },
+    {
+        "input": "86 # 4",
+        "output": "91"
+    },
+    {
+        "input": "1 # 90",
+        "output": "92"
+    },
+    {
+        "input": "2 # 89",
+        "output": "92"
+    },
+    {
+        "input": "5 # 86",
+        "output": "92"
+    },
+    {
+        "input": "8 # 83",
+        "output": "92"
+    },
+    {
+        "input": "10 # 81",
+        "output": "92"
+    },
+    {
+        "input": "11 # 80",
+        "output": "92"
+    },
+    {
+        "input": "15 # 76",
+        "output": "92"
+    },
+    {
+        "input": "17 # 74",
+        "output": "92"
+    },
+    {
+        "input": "18 # 73",
+        "output": "92"
+    },
+    {
+        "input": "19 # 72",
+        "output": "92"
+    },
+    {
+        "input": "21 # 70",
+        "output": "92"
+    },
+    {
+        "input": "22 # 69",
+        "output": "92"
+    },
+    {
+        "input": "29 # 62",
+        "output": "92"
+    },
+    {
+        "input": "30 # 61",
+        "output": "92"
+    },
+    {
+        "input": "31 # 60",
+        "output": "92"
+    },
+    {
+        "input": "36 # 55",
+        "output": "92"
+    },
+    {
+        "input": "39 # 52",
+        "output": "92"
+    },
+    {
+        "input": "41 # 50",
+        "output": "92"
+    },
+    {
+        "input": "42 # 49",
+        "output": "92"
+    },
+    {
+        "input": "43 # 48",
+        "output": "92"
+    },
+    {
+        "input": "44 # 47",
+        "output": "92"
+    },
+    {
+        "input": "45 # 46",
+        "output": "92"
+    },
+    {
+        "input": "46 # 45",
+        "output": "92"
+    },
+    {
+        "input": "48 # 43",
+        "output": "92"
+    },
+    {
+        "input": "50 # 41",
+        "output": "92"
+    },
+    {
+        "input": "51 # 40",
+        "output": "92"
+    },
+    {
+        "input": "52 # 39",
+        "output": "92"
+    },
+    {
+        "input": "55 # 36",
+        "output": "92"
+    },
+    {
+        "input": "59 # 32",
+        "output": "92"
+    },
+    {
+        "input": "62 # 29",
+        "output": "92"
+    },
+    {
+        "input": "64 # 27",
+        "output": "92"
+    },
+    {
+        "input": "67 # 24",
+        "output": "92"
+    },
+    {
+        "input": "68 # 23",
+        "output": "92"
+    },
+    {
+        "input": "70 # 21",
+        "output": "92"
+    },
+    {
+        "input": "71 # 20",
+        "output": "92"
+    },
+    {
+        "input": "72 # 19",
+        "output": "92"
+    },
+    {
+        "input": "76 # 15",
+        "output": "92"
+    },
+    {
+        "input": "78 # 13",
+        "output": "92"
+    },
+    {
+        "input": "81 # 10",
+        "output": "92"
+    },
+    {
+        "input": "82 # 9",
+        "output": "92"
+    },
+    {
+        "input": "87 # 4",
+        "output": "92"
+    },
+    {
+        "input": "89 # 2",
+        "output": "92"
+    },
+    {
+        "input": "0 # 92",
+        "output": "93"
+    },
+    {
+        "input": "1 # 91",
+        "output": "93"
+    },
+    {
+        "input": "3 # 89",
+        "output": "93"
+    },
+    {
+        "input": "8 # 84",
+        "output": "93"
+    },
+    {
+        "input": "12 # 80",
+        "output": "93"
+    },
+    {
+        "input": "15 # 77",
+        "output": "93"
+    },
+    {
+        "input": "16 # 76",
+        "output": "93"
+    },
+    {
+        "input": "18 # 74",
+        "output": "93"
+    },
+    {
+        "input": "19 # 73",
+        "output": "93"
+    },
+    {
+        "input": "20 # 72",
+        "output": "93"
+    },
+    {
+        "input": "21 # 71",
+        "output": "93"
+    },
+    {
+        "input": "22 # 70",
+        "output": "93"
+    },
+    {
+        "input": "23 # 69",
+        "output": "93"
+    },
+    {
+        "input": "24 # 68",
+        "output": "93"
+    },
+    {
+        "input": "25 # 67",
+        "output": "93"
+    },
+    {
+        "input": "26 # 66",
+        "output": "93"
+    },
+    {
+        "input": "27 # 65",
+        "output": "93"
+    },
+    {
+        "input": "30 # 62",
+        "output": "93"
+    },
+    {
+        "input": "31 # 61",
+        "output": "93"
+    },
+    {
+        "input": "32 # 60",
+        "output": "93"
+    },
+    {
+        "input": "39 # 53",
+        "output": "93"
+    },
+    {
+        "input": "40 # 52",
+        "output": "93"
+    },
+    {
+        "input": "43 # 49",
+        "output": "93"
+    },
+    {
+        "input": "45 # 47",
+        "output": "93"
+    },
+    {
+        "input": "47 # 45",
+        "output": "93"
+    },
+    {
+        "input": "48 # 44",
+        "output": "93"
+    },
+    {
+        "input": "51 # 41",
+        "output": "93"
+    },
+    {
+        "input": "55 # 37",
+        "output": "93"
+    },
+    {
+        "input": "56 # 36",
+        "output": "93"
+    },
+    {
+        "input": "57 # 35",
+        "output": "93"
+    },
+    {
+        "input": "58 # 34",
+        "output": "93"
+    },
+    {
+        "input": "59 # 33",
+        "output": "93"
+    },
+    {
+        "input": "60 # 32",
+        "output": "93"
+    },
+    {
+        "input": "67 # 25",
+        "output": "93"
+    },
+    {
+        "input": "68 # 24",
+        "output": "93"
+    },
+    {
+        "input": "69 # 23",
+        "output": "93"
+    },
+    {
+        "input": "73 # 19",
+        "output": "93"
+    },
+    {
+        "input": "74 # 18",
+        "output": "93"
+    },
+    {
+        "input": "80 # 12",
+        "output": "93"
+    },
+    {
+        "input": "81 # 11",
+        "output": "93"
+    },
+    {
+        "input": "83 # 9",
+        "output": "93"
+    },
+    {
+        "input": "85 # 7",
+        "output": "93"
+    },
+    {
+        "input": "87 # 5",
+        "output": "93"
+    },
+    {
+        "input": "88 # 4",
+        "output": "93"
+    },
+    {
+        "input": "89 # 3",
+        "output": "93"
+    },
+    {
+        "input": "90 # 2",
+        "output": "93"
+    },
+    {
+        "input": "91 # 1",
+        "output": "93"
+    },
+    {
+        "input": "0 # 93",
+        "output": "94"
+    },
+    {
+        "input": "2 # 91",
+        "output": "94"
+    },
+    {
+        "input": "6 # 87",
+        "output": "94"
+    },
+    {
+        "input": "11 # 82",
+        "output": "94"
+    },
+    {
+        "input": "12 # 81",
+        "output": "94"
+    },
+    {
+        "input": "19 # 74",
+        "output": "94"
+    },
+    {
+        "input": "20 # 73",
+        "output": "94"
+    },
+    {
+        "input": "21 # 72",
+        "output": "94"
+    },
+    {
+        "input": "24 # 69",
+        "output": "94"
+    },
+    {
+        "input": "28 # 65",
+        "output": "94"
+    },
+    {
+        "input": "29 # 64",
+        "output": "94"
+    },
+    {
+        "input": "30 # 63",
+        "output": "94"
+    },
+    {
+        "input": "32 # 61",
+        "output": "94"
+    },
+    {
+        "input": "34 # 59",
+        "output": "94"
+    },
+    {
+        "input": "36 # 57",
+        "output": "94"
+    },
+    {
+        "input": "37 # 56",
+        "output": "94"
+    },
+    {
+        "input": "38 # 55",
+        "output": "94"
+    },
+    {
+        "input": "39 # 54",
+        "output": "94"
+    },
+    {
+        "input": "40 # 53",
+        "output": "94"
+    },
+    {
+        "input": "41 # 52",
+        "output": "94"
+    },
+    {
+        "input": "44 # 49",
+        "output": "94"
+    },
+    {
+        "input": "45 # 48",
+        "output": "94"
+    },
+    {
+        "input": "46 # 47",
+        "output": "94"
+    },
+    {
+        "input": "47 # 46",
+        "output": "94"
+    },
+    {
+        "input": "49 # 44",
+        "output": "94"
+    },
+    {
+        "input": "51 # 42",
+        "output": "94"
+    },
+    {
+        "input": "54 # 39",
+        "output": "94"
+    },
+    {
+        "input": "57 # 36",
+        "output": "94"
+    },
+    {
+        "input": "60 # 33",
+        "output": "94"
+    },
+    {
+        "input": "63 # 30",
+        "output": "94"
+    },
+    {
+        "input": "65 # 28",
+        "output": "94"
+    },
+    {
+        "input": "66 # 27",
+        "output": "94"
+    },
+    {
+        "input": "70 # 23",
+        "output": "94"
+    },
+    {
+        "input": "71 # 22",
+        "output": "94"
+    },
+    {
+        "input": "73 # 20",
+        "output": "94"
+    },
+    {
+        "input": "75 # 18",
+        "output": "94"
+    },
+    {
+        "input": "76 # 17",
+        "output": "94"
+    },
+    {
+        "input": "78 # 15",
+        "output": "94"
+    },
+    {
+        "input": "82 # 11",
+        "output": "94"
+    },
+    {
+        "input": "83 # 10",
+        "output": "94"
+    },
+    {
+        "input": "84 # 9",
+        "output": "94"
+    },
+    {
+        "input": "86 # 7",
+        "output": "94"
+    },
+    {
+        "input": "87 # 6",
+        "output": "94"
+    },
+    {
+        "input": "89 # 4",
+        "output": "94"
+    },
+    {
+        "input": "91 # 2",
+        "output": "94"
+    },
+    {
+        "input": "1 # 93",
+        "output": "95"
+    },
+    {
+        "input": "3 # 91",
+        "output": "95"
+    },
+    {
+        "input": "4 # 90",
+        "output": "95"
+    },
+    {
+        "input": "8 # 86",
+        "output": "95"
+    },
+    {
+        "input": "10 # 84",
+        "output": "95"
+    },
+    {
+        "input": "13 # 81",
+        "output": "95"
+    },
+    {
+        "input": "16 # 78",
+        "output": "95"
+    },
+    {
+        "input": "19 # 75",
+        "output": "95"
+    },
+    {
+        "input": "20 # 74",
+        "output": "95"
+    },
+    {
+        "input": "21 # 73",
+        "output": "95"
+    },
+    {
+        "input": "22 # 72",
+        "output": "95"
+    },
+    {
+        "input": "26 # 68",
+        "output": "95"
+    },
+    {
+        "input": "30 # 64",
+        "output": "95"
+    },
+    {
+        "input": "31 # 63",
+        "output": "95"
+    },
+    {
+        "input": "34 # 60",
+        "output": "95"
+    },
+    {
+        "input": "35 # 59",
+        "output": "95"
+    },
+    {
+        "input": "37 # 57",
+        "output": "95"
+    },
+    {
+        "input": "38 # 56",
+        "output": "95"
+    },
+    {
+        "input": "41 # 53",
+        "output": "95"
+    },
+    {
+        "input": "47 # 47",
+        "output": "95"
+    },
+    {
+        "input": "48 # 46",
+        "output": "95"
+    },
+    {
+        "input": "49 # 45",
+        "output": "95"
+    },
+    {
+        "input": "50 # 44",
+        "output": "95"
+    },
+    {
+        "input": "52 # 42",
+        "output": "95"
+    },
+    {
+        "input": "55 # 39",
+        "output": "95"
+    },
+    {
+        "input": "56 # 38",
+        "output": "95"
+    },
+    {
+        "input": "57 # 37",
+        "output": "95"
+    },
+    {
+        "input": "59 # 35",
+        "output": "95"
+    },
+    {
+        "input": "62 # 32",
+        "output": "95"
+    },
+    {
+        "input": "63 # 31",
+        "output": "95"
+    },
+    {
+        "input": "65 # 29",
+        "output": "95"
+    },
+    {
+        "input": "68 # 26",
+        "output": "95"
+    },
+    {
+        "input": "69 # 25",
+        "output": "95"
+    },
+    {
+        "input": "71 # 23",
+        "output": "95"
+    },
+    {
+        "input": "73 # 21",
+        "output": "95"
+    },
+    {
+        "input": "76 # 18",
+        "output": "95"
+    },
+    {
+        "input": "77 # 17",
+        "output": "95"
+    },
+    {
+        "input": "83 # 11",
+        "output": "95"
+    },
+    {
+        "input": "84 # 10",
+        "output": "95"
+    },
+    {
+        "input": "86 # 8",
+        "output": "95"
+    },
+    {
+        "input": "87 # 7",
+        "output": "95"
+    },
+    {
+        "input": "88 # 6",
+        "output": "95"
+    },
+    {
+        "input": "3 # 92",
+        "output": "96"
+    },
+    {
+        "input": "4 # 91",
+        "output": "96"
+    },
+    {
+        "input": "6 # 89",
+        "output": "96"
+    },
+    {
+        "input": "7 # 88",
+        "output": "96"
+    },
+    {
+        "input": "9 # 86",
+        "output": "96"
+    },
+    {
+        "input": "10 # 85",
+        "output": "96"
+    },
+    {
+        "input": "18 # 77",
+        "output": "96"
+    },
+    {
+        "input": "21 # 74",
+        "output": "96"
+    },
+    {
+        "input": "22 # 73",
+        "output": "96"
+    },
+    {
+        "input": "23 # 72",
+        "output": "96"
+    },
+    {
+        "input": "24 # 71",
+        "output": "96"
+    },
+    {
+        "input": "26 # 69",
+        "output": "96"
+    },
+    {
+        "input": "29 # 66",
+        "output": "96"
+    },
+    {
+        "input": "30 # 65",
+        "output": "96"
+    },
+    {
+        "input": "31 # 64",
+        "output": "96"
+    },
+    {
+        "input": "32 # 63",
+        "output": "96"
+    },
+    {
+        "input": "33 # 62",
+        "output": "96"
+    },
+    {
+        "input": "35 # 60",
+        "output": "96"
+    },
+    {
+        "input": "36 # 59",
+        "output": "96"
+    },
+    {
+        "input": "37 # 58",
+        "output": "96"
+    },
+    {
+        "input": "38 # 57",
+        "output": "96"
+    },
+    {
+        "input": "41 # 54",
+        "output": "96"
+    },
+    {
+        "input": "42 # 53",
+        "output": "96"
+    },
+    {
+        "input": "43 # 52",
+        "output": "96"
+    },
+    {
+        "input": "44 # 51",
+        "output": "96"
+    },
+    {
+        "input": "48 # 47",
+        "output": "96"
+    },
+    {
+        "input": "49 # 46",
+        "output": "96"
+    },
+    {
+        "input": "51 # 44",
+        "output": "96"
+    },
+    {
+        "input": "52 # 43",
+        "output": "96"
+    },
+    {
+        "input": "56 # 39",
+        "output": "96"
+    },
+    {
+        "input": "57 # 38",
+        "output": "96"
+    },
+    {
+        "input": "58 # 37",
+        "output": "96"
+    },
+    {
+        "input": "62 # 33",
+        "output": "96"
+    },
+    {
+        "input": "63 # 32",
+        "output": "96"
+    },
+    {
+        "input": "64 # 31",
+        "output": "96"
+    },
+    {
+        "input": "66 # 29",
+        "output": "96"
+    },
+    {
+        "input": "69 # 26",
+        "output": "96"
+    },
+    {
+        "input": "70 # 25",
+        "output": "96"
+    },
+    {
+        "input": "74 # 21",
+        "output": "96"
+    },
+    {
+        "input": "75 # 20",
+        "output": "96"
+    },
+    {
+        "input": "79 # 16",
+        "output": "96"
+    },
+    {
+        "input": "83 # 12",
+        "output": "96"
+    },
+    {
+        "input": "84 # 11",
+        "output": "96"
+    },
+    {
+        "input": "85 # 10",
+        "output": "96"
+    },
+    {
+        "input": "86 # 9",
+        "output": "96"
+    },
+    {
+        "input": "88 # 7",
+        "output": "96"
+    },
+    {
+        "input": "89 # 6",
+        "output": "96"
+    },
+    {
+        "input": "92 # 3",
+        "output": "96"
+    },
+    {
+        "input": "2 # 94",
+        "output": "97"
+    },
+    {
+        "input": "4 # 92",
+        "output": "97"
+    },
+    {
+        "input": "5 # 91",
+        "output": "97"
+    },
+    {
+        "input": "6 # 90",
+        "output": "97"
+    },
+    {
+        "input": "8 # 88",
+        "output": "97"
+    },
+    {
+        "input": "9 # 87",
+        "output": "97"
+    },
+    {
+        "input": "10 # 86",
+        "output": "97"
+    },
+    {
+        "input": "11 # 85",
+        "output": "97"
+    },
+    {
+        "input": "13 # 83",
+        "output": "97"
+    },
+    {
+        "input": "15 # 81",
+        "output": "97"
+    },
+    {
+        "input": "20 # 76",
+        "output": "97"
+    },
+    {
+        "input": "21 # 75",
+        "output": "97"
+    },
+    {
+        "input": "23 # 73",
+        "output": "97"
+    },
+    {
+        "input": "25 # 71",
+        "output": "97"
+    },
+    {
+        "input": "35 # 61",
+        "output": "97"
+    },
+    {
+        "input": "39 # 57",
+        "output": "97"
+    },
+    {
+        "input": "41 # 55",
+        "output": "97"
+    },
+    {
+        "input": "42 # 54",
+        "output": "97"
+    },
+    {
+        "input": "43 # 53",
+        "output": "97"
+    },
+    {
+        "input": "48 # 48",
+        "output": "97"
+    },
+    {
+        "input": "49 # 47",
+        "output": "97"
+    },
+    {
+        "input": "51 # 45",
+        "output": "97"
+    },
+    {
+        "input": "52 # 44",
+        "output": "97"
+    },
+    {
+        "input": "54 # 42",
+        "output": "97"
+    },
+    {
+        "input": "55 # 41",
+        "output": "97"
+    },
+    {
+        "input": "56 # 40",
+        "output": "97"
+    },
+    {
+        "input": "72 # 24",
+        "output": "97"
+    },
+    {
+        "input": "75 # 21",
+        "output": "97"
+    },
+    {
+        "input": "76 # 20",
+        "output": "97"
+    },
+    {
+        "input": "78 # 18",
+        "output": "97"
+    },
+    {
+        "input": "81 # 15",
+        "output": "97"
+    },
+    {
+        "input": "82 # 14",
+        "output": "97"
+    },
+    {
+        "input": "85 # 11",
+        "output": "97"
+    },
+    {
+        "input": "86 # 10",
+        "output": "97"
+    },
+    {
+        "input": "87 # 9",
+        "output": "97"
+    },
+    {
+        "input": "88 # 8",
+        "output": "97"
+    },
+    {
+        "input": "89 # 7",
+        "output": "97"
+    },
+    {
+        "input": "1 # 96",
+        "output": "98"
+    },
+    {
+        "input": "3 # 94",
+        "output": "98"
+    },
+    {
+        "input": "6 # 91",
+        "output": "98"
+    },
+    {
+        "input": "8 # 89",
+        "output": "98"
+    },
+    {
+        "input": "10 # 87",
+        "output": "98"
+    },
+    {
+        "input": "12 # 85",
+        "output": "98"
+    },
+    {
+        "input": "13 # 84",
+        "output": "98"
+    },
+    {
+        "input": "15 # 82",
+        "output": "98"
+    },
+    {
+        "input": "18 # 79",
+        "output": "98"
+    },
+    {
+        "input": "20 # 77",
+        "output": "98"
+    },
+    {
+        "input": "21 # 76",
+        "output": "98"
+    },
+    {
+        "input": "24 # 73",
+        "output": "98"
+    },
+    {
+        "input": "25 # 72",
+        "output": "98"
+    },
+    {
+        "input": "28 # 69",
+        "output": "98"
+    },
+    {
+        "input": "29 # 68",
+        "output": "98"
+    },
+    {
+        "input": "30 # 67",
+        "output": "98"
+    },
+    {
+        "input": "31 # 66",
+        "output": "98"
+    },
+    {
+        "input": "32 # 65",
+        "output": "98"
+    },
+    {
+        "input": "34 # 63",
+        "output": "98"
+    },
+    {
+        "input": "36 # 61",
+        "output": "98"
+    },
+    {
+        "input": "37 # 60",
+        "output": "98"
+    },
+    {
+        "input": "41 # 56",
+        "output": "98"
+    },
+    {
+        "input": "43 # 54",
+        "output": "98"
+    },
+    {
+        "input": "47 # 50",
+        "output": "98"
+    },
+    {
+        "input": "49 # 48",
+        "output": "98"
+    },
+    {
+        "input": "51 # 46",
+        "output": "98"
+    },
+    {
+        "input": "53 # 44",
+        "output": "98"
+    },
+    {
+        "input": "54 # 43",
+        "output": "98"
+    },
+    {
+        "input": "60 # 37",
+        "output": "98"
+    },
+    {
+        "input": "63 # 34",
+        "output": "98"
+    },
+    {
+        "input": "67 # 30",
+        "output": "98"
+    },
+    {
+        "input": "68 # 29",
+        "output": "98"
+    },
+    {
+        "input": "71 # 26",
+        "output": "98"
+    },
+    {
+        "input": "72 # 25",
+        "output": "98"
+    },
+    {
+        "input": "73 # 24",
+        "output": "98"
+    },
+    {
+        "input": "74 # 23",
+        "output": "98"
+    },
+    {
+        "input": "75 # 22",
+        "output": "98"
+    },
+    {
+        "input": "76 # 21",
+        "output": "98"
+    },
+    {
+        "input": "77 # 20",
+        "output": "98"
+    },
+    {
+        "input": "78 # 19",
+        "output": "98"
+    },
+    {
+        "input": "79 # 18",
+        "output": "98"
+    },
+    {
+        "input": "80 # 17",
+        "output": "98"
+    },
+    {
+        "input": "81 # 16",
+        "output": "98"
+    },
+    {
+        "input": "82 # 15",
+        "output": "98"
+    },
+    {
+        "input": "84 # 13",
+        "output": "98"
+    },
+    {
+        "input": "85 # 12",
+        "output": "98"
+    },
+    {
+        "input": "86 # 11",
+        "output": "98"
+    },
+    {
+        "input": "87 # 10",
+        "output": "98"
+    },
+    {
+        "input": "89 # 8",
+        "output": "98"
+    },
+    {
+        "input": "90 # 7",
+        "output": "98"
+    },
+    {
+        "input": "93 # 4",
+        "output": "98"
+    },
+    {
+        "input": "94 # 3",
+        "output": "98"
+    },
+    {
+        "input": "95 # 2",
+        "output": "98"
+    },
+    {
+        "input": "96 # 1",
+        "output": "98"
+    },
+    {
+        "input": "2 # 96",
+        "output": "99"
+    },
+    {
+        "input": "4 # 94",
+        "output": "99"
+    },
+    {
+        "input": "5 # 93",
+        "output": "99"
+    },
+    {
+        "input": "8 # 90",
+        "output": "99"
+    },
+    {
+        "input": "9 # 89",
+        "output": "99"
+    },
+    {
+        "input": "10 # 88",
+        "output": "99"
+    },
+    {
+        "input": "11 # 87",
+        "output": "99"
+    },
+    {
+        "input": "12 # 86",
+        "output": "99"
+    },
+    {
+        "input": "13 # 85",
+        "output": "99"
+    },
+    {
+        "input": "14 # 84",
+        "output": "99"
+    },
+    {
+        "input": "16 # 82",
+        "output": "99"
+    },
+    {
+        "input": "17 # 81",
+        "output": "99"
+    },
+    {
+        "input": "23 # 75",
+        "output": "99"
+    },
+    {
+        "input": "25 # 73",
+        "output": "99"
+    },
+    {
+        "input": "26 # 72",
+        "output": "99"
+    },
+    {
+        "input": "27 # 71",
+        "output": "99"
+    },
+    {
+        "input": "29 # 69",
+        "output": "99"
+    },
+    {
+        "input": "30 # 68",
+        "output": "99"
+    },
+    {
+        "input": "32 # 66",
+        "output": "99"
+    },
+    {
+        "input": "37 # 61",
+        "output": "99"
+    },
+    {
+        "input": "40 # 58",
+        "output": "99"
+    },
+    {
+        "input": "41 # 57",
+        "output": "99"
+    },
+    {
+        "input": "44 # 54",
+        "output": "99"
+    },
+    {
+        "input": "47 # 51",
+        "output": "99"
+    },
+    {
+        "input": "48 # 50",
+        "output": "99"
+    },
+    {
+        "input": "49 # 49",
+        "output": "99"
+    },
+    {
+        "input": "51 # 47",
+        "output": "99"
+    },
+    {
+        "input": "52 # 46",
+        "output": "99"
+    },
+    {
+        "input": "53 # 45",
+        "output": "99"
+    },
+    {
+        "input": "55 # 43",
+        "output": "99"
+    },
+    {
+        "input": "58 # 40",
+        "output": "99"
+    },
+    {
+        "input": "59 # 39",
+        "output": "99"
+    },
+    {
+        "input": "60 # 38",
+        "output": "99"
+    },
+    {
+        "input": "61 # 37",
+        "output": "99"
+    },
+    {
+        "input": "62 # 36",
+        "output": "99"
+    },
+    {
+        "input": "63 # 35",
+        "output": "99"
+    },
+    {
+        "input": "64 # 34",
+        "output": "99"
+    },
+    {
+        "input": "65 # 33",
+        "output": "99"
+    },
+    {
+        "input": "67 # 31",
+        "output": "99"
+    },
+    {
+        "input": "68 # 30",
+        "output": "99"
+    },
+    {
+        "input": "69 # 29",
+        "output": "99"
+    },
+    {
+        "input": "70 # 28",
+        "output": "99"
+    },
+    {
+        "input": "74 # 24",
+        "output": "99"
+    },
+    {
+        "input": "75 # 23",
+        "output": "99"
+    },
+    {
+        "input": "76 # 22",
+        "output": "99"
+    },
+    {
+        "input": "78 # 20",
+        "output": "99"
+    },
+    {
+        "input": "82 # 16",
+        "output": "99"
+    },
+    {
+        "input": "84 # 14",
+        "output": "99"
+    },
+    {
+        "input": "86 # 12",
+        "output": "99"
+    },
+    {
+        "input": "87 # 11",
+        "output": "99"
+    },
+    {
+        "input": "88 # 10",
+        "output": "99"
+    },
+    {
+        "input": "90 # 8",
+        "output": "99"
+    },
+    {
+        "input": "91 # 7",
+        "output": "99"
+    },
+    {
+        "input": "92 # 6",
+        "output": "99"
+    },
+    {
+        "input": "93 # 5",
+        "output": "99"
+    },
+    {
+        "input": "95 # 3",
+        "output": "99"
+    },
+    {
+        "input": "96 # 2",
+        "output": "99"
+    },
+    {
+        "input": "97 # 1",
+        "output": "99"
+    }
+]

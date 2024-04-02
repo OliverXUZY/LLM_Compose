@@ -1,0 +1,5942 @@
+[
+    {
+        "input": "sixteen@fifty-one",
+        "output": "sixty-seven"
+    },
+    {
+        "input": "eighteen@sixty-five",
+        "output": "eighty-three"
+    },
+    {
+        "input": "eighty-one@eight",
+        "output": "eighty-nine"
+    },
+    {
+        "input": "thirty@thirty-five",
+        "output": "sixty-five"
+    },
+    {
+        "input": "four@thirty-three",
+        "output": "thirty-seven"
+    },
+    {
+        "input": "sixty-eight@two",
+        "output": "seventy"
+    },
+    {
+        "input": "seventy-three@one",
+        "output": "seventy-four"
+    },
+    {
+        "input": "five@fourteen",
+        "output": "nineteen"
+    },
+    {
+        "input": "thirty-one@three",
+        "output": "thirty-four"
+    },
+    {
+        "input": "fifty-one@thirty-eight",
+        "output": "eighty-nine"
+    },
+    {
+        "input": "twelve@one",
+        "output": "thirteen"
+    },
+    {
+        "input": "thirty-seven@six",
+        "output": "forty-three"
+    },
+    {
+        "input": "forty-seven@twenty-one",
+        "output": "sixty-eight"
+    },
+    {
+        "input": "eighteen@twenty-six",
+        "output": "forty-four"
+    },
+    {
+        "input": "sixty-three@eight",
+        "output": "seventy-one"
+    },
+    {
+        "input": "sixteen@eight",
+        "output": "twenty-four"
+    },
+    {
+        "input": "seventeen@sixteen",
+        "output": "thirty-three"
+    },
+    {
+        "input": "twenty-five@twenty-two",
+        "output": "forty-seven"
+    },
+    {
+        "input": "thirteen@fifty-four",
+        "output": "sixty-seven"
+    },
+    {
+        "input": "thirty-seven@thirteen",
+        "output": "fifty"
+    },
+    {
+        "input": "seventeen@forty-two",
+        "output": "fifty-nine"
+    },
+    {
+        "input": "twenty-three@sixty-one",
+        "output": "eighty-four"
+    },
+    {
+        "input": "nineteen@sixteen",
+        "output": "thirty-five"
+    },
+    {
+        "input": "twenty-two@sixty",
+        "output": "eighty-two"
+    },
+    {
+        "input": "forty-one@seven",
+        "output": "forty-eight"
+    },
+    {
+        "input": "three@twenty-eight",
+        "output": "thirty-one"
+    },
+    {
+        "input": "ten@thirteen",
+        "output": "twenty-three"
+    },
+    {
+        "input": "thirty-two@twenty-one",
+        "output": "fifty-three"
+    },
+    {
+        "input": "seventy@two",
+        "output": "seventy-two"
+    },
+    {
+        "input": "forty-seven@seventeen",
+        "output": "sixty-four"
+    },
+    {
+        "input": "seventy@six",
+        "output": "seventy-six"
+    },
+    {
+        "input": "sixty-five@seven",
+        "output": "seventy-two"
+    },
+    {
+        "input": "twenty-seven@twelve",
+        "output": "thirty-nine"
+    },
+    {
+        "input": "forty-nine@thirty-three",
+        "output": "eighty-two"
+    },
+    {
+        "input": "thirty-two@six",
+        "output": "thirty-eight"
+    },
+    {
+        "input": "two@seventeen",
+        "output": "nineteen"
+    },
+    {
+        "input": "sixty-three@ten",
+        "output": "seventy-three"
+    },
+    {
+        "input": "forty@thirty-two",
+        "output": "seventy-two"
+    },
+    {
+        "input": "eight@seventy-two",
+        "output": "eighty"
+    },
+    {
+        "input": "sixty-nine@twenty-four",
+        "output": "ninety-three"
+    },
+    {
+        "input": "twenty-seven@sixty-seven",
+        "output": "ninety-four"
+    },
+    {
+        "input": "three@sixty-two",
+        "output": "sixty-five"
+    },
+    {
+        "input": "eight@ninety-one",
+        "output": "ninety-nine"
+    },
+    {
+        "input": "twenty-five@six",
+        "output": "thirty-one"
+    },
+    {
+        "input": "thirty-one@fifty-nine",
+        "output": "ninety"
+    },
+    {
+        "input": "fifty-eight@twenty",
+        "output": "seventy-eight"
+    },
+    {
+        "input": "six@fifty-three",
+        "output": "fifty-nine"
+    },
+    {
+        "input": "twenty-eight@forty-eight",
+        "output": "seventy-six"
+    },
+    {
+        "input": "two@forty-nine",
+        "output": "fifty-one"
+    },
+    {
+        "input": "two@fifteen",
+        "output": "seventeen"
+    },
+    {
+        "input": "twenty-nine@thirty-five",
+        "output": "sixty-four"
+    },
+    {
+        "input": "zero@ninety-one",
+        "output": "ninety-one"
+    },
+    {
+        "input": "seventy@thirteen",
+        "output": "eighty-three"
+    },
+    {
+        "input": "sixty@nine",
+        "output": "sixty-nine"
+    },
+    {
+        "input": "eight@fifty-one",
+        "output": "fifty-nine"
+    },
+    {
+        "input": "seventy-four@eight",
+        "output": "eighty-two"
+    },
+    {
+        "input": "seventy-four@five",
+        "output": "seventy-nine"
+    },
+    {
+        "input": "thirty-two@forty-seven",
+        "output": "seventy-nine"
+    },
+    {
+        "input": "forty-seven@one",
+        "output": "forty-eight"
+    },
+    {
+        "input": "thirty-four@sixty-four",
+        "output": "ninety-eight"
+    },
+    {
+        "input": "seventy-six@ten",
+        "output": "eighty-six"
+    },
+    {
+        "input": "seventy-six@nineteen",
+        "output": "ninety-five"
+    },
+    {
+        "input": "four@thirty-four",
+        "output": "thirty-eight"
+    },
+    {
+        "input": "twenty-eight@sixty-eight",
+        "output": "ninety-six"
+    },
+    {
+        "input": "sixty-eight@eleven",
+        "output": "seventy-nine"
+    },
+    {
+        "input": "ten@twenty-two",
+        "output": "thirty-two"
+    },
+    {
+        "input": "thirty-four@fifty-eight",
+        "output": "ninety-two"
+    },
+    {
+        "input": "six@sixteen",
+        "output": "twenty-two"
+    },
+    {
+        "input": "seventy-nine@fifteen",
+        "output": "ninety-four"
+    },
+    {
+        "input": "seventy-eight@fourteen",
+        "output": "ninety-two"
+    },
+    {
+        "input": "seventeen@fifty-two",
+        "output": "sixty-nine"
+    },
+    {
+        "input": "fifty-one@twenty-one",
+        "output": "seventy-two"
+    },
+    {
+        "input": "forty-nine@twenty-one",
+        "output": "seventy"
+    },
+    {
+        "input": "fifty-one@one",
+        "output": "fifty-two"
+    },
+    {
+        "input": "thirteen@forty-two",
+        "output": "fifty-five"
+    },
+    {
+        "input": "four@nine",
+        "output": "thirteen"
+    },
+    {
+        "input": "eleven@fifty-seven",
+        "output": "sixty-eight"
+    },
+    {
+        "input": "one@twenty-eight",
+        "output": "twenty-nine"
+    },
+    {
+        "input": "forty-six@thirty-five",
+        "output": "eighty-one"
+    },
+    {
+        "input": "twenty-one@twenty",
+        "output": "forty-one"
+    },
+    {
+        "input": "three@four",
+        "output": "seven"
+    },
+    {
+        "input": "sixty-one@thirty-six",
+        "output": "ninety-seven"
+    },
+    {
+        "input": "forty-one@thirty-six",
+        "output": "seventy-seven"
+    },
+    {
+        "input": "two@sixty-six",
+        "output": "sixty-eight"
+    },
+    {
+        "input": "seventy-one@fifteen",
+        "output": "eighty-six"
+    },
+    {
+        "input": "twenty-seven@fifty-eight",
+        "output": "eighty-five"
+    },
+    {
+        "input": "forty-six@eleven",
+        "output": "fifty-seven"
+    },
+    {
+        "input": "seventy@three",
+        "output": "seventy-three"
+    },
+    {
+        "input": "six@sixty-one",
+        "output": "sixty-seven"
+    },
+    {
+        "input": "thirty-two@thirty-one",
+        "output": "sixty-three"
+    },
+    {
+        "input": "sixty-two@thirty",
+        "output": "ninety-two"
+    },
+    {
+        "input": "thirteen@forty-eight",
+        "output": "sixty-one"
+    },
+    {
+        "input": "forty@fifty",
+        "output": "ninety"
+    },
+    {
+        "input": "sixteen@five",
+        "output": "twenty-one"
+    },
+    {
+        "input": "forty-one@eight",
+        "output": "forty-nine"
+    },
+    {
+        "input": "fourteen@five",
+        "output": "nineteen"
+    },
+    {
+        "input": "six@sixty",
+        "output": "sixty-six"
+    },
+    {
+        "input": "twelve@seventy-seven",
+        "output": "eighty-nine"
+    },
+    {
+        "input": "thirty-seven@two",
+        "output": "thirty-nine"
+    },
+    {
+        "input": "one@fifty-three",
+        "output": "fifty-four"
+    },
+    {
+        "input": "forty-five@fourteen",
+        "output": "fifty-nine"
+    },
+    {
+        "input": "twenty@twelve",
+        "output": "thirty-two"
+    },
+    {
+        "input": "nine@thirty",
+        "output": "thirty-nine"
+    },
+    {
+        "input": "one@thirty-two",
+        "output": "thirty-three"
+    },
+    {
+        "input": "two@forty-five",
+        "output": "forty-seven"
+    },
+    {
+        "input": "fifty-three@twenty-seven",
+        "output": "eighty"
+    },
+    {
+        "input": "fourteen@thirty-eight",
+        "output": "fifty-two"
+    },
+    {
+        "input": "eleven@twenty-six",
+        "output": "thirty-seven"
+    },
+    {
+        "input": "five@eighty-one",
+        "output": "eighty-six"
+    },
+    {
+        "input": "twenty-five@fifty-five",
+        "output": "eighty"
+    },
+    {
+        "input": "sixty-one@six",
+        "output": "sixty-seven"
+    },
+    {
+        "input": "forty-nine@thirty",
+        "output": "seventy-nine"
+    },
+    {
+        "input": "fifty-five@twenty-six",
+        "output": "eighty-one"
+    },
+    {
+        "input": "eight@seventy-one",
+        "output": "seventy-nine"
+    },
+    {
+        "input": "eight@forty-four",
+        "output": "fifty-two"
+    },
+    {
+        "input": "twenty-seven@sixty-six",
+        "output": "ninety-three"
+    },
+    {
+        "input": "fifteen@seven",
+        "output": "twenty-two"
+    },
+    {
+        "input": "thirty@four",
+        "output": "thirty-four"
+    },
+    {
+        "input": "two@seventy-one",
+        "output": "seventy-three"
+    },
+    {
+        "input": "seventy-seven@five",
+        "output": "eighty-two"
+    },
+    {
+        "input": "twenty-six@thirty-six",
+        "output": "sixty-two"
+    },
+    {
+        "input": "four@sixty-nine",
+        "output": "seventy-three"
+    },
+    {
+        "input": "fifty-nine@eighteen",
+        "output": "seventy-seven"
+    },
+    {
+        "input": "seventeen@sixty-eight",
+        "output": "eighty-five"
+    },
+    {
+        "input": "fifty-two@forty-five",
+        "output": "ninety-seven"
+    },
+    {
+        "input": "fifty-six@three",
+        "output": "fifty-nine"
+    },
+    {
+        "input": "forty-nine@thirty-one",
+        "output": "eighty"
+    },
+    {
+        "input": "seventy-six@sixteen",
+        "output": "ninety-two"
+    },
+    {
+        "input": "forty-two@fifty-two",
+        "output": "ninety-four"
+    },
+    {
+        "input": "two@two",
+        "output": "four"
+    },
+    {
+        "input": "fifty-nine@twenty-three",
+        "output": "eighty-two"
+    },
+    {
+        "input": "twenty@three",
+        "output": "twenty-three"
+    },
+    {
+        "input": "eighty-five@two",
+        "output": "eighty-seven"
+    },
+    {
+        "input": "sixty-two@thirty-six",
+        "output": "ninety-eight"
+    },
+    {
+        "input": "twenty-nine@one",
+        "output": "thirty"
+    },
+    {
+        "input": "seventeen@forty-five",
+        "output": "sixty-two"
+    },
+    {
+        "input": "fifty@forty-seven",
+        "output": "ninety-seven"
+    },
+    {
+        "input": "forty-seven@fourteen",
+        "output": "sixty-one"
+    },
+    {
+        "input": "seventeen@forty-four",
+        "output": "sixty-one"
+    },
+    {
+        "input": "thirty-three@sixty-six",
+        "output": "ninety-nine"
+    },
+    {
+        "input": "twenty-five@three",
+        "output": "twenty-eight"
+    },
+    {
+        "input": "thirty-three@four",
+        "output": "thirty-seven"
+    },
+    {
+        "input": "thirty@forty-eight",
+        "output": "seventy-eight"
+    },
+    {
+        "input": "fourteen@eighty-three",
+        "output": "ninety-seven"
+    },
+    {
+        "input": "thirty-three@thirty-five",
+        "output": "sixty-eight"
+    },
+    {
+        "input": "twenty-one@fifty-one",
+        "output": "seventy-two"
+    },
+    {
+        "input": "thirty-two@fifty-four",
+        "output": "eighty-six"
+    },
+    {
+        "input": "thirty-three@sixty",
+        "output": "ninety-three"
+    },
+    {
+        "input": "forty@thirty-nine",
+        "output": "seventy-nine"
+    },
+    {
+        "input": "zero@thirty",
+        "output": "thirty"
+    },
+    {
+        "input": "seventy-two@nine",
+        "output": "eighty-one"
+    },
+    {
+        "input": "fifty-one@thirty-six",
+        "output": "eighty-seven"
+    },
+    {
+        "input": "fourteen@sixty-five",
+        "output": "seventy-nine"
+    },
+    {
+        "input": "seventy-four@twenty-two",
+        "output": "ninety-six"
+    },
+    {
+        "input": "five@twenty-two",
+        "output": "twenty-seven"
+    },
+    {
+        "input": "seventy-five@four",
+        "output": "seventy-nine"
+    },
+    {
+        "input": "sixty-two@one",
+        "output": "sixty-three"
+    },
+    {
+        "input": "forty-three@thirty-six",
+        "output": "seventy-nine"
+    },
+    {
+        "input": "fourteen@eighteen",
+        "output": "thirty-two"
+    },
+    {
+        "input": "sixteen@twenty-one",
+        "output": "thirty-seven"
+    },
+    {
+        "input": "forty-four@thirty-three",
+        "output": "seventy-seven"
+    },
+    {
+        "input": "thirty-three@thirty-three",
+        "output": "sixty-six"
+    },
+    {
+        "input": "three@thirty-four",
+        "output": "thirty-seven"
+    },
+    {
+        "input": "seventy-one@twenty-four",
+        "output": "ninety-five"
+    },
+    {
+        "input": "thirty-four@fifteen",
+        "output": "forty-nine"
+    },
+    {
+        "input": "twenty-four@fifty-six",
+        "output": "eighty"
+    },
+    {
+        "input": "fifty-seven@sixteen",
+        "output": "seventy-three"
+    },
+    {
+        "input": "thirty-three@twenty-seven",
+        "output": "sixty"
+    },
+    {
+        "input": "four@eight",
+        "output": "twelve"
+    },
+    {
+        "input": "seven@seventy-five",
+        "output": "eighty-two"
+    },
+    {
+        "input": "fifty-nine@fourteen",
+        "output": "seventy-three"
+    },
+    {
+        "input": "fourteen@thirty-three",
+        "output": "forty-seven"
+    },
+    {
+        "input": "nineteen@fourteen",
+        "output": "thirty-three"
+    },
+    {
+        "input": "thirty-two@fifty",
+        "output": "eighty-two"
+    },
+    {
+        "input": "one@ninety-seven",
+        "output": "ninety-eight"
+    },
+    {
+        "input": "thirty-four@six",
+        "output": "forty"
+    },
+    {
+        "input": "twenty-five@sixty-nine",
+        "output": "ninety-four"
+    },
+    {
+        "input": "twenty-seven@twenty",
+        "output": "forty-seven"
+    },
+    {
+        "input": "thirty-five@twenty-eight",
+        "output": "sixty-three"
+    },
+    {
+        "input": "eight@twenty-nine",
+        "output": "thirty-seven"
+    },
+    {
+        "input": "zero@fourteen",
+        "output": "fourteen"
+    },
+    {
+        "input": "forty-three@three",
+        "output": "forty-six"
+    },
+    {
+        "input": "sixty-one@ten",
+        "output": "seventy-one"
+    },
+    {
+        "input": "sixty-four@three",
+        "output": "sixty-seven"
+    },
+    {
+        "input": "seventy-three@twenty-two",
+        "output": "ninety-five"
+    },
+    {
+        "input": "eighteen@thirty-one",
+        "output": "forty-nine"
+    },
+    {
+        "input": "sixty-nine@twenty-seven",
+        "output": "ninety-six"
+    },
+    {
+        "input": "nine@sixty-six",
+        "output": "seventy-five"
+    },
+    {
+        "input": "thirty-two@forty-nine",
+        "output": "eighty-one"
+    },
+    {
+        "input": "sixty-five@thirty-two",
+        "output": "ninety-seven"
+    },
+    {
+        "input": "twenty-five@forty-one",
+        "output": "sixty-six"
+    },
+    {
+        "input": "forty-five@thirty-four",
+        "output": "seventy-nine"
+    },
+    {
+        "input": "sixteen@forty-five",
+        "output": "sixty-one"
+    },
+    {
+        "input": "six@twelve",
+        "output": "eighteen"
+    },
+    {
+        "input": "fifty-seven@one",
+        "output": "fifty-eight"
+    },
+    {
+        "input": "nine@thirty-six",
+        "output": "forty-five"
+    },
+    {
+        "input": "eleven@twenty-nine",
+        "output": "forty"
+    },
+    {
+        "input": "forty@fifty-four",
+        "output": "ninety-four"
+    },
+    {
+        "input": "zero@twenty-eight",
+        "output": "twenty-eight"
+    },
+    {
+        "input": "zero@ninety",
+        "output": "ninety"
+    },
+    {
+        "input": "twenty-one@seven",
+        "output": "twenty-eight"
+    },
+    {
+        "input": "fifty-two@thirty",
+        "output": "eighty-two"
+    },
+    {
+        "input": "sixty-five@thirty",
+        "output": "ninety-five"
+    },
+    {
+        "input": "one@seventy-four",
+        "output": "seventy-five"
+    },
+    {
+        "input": "three@seventy-one",
+        "output": "seventy-four"
+    },
+    {
+        "input": "forty-five@forty",
+        "output": "eighty-five"
+    },
+    {
+        "input": "twenty-three@sixty-eight",
+        "output": "ninety-one"
+    },
+    {
+        "input": "twenty-four@forty-two",
+        "output": "sixty-six"
+    },
+    {
+        "input": "eighty@nineteen",
+        "output": "ninety-nine"
+    },
+    {
+        "input": "nineteen@forty-eight",
+        "output": "sixty-seven"
+    },
+    {
+        "input": "five@nine",
+        "output": "fourteen"
+    },
+    {
+        "input": "seventy-one@eleven",
+        "output": "eighty-two"
+    },
+    {
+        "input": "thirty-three@forty-four",
+        "output": "seventy-seven"
+    },
+    {
+        "input": "forty@five",
+        "output": "forty-five"
+    },
+    {
+        "input": "forty-seven@forty-two",
+        "output": "eighty-nine"
+    },
+    {
+        "input": "eleven@eighty-three",
+        "output": "ninety-four"
+    },
+    {
+        "input": "thirty-nine@twenty-nine",
+        "output": "sixty-eight"
+    },
+    {
+        "input": "forty-three@nineteen",
+        "output": "sixty-two"
+    },
+    {
+        "input": "zero@ninety-eight",
+        "output": "ninety-eight"
+    },
+    {
+        "input": "one@fifty-two",
+        "output": "fifty-three"
+    },
+    {
+        "input": "eighty-three@three",
+        "output": "eighty-six"
+    },
+    {
+        "input": "sixty-four@twenty-nine",
+        "output": "ninety-three"
+    },
+    {
+        "input": "seventy-four@thirteen",
+        "output": "eighty-seven"
+    },
+    {
+        "input": "nineteen@twenty-three",
+        "output": "forty-two"
+    },
+    {
+        "input": "thirty-two@four",
+        "output": "thirty-six"
+    },
+    {
+        "input": "fifty-seven@thirty-four",
+        "output": "ninety-one"
+    },
+    {
+        "input": "twenty-two@sixty-one",
+        "output": "eighty-three"
+    },
+    {
+        "input": "seventy-four@one",
+        "output": "seventy-five"
+    },
+    {
+        "input": "forty-seven@nine",
+        "output": "fifty-six"
+    },
+    {
+        "input": "seventy-five@seventeen",
+        "output": "ninety-two"
+    },
+    {
+        "input": "fifty-seven@seventeen",
+        "output": "seventy-four"
+    },
+    {
+        "input": "twenty-seven@twenty-one",
+        "output": "forty-eight"
+    },
+    {
+        "input": "fifty-five@twenty-seven",
+        "output": "eighty-two"
+    },
+    {
+        "input": "thirty-two@twelve",
+        "output": "forty-four"
+    },
+    {
+        "input": "nine@eighty-four",
+        "output": "ninety-three"
+    },
+    {
+        "input": "twenty-seven@sixty-three",
+        "output": "ninety"
+    },
+    {
+        "input": "thirty-two@eighteen",
+        "output": "fifty"
+    },
+    {
+        "input": "sixty-six@thirty-two",
+        "output": "ninety-eight"
+    },
+    {
+        "input": "eighteen@thirty-eight",
+        "output": "fifty-six"
+    },
+    {
+        "input": "seventy-one@nine",
+        "output": "eighty"
+    },
+    {
+        "input": "twenty-two@thirty-two",
+        "output": "fifty-four"
+    },
+    {
+        "input": "twelve@fifty-three",
+        "output": "sixty-five"
+    },
+    {
+        "input": "sixteen@three",
+        "output": "nineteen"
+    },
+    {
+        "input": "fifty@twenty-six",
+        "output": "seventy-six"
+    },
+    {
+        "input": "twelve@thirteen",
+        "output": "twenty-five"
+    },
+    {
+        "input": "eighteen@twenty-three",
+        "output": "forty-one"
+    },
+    {
+        "input": "thirty-eight@twenty-four",
+        "output": "sixty-two"
+    },
+    {
+        "input": "eighty-seven@three",
+        "output": "ninety"
+    },
+    {
+        "input": "sixteen@seventy-seven",
+        "output": "ninety-three"
+    },
+    {
+        "input": "fifty-three@thirty-two",
+        "output": "eighty-five"
+    },
+    {
+        "input": "sixty-eight@seven",
+        "output": "seventy-five"
+    },
+    {
+        "input": "sixteen@thirty-one",
+        "output": "forty-seven"
+    },
+    {
+        "input": "seventy-two@five",
+        "output": "seventy-seven"
+    },
+    {
+        "input": "forty-two@fifty-six",
+        "output": "ninety-eight"
+    },
+    {
+        "input": "twenty-eight@forty-seven",
+        "output": "seventy-five"
+    },
+    {
+        "input": "forty-five@fifty-four",
+        "output": "ninety-nine"
+    },
+    {
+        "input": "three@fifty-three",
+        "output": "fifty-six"
+    },
+    {
+        "input": "twenty-four@twenty-seven",
+        "output": "fifty-one"
+    },
+    {
+        "input": "one@ninety-four",
+        "output": "ninety-five"
+    },
+    {
+        "input": "fifty@twenty",
+        "output": "seventy"
+    },
+    {
+        "input": "twenty-one@five",
+        "output": "twenty-six"
+    },
+    {
+        "input": "fifty-eight@ten",
+        "output": "sixty-eight"
+    },
+    {
+        "input": "sixty-four@twenty-four",
+        "output": "eighty-eight"
+    },
+    {
+        "input": "forty-one@fifty-one",
+        "output": "ninety-two"
+    },
+    {
+        "input": "seventy-nine@fourteen",
+        "output": "ninety-three"
+    },
+    {
+        "input": "forty-three@ten",
+        "output": "fifty-three"
+    },
+    {
+        "input": "sixty-four@ten",
+        "output": "seventy-four"
+    },
+    {
+        "input": "twelve@fifty-seven",
+        "output": "sixty-nine"
+    },
+    {
+        "input": "fifty-four@twenty-nine",
+        "output": "eighty-three"
+    },
+    {
+        "input": "twenty-three@seventeen",
+        "output": "forty"
+    },
+    {
+        "input": "forty-nine@four",
+        "output": "fifty-three"
+    },
+    {
+        "input": "one@fifty-one",
+        "output": "fifty-two"
+    },
+    {
+        "input": "thirteen@twenty-nine",
+        "output": "forty-two"
+    },
+    {
+        "input": "sixty-one@nineteen",
+        "output": "eighty"
+    },
+    {
+        "input": "seventy@eight",
+        "output": "seventy-eight"
+    },
+    {
+        "input": "three@sixty-five",
+        "output": "sixty-eight"
+    },
+    {
+        "input": "fifty-two@sixteen",
+        "output": "sixty-eight"
+    },
+    {
+        "input": "twelve@twenty-nine",
+        "output": "forty-one"
+    },
+    {
+        "input": "thirty-two@twenty-two",
+        "output": "fifty-four"
+    },
+    {
+        "input": "eleven@seventy-two",
+        "output": "eighty-three"
+    },
+    {
+        "input": "seventeen@sixty-one",
+        "output": "seventy-eight"
+    },
+    {
+        "input": "seventy-four@twenty-five",
+        "output": "ninety-nine"
+    },
+    {
+        "input": "one@eighty-five",
+        "output": "eighty-six"
+    },
+    {
+        "input": "fifty-eight@twenty-seven",
+        "output": "eighty-five"
+    },
+    {
+        "input": "forty-eight@fifty",
+        "output": "ninety-eight"
+    },
+    {
+        "input": "four@eighty-eight",
+        "output": "ninety-two"
+    },
+    {
+        "input": "five@ninety-three",
+        "output": "ninety-eight"
+    },
+    {
+        "input": "zero@forty-nine",
+        "output": "forty-nine"
+    },
+    {
+        "input": "forty-seven@forty-three",
+        "output": "ninety"
+    },
+    {
+        "input": "thirty-five@four",
+        "output": "thirty-nine"
+    },
+    {
+        "input": "eight@sixty",
+        "output": "sixty-eight"
+    },
+    {
+        "input": "forty@four",
+        "output": "forty-four"
+    },
+    {
+        "input": "forty-three@twenty-three",
+        "output": "sixty-six"
+    },
+    {
+        "input": "one@thirty-eight",
+        "output": "thirty-nine"
+    },
+    {
+        "input": "twenty-one@forty-nine",
+        "output": "seventy"
+    },
+    {
+        "input": "thirty-five@sixty-three",
+        "output": "ninety-eight"
+    },
+    {
+        "input": "seven@twenty-eight",
+        "output": "thirty-five"
+    },
+    {
+        "input": "eight@forty-two",
+        "output": "fifty"
+    },
+    {
+        "input": "ten@nine",
+        "output": "nineteen"
+    },
+    {
+        "input": "eighty-five@eight",
+        "output": "ninety-three"
+    },
+    {
+        "input": "seven@forty-eight",
+        "output": "fifty-five"
+    },
+    {
+        "input": "forty-eight@twenty",
+        "output": "sixty-eight"
+    },
+    {
+        "input": "five@thirteen",
+        "output": "eighteen"
+    },
+    {
+        "input": "forty-nine@forty-eight",
+        "output": "ninety-seven"
+    },
+    {
+        "input": "six@thirty-one",
+        "output": "thirty-seven"
+    },
+    {
+        "input": "sixty-seven@thirty-one",
+        "output": "ninety-eight"
+    },
+    {
+        "input": "seventy-four@ten",
+        "output": "eighty-four"
+    },
+    {
+        "input": "one@sixty-two",
+        "output": "sixty-three"
+    },
+    {
+        "input": "eighteen@sixty-eight",
+        "output": "eighty-six"
+    },
+    {
+        "input": "forty-seven@thirty-five",
+        "output": "eighty-two"
+    },
+    {
+        "input": "forty-eight@seven",
+        "output": "fifty-five"
+    },
+    {
+        "input": "thirteen@seventy-eight",
+        "output": "ninety-one"
+    },
+    {
+        "input": "twenty-five@sixty-six",
+        "output": "ninety-one"
+    },
+    {
+        "input": "sixty-three@four",
+        "output": "sixty-seven"
+    },
+    {
+        "input": "seventy-five@one",
+        "output": "seventy-six"
+    },
+    {
+        "input": "forty-eight@forty-two",
+        "output": "ninety"
+    },
+    {
+        "input": "twenty-eight@two",
+        "output": "thirty"
+    },
+    {
+        "input": "fifty-five@fifteen",
+        "output": "seventy"
+    },
+    {
+        "input": "fifty-four@one",
+        "output": "fifty-five"
+    },
+    {
+        "input": "thirty@fifty-three",
+        "output": "eighty-three"
+    },
+    {
+        "input": "fourteen@seventy-three",
+        "output": "eighty-seven"
+    },
+    {
+        "input": "six@ninety-three",
+        "output": "ninety-nine"
+    },
+    {
+        "input": "ninety-two@one",
+        "output": "ninety-three"
+    },
+    {
+        "input": "seven@thirty-six",
+        "output": "forty-three"
+    },
+    {
+        "input": "twenty-one@thirty-two",
+        "output": "fifty-three"
+    },
+    {
+        "input": "seventy-two@fifteen",
+        "output": "eighty-seven"
+    },
+    {
+        "input": "twelve@sixty-three",
+        "output": "seventy-five"
+    },
+    {
+        "input": "fifteen@sixty-one",
+        "output": "seventy-six"
+    },
+    {
+        "input": "sixty-eight@ten",
+        "output": "seventy-eight"
+    },
+    {
+        "input": "fifty@six",
+        "output": "fifty-six"
+    },
+    {
+        "input": "thirty-two@forty-three",
+        "output": "seventy-five"
+    },
+    {
+        "input": "seventy-nine@one",
+        "output": "eighty"
+    },
+    {
+        "input": "nineteen@thirty-seven",
+        "output": "fifty-six"
+    },
+    {
+        "input": "thirty-five@thirty-three",
+        "output": "sixty-eight"
+    },
+    {
+        "input": "thirty-one@twenty-nine",
+        "output": "sixty"
+    },
+    {
+        "input": "thirty-three@fourteen",
+        "output": "forty-seven"
+    },
+    {
+        "input": "seventeen@twenty-nine",
+        "output": "forty-six"
+    },
+    {
+        "input": "three@three",
+        "output": "six"
+    },
+    {
+        "input": "ten@thirty-eight",
+        "output": "forty-eight"
+    },
+    {
+        "input": "eighty@five",
+        "output": "eighty-five"
+    },
+    {
+        "input": "one@sixty-six",
+        "output": "sixty-seven"
+    },
+    {
+        "input": "forty-seven@forty-one",
+        "output": "eighty-eight"
+    },
+    {
+        "input": "thirty-two@sixty-two",
+        "output": "ninety-four"
+    },
+    {
+        "input": "forty-one@thirty-five",
+        "output": "seventy-six"
+    },
+    {
+        "input": "thirty-three@thirty-four",
+        "output": "sixty-seven"
+    },
+    {
+        "input": "twenty-one@seventy-six",
+        "output": "ninety-seven"
+    },
+    {
+        "input": "thirty-five@two",
+        "output": "thirty-seven"
+    },
+    {
+        "input": "fifteen@eighty-one",
+        "output": "ninety-six"
+    },
+    {
+        "input": "seventy-one@twenty-seven",
+        "output": "ninety-eight"
+    },
+    {
+        "input": "forty-seven@thirty-one",
+        "output": "seventy-eight"
+    },
+    {
+        "input": "thirty-three@forty-one",
+        "output": "seventy-four"
+    },
+    {
+        "input": "sixteen@seventy",
+        "output": "eighty-six"
+    },
+    {
+        "input": "twenty-six@thirty-nine",
+        "output": "sixty-five"
+    },
+    {
+        "input": "thirty-four@twenty-eight",
+        "output": "sixty-two"
+    },
+    {
+        "input": "forty-nine@six",
+        "output": "fifty-five"
+    },
+    {
+        "input": "forty-five@thirty-nine",
+        "output": "eighty-four"
+    },
+    {
+        "input": "six@fifty-five",
+        "output": "sixty-one"
+    },
+    {
+        "input": "twenty-eight@fifty-six",
+        "output": "eighty-four"
+    },
+    {
+        "input": "eighty-eight@three",
+        "output": "ninety-one"
+    },
+    {
+        "input": "thirty-eight@eighteen",
+        "output": "fifty-six"
+    },
+    {
+        "input": "thirty-one@fifteen",
+        "output": "forty-six"
+    },
+    {
+        "input": "sixty-seven@four",
+        "output": "seventy-one"
+    },
+    {
+        "input": "forty-five@nineteen",
+        "output": "sixty-four"
+    },
+    {
+        "input": "ninety-five@one",
+        "output": "ninety-six"
+    },
+    {
+        "input": "eleven@sixty-seven",
+        "output": "seventy-eight"
+    },
+    {
+        "input": "five@six",
+        "output": "eleven"
+    },
+    {
+        "input": "sixty-eight@twenty-two",
+        "output": "ninety"
+    },
+    {
+        "input": "thirty@sixty-seven",
+        "output": "ninety-seven"
+    },
+    {
+        "input": "eight@nine",
+        "output": "seventeen"
+    },
+    {
+        "input": "thirty-seven@sixteen",
+        "output": "fifty-three"
+    },
+    {
+        "input": "eighty@seven",
+        "output": "eighty-seven"
+    },
+    {
+        "input": "thirty-two@fifty-nine",
+        "output": "ninety-one"
+    },
+    {
+        "input": "two@twenty",
+        "output": "twenty-two"
+    },
+    {
+        "input": "twenty-two@fifty-three",
+        "output": "seventy-five"
+    },
+    {
+        "input": "twenty-one@thirty-seven",
+        "output": "fifty-eight"
+    },
+    {
+        "input": "sixteen@fifty-nine",
+        "output": "seventy-five"
+    },
+    {
+        "input": "ninety@one",
+        "output": "ninety-one"
+    },
+    {
+        "input": "fifty-seven@eight",
+        "output": "sixty-five"
+    },
+    {
+        "input": "thirty@eight",
+        "output": "thirty-eight"
+    },
+    {
+        "input": "twenty-seven@thirty-four",
+        "output": "sixty-one"
+    },
+    {
+        "input": "seventy-four@fifteen",
+        "output": "eighty-nine"
+    },
+    {
+        "input": "thirty-four@twenty-five",
+        "output": "fifty-nine"
+    },
+    {
+        "input": "seven@eighty",
+        "output": "eighty-seven"
+    },
+    {
+        "input": "twenty-eight@thirty-three",
+        "output": "sixty-one"
+    },
+    {
+        "input": "four@sixty-seven",
+        "output": "seventy-one"
+    },
+    {
+        "input": "fifty-one@forty-three",
+        "output": "ninety-four"
+    },
+    {
+        "input": "forty-two@eleven",
+        "output": "fifty-three"
+    },
+    {
+        "input": "fifty-five@five",
+        "output": "sixty"
+    },
+    {
+        "input": "thirty-five@sixteen",
+        "output": "fifty-one"
+    },
+    {
+        "input": "twenty-nine@twenty-three",
+        "output": "fifty-two"
+    },
+    {
+        "input": "eighty-four@six",
+        "output": "ninety"
+    },
+    {
+        "input": "forty-six@one",
+        "output": "forty-seven"
+    },
+    {
+        "input": "zero@sixty-two",
+        "output": "sixty-two"
+    },
+    {
+        "input": "sixty-seven@one",
+        "output": "sixty-eight"
+    },
+    {
+        "input": "sixty-seven@twenty-one",
+        "output": "eighty-eight"
+    },
+    {
+        "input": "fifty@thirty-nine",
+        "output": "eighty-nine"
+    },
+    {
+        "input": "fifty-four@thirty-two",
+        "output": "eighty-six"
+    },
+    {
+        "input": "eleven@sixty-eight",
+        "output": "seventy-nine"
+    },
+    {
+        "input": "five@sixty-six",
+        "output": "seventy-one"
+    },
+    {
+        "input": "seventy-seven@nineteen",
+        "output": "ninety-six"
+    },
+    {
+        "input": "sixty-nine@thirteen",
+        "output": "eighty-two"
+    },
+    {
+        "input": "fifty-four@thirty",
+        "output": "eighty-four"
+    },
+    {
+        "input": "fifty-five@six",
+        "output": "sixty-one"
+    },
+    {
+        "input": "forty-two@thirty-seven",
+        "output": "seventy-nine"
+    },
+    {
+        "input": "two@sixty-four",
+        "output": "sixty-six"
+    },
+    {
+        "input": "zero@nine",
+        "output": "nine"
+    },
+    {
+        "input": "seventy@fifteen",
+        "output": "eighty-five"
+    },
+    {
+        "input": "eighty-five@nine",
+        "output": "ninety-four"
+    },
+    {
+        "input": "eighty@thirteen",
+        "output": "ninety-three"
+    },
+    {
+        "input": "seventy-two@sixteen",
+        "output": "eighty-eight"
+    },
+    {
+        "input": "twenty@ten",
+        "output": "thirty"
+    },
+    {
+        "input": "seven@eighty-three",
+        "output": "ninety"
+    },
+    {
+        "input": "thirty-eight@twenty-five",
+        "output": "sixty-three"
+    },
+    {
+        "input": "forty-seven@twenty-five",
+        "output": "seventy-two"
+    },
+    {
+        "input": "thirteen@eighty",
+        "output": "ninety-three"
+    },
+    {
+        "input": "eighteen@seventy-five",
+        "output": "ninety-three"
+    },
+    {
+        "input": "thirty-three@fifty-seven",
+        "output": "ninety"
+    },
+    {
+        "input": "thirty-four@forty-nine",
+        "output": "eighty-three"
+    },
+    {
+        "input": "twenty-four@seventy-five",
+        "output": "ninety-nine"
+    },
+    {
+        "input": "forty-nine@twenty-six",
+        "output": "seventy-five"
+    },
+    {
+        "input": "forty-eight@thirty-six",
+        "output": "eighty-four"
+    },
+    {
+        "input": "fifty-nine@fifteen",
+        "output": "seventy-four"
+    },
+    {
+        "input": "eighty-two@thirteen",
+        "output": "ninety-five"
+    },
+    {
+        "input": "twenty-one@one",
+        "output": "twenty-two"
+    },
+    {
+        "input": "six@seventy-seven",
+        "output": "eighty-three"
+    },
+    {
+        "input": "fifty-five@forty-one",
+        "output": "ninety-six"
+    },
+    {
+        "input": "fifty-four@twenty-seven",
+        "output": "eighty-one"
+    },
+    {
+        "input": "nineteen@eighty",
+        "output": "ninety-nine"
+    },
+    {
+        "input": "eighty-two@ten",
+        "output": "ninety-two"
+    },
+    {
+        "input": "eighteen@three",
+        "output": "twenty-one"
+    },
+    {
+        "input": "fifteen@forty-one",
+        "output": "fifty-six"
+    },
+    {
+        "input": "thirty-six@twenty-eight",
+        "output": "sixty-four"
+    },
+    {
+        "input": "thirty-one@forty-eight",
+        "output": "seventy-nine"
+    },
+    {
+        "input": "thirty-four@forty-two",
+        "output": "seventy-six"
+    },
+    {
+        "input": "fifty-two@thirty-three",
+        "output": "eighty-five"
+    },
+    {
+        "input": "eleven@fifty-one",
+        "output": "sixty-two"
+    },
+    {
+        "input": "eighty-six@thirteen",
+        "output": "ninety-nine"
+    },
+    {
+        "input": "four@eighty-seven",
+        "output": "ninety-one"
+    },
+    {
+        "input": "nineteen@sixty-nine",
+        "output": "eighty-eight"
+    },
+    {
+        "input": "forty-six@twenty-one",
+        "output": "sixty-seven"
+    },
+    {
+        "input": "forty-four@fifteen",
+        "output": "fifty-nine"
+    },
+    {
+        "input": "twenty-six@twenty-two",
+        "output": "forty-eight"
+    },
+    {
+        "input": "eleven@sixty-five",
+        "output": "seventy-six"
+    },
+    {
+        "input": "seven@fifty-four",
+        "output": "sixty-one"
+    },
+    {
+        "input": "seven@thirty-seven",
+        "output": "forty-four"
+    },
+    {
+        "input": "twenty-four@forty-one",
+        "output": "sixty-five"
+    },
+    {
+        "input": "forty-nine@twenty-three",
+        "output": "seventy-two"
+    },
+    {
+        "input": "twenty-eight@forty-five",
+        "output": "seventy-three"
+    },
+    {
+        "input": "three@eighteen",
+        "output": "twenty-one"
+    },
+    {
+        "input": "sixty@thirty-four",
+        "output": "ninety-four"
+    },
+    {
+        "input": "thirty-three@thirteen",
+        "output": "forty-six"
+    },
+    {
+        "input": "thirty-four@fifty-three",
+        "output": "eighty-seven"
+    },
+    {
+        "input": "fifty-six@twelve",
+        "output": "sixty-eight"
+    },
+    {
+        "input": "two@forty-four",
+        "output": "forty-six"
+    },
+    {
+        "input": "three@forty-one",
+        "output": "forty-four"
+    },
+    {
+        "input": "twelve@seventy-five",
+        "output": "eighty-seven"
+    },
+    {
+        "input": "nine@eighty-one",
+        "output": "ninety"
+    },
+    {
+        "input": "thirty-eight@two",
+        "output": "forty"
+    },
+    {
+        "input": "fifty-six@ten",
+        "output": "sixty-six"
+    },
+    {
+        "input": "seventy-three@twenty-one",
+        "output": "ninety-four"
+    },
+    {
+        "input": "nineteen@forty-four",
+        "output": "sixty-three"
+    },
+    {
+        "input": "five@three",
+        "output": "eight"
+    },
+    {
+        "input": "fifty-six@eighteen",
+        "output": "seventy-four"
+    },
+    {
+        "input": "zero@sixty-three",
+        "output": "sixty-three"
+    },
+    {
+        "input": "twenty-two@eleven",
+        "output": "thirty-three"
+    },
+    {
+        "input": "forty-nine@one",
+        "output": "fifty"
+    },
+    {
+        "input": "four@twenty-four",
+        "output": "twenty-eight"
+    },
+    {
+        "input": "thirty@fifty",
+        "output": "eighty"
+    },
+    {
+        "input": "seventy-two@three",
+        "output": "seventy-five"
+    },
+    {
+        "input": "seventeen@thirty",
+        "output": "forty-seven"
+    },
+    {
+        "input": "thirty-four@thirteen",
+        "output": "forty-seven"
+    },
+    {
+        "input": "forty-five@thirty-five",
+        "output": "eighty"
+    },
+    {
+        "input": "fourteen@twenty",
+        "output": "thirty-four"
+    },
+    {
+        "input": "fifty-one@two",
+        "output": "fifty-three"
+    },
+    {
+        "input": "thirty-nine@fifty-nine",
+        "output": "ninety-eight"
+    },
+    {
+        "input": "thirty-two@five",
+        "output": "thirty-seven"
+    },
+    {
+        "input": "eight@forty-six",
+        "output": "fifty-four"
+    },
+    {
+        "input": "seventeen@seventy",
+        "output": "eighty-seven"
+    },
+    {
+        "input": "forty-six@twenty-seven",
+        "output": "seventy-three"
+    },
+    {
+        "input": "fifty-seven@twenty-one",
+        "output": "seventy-eight"
+    },
+    {
+        "input": "thirteen@seventy-five",
+        "output": "eighty-eight"
+    },
+    {
+        "input": "thirty-seven@forty-three",
+        "output": "eighty"
+    },
+    {
+        "input": "forty-four@eight",
+        "output": "fifty-two"
+    },
+    {
+        "input": "sixty-six@eight",
+        "output": "seventy-four"
+    },
+    {
+        "input": "forty-seven@eight",
+        "output": "fifty-five"
+    },
+    {
+        "input": "seventy-nine@twelve",
+        "output": "ninety-one"
+    },
+    {
+        "input": "twenty-six@forty-one",
+        "output": "sixty-seven"
+    },
+    {
+        "input": "twelve@two",
+        "output": "fourteen"
+    },
+    {
+        "input": "thirty-one@twenty-one",
+        "output": "fifty-two"
+    },
+    {
+        "input": "forty-seven@forty-four",
+        "output": "ninety-one"
+    },
+    {
+        "input": "ninety-one@three",
+        "output": "ninety-four"
+    },
+    {
+        "input": "seventy-one@nineteen",
+        "output": "ninety"
+    },
+    {
+        "input": "fifty-three@forty-one",
+        "output": "ninety-four"
+    },
+    {
+        "input": "seventy-seven@eighteen",
+        "output": "ninety-five"
+    },
+    {
+        "input": "thirty-eight@fifteen",
+        "output": "fifty-three"
+    },
+    {
+        "input": "eighty-four@eight",
+        "output": "ninety-two"
+    },
+    {
+        "input": "one@ninety-two",
+        "output": "ninety-three"
+    },
+    {
+        "input": "forty-four@fifty",
+        "output": "ninety-four"
+    },
+    {
+        "input": "sixty-two@eight",
+        "output": "seventy"
+    },
+    {
+        "input": "ninety-two@three",
+        "output": "ninety-five"
+    },
+    {
+        "input": "six@eighty-eight",
+        "output": "ninety-four"
+    },
+    {
+        "input": "thirty-seven@thirty-six",
+        "output": "seventy-three"
+    },
+    {
+        "input": "nineteen@thirty-eight",
+        "output": "fifty-seven"
+    },
+    {
+        "input": "five@ten",
+        "output": "fifteen"
+    },
+    {
+        "input": "fifty-eight@twenty-nine",
+        "output": "eighty-seven"
+    },
+    {
+        "input": "ten@eighteen",
+        "output": "twenty-eight"
+    },
+    {
+        "input": "forty-three@forty-three",
+        "output": "eighty-six"
+    },
+    {
+        "input": "sixty-four@thirteen",
+        "output": "seventy-seven"
+    },
+    {
+        "input": "seven@eleven",
+        "output": "eighteen"
+    },
+    {
+        "input": "zero@forty-five",
+        "output": "forty-five"
+    },
+    {
+        "input": "forty-four@twenty-four",
+        "output": "sixty-eight"
+    },
+    {
+        "input": "seven@fifty",
+        "output": "fifty-seven"
+    },
+    {
+        "input": "twenty-nine@forty-four",
+        "output": "seventy-three"
+    },
+    {
+        "input": "fourteen@sixty-one",
+        "output": "seventy-five"
+    },
+    {
+        "input": "forty-five@thirty-one",
+        "output": "seventy-six"
+    },
+    {
+        "input": "forty-nine@seventeen",
+        "output": "sixty-six"
+    },
+    {
+        "input": "seven@seventy-two",
+        "output": "seventy-nine"
+    },
+    {
+        "input": "eighteen@forty",
+        "output": "fifty-eight"
+    },
+    {
+        "input": "three@twenty-two",
+        "output": "twenty-five"
+    },
+    {
+        "input": "eighty-two@six",
+        "output": "eighty-eight"
+    },
+    {
+        "input": "seven@ten",
+        "output": "seventeen"
+    },
+    {
+        "input": "forty-four@fifty-one",
+        "output": "ninety-five"
+    },
+    {
+        "input": "fourteen@eighty-two",
+        "output": "ninety-six"
+    },
+    {
+        "input": "twenty-five@one",
+        "output": "twenty-six"
+    },
+    {
+        "input": "twenty-one@nineteen",
+        "output": "forty"
+    },
+    {
+        "input": "thirty-nine@twenty-one",
+        "output": "sixty"
+    },
+    {
+        "input": "ten@seventy-six",
+        "output": "eighty-six"
+    },
+    {
+        "input": "ten@nineteen",
+        "output": "twenty-nine"
+    },
+    {
+        "input": "five@forty-five",
+        "output": "fifty"
+    },
+    {
+        "input": "zero@ninety-four",
+        "output": "ninety-four"
+    },
+    {
+        "input": "fifty-two@eight",
+        "output": "sixty"
+    },
+    {
+        "input": "thirty-eight@seven",
+        "output": "forty-five"
+    },
+    {
+        "input": "thirty@forty-three",
+        "output": "seventy-three"
+    },
+    {
+        "input": "ninety-two@five",
+        "output": "ninety-seven"
+    },
+    {
+        "input": "nineteen@eighteen",
+        "output": "thirty-seven"
+    },
+    {
+        "input": "thirty-nine@eight",
+        "output": "forty-seven"
+    },
+    {
+        "input": "fifty-seven@six",
+        "output": "sixty-three"
+    },
+    {
+        "input": "fifty-five@twenty-two",
+        "output": "seventy-seven"
+    },
+    {
+        "input": "sixteen@fifty-seven",
+        "output": "seventy-three"
+    },
+    {
+        "input": "sixty-four@twenty-eight",
+        "output": "ninety-two"
+    },
+    {
+        "input": "thirty-one@eleven",
+        "output": "forty-two"
+    },
+    {
+        "input": "thirty-nine@fifteen",
+        "output": "fifty-four"
+    },
+    {
+        "input": "eighty-three@ten",
+        "output": "ninety-three"
+    },
+    {
+        "input": "forty-nine@forty-four",
+        "output": "ninety-three"
+    },
+    {
+        "input": "sixty@twenty-eight",
+        "output": "eighty-eight"
+    },
+    {
+        "input": "four@fifty-three",
+        "output": "fifty-seven"
+    },
+    {
+        "input": "thirty-four@twenty",
+        "output": "fifty-four"
+    },
+    {
+        "input": "forty-five@fifty-three",
+        "output": "ninety-eight"
+    },
+    {
+        "input": "fifty-four@seven",
+        "output": "sixty-one"
+    },
+    {
+        "input": "forty@eight",
+        "output": "forty-eight"
+    },
+    {
+        "input": "forty-two@fourteen",
+        "output": "fifty-six"
+    },
+    {
+        "input": "nineteen@eleven",
+        "output": "thirty"
+    },
+    {
+        "input": "five@sixty-nine",
+        "output": "seventy-four"
+    },
+    {
+        "input": "seventy-two@twenty-one",
+        "output": "ninety-three"
+    },
+    {
+        "input": "four@seventy-six",
+        "output": "eighty"
+    },
+    {
+        "input": "sixty-nine@twenty",
+        "output": "eighty-nine"
+    },
+    {
+        "input": "forty-nine@two",
+        "output": "fifty-one"
+    },
+    {
+        "input": "twenty-nine@thirty-eight",
+        "output": "sixty-seven"
+    },
+    {
+        "input": "twenty-three@sixty-seven",
+        "output": "ninety"
+    },
+    {
+        "input": "forty-five@two",
+        "output": "forty-seven"
+    },
+    {
+        "input": "eighteen@seventy",
+        "output": "eighty-eight"
+    },
+    {
+        "input": "fifty-nine@thirty-one",
+        "output": "ninety"
+    },
+    {
+        "input": "eighty-one@four",
+        "output": "eighty-five"
+    },
+    {
+        "input": "fifty@forty-five",
+        "output": "ninety-five"
+    },
+    {
+        "input": "three@forty-seven",
+        "output": "fifty"
+    },
+    {
+        "input": "sixty-nine@twenty-six",
+        "output": "ninety-five"
+    },
+    {
+        "input": "nineteen@sixty-seven",
+        "output": "eighty-six"
+    },
+    {
+        "input": "forty-eight@fifteen",
+        "output": "sixty-three"
+    },
+    {
+        "input": "twenty-seven@thirty-eight",
+        "output": "sixty-five"
+    },
+    {
+        "input": "six@fifty-nine",
+        "output": "sixty-five"
+    },
+    {
+        "input": "twenty-three@forty-two",
+        "output": "sixty-five"
+    },
+    {
+        "input": "thirteen@thirty-five",
+        "output": "forty-eight"
+    },
+    {
+        "input": "fifty-seven@thirty-eight",
+        "output": "ninety-five"
+    },
+    {
+        "input": "twenty-four@fifty-seven",
+        "output": "eighty-one"
+    },
+    {
+        "input": "sixty@thirty-seven",
+        "output": "ninety-seven"
+    },
+    {
+        "input": "twenty-two@sixty-three",
+        "output": "eighty-five"
+    },
+    {
+        "input": "eleven@thirteen",
+        "output": "twenty-four"
+    },
+    {
+        "input": "five@seventy-seven",
+        "output": "eighty-two"
+    },
+    {
+        "input": "fifteen@twelve",
+        "output": "twenty-seven"
+    },
+    {
+        "input": "nineteen@thirteen",
+        "output": "thirty-two"
+    },
+    {
+        "input": "thirty-eight@sixty",
+        "output": "ninety-eight"
+    },
+    {
+        "input": "fifty@thirteen",
+        "output": "sixty-three"
+    },
+    {
+        "input": "eleven@seven",
+        "output": "eighteen"
+    },
+    {
+        "input": "ninety-one@five",
+        "output": "ninety-six"
+    },
+    {
+        "input": "twenty-three@thirty-nine",
+        "output": "sixty-two"
+    },
+    {
+        "input": "fifty-five@thirty-two",
+        "output": "eighty-seven"
+    },
+    {
+        "input": "thirty-three@fifty-eight",
+        "output": "ninety-one"
+    },
+    {
+        "input": "eleven@twenty-one",
+        "output": "thirty-two"
+    },
+    {
+        "input": "twenty-two@thirty-five",
+        "output": "fifty-seven"
+    },
+    {
+        "input": "thirty-five@twenty-six",
+        "output": "sixty-one"
+    },
+    {
+        "input": "four@three",
+        "output": "seven"
+    },
+    {
+        "input": "nine@sixty-seven",
+        "output": "seventy-six"
+    },
+    {
+        "input": "fifty-eight@eleven",
+        "output": "sixty-nine"
+    },
+    {
+        "input": "fourteen@six",
+        "output": "twenty"
+    },
+    {
+        "input": "one@sixty",
+        "output": "sixty-one"
+    },
+    {
+        "input": "thirty-two@thirty-five",
+        "output": "sixty-seven"
+    },
+    {
+        "input": "sixty-six@fifteen",
+        "output": "eighty-one"
+    },
+    {
+        "input": "forty@eleven",
+        "output": "fifty-one"
+    },
+    {
+        "input": "ten@forty-three",
+        "output": "fifty-three"
+    },
+    {
+        "input": "forty-eight@nine",
+        "output": "fifty-seven"
+    },
+    {
+        "input": "thirty-four@fifty-nine",
+        "output": "ninety-three"
+    },
+    {
+        "input": "three@eighty-three",
+        "output": "eighty-six"
+    },
+    {
+        "input": "ten@sixty-nine",
+        "output": "seventy-nine"
+    },
+    {
+        "input": "three@one",
+        "output": "four"
+    },
+    {
+        "input": "forty-five@five",
+        "output": "fifty"
+    },
+    {
+        "input": "fifty-eight@three",
+        "output": "sixty-one"
+    },
+    {
+        "input": "sixty-one@four",
+        "output": "sixty-five"
+    },
+    {
+        "input": "thirty-five@fifty-two",
+        "output": "eighty-seven"
+    },
+    {
+        "input": "thirty-eight@fifty-three",
+        "output": "ninety-one"
+    },
+    {
+        "input": "sixty-six@ten",
+        "output": "seventy-six"
+    },
+    {
+        "input": "twenty-eight@seven",
+        "output": "thirty-five"
+    },
+    {
+        "input": "ten@seventy-nine",
+        "output": "eighty-nine"
+    },
+    {
+        "input": "twenty-four@nine",
+        "output": "thirty-three"
+    },
+    {
+        "input": "sixteen@ten",
+        "output": "twenty-six"
+    },
+    {
+        "input": "fifty-seven@forty-two",
+        "output": "ninety-nine"
+    },
+    {
+        "input": "twelve@thirty-eight",
+        "output": "fifty"
+    },
+    {
+        "input": "zero@fifty-eight",
+        "output": "fifty-eight"
+    },
+    {
+        "input": "twelve@fifteen",
+        "output": "twenty-seven"
+    },
+    {
+        "input": "sixty-nine@ten",
+        "output": "seventy-nine"
+    },
+    {
+        "input": "thirty-eight@forty-five",
+        "output": "eighty-three"
+    },
+    {
+        "input": "three@thirty-seven",
+        "output": "forty"
+    },
+    {
+        "input": "twelve@eighty-four",
+        "output": "ninety-six"
+    },
+    {
+        "input": "twelve@forty-eight",
+        "output": "sixty"
+    },
+    {
+        "input": "twenty@five",
+        "output": "twenty-five"
+    },
+    {
+        "input": "fourteen@forty-six",
+        "output": "sixty"
+    },
+    {
+        "input": "forty-six@forty",
+        "output": "eighty-six"
+    },
+    {
+        "input": "forty-seven@twenty-seven",
+        "output": "seventy-four"
+    },
+    {
+        "input": "seventeen@forty-six",
+        "output": "sixty-three"
+    },
+    {
+        "input": "thirty-eight@twenty-one",
+        "output": "fifty-nine"
+    },
+    {
+        "input": "forty-nine@thirty-two",
+        "output": "eighty-one"
+    },
+    {
+        "input": "twenty-six@sixty-eight",
+        "output": "ninety-four"
+    },
+    {
+        "input": "twenty-nine@fifty-three",
+        "output": "eighty-two"
+    },
+    {
+        "input": "sixty-five@twenty-two",
+        "output": "eighty-seven"
+    },
+    {
+        "input": "twenty-seven@twenty-five",
+        "output": "fifty-two"
+    },
+    {
+        "input": "eighty-one@one",
+        "output": "eighty-two"
+    },
+    {
+        "input": "twenty-four@fourteen",
+        "output": "thirty-eight"
+    },
+    {
+        "input": "forty-five@six",
+        "output": "fifty-one"
+    },
+    {
+        "input": "sixty@three",
+        "output": "sixty-three"
+    },
+    {
+        "input": "forty-five@forty-nine",
+        "output": "ninety-four"
+    },
+    {
+        "input": "eighteen@nineteen",
+        "output": "thirty-seven"
+    },
+    {
+        "input": "nine@twenty-four",
+        "output": "thirty-three"
+    },
+    {
+        "input": "ninety-one@six",
+        "output": "ninety-seven"
+    },
+    {
+        "input": "seven@six",
+        "output": "thirteen"
+    },
+    {
+        "input": "twenty-nine@forty-seven",
+        "output": "seventy-six"
+    },
+    {
+        "input": "six@forty-nine",
+        "output": "fifty-five"
+    },
+    {
+        "input": "five@fifty-two",
+        "output": "fifty-seven"
+    },
+    {
+        "input": "seventy-two@twenty-four",
+        "output": "ninety-six"
+    },
+    {
+        "input": "twenty-one@seventy-three",
+        "output": "ninety-four"
+    },
+    {
+        "input": "forty-nine@seven",
+        "output": "fifty-six"
+    },
+    {
+        "input": "sixteen@seventeen",
+        "output": "thirty-three"
+    },
+    {
+        "input": "twenty-two@seventy-four",
+        "output": "ninety-six"
+    },
+    {
+        "input": "eleven@nineteen",
+        "output": "thirty"
+    },
+    {
+        "input": "seven@twenty",
+        "output": "twenty-seven"
+    },
+    {
+        "input": "fifty-eight@six",
+        "output": "sixty-four"
+    },
+    {
+        "input": "forty-six@fifty",
+        "output": "ninety-six"
+    },
+    {
+        "input": "twenty-nine@twenty-one",
+        "output": "fifty"
+    },
+    {
+        "input": "seventy-eight@sixteen",
+        "output": "ninety-four"
+    },
+    {
+        "input": "thirty@twenty-two",
+        "output": "fifty-two"
+    },
+    {
+        "input": "nine@fifty-one",
+        "output": "sixty"
+    },
+    {
+        "input": "twenty-eight@twenty-three",
+        "output": "fifty-one"
+    },
+    {
+        "input": "eight@seven",
+        "output": "fifteen"
+    },
+    {
+        "input": "seven@seventy-eight",
+        "output": "eighty-five"
+    },
+    {
+        "input": "seven@twenty-three",
+        "output": "thirty"
+    },
+    {
+        "input": "thirty-seven@twenty-three",
+        "output": "sixty"
+    },
+    {
+        "input": "two@ninety-six",
+        "output": "ninety-eight"
+    },
+    {
+        "input": "eighteen@forty-five",
+        "output": "sixty-three"
+    },
+    {
+        "input": "fifteen@twenty-two",
+        "output": "thirty-seven"
+    },
+    {
+        "input": "nine@forty-eight",
+        "output": "fifty-seven"
+    },
+    {
+        "input": "seventy-six@twenty-one",
+        "output": "ninety-seven"
+    },
+    {
+        "input": "thirty-nine@forty-three",
+        "output": "eighty-two"
+    },
+    {
+        "input": "fourteen@fifty-eight",
+        "output": "seventy-two"
+    },
+    {
+        "input": "thirty@twenty-five",
+        "output": "fifty-five"
+    },
+    {
+        "input": "twenty-one@fifty-nine",
+        "output": "eighty"
+    },
+    {
+        "input": "forty-two@two",
+        "output": "forty-four"
+    },
+    {
+        "input": "thirty-six@thirty",
+        "output": "sixty-six"
+    },
+    {
+        "input": "six@thirty-nine",
+        "output": "forty-five"
+    },
+    {
+        "input": "seven@sixty",
+        "output": "sixty-seven"
+    },
+    {
+        "input": "fifty-five@thirty-nine",
+        "output": "ninety-four"
+    },
+    {
+        "input": "fifty@one",
+        "output": "fifty-one"
+    },
+    {
+        "input": "forty-four@twenty-six",
+        "output": "seventy"
+    },
+    {
+        "input": "twelve@eighty",
+        "output": "ninety-two"
+    },
+    {
+        "input": "forty-seven@twenty-eight",
+        "output": "seventy-five"
+    },
+    {
+        "input": "fifty-three@twenty-nine",
+        "output": "eighty-two"
+    },
+    {
+        "input": "sixty@thirty-one",
+        "output": "ninety-one"
+    },
+    {
+        "input": "fifty-six@thirty-six",
+        "output": "ninety-two"
+    },
+    {
+        "input": "thirty-five@six",
+        "output": "forty-one"
+    },
+    {
+        "input": "sixteen@twenty-nine",
+        "output": "forty-five"
+    },
+    {
+        "input": "eighty-one@fifteen",
+        "output": "ninety-six"
+    },
+    {
+        "input": "sixty-five@nine",
+        "output": "seventy-four"
+    },
+    {
+        "input": "twenty-eight@twenty-nine",
+        "output": "fifty-seven"
+    },
+    {
+        "input": "three@fifty-five",
+        "output": "fifty-eight"
+    },
+    {
+        "input": "eighty-seven@four",
+        "output": "ninety-one"
+    },
+    {
+        "input": "seventeen@thirty-nine",
+        "output": "fifty-six"
+    },
+    {
+        "input": "fifteen@sixty-four",
+        "output": "seventy-nine"
+    },
+    {
+        "input": "forty-three@twenty-eight",
+        "output": "seventy-one"
+    },
+    {
+        "input": "twenty-three@forty-five",
+        "output": "sixty-eight"
+    },
+    {
+        "input": "eighty-seven@nine",
+        "output": "ninety-six"
+    },
+    {
+        "input": "thirty@fifty-one",
+        "output": "eighty-one"
+    },
+    {
+        "input": "fifty-seven@two",
+        "output": "fifty-nine"
+    },
+    {
+        "input": "fifty-one@twenty-seven",
+        "output": "seventy-eight"
+    },
+    {
+        "input": "seventeen@forty-seven",
+        "output": "sixty-four"
+    },
+    {
+        "input": "eight@seventy-five",
+        "output": "eighty-three"
+    },
+    {
+        "input": "thirty-three@nine",
+        "output": "forty-two"
+    },
+    {
+        "input": "sixteen@eighty-two",
+        "output": "ninety-eight"
+    },
+    {
+        "input": "fifteen@thirty-one",
+        "output": "forty-six"
+    },
+    {
+        "input": "eighteen@sixty-seven",
+        "output": "eighty-five"
+    },
+    {
+        "input": "twelve@four",
+        "output": "sixteen"
+    },
+    {
+        "input": "twenty-nine@fifty-four",
+        "output": "eighty-three"
+    },
+    {
+        "input": "forty-seven@twenty-nine",
+        "output": "seventy-six"
+    },
+    {
+        "input": "eighty-five@six",
+        "output": "ninety-one"
+    },
+    {
+        "input": "eighteen@two",
+        "output": "twenty"
+    },
+    {
+        "input": "thirty-three@fifty-one",
+        "output": "eighty-four"
+    },
+    {
+        "input": "fifty-nine@seventeen",
+        "output": "seventy-six"
+    },
+    {
+        "input": "fifty-nine@twelve",
+        "output": "seventy-one"
+    },
+    {
+        "input": "sixteen@thirty-two",
+        "output": "forty-eight"
+    },
+    {
+        "input": "two@ten",
+        "output": "twelve"
+    },
+    {
+        "input": "thirty-six@fifty-four",
+        "output": "ninety"
+    },
+    {
+        "input": "thirty-one@thirteen",
+        "output": "forty-four"
+    },
+    {
+        "input": "forty-three@fifty-two",
+        "output": "ninety-five"
+    },
+    {
+        "input": "thirty-nine@nineteen",
+        "output": "fifty-eight"
+    },
+    {
+        "input": "sixteen@forty-three",
+        "output": "fifty-nine"
+    },
+    {
+        "input": "four@one",
+        "output": "five"
+    },
+    {
+        "input": "six@eighty-two",
+        "output": "eighty-eight"
+    },
+    {
+        "input": "ninety-one@two",
+        "output": "ninety-three"
+    },
+    {
+        "input": "sixty-two@twenty-one",
+        "output": "eighty-three"
+    },
+    {
+        "input": "forty-one@forty-seven",
+        "output": "eighty-eight"
+    },
+    {
+        "input": "thirty-three@sixty-one",
+        "output": "ninety-four"
+    },
+    {
+        "input": "three@thirty-six",
+        "output": "thirty-nine"
+    },
+    {
+        "input": "twenty-three@forty-three",
+        "output": "sixty-six"
+    },
+    {
+        "input": "forty-eight@thirty-nine",
+        "output": "eighty-seven"
+    },
+    {
+        "input": "thirty-one@thirty",
+        "output": "sixty-one"
+    },
+    {
+        "input": "twenty-two@fourteen",
+        "output": "thirty-six"
+    },
+    {
+        "input": "twenty@thirteen",
+        "output": "thirty-three"
+    },
+    {
+        "input": "fifty-four@nine",
+        "output": "sixty-three"
+    },
+    {
+        "input": "fifty-six@thirty-three",
+        "output": "eighty-nine"
+    },
+    {
+        "input": "fifty@forty-six",
+        "output": "ninety-six"
+    },
+    {
+        "input": "four@thirty-eight",
+        "output": "forty-two"
+    },
+    {
+        "input": "twenty-five@nineteen",
+        "output": "forty-four"
+    },
+    {
+        "input": "twenty-seven@sixty-four",
+        "output": "ninety-one"
+    },
+    {
+        "input": "sixty@thirty-six",
+        "output": "ninety-six"
+    },
+    {
+        "input": "six@sixty-three",
+        "output": "sixty-nine"
+    },
+    {
+        "input": "twenty-nine@twenty-eight",
+        "output": "fifty-seven"
+    },
+    {
+        "input": "twenty@seventy",
+        "output": "ninety"
+    },
+    {
+        "input": "twenty@sixty-five",
+        "output": "eighty-five"
+    },
+    {
+        "input": "six@eighty-nine",
+        "output": "ninety-five"
+    },
+    {
+        "input": "thirty-four@fourteen",
+        "output": "forty-eight"
+    },
+    {
+        "input": "ninety-three@four",
+        "output": "ninety-seven"
+    },
+    {
+        "input": "sixty-one@thirty",
+        "output": "ninety-one"
+    },
+    {
+        "input": "twenty@sixteen",
+        "output": "thirty-six"
+    },
+    {
+        "input": "four@fifty-six",
+        "output": "sixty"
+    },
+    {
+        "input": "fifty-one@thirty",
+        "output": "eighty-one"
+    },
+    {
+        "input": "twenty-six@ten",
+        "output": "thirty-six"
+    },
+    {
+        "input": "twenty@fifty-eight",
+        "output": "seventy-eight"
+    },
+    {
+        "input": "nine@twenty-one",
+        "output": "thirty"
+    },
+    {
+        "input": "thirty-six@twenty-three",
+        "output": "fifty-nine"
+    },
+    {
+        "input": "twenty-three@thirty-two",
+        "output": "fifty-five"
+    },
+    {
+        "input": "sixty-four@six",
+        "output": "seventy"
+    },
+    {
+        "input": "forty-two@twenty-two",
+        "output": "sixty-four"
+    },
+    {
+        "input": "twelve@twenty-three",
+        "output": "thirty-five"
+    },
+    {
+        "input": "thirty@seventeen",
+        "output": "forty-seven"
+    },
+    {
+        "input": "seventy-seven@eight",
+        "output": "eighty-five"
+    },
+    {
+        "input": "forty-eight@forty-six",
+        "output": "ninety-four"
+    },
+    {
+        "input": "twenty-two@fifty",
+        "output": "seventy-two"
+    },
+    {
+        "input": "thirty-seven@seventeen",
+        "output": "fifty-four"
+    },
+    {
+        "input": "forty@thirty-eight",
+        "output": "seventy-eight"
+    },
+    {
+        "input": "eighty-four@fourteen",
+        "output": "ninety-eight"
+    },
+    {
+        "input": "eighty-four@ten",
+        "output": "ninety-four"
+    },
+    {
+        "input": "seventy-three@seventeen",
+        "output": "ninety"
+    },
+    {
+        "input": "sixty-six@twenty-eight",
+        "output": "ninety-four"
+    },
+    {
+        "input": "thirty-nine@twenty-seven",
+        "output": "sixty-six"
+    },
+    {
+        "input": "eleven@forty-eight",
+        "output": "fifty-nine"
+    },
+    {
+        "input": "twenty-five@sixty-eight",
+        "output": "ninety-three"
+    },
+    {
+        "input": "thirty-five@seven",
+        "output": "forty-two"
+    },
+    {
+        "input": "forty-five@fifty-one",
+        "output": "ninety-six"
+    },
+    {
+        "input": "five@seventy-two",
+        "output": "seventy-seven"
+    },
+    {
+        "input": "thirteen@five",
+        "output": "eighteen"
+    },
+    {
+        "input": "fifty-eight@nine",
+        "output": "sixty-seven"
+    },
+    {
+        "input": "forty-three@twenty-one",
+        "output": "sixty-four"
+    },
+    {
+        "input": "eleven@forty-two",
+        "output": "fifty-three"
+    },
+    {
+        "input": "three@ninety",
+        "output": "ninety-three"
+    },
+    {
+        "input": "five@seventy-four",
+        "output": "seventy-nine"
+    },
+    {
+        "input": "eighteen@sixteen",
+        "output": "thirty-four"
+    },
+    {
+        "input": "twenty-six@sixty-seven",
+        "output": "ninety-three"
+    },
+    {
+        "input": "three@sixty",
+        "output": "sixty-three"
+    },
+    {
+        "input": "forty-seven@twelve",
+        "output": "fifty-nine"
+    },
+    {
+        "input": "thirty-six@thirty-two",
+        "output": "sixty-eight"
+    },
+    {
+        "input": "three@fifty-four",
+        "output": "fifty-seven"
+    },
+    {
+        "input": "thirty-one@fifty-one",
+        "output": "eighty-two"
+    },
+    {
+        "input": "twenty@eight",
+        "output": "twenty-eight"
+    },
+    {
+        "input": "eighty-nine@five",
+        "output": "ninety-four"
+    },
+    {
+        "input": "four@eighty-one",
+        "output": "eighty-five"
+    },
+    {
+        "input": "fifty-two@seven",
+        "output": "fifty-nine"
+    },
+    {
+        "input": "eighty-eight@four",
+        "output": "ninety-two"
+    },
+    {
+        "input": "eighty-four@seven",
+        "output": "ninety-one"
+    },
+    {
+        "input": "six@twenty-one",
+        "output": "twenty-seven"
+    },
+    {
+        "input": "twenty-six@sixty-four",
+        "output": "ninety"
+    },
+    {
+        "input": "sixty-five@thirty-one",
+        "output": "ninety-six"
+    },
+    {
+        "input": "forty-nine@twenty-nine",
+        "output": "seventy-eight"
+    },
+    {
+        "input": "fifty-one@forty-eight",
+        "output": "ninety-nine"
+    },
+    {
+        "input": "three@fifty-seven",
+        "output": "sixty"
+    },
+    {
+        "input": "forty@forty-six",
+        "output": "eighty-six"
+    },
+    {
+        "input": "eleven@eighty-seven",
+        "output": "ninety-eight"
+    },
+    {
+        "input": "twenty-one@fourteen",
+        "output": "thirty-five"
+    },
+    {
+        "input": "thirty-two@thirty-six",
+        "output": "sixty-eight"
+    },
+    {
+        "input": "fifty-nine@twenty-four",
+        "output": "eighty-three"
+    },
+    {
+        "input": "four@eighty-five",
+        "output": "eighty-nine"
+    },
+    {
+        "input": "twenty-three@twenty-three",
+        "output": "forty-six"
+    },
+    {
+        "input": "eighteen@fifteen",
+        "output": "thirty-three"
+    },
+    {
+        "input": "forty-eight@forty-seven",
+        "output": "ninety-five"
+    },
+    {
+        "input": "one@seventy-six",
+        "output": "seventy-seven"
+    },
+    {
+        "input": "thirty-five@thirty-eight",
+        "output": "seventy-three"
+    },
+    {
+        "input": "seventy@sixteen",
+        "output": "eighty-six"
+    },
+    {
+        "input": "eight@five",
+        "output": "thirteen"
+    },
+    {
+        "input": "one@eighty-seven",
+        "output": "eighty-eight"
+    },
+    {
+        "input": "ten@forty-six",
+        "output": "fifty-six"
+    },
+    {
+        "input": "two@sixty-eight",
+        "output": "seventy"
+    },
+    {
+        "input": "four@seventy-nine",
+        "output": "eighty-three"
+    },
+    {
+        "input": "forty-eight@twenty-three",
+        "output": "seventy-one"
+    },
+    {
+        "input": "twenty-six@seventeen",
+        "output": "forty-three"
+    },
+    {
+        "input": "fifty-nine@thirty-four",
+        "output": "ninety-three"
+    },
+    {
+        "input": "sixteen@twenty-four",
+        "output": "forty"
+    },
+    {
+        "input": "fifty-eight@forty",
+        "output": "ninety-eight"
+    },
+    {
+        "input": "twenty@seventy-six",
+        "output": "ninety-six"
+    },
+    {
+        "input": "ninety-two@seven",
+        "output": "ninety-nine"
+    },
+    {
+        "input": "eighteen@twenty-four",
+        "output": "forty-two"
+    },
+    {
+        "input": "nineteen@five",
+        "output": "twenty-four"
+    },
+    {
+        "input": "twelve@eighty-one",
+        "output": "ninety-three"
+    },
+    {
+        "input": "thirty-six@thirty-eight",
+        "output": "seventy-four"
+    },
+    {
+        "input": "fourteen@sixteen",
+        "output": "thirty"
+    },
+    {
+        "input": "sixty-nine@seventeen",
+        "output": "eighty-six"
+    },
+    {
+        "input": "thirty-five@five",
+        "output": "forty"
+    },
+    {
+        "input": "twenty-one@twenty-eight",
+        "output": "forty-nine"
+    },
+    {
+        "input": "four@seventy-four",
+        "output": "seventy-eight"
+    },
+    {
+        "input": "eleven@twenty-three",
+        "output": "thirty-four"
+    },
+    {
+        "input": "thirty-five@forty-seven",
+        "output": "eighty-two"
+    },
+    {
+        "input": "twenty@forty-two",
+        "output": "sixty-two"
+    },
+    {
+        "input": "six@forty-eight",
+        "output": "fifty-four"
+    },
+    {
+        "input": "forty-eight@forty-four",
+        "output": "ninety-two"
+    },
+    {
+        "input": "three@eighty-one",
+        "output": "eighty-four"
+    },
+    {
+        "input": "two@ninety-two",
+        "output": "ninety-four"
+    },
+    {
+        "input": "eighty-one@five",
+        "output": "eighty-six"
+    },
+    {
+        "input": "twelve@fifty-nine",
+        "output": "seventy-one"
+    },
+    {
+        "input": "sixty-nine@two",
+        "output": "seventy-one"
+    },
+    {
+        "input": "seventy-four@sixteen",
+        "output": "ninety"
+    },
+    {
+        "input": "forty-nine@eighteen",
+        "output": "sixty-seven"
+    },
+    {
+        "input": "four@twenty-one",
+        "output": "twenty-five"
+    },
+    {
+        "input": "twenty-seven@sixty-two",
+        "output": "eighty-nine"
+    },
+    {
+        "input": "fifty-nine@thirty",
+        "output": "eighty-nine"
+    },
+    {
+        "input": "thirty-eight@forty-six",
+        "output": "eighty-four"
+    },
+    {
+        "input": "eighteen@eighty-one",
+        "output": "ninety-nine"
+    },
+    {
+        "input": "sixty-four@twenty",
+        "output": "eighty-four"
+    },
+    {
+        "input": "nine@forty-three",
+        "output": "fifty-two"
+    },
+    {
+        "input": "sixty@twenty-nine",
+        "output": "eighty-nine"
+    },
+    {
+        "input": "twenty-nine@five",
+        "output": "thirty-four"
+    },
+    {
+        "input": "fifty@three",
+        "output": "fifty-three"
+    },
+    {
+        "input": "twelve@seventy-four",
+        "output": "eighty-six"
+    },
+    {
+        "input": "nine@two",
+        "output": "eleven"
+    },
+    {
+        "input": "one@sixty-four",
+        "output": "sixty-five"
+    },
+    {
+        "input": "four@forty-three",
+        "output": "forty-seven"
+    },
+    {
+        "input": "twenty-seven@thirty-nine",
+        "output": "sixty-six"
+    },
+    {
+        "input": "twenty-eight@four",
+        "output": "thirty-two"
+    },
+    {
+        "input": "forty-one@eleven",
+        "output": "fifty-two"
+    },
+    {
+        "input": "fifteen@eighty-four",
+        "output": "ninety-nine"
+    },
+    {
+        "input": "sixty-one@thirty-two",
+        "output": "ninety-three"
+    },
+    {
+        "input": "ten@twenty-eight",
+        "output": "thirty-eight"
+    },
+    {
+        "input": "thirty-two@three",
+        "output": "thirty-five"
+    },
+    {
+        "input": "four@five",
+        "output": "nine"
+    },
+    {
+        "input": "twenty-two@fifteen",
+        "output": "thirty-seven"
+    },
+    {
+        "input": "forty-one@forty",
+        "output": "eighty-one"
+    },
+    {
+        "input": "seventy-two@one",
+        "output": "seventy-three"
+    },
+    {
+        "input": "fifty-six@forty-three",
+        "output": "ninety-nine"
+    },
+    {
+        "input": "four@thirty-six",
+        "output": "forty"
+    },
+    {
+        "input": "seven@forty-two",
+        "output": "forty-nine"
+    },
+    {
+        "input": "sixty-one@fourteen",
+        "output": "seventy-five"
+    },
+    {
+        "input": "fifty-seven@thirty-one",
+        "output": "eighty-eight"
+    },
+    {
+        "input": "sixty-five@seventeen",
+        "output": "eighty-two"
+    },
+    {
+        "input": "eleven@twelve",
+        "output": "twenty-three"
+    },
+    {
+        "input": "twenty-one@seventy-four",
+        "output": "ninety-five"
+    },
+    {
+        "input": "seventy-one@seven",
+        "output": "seventy-eight"
+    },
+    {
+        "input": "twenty-five@four",
+        "output": "twenty-nine"
+    },
+    {
+        "input": "sixty-three@fourteen",
+        "output": "seventy-seven"
+    },
+    {
+        "input": "seven@sixty-four",
+        "output": "seventy-one"
+    },
+    {
+        "input": "twenty-two@sixty-four",
+        "output": "eighty-six"
+    },
+    {
+        "input": "four@seventy-eight",
+        "output": "eighty-two"
+    },
+    {
+        "input": "fifty-nine@twenty-six",
+        "output": "eighty-five"
+    },
+    {
+        "input": "forty-two@twenty-six",
+        "output": "sixty-eight"
+    },
+    {
+        "input": "thirty-six@fifty-five",
+        "output": "ninety-one"
+    },
+    {
+        "input": "eleven@eighty-five",
+        "output": "ninety-six"
+    },
+    {
+        "input": "thirty-two@fifty-one",
+        "output": "eighty-three"
+    },
+    {
+        "input": "twenty@seventy-nine",
+        "output": "ninety-nine"
+    },
+    {
+        "input": "seventy-five@nine",
+        "output": "eighty-four"
+    },
+    {
+        "input": "thirteen@twenty-five",
+        "output": "thirty-eight"
+    },
+    {
+        "input": "four@thirty-nine",
+        "output": "forty-three"
+    },
+    {
+        "input": "forty-three@thirty-one",
+        "output": "seventy-four"
+    },
+    {
+        "input": "forty-two@fifty-four",
+        "output": "ninety-six"
+    },
+    {
+        "input": "sixty-three@one",
+        "output": "sixty-four"
+    },
+    {
+        "input": "forty-one@fifteen",
+        "output": "fifty-six"
+    },
+    {
+        "input": "three@fifty",
+        "output": "fifty-three"
+    },
+    {
+        "input": "eleven@eighty-four",
+        "output": "ninety-five"
+    },
+    {
+        "input": "twenty-seven@ten",
+        "output": "thirty-seven"
+    },
+    {
+        "input": "thirty-four@three",
+        "output": "thirty-seven"
+    },
+    {
+        "input": "fifty-eight@four",
+        "output": "sixty-two"
+    },
+    {
+        "input": "seventy-eight@seven",
+        "output": "eighty-five"
+    },
+    {
+        "input": "thirty-six@eleven",
+        "output": "forty-seven"
+    },
+    {
+        "input": "thirty-seven@twenty-one",
+        "output": "fifty-eight"
+    },
+    {
+        "input": "twelve@thirty",
+        "output": "forty-two"
+    },
+    {
+        "input": "twenty-seven@seven",
+        "output": "thirty-four"
+    },
+    {
+        "input": "sixty-nine@nineteen",
+        "output": "eighty-eight"
+    },
+    {
+        "input": "forty-nine@forty-five",
+        "output": "ninety-four"
+    },
+    {
+        "input": "five@seventy-one",
+        "output": "seventy-six"
+    },
+    {
+        "input": "twenty-three@thirteen",
+        "output": "thirty-six"
+    },
+    {
+        "input": "nine@fourteen",
+        "output": "twenty-three"
+    },
+    {
+        "input": "sixteen@seventy-five",
+        "output": "ninety-one"
+    },
+    {
+        "input": "zero@ninety-nine",
+        "output": "ninety-nine"
+    },
+    {
+        "input": "twenty-nine@forty-nine",
+        "output": "seventy-eight"
+    },
+    {
+        "input": "two@twenty-two",
+        "output": "twenty-four"
+    },
+    {
+        "input": "ten@seventy-four",
+        "output": "eighty-four"
+    },
+    {
+        "input": "three@nine",
+        "output": "twelve"
+    },
+    {
+        "input": "eight@fifty-nine",
+        "output": "sixty-seven"
+    },
+    {
+        "input": "zero@twenty-three",
+        "output": "twenty-three"
+    },
+    {
+        "input": "thirty-one@fifty-seven",
+        "output": "eighty-eight"
+    },
+    {
+        "input": "forty-eight@fourteen",
+        "output": "sixty-two"
+    },
+    {
+        "input": "fifty-one@nineteen",
+        "output": "seventy"
+    },
+    {
+        "input": "twenty@one",
+        "output": "twenty-one"
+    },
+    {
+        "input": "twenty-two@thirty",
+        "output": "fifty-two"
+    },
+    {
+        "input": "twenty-nine@twelve",
+        "output": "forty-one"
+    },
+    {
+        "input": "ninety-five@four",
+        "output": "ninety-nine"
+    },
+    {
+        "input": "seven@nineteen",
+        "output": "twenty-six"
+    },
+    {
+        "input": "eight@forty-seven",
+        "output": "fifty-five"
+    },
+    {
+        "input": "thirteen@twenty-seven",
+        "output": "forty"
+    },
+    {
+        "input": "eleven@thirty-four",
+        "output": "forty-five"
+    },
+    {
+        "input": "forty-three@eleven",
+        "output": "fifty-four"
+    },
+    {
+        "input": "fifty-two@twelve",
+        "output": "sixty-four"
+    },
+    {
+        "input": "four@eighty-four",
+        "output": "eighty-eight"
+    },
+    {
+        "input": "sixty-one@nine",
+        "output": "seventy"
+    },
+    {
+        "input": "one@ninety-one",
+        "output": "ninety-two"
+    },
+    {
+        "input": "eighty-eight@six",
+        "output": "ninety-four"
+    },
+    {
+        "input": "sixty-two@six",
+        "output": "sixty-eight"
+    },
+    {
+        "input": "ten@seventy-two",
+        "output": "eighty-two"
+    },
+    {
+        "input": "forty-two@fifty-one",
+        "output": "ninety-three"
+    },
+    {
+        "input": "zero@twenty-four",
+        "output": "twenty-four"
+    },
+    {
+        "input": "twenty-four@twenty-six",
+        "output": "fifty"
+    },
+    {
+        "input": "twenty-nine@thirty-seven",
+        "output": "sixty-six"
+    },
+    {
+        "input": "thirty-eight@thirty-two",
+        "output": "seventy"
+    },
+    {
+        "input": "six@twenty-three",
+        "output": "twenty-nine"
+    },
+    {
+        "input": "twenty-eight@thirty-six",
+        "output": "sixty-four"
+    },
+    {
+        "input": "eighty-six@eight",
+        "output": "ninety-four"
+    },
+    {
+        "input": "thirty@sixty-five",
+        "output": "ninety-five"
+    },
+    {
+        "input": "forty-five@fifty",
+        "output": "ninety-five"
+    },
+    {
+        "input": "ten@forty-seven",
+        "output": "fifty-seven"
+    },
+    {
+        "input": "eighteen@fifty-seven",
+        "output": "seventy-five"
+    },
+    {
+        "input": "forty-one@fifty-three",
+        "output": "ninety-four"
+    },
+    {
+        "input": "thirty-four@twenty-three",
+        "output": "fifty-seven"
+    },
+    {
+        "input": "thirty-eight@fifty-one",
+        "output": "eighty-nine"
+    },
+    {
+        "input": "fifty-two@forty-three",
+        "output": "ninety-five"
+    },
+    {
+        "input": "twenty@seventy-two",
+        "output": "ninety-two"
+    },
+    {
+        "input": "thirty-seven@thirty-two",
+        "output": "sixty-nine"
+    },
+    {
+        "input": "nine@thirty-nine",
+        "output": "forty-eight"
+    },
+    {
+        "input": "one@eighty-eight",
+        "output": "eighty-nine"
+    },
+    {
+        "input": "eleven@ten",
+        "output": "twenty-one"
+    },
+    {
+        "input": "sixty-five@thirty-three",
+        "output": "ninety-eight"
+    },
+    {
+        "input": "fifty-five@eleven",
+        "output": "sixty-six"
+    },
+    {
+        "input": "sixty-seven@twenty",
+        "output": "eighty-seven"
+    },
+    {
+        "input": "five@forty-three",
+        "output": "forty-eight"
+    },
+    {
+        "input": "sixty-seven@twenty-nine",
+        "output": "ninety-six"
+    },
+    {
+        "input": "forty@fifty-two",
+        "output": "ninety-two"
+    },
+    {
+        "input": "two@ninety-one",
+        "output": "ninety-three"
+    },
+    {
+        "input": "twelve@thirty-five",
+        "output": "forty-seven"
+    },
+    {
+        "input": "forty-six@thirty",
+        "output": "seventy-six"
+    },
+    {
+        "input": "eleven@thirty-three",
+        "output": "forty-four"
+    },
+    {
+        "input": "eighteen@fourteen",
+        "output": "thirty-two"
+    },
+    {
+        "input": "thirty-three@forty-eight",
+        "output": "eighty-one"
+    },
+    {
+        "input": "thirty-nine@twenty-four",
+        "output": "sixty-three"
+    },
+    {
+        "input": "eighty@fifteen",
+        "output": "ninety-five"
+    },
+    {
+        "input": "seventy-one@eight",
+        "output": "seventy-nine"
+    },
+    {
+        "input": "sixty-two@twenty-seven",
+        "output": "eighty-nine"
+    },
+    {
+        "input": "six@eighty-one",
+        "output": "eighty-seven"
+    },
+    {
+        "input": "fifteen@forty-eight",
+        "output": "sixty-three"
+    },
+    {
+        "input": "thirty-six@twenty-four",
+        "output": "sixty"
+    },
+    {
+        "input": "seventeen@eighty-two",
+        "output": "ninety-nine"
+    },
+    {
+        "input": "twenty-one@sixty-seven",
+        "output": "eighty-eight"
+    },
+    {
+        "input": "fifty-two@three",
+        "output": "fifty-five"
+    },
+    {
+        "input": "fifty-five@two",
+        "output": "fifty-seven"
+    },
+    {
+        "input": "forty@forty-two",
+        "output": "eighty-two"
+    },
+    {
+        "input": "eleven@sixty",
+        "output": "seventy-one"
+    },
+    {
+        "input": "one@thirty-seven",
+        "output": "thirty-eight"
+    },
+    {
+        "input": "six@forty-seven",
+        "output": "fifty-three"
+    },
+    {
+        "input": "thirteen@forty-seven",
+        "output": "sixty"
+    },
+    {
+        "input": "one@forty-four",
+        "output": "forty-five"
+    },
+    {
+        "input": "eighty-seven@six",
+        "output": "ninety-three"
+    },
+    {
+        "input": "thirty-six@five",
+        "output": "forty-one"
+    },
+    {
+        "input": "twelve@sixty",
+        "output": "seventy-two"
+    },
+    {
+        "input": "zero@forty-seven",
+        "output": "forty-seven"
+    },
+    {
+        "input": "sixty-five@eight",
+        "output": "seventy-three"
+    },
+    {
+        "input": "forty-six@forty-one",
+        "output": "eighty-seven"
+    },
+    {
+        "input": "six@sixty-six",
+        "output": "seventy-two"
+    },
+    {
+        "input": "twenty-four@twenty-two",
+        "output": "forty-six"
+    },
+    {
+        "input": "fourteen@sixty",
+        "output": "seventy-four"
+    },
+    {
+        "input": "thirty-one@sixty-eight",
+        "output": "ninety-nine"
+    },
+    {
+        "input": "four@twenty-three",
+        "output": "twenty-seven"
+    },
+    {
+        "input": "eighty@nine",
+        "output": "eighty-nine"
+    },
+    {
+        "input": "sixty-two@twenty-eight",
+        "output": "ninety"
+    },
+    {
+        "input": "thirty-three@fifty",
+        "output": "eighty-three"
+    },
+    {
+        "input": "fifteen@fifty-nine",
+        "output": "seventy-four"
+    },
+    {
+        "input": "forty-nine@thirty-four",
+        "output": "eighty-three"
+    },
+    {
+        "input": "twelve@forty",
+        "output": "fifty-two"
+    },
+    {
+        "input": "eleven@thirty-eight",
+        "output": "forty-nine"
+    },
+    {
+        "input": "zero@eighty-one",
+        "output": "eighty-one"
+    },
+    {
+        "input": "seven@four",
+        "output": "eleven"
+    },
+    {
+        "input": "ten@forty-two",
+        "output": "fifty-two"
+    },
+    {
+        "input": "thirty-one@forty-seven",
+        "output": "seventy-eight"
+    },
+    {
+        "input": "sixty-two@four",
+        "output": "sixty-six"
+    },
+    {
+        "input": "twelve@eighty-two",
+        "output": "ninety-four"
+    },
+    {
+        "input": "seventeen@forty",
+        "output": "fifty-seven"
+    },
+    {
+        "input": "twenty-seven@sixty-eight",
+        "output": "ninety-five"
+    },
+    {
+        "input": "thirty-seven@thirty-five",
+        "output": "seventy-two"
+    },
+    {
+        "input": "ten@twenty",
+        "output": "thirty"
+    },
+    {
+        "input": "nine@sixty",
+        "output": "sixty-nine"
+    },
+    {
+        "input": "twenty-three@forty-six",
+        "output": "sixty-nine"
+    },
+    {
+        "input": "seventy-seven@two",
+        "output": "seventy-nine"
+    },
+    {
+        "input": "sixty-six@seventeen",
+        "output": "eighty-three"
+    },
+    {
+        "input": "fifty-six@six",
+        "output": "sixty-two"
+    },
+    {
+        "input": "twenty-three@thirty-seven",
+        "output": "sixty"
+    },
+    {
+        "input": "thirty-eight@thirty-three",
+        "output": "seventy-one"
+    },
+    {
+        "input": "twenty-five@forty-nine",
+        "output": "seventy-four"
+    },
+    {
+        "input": "thirty-five@thirty-five",
+        "output": "seventy"
+    },
+    {
+        "input": "fifty-nine@thirty-nine",
+        "output": "ninety-eight"
+    },
+    {
+        "input": "two@seventy-four",
+        "output": "seventy-six"
+    },
+    {
+        "input": "sixty-eight@one",
+        "output": "sixty-nine"
+    },
+    {
+        "input": "forty-six@forty-four",
+        "output": "ninety"
+    },
+    {
+        "input": "forty-six@fifteen",
+        "output": "sixty-one"
+    },
+    {
+        "input": "seventy-four@seven",
+        "output": "eighty-one"
+    },
+    {
+        "input": "forty-three@sixteen",
+        "output": "fifty-nine"
+    },
+    {
+        "input": "sixty-four@nine",
+        "output": "seventy-three"
+    },
+    {
+        "input": "eighteen@thirty-seven",
+        "output": "fifty-five"
+    },
+    {
+        "input": "thirty-eight@thirty-eight",
+        "output": "seventy-six"
+    },
+    {
+        "input": "four@thirty-two",
+        "output": "thirty-six"
+    },
+    {
+        "input": "sixty-eight@twenty-six",
+        "output": "ninety-four"
+    },
+    {
+        "input": "seventy-nine@eleven",
+        "output": "ninety"
+    },
+    {
+        "input": "twenty-five@thirty-four",
+        "output": "fifty-nine"
+    },
+    {
+        "input": "twenty-four@nineteen",
+        "output": "forty-three"
+    },
+    {
+        "input": "forty-four@four",
+        "output": "forty-eight"
+    },
+    {
+        "input": "forty-four@forty-eight",
+        "output": "ninety-two"
+    },
+    {
+        "input": "thirty-four@forty-one",
+        "output": "seventy-five"
+    },
+    {
+        "input": "thirteen@seventy-seven",
+        "output": "ninety"
+    },
+    {
+        "input": "four@thirteen",
+        "output": "seventeen"
+    },
+    {
+        "input": "zero@seven",
+        "output": "seven"
+    },
+    {
+        "input": "fifteen@eighty",
+        "output": "ninety-five"
+    },
+    {
+        "input": "fifty@fifteen",
+        "output": "sixty-five"
+    },
+    {
+        "input": "five@twenty-six",
+        "output": "thirty-one"
+    },
+    {
+        "input": "fourteen@three",
+        "output": "seventeen"
+    },
+    {
+        "input": "forty-five@twenty-seven",
+        "output": "seventy-two"
+    },
+    {
+        "input": "forty-four@forty-four",
+        "output": "eighty-eight"
+    },
+    {
+        "input": "forty-four@fifty-three",
+        "output": "ninety-seven"
+    },
+    {
+        "input": "twenty-five@sixteen",
+        "output": "forty-one"
+    },
+    {
+        "input": "thirty-nine@three",
+        "output": "forty-two"
+    },
+    {
+        "input": "five@forty-two",
+        "output": "forty-seven"
+    },
+    {
+        "input": "forty-three@fifty-four",
+        "output": "ninety-seven"
+    },
+    {
+        "input": "forty@fifty-three",
+        "output": "ninety-three"
+    },
+    {
+        "input": "forty-five@nine",
+        "output": "fifty-four"
+    },
+    {
+        "input": "forty-six@five",
+        "output": "fifty-one"
+    },
+    {
+        "input": "twenty-one@forty-eight",
+        "output": "sixty-nine"
+    },
+    {
+        "input": "eight@eighty-three",
+        "output": "ninety-one"
+    },
+    {
+        "input": "four@twelve",
+        "output": "sixteen"
+    },
+    {
+        "input": "fifty-nine@three",
+        "output": "sixty-two"
+    },
+    {
+        "input": "thirty-three@thirty",
+        "output": "sixty-three"
+    },
+    {
+        "input": "ninety@three",
+        "output": "ninety-three"
+    },
+    {
+        "input": "fourteen@eighty-one",
+        "output": "ninety-five"
+    },
+    {
+        "input": "sixty-three@twenty-three",
+        "output": "eighty-six"
+    },
+    {
+        "input": "twenty@forty-nine",
+        "output": "sixty-nine"
+    },
+    {
+        "input": "thirty-two@seven",
+        "output": "thirty-nine"
+    },
+    {
+        "input": "fifty-six@thirty-seven",
+        "output": "ninety-three"
+    },
+    {
+        "input": "sixty-seven@thirty-two",
+        "output": "ninety-nine"
+    },
+    {
+        "input": "fifteen@five",
+        "output": "twenty"
+    },
+    {
+        "input": "three@ninety-five",
+        "output": "ninety-eight"
+    },
+    {
+        "input": "fifty-six@thirty-two",
+        "output": "eighty-eight"
+    },
+    {
+        "input": "sixty-two@seventeen",
+        "output": "seventy-nine"
+    },
+    {
+        "input": "forty-four@fifty-four",
+        "output": "ninety-eight"
+    },
+    {
+        "input": "twelve@sixty-two",
+        "output": "seventy-four"
+    },
+    {
+        "input": "sixty-six@three",
+        "output": "sixty-nine"
+    },
+    {
+        "input": "zero@thirteen",
+        "output": "thirteen"
+    },
+    {
+        "input": "nine@five",
+        "output": "fourteen"
+    },
+    {
+        "input": "eleven@fifty-six",
+        "output": "sixty-seven"
+    },
+    {
+        "input": "twenty-one@twenty-four",
+        "output": "forty-five"
+    },
+    {
+        "input": "sixty-four@twenty-five",
+        "output": "eighty-nine"
+    },
+    {
+        "input": "twenty-one@thirty-three",
+        "output": "fifty-four"
+    },
+    {
+        "input": "thirty-two@forty-eight",
+        "output": "eighty"
+    },
+    {
+        "input": "twenty-six@thirty-eight",
+        "output": "sixty-four"
+    },
+    {
+        "input": "thirty-four@forty-eight",
+        "output": "eighty-two"
+    },
+    {
+        "input": "six@thirty",
+        "output": "thirty-six"
+    },
+    {
+        "input": "thirty@fifty-four",
+        "output": "eighty-four"
+    },
+    {
+        "input": "eighteen@twenty",
+        "output": "thirty-eight"
+    },
+    {
+        "input": "eighty-one@eighteen",
+        "output": "ninety-nine"
+    },
+    {
+        "input": "twenty-one@twenty-six",
+        "output": "forty-seven"
+    },
+    {
+        "input": "thirty-three@thirty-one",
+        "output": "sixty-four"
+    },
+    {
+        "input": "forty-seven@six",
+        "output": "fifty-three"
+    },
+    {
+        "input": "forty-two@seven",
+        "output": "forty-nine"
+    },
+    {
+        "input": "eighty-two@three",
+        "output": "eighty-five"
+    },
+    {
+        "input": "fifty-two@thirteen",
+        "output": "sixty-five"
+    },
+    {
+        "input": "sixty-one@twenty-three",
+        "output": "eighty-four"
+    },
+    {
+        "input": "forty-six@twenty-nine",
+        "output": "seventy-five"
+    },
+    {
+        "input": "thirty-six@sixty-three",
+        "output": "ninety-nine"
+    },
+    {
+        "input": "twenty-four@one",
+        "output": "twenty-five"
+    },
+    {
+        "input": "sixty@two",
+        "output": "sixty-two"
+    },
+    {
+        "input": "six@eighty-seven",
+        "output": "ninety-three"
+    },
+    {
+        "input": "nine@forty-seven",
+        "output": "fifty-six"
+    },
+    {
+        "input": "forty-seven@thirty-seven",
+        "output": "eighty-four"
+    },
+    {
+        "input": "two@seventy-two",
+        "output": "seventy-four"
+    },
+    {
+        "input": "twenty-three@forty",
+        "output": "sixty-three"
+    },
+    {
+        "input": "three@eighty-seven",
+        "output": "ninety"
+    },
+    {
+        "input": "ten@fourteen",
+        "output": "twenty-four"
+    },
+    {
+        "input": "forty-three@forty-seven",
+        "output": "ninety"
+    },
+    {
+        "input": "fifty@eight",
+        "output": "fifty-eight"
+    },
+    {
+        "input": "five@fifty-five",
+        "output": "sixty"
+    },
+    {
+        "input": "fifteen@fifteen",
+        "output": "thirty"
+    },
+    {
+        "input": "fifteen@two",
+        "output": "seventeen"
+    },
+    {
+        "input": "thirty-nine@fifty-eight",
+        "output": "ninety-seven"
+    },
+    {
+        "input": "twenty-nine@seven",
+        "output": "thirty-six"
+    },
+    {
+        "input": "seventeen@thirty-three",
+        "output": "fifty"
+    },
+    {
+        "input": "seventy@nine",
+        "output": "seventy-nine"
+    },
+    {
+        "input": "sixty-eight@four",
+        "output": "seventy-two"
+    },
+    {
+        "input": "twenty-three@sixty-three",
+        "output": "eighty-six"
+    },
+    {
+        "input": "twenty-seven@sixty-nine",
+        "output": "ninety-six"
+    },
+    {
+        "input": "six@eight",
+        "output": "fourteen"
+    },
+    {
+        "input": "thirty-seven@one",
+        "output": "thirty-eight"
+    },
+    {
+        "input": "two@fifty-five",
+        "output": "fifty-seven"
+    },
+    {
+        "input": "thirty-four@thirty-two",
+        "output": "sixty-six"
+    },
+    {
+        "input": "one@eight",
+        "output": "nine"
+    },
+    {
+        "input": "twelve@seventy-one",
+        "output": "eighty-three"
+    },
+    {
+        "input": "fifty-nine@ten",
+        "output": "sixty-nine"
+    },
+    {
+        "input": "thirty-four@eighteen",
+        "output": "fifty-two"
+    },
+    {
+        "input": "seventeen@seventy-three",
+        "output": "ninety"
+    },
+    {
+        "input": "sixty-three@three",
+        "output": "sixty-six"
+    },
+    {
+        "input": "fifty-eight@seven",
+        "output": "sixty-five"
+    },
+    {
+        "input": "seventeen@fifty-nine",
+        "output": "seventy-six"
+    },
+    {
+        "input": "sixty@thirteen",
+        "output": "seventy-three"
+    },
+    {
+        "input": "thirteen@seventy-two",
+        "output": "eighty-five"
+    },
+    {
+        "input": "nine@seventy-three",
+        "output": "eighty-two"
+    },
+    {
+        "input": "five@thirty-six",
+        "output": "forty-one"
+    },
+    {
+        "input": "eight@sixty-six",
+        "output": "seventy-four"
+    },
+    {
+        "input": "forty@nineteen",
+        "output": "fifty-nine"
+    },
+    {
+        "input": "thirty-two@thirty-two",
+        "output": "sixty-four"
+    },
+    {
+        "input": "eighty-one@three",
+        "output": "eighty-four"
+    },
+    {
+        "input": "eighty-nine@two",
+        "output": "ninety-one"
+    },
+    {
+        "input": "two@thirty-four",
+        "output": "thirty-six"
+    },
+    {
+        "input": "eighty-two@nine",
+        "output": "ninety-one"
+    },
+    {
+        "input": "eleven@sixty-nine",
+        "output": "eighty"
+    },
+    {
+        "input": "seventeen@twenty-seven",
+        "output": "forty-four"
+    },
+    {
+        "input": "thirty-three@six",
+        "output": "thirty-nine"
+    },
+    {
+        "input": "thirty-two@two",
+        "output": "thirty-four"
+    },
+    {
+        "input": "thirty-three@twenty-four",
+        "output": "fifty-seven"
+    },
+    {
+        "input": "fifteen@fifty-five",
+        "output": "seventy"
+    },
+    {
+        "input": "sixty-five@twenty-six",
+        "output": "ninety-one"
+    },
+    {
+        "input": "twenty-six@sixteen",
+        "output": "forty-two"
+    },
+    {
+        "input": "twenty-three@seventy-four",
+        "output": "ninety-seven"
+    },
+    {
+        "input": "sixty-two@seven",
+        "output": "sixty-nine"
+    },
+    {
+        "input": "thirty-one@fifty-six",
+        "output": "eighty-seven"
+    },
+    {
+        "input": "twenty-eight@sixty-one",
+        "output": "eighty-nine"
+    },
+    {
+        "input": "six@ninety-one",
+        "output": "ninety-seven"
+    },
+    {
+        "input": "thirty-two@nineteen",
+        "output": "fifty-one"
+    },
+    {
+        "input": "twenty-seven@sixteen",
+        "output": "forty-three"
+    },
+    {
+        "input": "forty-five@twenty-one",
+        "output": "sixty-six"
+    },
+    {
+        "input": "twenty-two@sixty-six",
+        "output": "eighty-eight"
+    },
+    {
+        "input": "sixty-two@sixteen",
+        "output": "seventy-eight"
+    },
+    {
+        "input": "sixty-seven@three",
+        "output": "seventy"
+    },
+    {
+        "input": "seventy-eight@eleven",
+        "output": "eighty-nine"
+    },
+    {
+        "input": "seven@seventy-seven",
+        "output": "eighty-four"
+    },
+    {
+        "input": "forty-two@forty-four",
+        "output": "eighty-six"
+    },
+    {
+        "input": "twenty-eight@sixteen",
+        "output": "forty-four"
+    },
+    {
+        "input": "nine@sixty-nine",
+        "output": "seventy-eight"
+    },
+    {
+        "input": "twenty-four@twenty-eight",
+        "output": "fifty-two"
+    },
+    {
+        "input": "fifty@twelve",
+        "output": "sixty-two"
+    },
+    {
+        "input": "thirty-seven@twelve",
+        "output": "forty-nine"
+    },
+    {
+        "input": "eighty@six",
+        "output": "eighty-six"
+    },
+    {
+        "input": "forty-eight@thirty-one",
+        "output": "seventy-nine"
+    },
+    {
+        "input": "fifty-four@fourteen",
+        "output": "sixty-eight"
+    },
+    {
+        "input": "ninety-five@two",
+        "output": "ninety-seven"
+    },
+    {
+        "input": "thirty-nine@fifty-two",
+        "output": "ninety-one"
+    },
+    {
+        "input": "nine@twenty-three",
+        "output": "thirty-two"
+    },
+    {
+        "input": "seventy@twenty-eight",
+        "output": "ninety-eight"
+    },
+    {
+        "input": "fifteen@fifty",
+        "output": "sixty-five"
+    },
+    {
+        "input": "fifty-six@fourteen",
+        "output": "seventy"
+    },
+    {
+        "input": "sixty-three@nine",
+        "output": "seventy-two"
+    },
+    {
+        "input": "forty-three@forty-nine",
+        "output": "ninety-two"
+    },
+    {
+        "input": "zero@four",
+        "output": "four"
+    },
+    {
+        "input": "fifteen@nineteen",
+        "output": "thirty-four"
+    },
+    {
+        "input": "thirty-eight@thirty-seven",
+        "output": "seventy-five"
+    },
+    {
+        "input": "one@sixteen",
+        "output": "seventeen"
+    },
+    {
+        "input": "twelve@twenty",
+        "output": "thirty-two"
+    },
+    {
+        "input": "seven@forty",
+        "output": "forty-seven"
+    },
+    {
+        "input": "twenty-six@thirteen",
+        "output": "thirty-nine"
+    },
+    {
+        "input": "fifty-four@five",
+        "output": "fifty-nine"
+    },
+    {
+        "input": "ten@twenty-seven",
+        "output": "thirty-seven"
+    },
+    {
+        "input": "sixty-nine@five",
+        "output": "seventy-four"
+    },
+    {
+        "input": "twenty-one@sixty-six",
+        "output": "eighty-seven"
+    },
+    {
+        "input": "twenty-eight@fifty-five",
+        "output": "eighty-three"
+    },
+    {
+        "input": "twenty-nine@fifty-eight",
+        "output": "eighty-seven"
+    },
+    {
+        "input": "six@seventy-eight",
+        "output": "eighty-four"
+    },
+    {
+        "input": "seventy-three@nineteen",
+        "output": "ninety-two"
+    },
+    {
+        "input": "sixty-two@twenty-five",
+        "output": "eighty-seven"
+    },
+    {
+        "input": "sixteen@six",
+        "output": "twenty-two"
+    },
+    {
+        "input": "twenty-four@forty-three",
+        "output": "sixty-seven"
+    },
+    {
+        "input": "two@thirty-eight",
+        "output": "forty"
+    },
+    {
+        "input": "seven@thirty-nine",
+        "output": "forty-six"
+    },
+    {
+        "input": "twenty-two@sixty-eight",
+        "output": "ninety"
+    },
+    {
+        "input": "sixty-two@thirty-two",
+        "output": "ninety-four"
+    },
+    {
+        "input": "fourteen@twenty-eight",
+        "output": "forty-two"
+    },
+    {
+        "input": "thirty-eight@twenty-seven",
+        "output": "sixty-five"
+    },
+    {
+        "input": "forty-eight@thirty-eight",
+        "output": "eighty-six"
+    },
+    {
+        "input": "ten@six",
+        "output": "sixteen"
+    },
+    {
+        "input": "sixty-seven@fifteen",
+        "output": "eighty-two"
+    },
+    {
+        "input": "thirty@fifty-five",
+        "output": "eighty-five"
+    },
+    {
+        "input": "eighteen@thirty-six",
+        "output": "fifty-four"
+    },
+    {
+        "input": "twenty-four@thirty-six",
+        "output": "sixty"
+    },
+    {
+        "input": "five@eighty-seven",
+        "output": "ninety-two"
+    },
+    {
+        "input": "forty-two@thirty-nine",
+        "output": "eighty-one"
+    },
+    {
+        "input": "ten@thirty-two",
+        "output": "forty-two"
+    },
+    {
+        "input": "twenty-two@twenty-two",
+        "output": "forty-four"
+    },
+    {
+        "input": "twenty-seven@forty-nine",
+        "output": "seventy-six"
+    },
+    {
+        "input": "two@eighty-four",
+        "output": "eighty-six"
+    },
+    {
+        "input": "sixty-four@thirty-four",
+        "output": "ninety-eight"
+    },
+    {
+        "input": "twenty-nine@twenty-six",
+        "output": "fifty-five"
+    },
+    {
+        "input": "ninety@four",
+        "output": "ninety-four"
+    },
+    {
+        "input": "twenty-seven@forty-four",
+        "output": "seventy-one"
+    },
+    {
+        "input": "seven@twenty-two",
+        "output": "twenty-nine"
+    },
+    {
+        "input": "thirty-three@forty-seven",
+        "output": "eighty"
+    },
+    {
+        "input": "forty-six@ten",
+        "output": "fifty-six"
+    },
+    {
+        "input": "forty@seven",
+        "output": "forty-seven"
+    },
+    {
+        "input": "fifty-eight@thirty-one",
+        "output": "eighty-nine"
+    },
+    {
+        "input": "sixty-five@twenty-five",
+        "output": "ninety"
+    },
+    {
+        "input": "sixty-seven@thirty",
+        "output": "ninety-seven"
+    },
+    {
+        "input": "one@thirteen",
+        "output": "fourteen"
+    },
+    {
+        "input": "four@seven",
+        "output": "eleven"
+    },
+    {
+        "input": "forty-five@twenty-six",
+        "output": "seventy-one"
+    },
+    {
+        "input": "nineteen@twenty-two",
+        "output": "forty-one"
+    },
+    {
+        "input": "eight@ten",
+        "output": "eighteen"
+    },
+    {
+        "input": "nine@twenty-six",
+        "output": "thirty-five"
+    },
+    {
+        "input": "ninety@five",
+        "output": "ninety-five"
+    },
+    {
+        "input": "sixteen@sixty-two",
+        "output": "seventy-eight"
+    },
+    {
+        "input": "sixty-nine@three",
+        "output": "seventy-two"
+    },
+    {
+        "input": "sixty-three@twenty-six",
+        "output": "eighty-nine"
+    },
+    {
+        "input": "thirty-seven@sixty",
+        "output": "ninety-seven"
+    },
+    {
+        "input": "six@eighteen",
+        "output": "twenty-four"
+    },
+    {
+        "input": "eleven@seventy-five",
+        "output": "eighty-six"
+    },
+    {
+        "input": "fifty-three@forty-two",
+        "output": "ninety-five"
+    },
+    {
+        "input": "sixty-four@twenty-seven",
+        "output": "ninety-one"
+    },
+    {
+        "input": "six@fourteen",
+        "output": "twenty"
+    },
+    {
+        "input": "twenty-eight@thirty-nine",
+        "output": "sixty-seven"
+    },
+    {
+        "input": "two@ninety-three",
+        "output": "ninety-five"
+    },
+    {
+        "input": "twenty-nine@eighteen",
+        "output": "forty-seven"
+    },
+    {
+        "input": "four@twenty-six",
+        "output": "thirty"
+    },
+    {
+        "input": "twenty-three@fifty",
+        "output": "seventy-three"
+    },
+    {
+        "input": "twenty@sixty-four",
+        "output": "eighty-four"
+    },
+    {
+        "input": "forty-one@twenty",
+        "output": "sixty-one"
+    },
+    {
+        "input": "seventy-eight@nine",
+        "output": "eighty-seven"
+    },
+    {
+        "input": "thirty-one@sixty-four",
+        "output": "ninety-five"
+    },
+    {
+        "input": "thirty-five@fourteen",
+        "output": "forty-nine"
+    },
+    {
+        "input": "twenty-three@seventy",
+        "output": "ninety-three"
+    },
+    {
+        "input": "fifty-seven@twenty-eight",
+        "output": "eighty-five"
+    },
+    {
+        "input": "nine@fifty-seven",
+        "output": "sixty-six"
+    },
+    {
+        "input": "fifty-six@twenty-two",
+        "output": "seventy-eight"
+    },
+    {
+        "input": "sixty-seven@fourteen",
+        "output": "eighty-one"
+    },
+    {
+        "input": "thirteen@eighty-one",
+        "output": "ninety-four"
+    },
+    {
+        "input": "fifty-three@forty",
+        "output": "ninety-three"
+    },
+    {
+        "input": "thirty-one@sixty-five",
+        "output": "ninety-six"
+    },
+    {
+        "input": "four@ninety",
+        "output": "ninety-four"
+    },
+    {
+        "input": "thirty-nine@thirty-nine",
+        "output": "seventy-eight"
+    },
+    {
+        "input": "twenty-two@nineteen",
+        "output": "forty-one"
+    },
+    {
+        "input": "eleven@fifty-five",
+        "output": "sixty-six"
+    },
+    {
+        "input": "thirty-seven@twenty-eight",
+        "output": "sixty-five"
+    },
+    {
+        "input": "twenty-six@thirty-two",
+        "output": "fifty-eight"
+    },
+    {
+        "input": "ten@eighty-two",
+        "output": "ninety-two"
+    },
+    {
+        "input": "twelve@fifty",
+        "output": "sixty-two"
+    },
+    {
+        "input": "forty-two@six",
+        "output": "forty-eight"
+    },
+    {
+        "input": "thirty-four@eight",
+        "output": "forty-two"
+    },
+    {
+        "input": "thirty-one@five",
+        "output": "thirty-six"
+    },
+    {
+        "input": "five@seventy-nine",
+        "output": "eighty-four"
+    },
+    {
+        "input": "sixty-five@nineteen",
+        "output": "eighty-four"
+    },
+    {
+        "input": "three@seventy-five",
+        "output": "seventy-eight"
+    },
+    {
+        "input": "seven@fifty-seven",
+        "output": "sixty-four"
+    },
+    {
+        "input": "one@twenty-seven",
+        "output": "twenty-eight"
+    },
+    {
+        "input": "seventeen@three",
+        "output": "twenty"
+    },
+    {
+        "input": "thirty@ten",
+        "output": "forty"
+    },
+    {
+        "input": "four@forty-seven",
+        "output": "fifty-one"
+    },
+    {
+        "input": "three@seventy",
+        "output": "seventy-three"
+    },
+    {
+        "input": "six@fifteen",
+        "output": "twenty-one"
+    },
+    {
+        "input": "sixty-five@one",
+        "output": "sixty-six"
+    },
+    {
+        "input": "forty-six@four",
+        "output": "fifty"
+    },
+    {
+        "input": "thirty-seven@fifty-three",
+        "output": "ninety"
+    },
+    {
+        "input": "forty-eight@five",
+        "output": "fifty-three"
+    },
+    {
+        "input": "seventeen@four",
+        "output": "twenty-one"
+    },
+    {
+        "input": "thirty-one@twenty-six",
+        "output": "fifty-seven"
+    },
+    {
+        "input": "twenty-nine@twenty-two",
+        "output": "fifty-one"
+    },
+    {
+        "input": "thirty-two@forty-six",
+        "output": "seventy-eight"
+    },
+    {
+        "input": "five@seven",
+        "output": "twelve"
+    },
+    {
+        "input": "fifty-six@eleven",
+        "output": "sixty-seven"
+    },
+    {
+        "input": "twenty-seven@forty",
+        "output": "sixty-seven"
+    },
+    {
+        "input": "twenty@forty-five",
+        "output": "sixty-five"
+    },
+    {
+        "input": "eighty-one@seventeen",
+        "output": "ninety-eight"
+    },
+    {
+        "input": "sixty-four@fifteen",
+        "output": "seventy-nine"
+    },
+    {
+        "input": "zero@ten",
+        "output": "ten"
+    },
+    {
+        "input": "twenty@fifty-four",
+        "output": "seventy-four"
+    },
+    {
+        "input": "forty@twenty-four",
+        "output": "sixty-four"
+    },
+    {
+        "input": "eighty-one@fourteen",
+        "output": "ninety-five"
+    },
+    {
+        "input": "ninety@two",
+        "output": "ninety-two"
+    },
+    {
+        "input": "sixty-three@twelve",
+        "output": "seventy-five"
+    },
+    {
+        "input": "nine@seventy-one",
+        "output": "eighty"
+    },
+    {
+        "input": "thirty@nine",
+        "output": "thirty-nine"
+    },
+    {
+        "input": "twenty-nine@sixty-three",
+        "output": "ninety-two"
+    },
+    {
+        "input": "forty-six@six",
+        "output": "fifty-two"
+    },
+    {
+        "input": "three@ninety-six",
+        "output": "ninety-nine"
+    },
+    {
+        "input": "sixteen@seventy-one",
+        "output": "eighty-seven"
+    },
+    {
+        "input": "twelve@sixty-one",
+        "output": "seventy-three"
+    },
+    {
+        "input": "ten@forty",
+        "output": "fifty"
+    },
+    {
+        "input": "three@twenty-seven",
+        "output": "thirty"
+    },
+    {
+        "input": "thirty-one@sixty-three",
+        "output": "ninety-four"
+    },
+    {
+        "input": "forty-eight@seventeen",
+        "output": "sixty-five"
+    },
+    {
+        "input": "seventy-four@twenty-one",
+        "output": "ninety-five"
+    },
+    {
+        "input": "twenty-three@three",
+        "output": "twenty-six"
+    },
+    {
+        "input": "zero@eighty-five",
+        "output": "eighty-five"
+    },
+    {
+        "input": "three@eighty-five",
+        "output": "eighty-eight"
+    },
+    {
+        "input": "four@eighty-two",
+        "output": "eighty-six"
+    },
+    {
+        "input": "twenty-three@seventy-one",
+        "output": "ninety-four"
+    },
+    {
+        "input": "thirty-eight@twenty-two",
+        "output": "sixty"
+    },
+    {
+        "input": "seventy-nine@five",
+        "output": "eighty-four"
+    },
+    {
+        "input": "ten@seventeen",
+        "output": "twenty-seven"
+    },
+    {
+        "input": "twelve@twenty-eight",
+        "output": "forty"
+    },
+    {
+        "input": "ten@sixty-two",
+        "output": "seventy-two"
+    },
+    {
+        "input": "eighty-three@eight",
+        "output": "ninety-one"
+    },
+    {
+        "input": "fifty-nine@seven",
+        "output": "sixty-six"
+    },
+    {
+        "input": "sixty-five@two",
+        "output": "sixty-seven"
+    },
+    {
+        "input": "twenty-five@twenty-seven",
+        "output": "fifty-two"
+    },
+    {
+        "input": "forty-one@fourteen",
+        "output": "fifty-five"
+    },
+    {
+        "input": "thirteen@sixty-three",
+        "output": "seventy-six"
+    },
+    {
+        "input": "twenty-eight@fifty-nine",
+        "output": "eighty-seven"
+    },
+    {
+        "input": "forty-eight@twenty-nine",
+        "output": "seventy-seven"
+    },
+    {
+        "input": "eighteen@one",
+        "output": "nineteen"
+    },
+    {
+        "input": "five@two",
+        "output": "seven"
+    },
+    {
+        "input": "fourteen@twenty-one",
+        "output": "thirty-five"
+    },
+    {
+        "input": "four@seventy",
+        "output": "seventy-four"
+    },
+    {
+        "input": "two@fifty-eight",
+        "output": "sixty"
+    },
+    {
+        "input": "seventy-one@seventeen",
+        "output": "eighty-eight"
+    },
+    {
+        "input": "fifty-five@twenty-four",
+        "output": "seventy-nine"
+    },
+    {
+        "input": "thirty-seven@forty-five",
+        "output": "eighty-two"
+    },
+    {
+        "input": "thirty-three@fifty-five",
+        "output": "eighty-eight"
+    },
+    {
+        "input": "fifty@thirty-six",
+        "output": "eighty-six"
+    },
+    {
+        "input": "twenty-two@forty-seven",
+        "output": "sixty-nine"
+    },
+    {
+        "input": "nine@eighteen",
+        "output": "twenty-seven"
+    },
+    {
+        "input": "sixty-three@twenty-one",
+        "output": "eighty-four"
+    },
+    {
+        "input": "nine@sixty-eight",
+        "output": "seventy-seven"
+    },
+    {
+        "input": "twenty-nine@fifty-five",
+        "output": "eighty-four"
+    },
+    {
+        "input": "fifty-four@forty-two",
+        "output": "ninety-six"
+    },
+    {
+        "input": "fifty-nine@nineteen",
+        "output": "seventy-eight"
+    },
+    {
+        "input": "forty-four@thirty-two",
+        "output": "seventy-six"
+    },
+    {
+        "input": "eight@nineteen",
+        "output": "twenty-seven"
+    },
+    {
+        "input": "six@nine",
+        "output": "fifteen"
+    },
+    {
+        "input": "twenty@fourteen",
+        "output": "thirty-four"
+    },
+    {
+        "input": "nine@forty-four",
+        "output": "fifty-three"
+    },
+    {
+        "input": "thirty-six@thirty-one",
+        "output": "sixty-seven"
+    },
+    {
+        "input": "twelve@eight",
+        "output": "twenty"
+    },
+    {
+        "input": "three@fifteen",
+        "output": "eighteen"
+    },
+    {
+        "input": "twenty-two@thirteen",
+        "output": "thirty-five"
+    },
+    {
+        "input": "twenty-two@sixty-two",
+        "output": "eighty-four"
+    },
+    {
+        "input": "forty-one@twenty-four",
+        "output": "sixty-five"
+    },
+    {
+        "input": "thirty-seven@twenty-six",
+        "output": "sixty-three"
+    },
+    {
+        "input": "eleven@sixty-one",
+        "output": "seventy-two"
+    },
+    {
+        "input": "sixty-three@twenty",
+        "output": "eighty-three"
+    },
+    {
+        "input": "sixteen@forty-four",
+        "output": "sixty"
+    },
+    {
+        "input": "eight@ninety",
+        "output": "ninety-eight"
+    },
+    {
+        "input": "thirteen@forty",
+        "output": "fifty-three"
+    },
+    {
+        "input": "zero@ninety-three",
+        "output": "ninety-three"
+    },
+    {
+        "input": "forty-four@six",
+        "output": "fifty"
+    },
+    {
+        "input": "thirty-one@fifty-two",
+        "output": "eighty-three"
+    },
+    {
+        "input": "thirty-one@one",
+        "output": "thirty-two"
+    },
+    {
+        "input": "twelve@twenty-five",
+        "output": "thirty-seven"
+    },
+    {
+        "input": "twenty-nine@forty-two",
+        "output": "seventy-one"
+    },
+    {
+        "input": "nineteen@sixty-four",
+        "output": "eighty-three"
+    },
+    {
+        "input": "thirty-five@thirty-nine",
+        "output": "seventy-four"
+    },
+    {
+        "input": "twenty-seven@nine",
+        "output": "thirty-six"
+    },
+    {
+        "input": "three@six",
+        "output": "nine"
+    },
+    {
+        "input": "thirteen@fifty-two",
+        "output": "sixty-five"
+    },
+    {
+        "input": "twenty-four@thirty-nine",
+        "output": "sixty-three"
+    },
+    {
+        "input": "sixty-nine@eleven",
+        "output": "eighty"
+    },
+    {
+        "input": "nine@sixteen",
+        "output": "twenty-five"
+    },
+    {
+        "input": "twenty-five@eight",
+        "output": "thirty-three"
+    },
+    {
+        "input": "five@thirty-five",
+        "output": "forty"
+    },
+    {
+        "input": "nine@eighty-six",
+        "output": "ninety-five"
+    },
+    {
+        "input": "fifty-six@twenty-nine",
+        "output": "eighty-five"
+    },
+    {
+        "input": "ten@twenty-nine",
+        "output": "thirty-nine"
+    },
+    {
+        "input": "forty-two@twenty-four",
+        "output": "sixty-six"
+    },
+    {
+        "input": "three@thirty-two",
+        "output": "thirty-five"
+    },
+    {
+        "input": "nineteen@fifty-one",
+        "output": "seventy"
+    },
+    {
+        "input": "fifty@twenty-two",
+        "output": "seventy-two"
+    },
+    {
+        "input": "five@fifteen",
+        "output": "twenty"
+    },
+    {
+        "input": "twenty-one@four",
+        "output": "twenty-five"
+    },
+    {
+        "input": "ten@thirty-five",
+        "output": "forty-five"
+    },
+    {
+        "input": "twenty-nine@fifty-nine",
+        "output": "eighty-eight"
+    },
+    {
+        "input": "twenty-four@seventeen",
+        "output": "forty-one"
+    },
+    {
+        "input": "twenty-seven@nineteen",
+        "output": "forty-six"
+    },
+    {
+        "input": "twenty-two@one",
+        "output": "twenty-three"
+    },
+    {
+        "input": "thirty-one@fifty",
+        "output": "eighty-one"
+    },
+    {
+        "input": "sixty-six@twenty-five",
+        "output": "ninety-one"
+    },
+    {
+        "input": "one@fifty-six",
+        "output": "fifty-seven"
+    },
+    {
+        "input": "seventy-two@twenty-two",
+        "output": "ninety-four"
+    },
+    {
+        "input": "eleven@eighty-six",
+        "output": "ninety-seven"
+    },
+    {
+        "input": "ten@thirty-seven",
+        "output": "forty-seven"
+    },
+    {
+        "input": "twenty-five@seven",
+        "output": "thirty-two"
+    },
+    {
+        "input": "forty-three@thirteen",
+        "output": "fifty-six"
+    },
+    {
+        "input": "fifty-four@ten",
+        "output": "sixty-four"
+    },
+    {
+        "input": "fifty-seven@thirteen",
+        "output": "seventy"
+    },
+    {
+        "input": "sixty-seven@sixteen",
+        "output": "eighty-three"
+    },
+    {
+        "input": "twenty-nine@fourteen",
+        "output": "forty-three"
+    },
+    {
+        "input": "thirty-seven@four",
+        "output": "forty-one"
+    },
+    {
+        "input": "forty-four@two",
+        "output": "forty-six"
+    },
+    {
+        "input": "eight@eighty-six",
+        "output": "ninety-four"
+    },
+    {
+        "input": "nine@forty-six",
+        "output": "fifty-five"
+    },
+    {
+        "input": "twenty-six@sixty",
+        "output": "eighty-six"
+    },
+    {
+        "input": "nine@four",
+        "output": "thirteen"
+    },
+    {
+        "input": "eleven@fifty",
+        "output": "sixty-one"
+    },
+    {
+        "input": "fifty-four@two",
+        "output": "fifty-six"
+    },
+    {
+        "input": "seven@fifteen",
+        "output": "twenty-two"
+    },
+    {
+        "input": "ten@fifty-five",
+        "output": "sixty-five"
+    },
+    {
+        "input": "sixty-seven@twenty-five",
+        "output": "ninety-two"
+    },
+    {
+        "input": "twenty-seven@one",
+        "output": "twenty-eight"
+    },
+    {
+        "input": "ten@twelve",
+        "output": "twenty-two"
+    },
+    {
+        "input": "eighteen@thirty-nine",
+        "output": "fifty-seven"
+    },
+    {
+        "input": "forty-seven@forty",
+        "output": "eighty-seven"
+    },
+    {
+        "input": "eleven@eighteen",
+        "output": "twenty-nine"
+    },
+    {
+        "input": "eighty@sixteen",
+        "output": "ninety-six"
+    },
+    {
+        "input": "thirty-nine@two",
+        "output": "forty-one"
+    },
+    {
+        "input": "eleven@seventy-three",
+        "output": "eighty-four"
+    },
+    {
+        "input": "fifty@fourteen",
+        "output": "sixty-four"
+    },
+    {
+        "input": "sixty-six@thirty-one",
+        "output": "ninety-seven"
+    },
+    {
+        "input": "twenty-seven@thirty-six",
+        "output": "sixty-three"
+    },
+    {
+        "input": "thirty-eight@thirty-one",
+        "output": "sixty-nine"
+    },
+    {
+        "input": "ten@eighty-six",
+        "output": "ninety-six"
+    },
+    {
+        "input": "three@twenty-five",
+        "output": "twenty-eight"
+    },
+    {
+        "input": "fourteen@fifty-nine",
+        "output": "seventy-three"
+    },
+    {
+        "input": "one@ninety",
+        "output": "ninety-one"
+    },
+    {
+        "input": "thirty-eight@forty-one",
+        "output": "seventy-nine"
+    },
+    {
+        "input": "thirty-two@sixty-one",
+        "output": "ninety-three"
+    },
+    {
+        "input": "eight@twenty-seven",
+        "output": "thirty-five"
+    },
+    {
+        "input": "one@seventy-eight",
+        "output": "seventy-nine"
+    },
+    {
+        "input": "sixty-two@twenty-six",
+        "output": "eighty-eight"
+    },
+    {
+        "input": "seventy-two@eighteen",
+        "output": "ninety"
+    },
+    {
+        "input": "seventy-eight@twenty-one",
+        "output": "ninety-nine"
+    },
+    {
+        "input": "seventy-six@five",
+        "output": "eighty-one"
+    },
+    {
+        "input": "six@eighty-five",
+        "output": "ninety-one"
+    },
+    {
+        "input": "two@eighty-one",
+        "output": "eighty-three"
+    },
+    {
+        "input": "fifty-four@sixteen",
+        "output": "seventy"
+    },
+    {
+        "input": "eleven@eighty-one",
+        "output": "ninety-two"
+    },
+    {
+        "input": "eighty-two@fourteen",
+        "output": "ninety-six"
+    },
+    {
+        "input": "fifty-six@forty-two",
+        "output": "ninety-eight"
+    },
+    {
+        "input": "eighty-eight@nine",
+        "output": "ninety-seven"
+    },
+    {
+        "input": "forty-seven@two",
+        "output": "forty-nine"
+    },
+    {
+        "input": "fifty-three@four",
+        "output": "fifty-seven"
+    },
+    {
+        "input": "zero@ninety-seven",
+        "output": "ninety-seven"
+    },
+    {
+        "input": "eight@sixty-three",
+        "output": "seventy-one"
+    },
+    {
+        "input": "thirty-one@thirty-six",
+        "output": "sixty-seven"
+    },
+    {
+        "input": "seventy-five@fifteen",
+        "output": "ninety"
+    },
+    {
+        "input": "sixty-nine@nine",
+        "output": "seventy-eight"
+    },
+    {
+        "input": "forty-four@forty-three",
+        "output": "eighty-seven"
+    },
+    {
+        "input": "fifty@thirty-three",
+        "output": "eighty-three"
+    },
+    {
+        "input": "thirty-six@forty-six",
+        "output": "eighty-two"
+    },
+    {
+        "input": "forty-six@seventeen",
+        "output": "sixty-three"
+    },
+    {
+        "input": "fifty-two@twenty-seven",
+        "output": "seventy-nine"
+    },
+    {
+        "input": "thirty-seven@eleven",
+        "output": "forty-eight"
+    },
+    {
+        "input": "fifty-one@forty-two",
+        "output": "ninety-three"
+    },
+    {
+        "input": "forty-three@fifty",
+        "output": "ninety-three"
+    },
+    {
+        "input": "forty-one@thirteen",
+        "output": "fifty-four"
+    },
+    {
+        "input": "fifteen@seventy",
+        "output": "eighty-five"
+    },
+    {
+        "input": "eight@seventy-seven",
+        "output": "eighty-five"
+    },
+    {
+        "input": "thirty-three@eleven",
+        "output": "forty-four"
+    },
+    {
+        "input": "twenty-three@thirty-six",
+        "output": "fifty-nine"
+    },
+    {
+        "input": "twenty-seven@twenty-four",
+        "output": "fifty-one"
+    },
+    {
+        "input": "fifty-nine@sixteen",
+        "output": "seventy-five"
+    },
+    {
+        "input": "twenty-three@sixty-two",
+        "output": "eighty-five"
+    },
+    {
+        "input": "thirteen@fifty-seven",
+        "output": "seventy"
+    },
+    {
+        "input": "thirteen@twenty-one",
+        "output": "thirty-four"
+    },
+    {
+        "input": "twenty-nine@seventy",
+        "output": "ninety-nine"
+    },
+    {
+        "input": "thirteen@four",
+        "output": "seventeen"
+    },
+    {
+        "input": "fifty-one@twenty-nine",
+        "output": "eighty"
+    },
+    {
+        "input": "twenty-seven@fifty",
+        "output": "seventy-seven"
+    },
+    {
+        "input": "nine@forty",
+        "output": "forty-nine"
+    },
+    {
+        "input": "fifty-eight@twenty-six",
+        "output": "eighty-four"
+    }
+]

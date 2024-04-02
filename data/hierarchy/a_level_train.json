@@ -1,0 +1,82 @@
+[
+    {
+        "input": "Birds",
+        "output": "animal"
+    },
+    {
+        "input": "Amphibians",
+        "output": "animal"
+    },
+    {
+        "input": "Fish",
+        "output": "animal"
+    },
+    {
+        "input": "Insects",
+        "output": "animal"
+    },
+    {
+        "input": "Arachnids",
+        "output": "animal"
+    },
+    {
+        "input": "Crustaceans",
+        "output": "animal"
+    },
+    {
+        "input": "Meat",
+        "output": "food"
+    },
+    {
+        "input": "Seafood",
+        "output": "food"
+    },
+    {
+        "input": "Grain",
+        "output": "food"
+    },
+    {
+        "input": "Beverage",
+        "output": "food"
+    },
+    {
+        "input": "Spice_and_Herb",
+        "output": "food"
+    },
+    {
+        "input": "Confectionery",
+        "output": "food"
+    },
+    {
+        "input": "Car",
+        "output": "vehicle"
+    },
+    {
+        "input": "Bicycle",
+        "output": "vehicle"
+    },
+    {
+        "input": "Motorcycle",
+        "output": "vehicle"
+    },
+    {
+        "input": "Truck",
+        "output": "vehicle"
+    },
+    {
+        "input": "Bus",
+        "output": "vehicle"
+    },
+    {
+        "input": "Tram",
+        "output": "vehicle"
+    },
+    {
+        "input": "Train",
+        "output": "vehicle"
+    },
+    {
+        "input": "Airplane",
+        "output": "vehicle"
+    }
+]

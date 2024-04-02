@@ -1,0 +1,2802 @@
+[
+    {
+        "input": "(* abacus * basset)",
+        "output": "BASSET ABACUS"
+    },
+    {
+        "input": "(* abacus * racket)",
+        "output": "RACKET ABACUS"
+    },
+    {
+        "input": "(* accordion * ruddy)",
+        "output": "RUDDY ACCORDION"
+    },
+    {
+        "input": "(* acorn * whiskey)",
+        "output": "WHISKEY ACORN"
+    },
+    {
+        "input": "(* acoustic * limpkin)",
+        "output": "LIMPKIN ACOUSTIC"
+    },
+    {
+        "input": "(* admiral * sea)",
+        "output": "SEA ADMIRAL"
+    },
+    {
+        "input": "(* affenpinscher * triceratops)",
+        "output": "TRICERATOPS AFFENPINSCHER"
+    },
+    {
+        "input": "(* african * silver)",
+        "output": "SILVER AFRICAN"
+    },
+    {
+        "input": "(* agama * guillotine)",
+        "output": "GUILLOTINE AGAMA"
+    },
+    {
+        "input": "(* agaric * spotted)",
+        "output": "SPOTTED AGARIC"
+    },
+    {
+        "input": "(* airliner * graduation)",
+        "output": "GRADUATION AIRLINER"
+    },
+    {
+        "input": "(* airship * tights)",
+        "output": "TIGHTS AIRSHIP"
+    },
+    {
+        "input": "(* albatross * lifeboat)",
+        "output": "LIFEBOAT ALBATROSS"
+    },
+    {
+        "input": "(* alpine * tripod)",
+        "output": "TRIPOD ALPINE"
+    },
+    {
+        "input": "(* apiary * face)",
+        "output": "FACE APIARY"
+    },
+    {
+        "input": "(* apiary * star)",
+        "output": "STAR APIARY"
+    },
+    {
+        "input": "(* apple * finch)",
+        "output": "FINCH APPLE"
+    },
+    {
+        "input": "(* apron * duck)",
+        "output": "DUCK APRON"
+    },
+    {
+        "input": "(* armadillo * odometer)",
+        "output": "ODOMETER ARMADILLO"
+    },
+    {
+        "input": "(* automated * foxhound)",
+        "output": "FOXHOUND AUTOMATED"
+    },
+    {
+        "input": "(* baboon * cowboy)",
+        "output": "COWBOY BABOON"
+    },
+    {
+        "input": "(* badger * echidna)",
+        "output": "ECHIDNA BADGER"
+    },
+    {
+        "input": "(* bag * padlock)",
+        "output": "PADLOCK BAG"
+    },
+    {
+        "input": "(* bagel * impala)",
+        "output": "IMPALA BAGEL"
+    },
+    {
+        "input": "(* baguette * sarong)",
+        "output": "SARONG BAGUETTE"
+    },
+    {
+        "input": "(* balaclava * dial)",
+        "output": "DIAL BALACLAVA"
+    },
+    {
+        "input": "(* bald * military)",
+        "output": "MILITARY BALD"
+    },
+    {
+        "input": "(* ball * book)",
+        "output": "BOOK BALL"
+    },
+    {
+        "input": "(* ballpoint * elephant)",
+        "output": "ELEPHANT BALLPOINT"
+    },
+    {
+        "input": "(* baluster * dinmont)",
+        "output": "DINMONT BALUSTER"
+    },
+    {
+        "input": "(* banana * flandres)",
+        "output": "FLANDRES BANANA"
+    },
+    {
+        "input": "(* barbell * sink)",
+        "output": "SINK BARBELL"
+    },
+    {
+        "input": "(* barber * indri)",
+        "output": "INDRI BARBER"
+    },
+    {
+        "input": "(* barber * small)",
+        "output": "SMALL BARBER"
+    },
+    {
+        "input": "(* barn * breastplate)",
+        "output": "BREASTPLATE BARN"
+    },
+    {
+        "input": "(* barometer * boxer)",
+        "output": "BOXER BAROMETER"
+    },
+    {
+        "input": "(* barometer * toaster)",
+        "output": "TOASTER BAROMETER"
+    },
+    {
+        "input": "(* bars * hen)",
+        "output": "HEN BARS"
+    },
+    {
+        "input": "(* baseball * orange)",
+        "output": "ORANGE BASEBALL"
+    },
+    {
+        "input": "(* basenji * pie)",
+        "output": "PIE BASENJI"
+    },
+    {
+        "input": "(* bassinet * bird)",
+        "output": "BIRD BASSINET"
+    },
+    {
+        "input": "(* bassoon * ant)",
+        "output": "ANT BASSOON"
+    },
+    {
+        "input": "(* bath * pacifier)",
+        "output": "PACIFIER BATH"
+    },
+    {
+        "input": "(* bathing * plow)",
+        "output": "PLOW BATHING"
+    },
+    {
+        "input": "(* bay * tie)",
+        "output": "TIE BAY"
+    },
+    {
+        "input": "(* beach * analog)",
+        "output": "ANALOG BEACH"
+    },
+    {
+        "input": "(* beaver * chow)",
+        "output": "CHOW BEAVER"
+    },
+    {
+        "input": "(* bed * cleaner)",
+        "output": "CLEANER BED"
+    },
+    {
+        "input": "(* bed * triumphal)",
+        "output": "TRIUMPHAL BED"
+    },
+    {
+        "input": "(* bedlington * coucal)",
+        "output": "COUCAL BEDLINGTON"
+    },
+    {
+        "input": "(* beer * carousel)",
+        "output": "CAROUSEL BEER"
+    },
+    {
+        "input": "(* beer * egret)",
+        "output": "EGRET BEER"
+    },
+    {
+        "input": "(* beetle * manhole)",
+        "output": "MANHOLE BEETLE"
+    },
+    {
+        "input": "(* bib * diaper)",
+        "output": "DIAPER BIB"
+    },
+    {
+        "input": "(* bicycle * mud)",
+        "output": "MUD BICYCLE"
+    },
+    {
+        "input": "(* bicycle * perfume)",
+        "output": "PERFUME BICYCLE"
+    },
+    {
+        "input": "(* bike * train)",
+        "output": "TRAIN BIKE"
+    },
+    {
+        "input": "(* binoculars * charles)",
+        "output": "CHARLES BINOCULARS"
+    },
+    {
+        "input": "(* birdhouse * hamper)",
+        "output": "HAMPER BIRDHOUSE"
+    },
+    {
+        "input": "(* bittern * prayer)",
+        "output": "PRAYER BITTERN"
+    },
+    {
+        "input": "(* black * dining)",
+        "output": "DINING BLACK"
+    },
+    {
+        "input": "(* bloodhound * can)",
+        "output": "CAN BLOODHOUND"
+    },
+    {
+        "input": "(* blue * gibbon)",
+        "output": "GIBBON BLUE"
+    },
+    {
+        "input": "(* bluetick * wallaby)",
+        "output": "WALLABY BLUETICK"
+    },
+    {
+        "input": "(* boathouse * pillow)",
+        "output": "PILLOW BOATHOUSE"
+    },
+    {
+        "input": "(* bobsleigh * rack)",
+        "output": "RACK BOBSLEIGH"
+    },
+    {
+        "input": "(* bolete * dishwasher)",
+        "output": "DISHWASHER BOLETE"
+    },
+    {
+        "input": "(* bolete * sulphur)",
+        "output": "SULPHUR BOLETE"
+    },
+    {
+        "input": "(* bolo * kuvasz)",
+        "output": "KUVASZ BOLO"
+    },
+    {
+        "input": "(* bolo * mortar)",
+        "output": "MORTAR BOLO"
+    },
+    {
+        "input": "(* bolo * patas)",
+        "output": "PATAS BOLO"
+    },
+    {
+        "input": "(* bonnet * zebra)",
+        "output": "ZEBRA BONNET"
+    },
+    {
+        "input": "(* book * crash)",
+        "output": "CRASH BOOK"
+    },
+    {
+        "input": "(* bookcase * constrictor)",
+        "output": "CONSTRICTOR BOOKCASE"
+    },
+    {
+        "input": "(* bookstore * reef)",
+        "output": "REEF BOOKSTORE"
+    },
+    {
+        "input": "(* border * brambling)",
+        "output": "BRAMBLING BORDER"
+    },
+    {
+        "input": "(* borzoi * rhodesian)",
+        "output": "RHODESIAN BORZOI"
+    },
+    {
+        "input": "(* bow * glass)",
+        "output": "GLASS BOW"
+    },
+    {
+        "input": "(* bow * killer)",
+        "output": "KILLER BOW"
+    },
+    {
+        "input": "(* bowl * apron)",
+        "output": "APRON BOWL"
+    },
+    {
+        "input": "(* brace * garter)",
+        "output": "GARTER BRACE"
+    },
+    {
+        "input": "(* brake * ruddy)",
+        "output": "RUDDY BRAKE"
+    },
+    {
+        "input": "(* breakwater * paddle)",
+        "output": "PADDLE BREAKWATER"
+    },
+    {
+        "input": "(* briard * goblet)",
+        "output": "GOBLET BRIARD"
+    },
+    {
+        "input": "(* bridegroom * guitar)",
+        "output": "GUITAR BRIDEGROOM"
+    },
+    {
+        "input": "(* brittany * geoffroy's)",
+        "output": "GEOFFROY'S BRITTANY"
+    },
+    {
+        "input": "(* broom * pen)",
+        "output": "PEN BROOM"
+    },
+    {
+        "input": "(* bubble * black)",
+        "output": "BLACK BUBBLE"
+    },
+    {
+        "input": "(* bucket * hip)",
+        "output": "HIP BUCKET"
+    },
+    {
+        "input": "(* bull * printer)",
+        "output": "PRINTER BULL"
+    },
+    {
+        "input": "(* bullmastiff * room)",
+        "output": "ROOM BULLMASTIFF"
+    },
+    {
+        "input": "(* bullmastiff * shower)",
+        "output": "SHOWER BULLMASTIFF"
+    },
+    {
+        "input": "(* bullmastiff * wild)",
+        "output": "WILD BULLMASTIFF"
+    },
+    {
+        "input": "(* bunting * duck)",
+        "output": "DUCK BUNTING"
+    },
+    {
+        "input": "(* butternut * beagle)",
+        "output": "BEAGLE BUTTERNUT"
+    },
+    {
+        "input": "(* butternut * palace)",
+        "output": "PALACE BUTTERNUT"
+    },
+    {
+        "input": "(* butternut * puck)",
+        "output": "PUCK BUTTERNUT"
+    },
+    {
+        "input": "(* cabinet * mixing)",
+        "output": "MIXING CABINET"
+    },
+    {
+        "input": "(* cairn * old)",
+        "output": "OLD CAIRN"
+    },
+    {
+        "input": "(* camera * safe)",
+        "output": "SAFE CAMERA"
+    },
+    {
+        "input": "(* candle * punching)",
+        "output": "PUNCHING CANDLE"
+    },
+    {
+        "input": "(* canoe * ceiling)",
+        "output": "CEILING CANOE"
+    },
+    {
+        "input": "(* canoe * consomme)",
+        "output": "CONSOMME CANOE"
+    },
+    {
+        "input": "(* canoe * park)",
+        "output": "PARK CANOE"
+    },
+    {
+        "input": "(* cap * iguana)",
+        "output": "IGUANA CAP"
+    },
+    {
+        "input": "(* capuchin * junco)",
+        "output": "JUNCO CAPUCHIN"
+    },
+    {
+        "input": "(* car * popsicle)",
+        "output": "POPSICLE CAR"
+    },
+    {
+        "input": "(* car * ski)",
+        "output": "SKI CAR"
+    },
+    {
+        "input": "(* carbonara * locomotive)",
+        "output": "LOCOMOTIVE CARBONARA"
+    },
+    {
+        "input": "(* cardigan * guitar)",
+        "output": "GUITAR CARDIGAN"
+    },
+    {
+        "input": "(* cardigan * hat)",
+        "output": "HAT CARDIGAN"
+    },
+    {
+        "input": "(* carolina * screen)",
+        "output": "SCREEN CAROLINA"
+    },
+    {
+        "input": "(* carved * bench)",
+        "output": "BENCH CARVED"
+    },
+    {
+        "input": "(* carved * crock)",
+        "output": "CROCK CARVED"
+    },
+    {
+        "input": "(* carved * microwave)",
+        "output": "MICROWAVE CARVED"
+    },
+    {
+        "input": "(* cat * sleeping)",
+        "output": "SLEEPING CAT"
+    },
+    {
+        "input": "(* catamaran * seat)",
+        "output": "SEAT CATAMARAN"
+    },
+    {
+        "input": "(* cauldron * beagle)",
+        "output": "BEAGLE CAULDRON"
+    },
+    {
+        "input": "(* ceiling * african)",
+        "output": "AFRICAN CEILING"
+    },
+    {
+        "input": "(* ceiling * saluki)",
+        "output": "SALUKI CEILING"
+    },
+    {
+        "input": "(* center * daisy)",
+        "output": "DAISY CENTER"
+    },
+    {
+        "input": "(* centipede * brass)",
+        "output": "BRASS CENTIPEDE"
+    },
+    {
+        "input": "(* centipede * tree)",
+        "output": "TREE CENTIPEDE"
+    },
+    {
+        "input": "(* chain-link * stupa)",
+        "output": "STUPA CHAIN-LINK"
+    },
+    {
+        "input": "(* chainsaw * rule)",
+        "output": "RULE CHAINSAW"
+    },
+    {
+        "input": "(* cherimoya * apso)",
+        "output": "APSO CHERIMOYA"
+    },
+    {
+        "input": "(* chesapeake * honeycomb)",
+        "output": "HONEYCOMB CHESAPEAKE"
+    },
+    {
+        "input": "(* chime * cat)",
+        "output": "CAT CHIME"
+    },
+    {
+        "input": "(* china * shield)",
+        "output": "SHIELD CHINA"
+    },
+    {
+        "input": "(* christmas * spray)",
+        "output": "SPRAY CHRISTMAS"
+    },
+    {
+        "input": "(* cicada * leopard)",
+        "output": "LEOPARD CICADA"
+    },
+    {
+        "input": "(* cliff * cardboard)",
+        "output": "CARDBOARD CLIFF"
+    },
+    {
+        "input": "(* clip * dock)",
+        "output": "DOCK CLIP"
+    },
+    {
+        "input": "(* clip * tie)",
+        "output": "TIE CLIP"
+    },
+    {
+        "input": "(* clogs * monastery)",
+        "output": "MONASTERY CLOGS"
+    },
+    {
+        "input": "(* clumber * bicycle)",
+        "output": "BICYCLE CLUMBER"
+    },
+    {
+        "input": "(* coat * coffee)",
+        "output": "COFFEE COAT"
+    },
+    {
+        "input": "(* coat * cream)",
+        "output": "CREAM COAT"
+    },
+    {
+        "input": "(* coat * grasshopper)",
+        "output": "GRASSHOPPER COAT"
+    },
+    {
+        "input": "(* cob * arched)",
+        "output": "ARCHED COB"
+    },
+    {
+        "input": "(* cockatoo * dust)",
+        "output": "DUST COCKATOO"
+    },
+    {
+        "input": "(* cockroach * jeep)",
+        "output": "JEEP COCKROACH"
+    },
+    {
+        "input": "(* cockroach * uniform)",
+        "output": "UNIFORM COCKROACH"
+    },
+    {
+        "input": "(* coffee * artichoke)",
+        "output": "ARTICHOKE COFFEE"
+    },
+    {
+        "input": "(* coffee * slipper)",
+        "output": "SLIPPER COFFEE"
+    },
+    {
+        "input": "(* coffeemaker * tie)",
+        "output": "TIE COFFEEMAKER"
+    },
+    {
+        "input": "(* coil * lamp)",
+        "output": "LAMP COIL"
+    },
+    {
+        "input": "(* coil * salamander)",
+        "output": "SALAMANDER COIL"
+    },
+    {
+        "input": "(* combination * gyromitra)",
+        "output": "GYROMITRA COMBINATION"
+    },
+    {
+        "input": "(* combine * bunting)",
+        "output": "BUNTING COMBINE"
+    },
+    {
+        "input": "(* compass * filing)",
+        "output": "FILING COMPASS"
+    },
+    {
+        "input": "(* conch * plant)",
+        "output": "PLANT CONCH"
+    },
+    {
+        "input": "(* control * fire)",
+        "output": "FIRE CONTROL"
+    },
+    {
+        "input": "(* convertible * moving)",
+        "output": "MOVING CONVERTIBLE"
+    },
+    {
+        "input": "(* coral * catamaran)",
+        "output": "CATAMARAN CORAL"
+    },
+    {
+        "input": "(* corgi * measuring)",
+        "output": "MEASURING CORGI"
+    },
+    {
+        "input": "(* cottontail * snoek)",
+        "output": "SNOEK COTTONTAIL"
+    },
+    {
+        "input": "(* couch * home)",
+        "output": "HOME COUCH"
+    },
+    {
+        "input": "(* cougar * african)",
+        "output": "AFRICAN COUGAR"
+    },
+    {
+        "input": "(* cougar * pestle)",
+        "output": "PESTLE COUGAR"
+    },
+    {
+        "input": "(* cougar * threshing)",
+        "output": "THRESHING COUGAR"
+    },
+    {
+        "input": "(* cowboy * mirror)",
+        "output": "MIRROR COWBOY"
+    },
+    {
+        "input": "(* cradle * camera)",
+        "output": "CAMERA CRADLE"
+    },
+    {
+        "input": "(* cradle * screen)",
+        "output": "SCREEN CRADLE"
+    },
+    {
+        "input": "(* crash * fig)",
+        "output": "FIG CRASH"
+    },
+    {
+        "input": "(* crash * table)",
+        "output": "TABLE CRASH"
+    },
+    {
+        "input": "(* crate * paddle)",
+        "output": "PADDLE CRATE"
+    },
+    {
+        "input": "(* crate * rotary)",
+        "output": "ROTARY CRATE"
+    },
+    {
+        "input": "(* crock * wolfhound)",
+        "output": "WOLFHOUND CROCK"
+    },
+    {
+        "input": "(* croquet * dog)",
+        "output": "DOG CROQUET"
+    },
+    {
+        "input": "(* cucumber * ballpoint)",
+        "output": "BALLPOINT CUCUMBER"
+    },
+    {
+        "input": "(* curly-coated * dwelling)",
+        "output": "DWELLING CURLY-COATED"
+    },
+    {
+        "input": "(* custard * french)",
+        "output": "FRENCH CUSTARD"
+    },
+    {
+        "input": "(* custard * messenger)",
+        "output": "MESSENGER CUSTARD"
+    },
+    {
+        "input": "(* dalmatian * combination)",
+        "output": "COMBINATION DALMATIAN"
+    },
+    {
+        "input": "(* dalmatian * echidna)",
+        "output": "ECHIDNA DALMATIAN"
+    },
+    {
+        "input": "(* damselfly * tile)",
+        "output": "TILE DAMSELFLY"
+    },
+    {
+        "input": "(* dandie * dragon)",
+        "output": "DRAGON DANDIE"
+    },
+    {
+        "input": "(* dane * safe)",
+        "output": "SAFE DANE"
+    },
+    {
+        "input": "(* deerhound * gallinule)",
+        "output": "GALLINULE DEERHOUND"
+    },
+    {
+        "input": "(* des * handkerchief)",
+        "output": "HANDKERCHIEF DES"
+    },
+    {
+        "input": "(* des * telephone)",
+        "output": "TELEPHONE DES"
+    },
+    {
+        "input": "(* dial * mortar)",
+        "output": "MORTAR DIAL"
+    },
+    {
+        "input": "(* dial * shaker)",
+        "output": "SHAKER DIAL"
+    },
+    {
+        "input": "(* diaper * hat)",
+        "output": "HAT DIAPER"
+    },
+    {
+        "input": "(* diaper * music)",
+        "output": "MUSIC DIAPER"
+    },
+    {
+        "input": "(* dingo * seed)",
+        "output": "SEED DINGO"
+    },
+    {
+        "input": "(* dinmont * mirror)",
+        "output": "MIRROR DINMONT"
+    },
+    {
+        "input": "(* disc * butcher)",
+        "output": "BUTCHER DISC"
+    },
+    {
+        "input": "(* disc * mamba)",
+        "output": "MAMBA DISC"
+    },
+    {
+        "input": "(* dishcloth * plant)",
+        "output": "PLANT DISHCLOTH"
+    },
+    {
+        "input": "(* dishwasher * ray)",
+        "output": "RAY DISHWASHER"
+    },
+    {
+        "input": "(* divider * thermal)",
+        "output": "THERMAL DIVIDER"
+    },
+    {
+        "input": "(* dome * rain)",
+        "output": "RAIN DOME"
+    },
+    {
+        "input": "(* door * assault)",
+        "output": "ASSAULT DOOR"
+    },
+    {
+        "input": "(* door * night)",
+        "output": "NIGHT DOOR"
+    },
+    {
+        "input": "(* dough * basset)",
+        "output": "BASSET DOUGH"
+    },
+    {
+        "input": "(* dough * flatworm)",
+        "output": "FLATWORM DOUGH"
+    },
+    {
+        "input": "(* dough * jigsaw)",
+        "output": "JIGSAW DOUGH"
+    },
+    {
+        "input": "(* dragon * motorboat)",
+        "output": "MOTORBOAT DRAGON"
+    },
+    {
+        "input": "(* dragonfly * muzzle)",
+        "output": "MUZZLE DRAGONFLY"
+    },
+    {
+        "input": "(* drilling * chickadee)",
+        "output": "CHICKADEE DRILLING"
+    },
+    {
+        "input": "(* drum * folding)",
+        "output": "FOLDING DRUM"
+    },
+    {
+        "input": "(* drum * nematode)",
+        "output": "NEMATODE DRUM"
+    },
+    {
+        "input": "(* drumstick * cat)",
+        "output": "CAT DRUMSTICK"
+    },
+    {
+        "input": "(* drumstick * hyena)",
+        "output": "HYENA DRUMSTICK"
+    },
+    {
+        "input": "(* duck * mixing)",
+        "output": "MIXING DUCK"
+    },
+    {
+        "input": "(* dugong * tailed)",
+        "output": "TAILED DUGONG"
+    },
+    {
+        "input": "(* dutch * turnstile)",
+        "output": "TURNSTILE DUTCH"
+    },
+    {
+        "input": "(* earth * beauty)",
+        "output": "BEAUTY EARTH"
+    },
+    {
+        "input": "(* eastern * rattlesnake)",
+        "output": "RATTLESNAKE EASTERN"
+    },
+    {
+        "input": "(* eel * bullmastiff)",
+        "output": "BULLMASTIFF EEL"
+    },
+    {
+        "input": "(* eggnog * redshank)",
+        "output": "REDSHANK EGGNOG"
+    },
+    {
+        "input": "(* egret * proboscis)",
+        "output": "PROBOSCIS EGRET"
+    },
+    {
+        "input": "(* electrical * cat)",
+        "output": "CAT ELECTRICAL"
+    },
+    {
+        "input": "(* electrical * mink)",
+        "output": "MINK ELECTRICAL"
+    },
+    {
+        "input": "(* elephant * lakeshore)",
+        "output": "LAKESHORE ELEPHANT"
+    },
+    {
+        "input": "(* elephant * microwave)",
+        "output": "MICROWAVE ELEPHANT"
+    },
+    {
+        "input": "(* elkhound * coffeemaker)",
+        "output": "COFFEEMAKER ELKHOUND"
+    },
+    {
+        "input": "(* english * rug)",
+        "output": "RUG ENGLISH"
+    },
+    {
+        "input": "(* english * shorthaired)",
+        "output": "SHORTHAIRED ENGLISH"
+    },
+    {
+        "input": "(* eraser * windsor)",
+        "output": "WINDSOR ERASER"
+    },
+    {
+        "input": "(* european * electric)",
+        "output": "ELECTRIC EUROPEAN"
+    },
+    {
+        "input": "(* european * maraca)",
+        "output": "MARACA EUROPEAN"
+    },
+    {
+        "input": "(* face * garden)",
+        "output": "GARDEN FACE"
+    },
+    {
+        "input": "(* fan * highland)",
+        "output": "HIGHLAND FAN"
+    },
+    {
+        "input": "(* farm * agama)",
+        "output": "AGAMA FARM"
+    },
+    {
+        "input": "(* farm * alaskan)",
+        "output": "ALASKAN FARM"
+    },
+    {
+        "input": "(* farm * bullfrog)",
+        "output": "BULLFROG FARM"
+    },
+    {
+        "input": "(* fence * wombat)",
+        "output": "WOMBAT FENCE"
+    },
+    {
+        "input": "(* fig * parachute)",
+        "output": "PARACHUTE FIG"
+    },
+    {
+        "input": "(* fishing * hunting)",
+        "output": "HUNTING FISHING"
+    },
+    {
+        "input": "(* fishing * little)",
+        "output": "LITTLE FISHING"
+    },
+    {
+        "input": "(* flandres * beaker)",
+        "output": "BEAKER FLANDRES"
+    },
+    {
+        "input": "(* flandres * diamondback)",
+        "output": "DIAMONDBACK FLANDRES"
+    },
+    {
+        "input": "(* flat-coated * beaver)",
+        "output": "BEAVER FLAT-COATED"
+    },
+    {
+        "input": "(* frilled-necked * leafhopper)",
+        "output": "LEAFHOPPER FRILLED-NECKED"
+    },
+    {
+        "input": "(* frilled-necked * pelican)",
+        "output": "PELICAN FRILLED-NECKED"
+    },
+    {
+        "input": "(* front * grasshopper)",
+        "output": "GRASSHOPPER FRONT"
+    },
+    {
+        "input": "(* front * pipe)",
+        "output": "PIPE FRONT"
+    },
+    {
+        "input": "(* fungus * bikini)",
+        "output": "BIKINI FUNGUS"
+    },
+    {
+        "input": "(* gar * barbershop)",
+        "output": "BARBERSHOP GAR"
+    },
+    {
+        "input": "(* gar * breakwater)",
+        "output": "BREAKWATER GAR"
+    },
+    {
+        "input": "(* gecko * garden)",
+        "output": "GARDEN GECKO"
+    },
+    {
+        "input": "(* geoffroy's * harvestman)",
+        "output": "HARVESTMAN GEOFFROY'S"
+    },
+    {
+        "input": "(* german * swimming)",
+        "output": "SWIMMING GERMAN"
+    },
+    {
+        "input": "(* geyser * pinscher)",
+        "output": "PINSCHER GEYSER"
+    },
+    {
+        "input": "(* gibbon * fig)",
+        "output": "FIG GIBBON"
+    },
+    {
+        "input": "(* glasses * shade)",
+        "output": "SHADE GLASSES"
+    },
+    {
+        "input": "(* glasses * wheaten)",
+        "output": "WHEATEN GLASSES"
+    },
+    {
+        "input": "(* goblet * daisy)",
+        "output": "DAISY GOBLET"
+    },
+    {
+        "input": "(* golden * schooner)",
+        "output": "SCHOONER GOLDEN"
+    },
+    {
+        "input": "(* golf * doormat)",
+        "output": "DOORMAT GOLF"
+    },
+    {
+        "input": "(* goose * telephone)",
+        "output": "TELEPHONE GOOSE"
+    },
+    {
+        "input": "(* gown * mashed)",
+        "output": "MASHED GOWN"
+    },
+    {
+        "input": "(* graduation * arched)",
+        "output": "ARCHED GRADUATION"
+    },
+    {
+        "input": "(* graduation * flandres)",
+        "output": "FLANDRES GRADUATION"
+    },
+    {
+        "input": "(* graduation * fungus)",
+        "output": "FUNGUS GRADUATION"
+    },
+    {
+        "input": "(* graduation * sulphur)",
+        "output": "SULPHUR GRADUATION"
+    },
+    {
+        "input": "(* grand * bolete)",
+        "output": "BOLETE GRAND"
+    },
+    {
+        "input": "(* granny * heron)",
+        "output": "HERON GRANNY"
+    },
+    {
+        "input": "(* grasshopper * limpkin)",
+        "output": "LIMPKIN GRASSHOPPER"
+    },
+    {
+        "input": "(* greater * race)",
+        "output": "RACE GREATER"
+    },
+    {
+        "input": "(* greenhouse * wheaten)",
+        "output": "WHEATEN GREENHOUSE"
+    },
+    {
+        "input": "(* grey * tick)",
+        "output": "TICK GREY"
+    },
+    {
+        "input": "(* greyhound * digital)",
+        "output": "DIGITAL GREYHOUND"
+    },
+    {
+        "input": "(* grille * bolete)",
+        "output": "BOLETE GRILLE"
+    },
+    {
+        "input": "(* groenendael * loggerhead)",
+        "output": "LOGGERHEAD GROENENDAEL"
+    },
+    {
+        "input": "(* grouse * dane)",
+        "output": "DANE GROUSE"
+    },
+    {
+        "input": "(* guenon * bush)",
+        "output": "BUSH GUENON"
+    },
+    {
+        "input": "(* guenon * oystercatcher)",
+        "output": "OYSTERCATCHER GUENON"
+    },
+    {
+        "input": "(* guillotine * tzu)",
+        "output": "TZU GUILLOTINE"
+    },
+    {
+        "input": "(* guinea * telephone)",
+        "output": "TELEPHONE GUINEA"
+    },
+    {
+        "input": "(* guitar * star)",
+        "output": "STAR GUITAR"
+    },
+    {
+        "input": "(* gymnastic * papillon)",
+        "output": "PAPILLON GYMNASTIC"
+    },
+    {
+        "input": "(* hammer * affenpinscher)",
+        "output": "AFFENPINSCHER HAMMER"
+    },
+    {
+        "input": "(* hammer * smooth)",
+        "output": "SMOOTH HAMMER"
+    },
+    {
+        "input": "(* handkerchief * four-poster)",
+        "output": "FOUR-POSTER HANDKERCHIEF"
+    },
+    {
+        "input": "(* handrail * chiton)",
+        "output": "CHITON HANDRAIL"
+    },
+    {
+        "input": "(* hard * trifle)",
+        "output": "TRIFLE HARD"
+    },
+    {
+        "input": "(* hare * hammer)",
+        "output": "HAMMER HARE"
+    },
+    {
+        "input": "(* hare * swan)",
+        "output": "SWAN HARE"
+    },
+    {
+        "input": "(* hartebeest * earth)",
+        "output": "EARTH HARTEBEEST"
+    },
+    {
+        "input": "(* hartebeest * screwdriver)",
+        "output": "SCREWDRIVER HARTEBEEST"
+    },
+    {
+        "input": "(* harvester * car)",
+        "output": "CAR HARVESTER"
+    },
+    {
+        "input": "(* hatchet * shorthaired)",
+        "output": "SHORTHAIRED HATCHET"
+    },
+    {
+        "input": "(* heater * bath)",
+        "output": "BATH HEATER"
+    },
+    {
+        "input": "(* high-speed * mud)",
+        "output": "MUD HIGH-SPEED"
+    },
+    {
+        "input": "(* high-speed * saluki)",
+        "output": "SALUKI HIGH-SPEED"
+    },
+    {
+        "input": "(* highland * trombone)",
+        "output": "TROMBONE HIGHLAND"
+    },
+    {
+        "input": "(* hockey * bush)",
+        "output": "BUSH HOCKEY"
+    },
+    {
+        "input": "(* hog-nosed * sennenhund)",
+        "output": "SENNENHUND HOG-NOSED"
+    },
+    {
+        "input": "(* horse * redbone)",
+        "output": "REDBONE HORSE"
+    },
+    {
+        "input": "(* hound * parking)",
+        "output": "PARKING HOUND"
+    },
+    {
+        "input": "(* hound * sombrero)",
+        "output": "SOMBRERO HOUND"
+    },
+    {
+        "input": "(* hunting * pencil)",
+        "output": "PENCIL HUNTING"
+    },
+    {
+        "input": "(* hunting * wheaten)",
+        "output": "WHEATEN HUNTING"
+    },
+    {
+        "input": "(* ibex * water)",
+        "output": "WATER IBEX"
+    },
+    {
+        "input": "(* ice * bolete)",
+        "output": "BOLETE ICE"
+    },
+    {
+        "input": "(* ice * brake)",
+        "output": "BRAKE ICE"
+    },
+    {
+        "input": "(* ice * constrictor)",
+        "output": "CONSTRICTOR ICE"
+    },
+    {
+        "input": "(* impala * truck)",
+        "output": "TRUCK IMPALA"
+    },
+    {
+        "input": "(* indri * hippopotamus)",
+        "output": "HIPPOPOTAMUS INDRI"
+    },
+    {
+        "input": "(* indri * puzzle)",
+        "output": "PUZZLE INDRI"
+    },
+    {
+        "input": "(* ipod * lakeshore)",
+        "output": "LAKESHORE IPOD"
+    },
+    {
+        "input": "(* ipod * red-breasted)",
+        "output": "RED-BREASTED IPOD"
+    },
+    {
+        "input": "(* iron * porcupine)",
+        "output": "PORCUPINE IRON"
+    },
+    {
+        "input": "(* isopod * mosquito)",
+        "output": "MOSQUITO ISOPOD"
+    },
+    {
+        "input": "(* italian * dugong)",
+        "output": "DUGONG ITALIAN"
+    },
+    {
+        "input": "(* italian * mouse)",
+        "output": "MOUSE ITALIAN"
+    },
+    {
+        "input": "(* italian * sign)",
+        "output": "SIGN ITALIAN"
+    },
+    {
+        "input": "(* italian * stinkhorn)",
+        "output": "STINKHORN ITALIAN"
+    },
+    {
+        "input": "(* jacamar * hamper)",
+        "output": "HAMPER JACAMAR"
+    },
+    {
+        "input": "(* jacket * chameleon)",
+        "output": "CHAMELEON JACKET"
+    },
+    {
+        "input": "(* jackfruit * redbone)",
+        "output": "REDBONE JACKFRUIT"
+    },
+    {
+        "input": "(* jaguar * mower)",
+        "output": "MOWER JAGUAR"
+    },
+    {
+        "input": "(* jaguar * t)",
+        "output": "T JAGUAR"
+    },
+    {
+        "input": "(* jay * guitar)",
+        "output": "GUITAR JAY"
+    },
+    {
+        "input": "(* jay * horn)",
+        "output": "HORN JAY"
+    },
+    {
+        "input": "(* jeep * teddy)",
+        "output": "TEDDY JEEP"
+    },
+    {
+        "input": "(* jellyfish * ruddy)",
+        "output": "RUDDY JELLYFISH"
+    },
+    {
+        "input": "(* joystick * egret)",
+        "output": "EGRET JOYSTICK"
+    },
+    {
+        "input": "(* junco * wheel)",
+        "output": "WHEEL JUNCO"
+    },
+    {
+        "input": "(* keeshond * eater)",
+        "output": "EATER KEESHOND"
+    },
+    {
+        "input": "(* kelpie * bookcase)",
+        "output": "BOOKCASE KELPIE"
+    },
+    {
+        "input": "(* kit * maypole)",
+        "output": "MAYPOLE KIT"
+    },
+    {
+        "input": "(* knot * shaker)",
+        "output": "SHAKER KNOT"
+    },
+    {
+        "input": "(* kuvasz * fireboat)",
+        "output": "FIREBOAT KUVASZ"
+    },
+    {
+        "input": "(* kuvasz * silver)",
+        "output": "SILVER KUVASZ"
+    },
+    {
+        "input": "(* lab * control)",
+        "output": "CONTROL LAB"
+    },
+    {
+        "input": "(* ladle * mower)",
+        "output": "MOWER LADLE"
+    },
+    {
+        "input": "(* ladybug * minivan)",
+        "output": "MINIVAN LADYBUG"
+    },
+    {
+        "input": "(* lamp * platypus)",
+        "output": "PLATYPUS LAMP"
+    },
+    {
+        "input": "(* lampshade * toilet)",
+        "output": "TOILET LAMPSHADE"
+    },
+    {
+        "input": "(* langur * folding)",
+        "output": "FOLDING LANGUR"
+    },
+    {
+        "input": "(* leafhopper * cleaner)",
+        "output": "CLEANER LEAFHOPPER"
+    },
+    {
+        "input": "(* leafhopper * corgi)",
+        "output": "CORGI LEAFHOPPER"
+    },
+    {
+        "input": "(* leafhopper * coucal)",
+        "output": "COUCAL LEAFHOPPER"
+    },
+    {
+        "input": "(* leafhopper * mamba)",
+        "output": "MAMBA LEAFHOPPER"
+    },
+    {
+        "input": "(* lemon * half-track)",
+        "output": "HALF-TRACK LEMON"
+    },
+    {
+        "input": "(* lemon * spray)",
+        "output": "SPRAY LEMON"
+    },
+    {
+        "input": "(* leonberger * of)",
+        "output": "OF LEONBERGER"
+    },
+    {
+        "input": "(* leopard * stone)",
+        "output": "STONE LEOPARD"
+    },
+    {
+        "input": "(* library * entertainment)",
+        "output": "ENTERTAINMENT LIBRARY"
+    },
+    {
+        "input": "(* library * ferret)",
+        "output": "FERRET LIBRARY"
+    },
+    {
+        "input": "(* library * sports)",
+        "output": "SPORTS LIBRARY"
+    },
+    {
+        "input": "(* lifeboat * ring-tailed)",
+        "output": "RING-TAILED LIFEBOAT"
+    },
+    {
+        "input": "(* light * ice)",
+        "output": "ICE LIGHT"
+    },
+    {
+        "input": "(* lighthouse * buckle)",
+        "output": "BUCKLE LIGHTHOUSE"
+    },
+    {
+        "input": "(* lipstick * binder)",
+        "output": "BINDER LIPSTICK"
+    },
+    {
+        "input": "(* lizard * station)",
+        "output": "STATION LIZARD"
+    },
+    {
+        "input": "(* lock * chameleon)",
+        "output": "CHAMELEON LOCK"
+    },
+    {
+        "input": "(* lotion * leatherback)",
+        "output": "LEATHERBACK LOTION"
+    },
+    {
+        "input": "(* macaw * python)",
+        "output": "PYTHON MACAW"
+    },
+    {
+        "input": "(* magnetic * chihuahua)",
+        "output": "CHIHUAHUA MAGNETIC"
+    },
+    {
+        "input": "(* magnetic * rig)",
+        "output": "RIG MAGNETIC"
+    },
+    {
+        "input": "(* mamba * pembroke)",
+        "output": "PEMBROKE MAMBA"
+    },
+    {
+        "input": "(* maned * geyser)",
+        "output": "GEYSER MANED"
+    },
+    {
+        "input": "(* manhole * farm)",
+        "output": "FARM MANHOLE"
+    },
+    {
+        "input": "(* maraca * siamang)",
+        "output": "SIAMANG MARACA"
+    },
+    {
+        "input": "(* marimba * brain)",
+        "output": "BRAIN MARIMBA"
+    },
+    {
+        "input": "(* marmoset * tricycle)",
+        "output": "TRICYCLE MARMOSET"
+    },
+    {
+        "input": "(* marmot * anemone)",
+        "output": "ANEMONE MARMOT"
+    },
+    {
+        "input": "(* marmot * valley)",
+        "output": "VALLEY MARMOT"
+    },
+    {
+        "input": "(* mashed * loggerhead)",
+        "output": "LOGGERHEAD MASHED"
+    },
+    {
+        "input": "(* mastiff * admiral)",
+        "output": "ADMIRAL MASTIFF"
+    },
+    {
+        "input": "(* matchstick * st.)",
+        "output": "ST. MATCHSTICK"
+    },
+    {
+        "input": "(* maypole * brake)",
+        "output": "BRAKE MAYPOLE"
+    },
+    {
+        "input": "(* maze * amphibious)",
+        "output": "AMPHIBIOUS MAZE"
+    },
+    {
+        "input": "(* maze * radio)",
+        "output": "RADIO MAZE"
+    },
+    {
+        "input": "(* measuring * oystercatcher)",
+        "output": "OYSTERCATCHER MEASURING"
+    },
+    {
+        "input": "(* measuring * school)",
+        "output": "SCHOOL MEASURING"
+    },
+    {
+        "input": "(* meatloaf * leafhopper)",
+        "output": "LEAFHOPPER MEATLOAF"
+    },
+    {
+        "input": "(* meatloaf * pan)",
+        "output": "PAN MEATLOAF"
+    },
+    {
+        "input": "(* meerkat * bunting)",
+        "output": "BUNTING MEERKAT"
+    },
+    {
+        "input": "(* meerkat * spindle)",
+        "output": "SPINDLE MEERKAT"
+    },
+    {
+        "input": "(* metal * ridgeback)",
+        "output": "RIDGEBACK METAL"
+    },
+    {
+        "input": "(* meter * adult)",
+        "output": "ADULT METER"
+    },
+    {
+        "input": "(* meter * coffee)",
+        "output": "COFFEE METER"
+    },
+    {
+        "input": "(* microwave * triceratops)",
+        "output": "TRICERATOPS MICROWAVE"
+    },
+    {
+        "input": "(* military * tile)",
+        "output": "TILE MILITARY"
+    },
+    {
+        "input": "(* milk * storage)",
+        "output": "STORAGE MILK"
+    },
+    {
+        "input": "(* miniature * spoonbill)",
+        "output": "SPOONBILL MINIATURE"
+    },
+    {
+        "input": "(* miniskirt * poke)",
+        "output": "POKE MINISKIRT"
+    },
+    {
+        "input": "(* minivan * bullmastiff)",
+        "output": "BULLMASTIFF MINIVAN"
+    },
+    {
+        "input": "(* minivan * convertible)",
+        "output": "CONVERTIBLE MINIVAN"
+    },
+    {
+        "input": "(* mink * bridge)",
+        "output": "BRIDGE MINK"
+    },
+    {
+        "input": "(* missile * elephant)",
+        "output": "ELEPHANT MISSILE"
+    },
+    {
+        "input": "(* missile * hot)",
+        "output": "HOT MISSILE"
+    },
+    {
+        "input": "(* missile * pointer)",
+        "output": "POINTER MISSILE"
+    },
+    {
+        "input": "(* mixing * power)",
+        "output": "POWER MIXING"
+    },
+    {
+        "input": "(* model * backpack)",
+        "output": "BACKPACK MODEL"
+    },
+    {
+        "input": "(* mongoose * harvester)",
+        "output": "HARVESTER MONGOOSE"
+    },
+    {
+        "input": "(* monitor * ladle)",
+        "output": "LADLE MONITOR"
+    },
+    {
+        "input": "(* monitor * slot)",
+        "output": "SLOT MONITOR"
+    },
+    {
+        "input": "(* mop * boathouse)",
+        "output": "BOATHOUSE MOP"
+    },
+    {
+        "input": "(* mop * fungus)",
+        "output": "FUNGUS MOP"
+    },
+    {
+        "input": "(* mosquito * shovel)",
+        "output": "SHOVEL MOSQUITO"
+    },
+    {
+        "input": "(* motorboat * honeycomb)",
+        "output": "HONEYCOMB MOTORBOAT"
+    },
+    {
+        "input": "(* motorboat * race)",
+        "output": "RACE MOTORBOAT"
+    },
+    {
+        "input": "(* mouse * farm)",
+        "output": "FARM MOUSE"
+    },
+    {
+        "input": "(* mousetrap * bars)",
+        "output": "BARS MOUSETRAP"
+    },
+    {
+        "input": "(* moving * turtle)",
+        "output": "TURTLE MOVING"
+    },
+    {
+        "input": "(* mower * freight)",
+        "output": "FREIGHT MOWER"
+    },
+    {
+        "input": "(* mower * syringe)",
+        "output": "SYRINGE MOWER"
+    },
+    {
+        "input": "(* mud * australian)",
+        "output": "AUSTRALIAN MUD"
+    },
+    {
+        "input": "(* nautilus * turtle)",
+        "output": "TURTLE NAUTILUS"
+    },
+    {
+        "input": "(* neck * shark)",
+        "output": "SHARK NECK"
+    },
+    {
+        "input": "(* nematode * piano)",
+        "output": "PIANO NEMATODE"
+    },
+    {
+        "input": "(* net * fig)",
+        "output": "FIG NET"
+    },
+    {
+        "input": "(* net * stopwatch)",
+        "output": "STOPWATCH NET"
+    },
+    {
+        "input": "(* newfoundland * tank)",
+        "output": "TANK NEWFOUNDLAND"
+    },
+    {
+        "input": "(* newfoundland * windsor)",
+        "output": "WINDSOR NEWFOUNDLAND"
+    },
+    {
+        "input": "(* newt * sarong)",
+        "output": "SARONG NEWT"
+    },
+    {
+        "input": "(* norfolk * groenendael)",
+        "output": "GROENENDAEL NORFOLK"
+    },
+    {
+        "input": "(* oboe * respirator)",
+        "output": "RESPIRATOR OBOE"
+    },
+    {
+        "input": "(* oboe * wagon)",
+        "output": "WAGON OBOE"
+    },
+    {
+        "input": "(* ocarina * axolotl)",
+        "output": "AXOLOTL OCARINA"
+    },
+    {
+        "input": "(* oil * store)",
+        "output": "STORE OIL"
+    },
+    {
+        "input": "(* oil * strainer)",
+        "output": "STRAINER OIL"
+    },
+    {
+        "input": "(* old * brambling)",
+        "output": "BRAMBLING OLD"
+    },
+    {
+        "input": "(* opener * ground)",
+        "output": "GROUND OPENER"
+    },
+    {
+        "input": "(* organ * cauliflower)",
+        "output": "CAULIFLOWER ORGAN"
+    },
+    {
+        "input": "(* otter * cairn)",
+        "output": "CAIRN OTTER"
+    },
+    {
+        "input": "(* otterhound * spotlight)",
+        "output": "SPOTLIGHT OTTERHOUND"
+    },
+    {
+        "input": "(* overskirt * hammerhead)",
+        "output": "HAMMERHEAD OVERSKIRT"
+    },
+    {
+        "input": "(* overskirt * tram)",
+        "output": "TRAM OVERSKIRT"
+    },
+    {
+        "input": "(* ox * bush)",
+        "output": "BUSH OX"
+    },
+    {
+        "input": "(* oxygen * rickshaw)",
+        "output": "RICKSHAW OXYGEN"
+    },
+    {
+        "input": "(* oystercatcher * eater)",
+        "output": "EATER OYSTERCATCHER"
+    },
+    {
+        "input": "(* packaging * monitor)",
+        "output": "MONITOR PACKAGING"
+    },
+    {
+        "input": "(* pad * shetland)",
+        "output": "SHETLAND PAD"
+    },
+    {
+        "input": "(* pajamas * giant)",
+        "output": "GIANT PAJAMAS"
+    },
+    {
+        "input": "(* palace * chocolate)",
+        "output": "CHOCOLATE PALACE"
+    },
+    {
+        "input": "(* pan * analog)",
+        "output": "ANALOG PAN"
+    },
+    {
+        "input": "(* paper * lighthouse)",
+        "output": "LIGHTHOUSE PAPER"
+    },
+    {
+        "input": "(* parachute * otterhound)",
+        "output": "OTTERHOUND PARACHUTE"
+    },
+    {
+        "input": "(* parallel * woods)",
+        "output": "WOODS PARALLEL"
+    },
+    {
+        "input": "(* park * pomegranate)",
+        "output": "POMEGRANATE PARK"
+    },
+    {
+        "input": "(* parrot * coffee)",
+        "output": "COFFEE PARROT"
+    },
+    {
+        "input": "(* partridge * odometer)",
+        "output": "ODOMETER PARTRIDGE"
+    },
+    {
+        "input": "(* patas * dugong)",
+        "output": "DUGONG PATAS"
+    },
+    {
+        "input": "(* patio * greater)",
+        "output": "GREATER PATIO"
+    },
+    {
+        "input": "(* patio * submarine)",
+        "output": "SUBMARINE PATIO"
+    },
+    {
+        "input": "(* peafowl * gossamer-winged)",
+        "output": "GOSSAMER-WINGED PEAFOWL"
+    },
+    {
+        "input": "(* pekingese * comic)",
+        "output": "COMIC PEKINGESE"
+    },
+    {
+        "input": "(* pekingese * miniature)",
+        "output": "MINIATURE PEKINGESE"
+    },
+    {
+        "input": "(* pembroke * lipstick)",
+        "output": "LIPSTICK PEMBROKE"
+    },
+    {
+        "input": "(* penguin * oven)",
+        "output": "OVEN PENGUIN"
+    },
+    {
+        "input": "(* perfume * scottish)",
+        "output": "SCOTTISH PERFUME"
+    },
+    {
+        "input": "(* persian * bicycle)",
+        "output": "BICYCLE PERSIAN"
+    },
+    {
+        "input": "(* pestle * steam)",
+        "output": "STEAM PESTLE"
+    },
+    {
+        "input": "(* pickelhaube * dining)",
+        "output": "DINING PICKELHAUBE"
+    },
+    {
+        "input": "(* pier * bookcase)",
+        "output": "BOOKCASE PIER"
+    },
+    {
+        "input": "(* pig * echidna)",
+        "output": "ECHIDNA PIG"
+    },
+    {
+        "input": "(* piggy * mitten)",
+        "output": "MITTEN PIGGY"
+    },
+    {
+        "input": "(* pill * nile)",
+        "output": "NILE PILL"
+    },
+    {
+        "input": "(* pillow * clock)",
+        "output": "CLOCK PILLOW"
+    },
+    {
+        "input": "(* pillow * vest)",
+        "output": "VEST PILLOW"
+    },
+    {
+        "input": "(* pin * apso)",
+        "output": "APSO PIN"
+    },
+    {
+        "input": "(* pineapple * pickup)",
+        "output": "PICKUP PINEAPPLE"
+    },
+    {
+        "input": "(* pineapple * vizsla)",
+        "output": "VIZSLA PINEAPPLE"
+    },
+    {
+        "input": "(* pinscher * coot)",
+        "output": "COOT PINSCHER"
+    },
+    {
+        "input": "(* platypus * manhole)",
+        "output": "MANHOLE PLATYPUS"
+    },
+    {
+        "input": "(* player * broom)",
+        "output": "BROOM PLAYER"
+    },
+    {
+        "input": "(* plow * flamingo)",
+        "output": "FLAMINGO PLOW"
+    },
+    {
+        "input": "(* plunger * breakwater)",
+        "output": "BREAKWATER PLUNGER"
+    },
+    {
+        "input": "(* pointer * pool)",
+        "output": "POOL POINTER"
+    },
+    {
+        "input": "(* polaroid * spoonbill)",
+        "output": "SPOONBILL POLAROID"
+    },
+    {
+        "input": "(* pomegranate * half-track)",
+        "output": "HALF-TRACK POMEGRANATE"
+    },
+    {
+        "input": "(* pomeranian * great)",
+        "output": "GREAT POMERANIAN"
+    },
+    {
+        "input": "(* porcupine * balaclava)",
+        "output": "BALACLAVA PORCUPINE"
+    },
+    {
+        "input": "(* porcupine * suspension)",
+        "output": "SUSPENSION PORCUPINE"
+    },
+    {
+        "input": "(* power * siberian)",
+        "output": "SIBERIAN POWER"
+    },
+    {
+        "input": "(* prairie * triceratops)",
+        "output": "TRICERATOPS PRAIRIE"
+    },
+    {
+        "input": "(* proboscis * blue)",
+        "output": "BLUE PROBOSCIS"
+    },
+    {
+        "input": "(* ptarmigan * website)",
+        "output": "WEBSITE PTARMIGAN"
+    },
+    {
+        "input": "(* python * skunk)",
+        "output": "SKUNK PYTHON"
+    },
+    {
+        "input": "(* quail * leaf)",
+        "output": "LEAF QUAIL"
+    },
+    {
+        "input": "(* quilt * scoreboard)",
+        "output": "SCOREBOARD QUILT"
+    },
+    {
+        "input": "(* rack * bernese)",
+        "output": "BERNESE RACK"
+    },
+    {
+        "input": "(* racket * promontory)",
+        "output": "PROMONTORY RACKET"
+    },
+    {
+        "input": "(* racket * starfish)",
+        "output": "STARFISH RACKET"
+    },
+    {
+        "input": "(* radiator * dane)",
+        "output": "DANE RADIATOR"
+    },
+    {
+        "input": "(* radio * sturgeon)",
+        "output": "STURGEON RADIO"
+    },
+    {
+        "input": "(* railroad * bank)",
+        "output": "BANK RAILROAD"
+    },
+    {
+        "input": "(* railroad * park)",
+        "output": "PARK RAILROAD"
+    },
+    {
+        "input": "(* ray * ice)",
+        "output": "ICE RAY"
+    },
+    {
+        "input": "(* recreational * persian)",
+        "output": "PERSIAN RECREATIONAL"
+    },
+    {
+        "input": "(* red-breasted * polaroid)",
+        "output": "POLAROID RED-BREASTED"
+    },
+    {
+        "input": "(* red-breasted * potter's)",
+        "output": "POTTER'S RED-BREASTED"
+    },
+    {
+        "input": "(* red-breasted * sombrero)",
+        "output": "SOMBRERO RED-BREASTED"
+    },
+    {
+        "input": "(* redbone * dunlin)",
+        "output": "DUNLIN REDBONE"
+    },
+    {
+        "input": "(* redbone * shovel)",
+        "output": "SHOVEL REDBONE"
+    },
+    {
+        "input": "(* reel * boot)",
+        "output": "BOOT REEL"
+    },
+    {
+        "input": "(* reel * cheetah)",
+        "output": "CHEETAH REEL"
+    },
+    {
+        "input": "(* refrigerator * little)",
+        "output": "LITTLE REFRIGERATOR"
+    },
+    {
+        "input": "(* ridgeback * squirrel)",
+        "output": "SQUIRREL RIDGEBACK"
+    },
+    {
+        "input": "(* rifle * cello)",
+        "output": "CELLO RIFLE"
+    },
+    {
+        "input": "(* rifle * pembroke)",
+        "output": "PEMBROKE RIFLE"
+    },
+    {
+        "input": "(* rig * hamster)",
+        "output": "HAMSTER RIG"
+    },
+    {
+        "input": "(* ring-tailed * ford)",
+        "output": "FORD RING-TAILED"
+    },
+    {
+        "input": "(* rock * binder)",
+        "output": "BINDER ROCK"
+    },
+    {
+        "input": "(* rocking * bobsleigh)",
+        "output": "BOBSLEIGH ROCKING"
+    },
+    {
+        "input": "(* roof * rottweiler)",
+        "output": "ROTTWEILER ROOF"
+    },
+    {
+        "input": "(* room * rock)",
+        "output": "ROCK ROOM"
+    },
+    {
+        "input": "(* rose * red)",
+        "output": "RED ROSE"
+    },
+    {
+        "input": "(* rose * toilet)",
+        "output": "TOILET ROSE"
+    },
+    {
+        "input": "(* ruffed * sombrero)",
+        "output": "SOMBRERO RUFFED"
+    },
+    {
+        "input": "(* rug * lionfish)",
+        "output": "LIONFISH RUG"
+    },
+    {
+        "input": "(* rule * rottweiler)",
+        "output": "ROTTWEILER RULE"
+    },
+    {
+        "input": "(* ruler * greater)",
+        "output": "GREATER RULER"
+    },
+    {
+        "input": "(* safe * coil)",
+        "output": "COIL SAFE"
+    },
+    {
+        "input": "(* safety * dryer)",
+        "output": "DRYER SAFETY"
+    },
+    {
+        "input": "(* safety * frying)",
+        "output": "FRYING SAFETY"
+    },
+    {
+        "input": "(* safety * hammer)",
+        "output": "HAMMER SAFETY"
+    },
+    {
+        "input": "(* salamander * plastic)",
+        "output": "PLASTIC SALAMANDER"
+    },
+    {
+        "input": "(* salamander * stork)",
+        "output": "STORK SALAMANDER"
+    },
+    {
+        "input": "(* salt * automated)",
+        "output": "AUTOMATED SALT"
+    },
+    {
+        "input": "(* salt * greenhouse)",
+        "output": "GREENHOUSE SALT"
+    },
+    {
+        "input": "(* sandbar * alaskan)",
+        "output": "ALASKAN SANDBAR"
+    },
+    {
+        "input": "(* sandbar * kelpie)",
+        "output": "KELPIE SANDBAR"
+    },
+    {
+        "input": "(* sarong * centipede)",
+        "output": "CENTIPEDE SARONG"
+    },
+    {
+        "input": "(* sarong * pickup)",
+        "output": "PICKUP SARONG"
+    },
+    {
+        "input": "(* sawmill * tan)",
+        "output": "TAN SAWMILL"
+    },
+    {
+        "input": "(* saxophone * jacamar)",
+        "output": "JACAMAR SAXOPHONE"
+    },
+    {
+        "input": "(* scarf * shoe)",
+        "output": "SHOE SCARF"
+    },
+    {
+        "input": "(* schipperke * bassinet)",
+        "output": "BASSINET SCHIPPERKE"
+    },
+    {
+        "input": "(* school * chestnut)",
+        "output": "CHESTNUT SCHOOL"
+    },
+    {
+        "input": "(* schooner * wheel)",
+        "output": "WHEEL SCHOONER"
+    },
+    {
+        "input": "(* scorpion * screen)",
+        "output": "SCREEN SCORPION"
+    },
+    {
+        "input": "(* scottish * collector)",
+        "output": "COLLECTOR SCOTTISH"
+    },
+    {
+        "input": "(* sea * crash)",
+        "output": "CRASH SEA"
+    },
+    {
+        "input": "(* seed * bikini)",
+        "output": "BIKINI SEED"
+    },
+    {
+        "input": "(* sewing * filing)",
+        "output": "FILING SEWING"
+    },
+    {
+        "input": "(* shade * plant)",
+        "output": "PLANT SHADE"
+    },
+    {
+        "input": "(* sharpener * purse)",
+        "output": "PURSE SHARPENER"
+    },
+    {
+        "input": "(* shepherd * orange)",
+        "output": "ORANGE SHEPHERD"
+    },
+    {
+        "input": "(* shield * beaker)",
+        "output": "BEAKER SHIELD"
+    },
+    {
+        "input": "(* shih * rotisserie)",
+        "output": "ROTISSERIE SHIH"
+    },
+    {
+        "input": "(* shoe * mug)",
+        "output": "MUG SHOE"
+    },
+    {
+        "input": "(* shoji * snowplow)",
+        "output": "SNOWPLOW SHOJI"
+    },
+    {
+        "input": "(* shop * ridgeback)",
+        "output": "RIDGEBACK SHOP"
+    },
+    {
+        "input": "(* shopping * corn)",
+        "output": "CORN SHOPPING"
+    },
+    {
+        "input": "(* shorts * penguin)",
+        "output": "PENGUIN SHORTS"
+    },
+    {
+        "input": "(* shorts * weasel)",
+        "output": "WEASEL SHORTS"
+    },
+    {
+        "input": "(* shovel * movie)",
+        "output": "MOVIE SHOVEL"
+    },
+    {
+        "input": "(* siamang * macaque)",
+        "output": "MACAQUE SIAMANG"
+    },
+    {
+        "input": "(* sidewinder * rifle)",
+        "output": "RIFLE SIDEWINDER"
+    },
+    {
+        "input": "(* silver * tower)",
+        "output": "TOWER SILVER"
+    },
+    {
+        "input": "(* skirt * pad)",
+        "output": "PAD SKIRT"
+    },
+    {
+        "input": "(* sliding * bison)",
+        "output": "BISON SLIDING"
+    },
+    {
+        "input": "(* slip-on * through)",
+        "output": "THROUGH SLIP-ON"
+    },
+    {
+        "input": "(* slipper * peafowl)",
+        "output": "PEAFOWL SLIPPER"
+    },
+    {
+        "input": "(* slot * urchin)",
+        "output": "URCHIN SLOT"
+    },
+    {
+        "input": "(* sloth * setter)",
+        "output": "SETTER SLOTH"
+    },
+    {
+        "input": "(* slug * monarch)",
+        "output": "MONARCH SLUG"
+    },
+    {
+        "input": "(* smith * seat)",
+        "output": "SEAT SMITH"
+    },
+    {
+        "input": "(* snail * whistle)",
+        "output": "WHISTLE SNAIL"
+    },
+    {
+        "input": "(* snake * ball)",
+        "output": "BALL SNAKE"
+    },
+    {
+        "input": "(* snake * teller)",
+        "output": "TELLER SNAKE"
+    },
+    {
+        "input": "(* sneaker * old)",
+        "output": "OLD SNEAKER"
+    },
+    {
+        "input": "(* snow * wind)",
+        "output": "WIND SNOW"
+    },
+    {
+        "input": "(* snowplow * jackfruit)",
+        "output": "JACKFRUIT SNOWPLOW"
+    },
+    {
+        "input": "(* soda * marmot)",
+        "output": "MARMOT SODA"
+    },
+    {
+        "input": "(* soda * spoon)",
+        "output": "SPOON SODA"
+    },
+    {
+        "input": "(* sorrel * nail)",
+        "output": "NAIL SORREL"
+    },
+    {
+        "input": "(* sorrel * steam)",
+        "output": "STEAM SORREL"
+    },
+    {
+        "input": "(* soup * carbonara)",
+        "output": "CARBONARA SOUP"
+    },
+    {
+        "input": "(* space * marimba)",
+        "output": "MARIMBA SPACE"
+    },
+    {
+        "input": "(* spaghetti * brace)",
+        "output": "BRACE SPAGHETTI"
+    },
+    {
+        "input": "(* spaghetti * telescope)",
+        "output": "TELESCOPE SPAGHETTI"
+    },
+    {
+        "input": "(* spaniel * church)",
+        "output": "CHURCH SPANIEL"
+    },
+    {
+        "input": "(* spiny * pen)",
+        "output": "PEN SPINY"
+    },
+    {
+        "input": "(* spotlight * owl)",
+        "output": "OWL SPOTLIGHT"
+    },
+    {
+        "input": "(* spotted * plaque)",
+        "output": "PLAQUE SPOTTED"
+    },
+    {
+        "input": "(* squirrel * english)",
+        "output": "ENGLISH SQUIRREL"
+    },
+    {
+        "input": "(* st. * dispenser)",
+        "output": "DISPENSER ST."
+    },
+    {
+        "input": "(* staffordshire * bear)",
+        "output": "BEAR STAFFORDSHIRE"
+    },
+    {
+        "input": "(* stage * apso)",
+        "output": "APSO STAGE"
+    },
+    {
+        "input": "(* standard * neck)",
+        "output": "NECK STANDARD"
+    },
+    {
+        "input": "(* station * book)",
+        "output": "BOOK STATION"
+    },
+    {
+        "input": "(* stethoscope * blue)",
+        "output": "BLUE STETHOSCOPE"
+    },
+    {
+        "input": "(* stethoscope * brown)",
+        "output": "BROWN STETHOSCOPE"
+    },
+    {
+        "input": "(* stethoscope * coffee)",
+        "output": "COFFEE STETHOSCOPE"
+    },
+    {
+        "input": "(* stick * fox)",
+        "output": "FOX STICK"
+    },
+    {
+        "input": "(* stopwatch * snoek)",
+        "output": "SNOEK STOPWATCH"
+    },
+    {
+        "input": "(* store * fly)",
+        "output": "FLY STORE"
+    },
+    {
+        "input": "(* stove * heater)",
+        "output": "HEATER STOVE"
+    },
+    {
+        "input": "(* strainer * cassette)",
+        "output": "CASSETTE STRAINER"
+    },
+    {
+        "input": "(* strawberry * goldfish)",
+        "output": "GOLDFISH STRAWBERRY"
+    },
+    {
+        "input": "(* street * koala)",
+        "output": "KOALA STREET"
+    },
+    {
+        "input": "(* street * polar)",
+        "output": "POLAR STREET"
+    },
+    {
+        "input": "(* stretcher * sheepdog)",
+        "output": "SHEEPDOG STRETCHER"
+    },
+    {
+        "input": "(* stupa * egyptian)",
+        "output": "EGYPTIAN STUPA"
+    },
+    {
+        "input": "(* submarine * sock)",
+        "output": "SOCK SUBMARINE"
+    },
+    {
+        "input": "(* suit * band-aid)",
+        "output": "BAND-AID SUIT"
+    },
+    {
+        "input": "(* suit * red-breasted)",
+        "output": "RED-BREASTED SUIT"
+    },
+    {
+        "input": "(* sunglasses * oystercatcher)",
+        "output": "OYSTERCATCHER SUNGLASSES"
+    },
+    {
+        "input": "(* sunscreen * lorikeet)",
+        "output": "LORIKEET SUNSCREEN"
+    },
+    {
+        "input": "(* suspension * macaque)",
+        "output": "MACAQUE SUSPENSION"
+    },
+    {
+        "input": "(* swimming * hare)",
+        "output": "HARE SWIMMING"
+    },
+    {
+        "input": "(* swiss * coot)",
+        "output": "COOT SWISS"
+    },
+    {
+        "input": "(* swiss * poncho)",
+        "output": "PONCHO SWISS"
+    },
+    {
+        "input": "(* switch * comic)",
+        "output": "COMIC SWITCH"
+    },
+    {
+        "input": "(* switch * swim)",
+        "output": "SWIM SWITCH"
+    },
+    {
+        "input": "(* syringe * alligator)",
+        "output": "ALLIGATOR SYRINGE"
+    },
+    {
+        "input": "(* syringe * overskirt)",
+        "output": "OVERSKIRT SYRINGE"
+    },
+    {
+        "input": "(* syrup * spotted)",
+        "output": "SPOTTED SYRUP"
+    },
+    {
+        "input": "(* t * aircraft)",
+        "output": "AIRCRAFT T"
+    },
+    {
+        "input": "(* t * beam)",
+        "output": "BEAM T"
+    },
+    {
+        "input": "(* t-shirt * cobra)",
+        "output": "COBRA T-SHIRT"
+    },
+    {
+        "input": "(* t-shirt * junco)",
+        "output": "JUNCO T-SHIRT"
+    },
+    {
+        "input": "(* tabby * turnstone)",
+        "output": "TURNSTONE TABBY"
+    },
+    {
+        "input": "(* tan * bottle)",
+        "output": "BOTTLE TAN"
+    },
+    {
+        "input": "(* tape * kimono)",
+        "output": "KIMONO TAPE"
+    },
+    {
+        "input": "(* taxicab * digital)",
+        "output": "DIGITAL TAXICAB"
+    },
+    {
+        "input": "(* taxicab * ladybug)",
+        "output": "LADYBUG TAXICAB"
+    },
+    {
+        "input": "(* taxicab * thatched)",
+        "output": "THATCHED TAXICAB"
+    },
+    {
+        "input": "(* teapot * punching)",
+        "output": "PUNCHING TEAPOT"
+    },
+    {
+        "input": "(* teddy * polaroid)",
+        "output": "POLAROID TEDDY"
+    },
+    {
+        "input": "(* tench * vine)",
+        "output": "VINE TENCH"
+    },
+    {
+        "input": "(* tennis * canoe)",
+        "output": "CANOE TENNIS"
+    },
+    {
+        "input": "(* tennis * minibus)",
+        "output": "MINIBUS TENNIS"
+    },
+    {
+        "input": "(* tent * hound)",
+        "output": "HOUND TENT"
+    },
+    {
+        "input": "(* thatched * doormat)",
+        "output": "DOORMAT THATCHED"
+    },
+    {
+        "input": "(* theater * cockroach)",
+        "output": "COCKROACH THEATER"
+    },
+    {
+        "input": "(* thermal * forklift)",
+        "output": "FORKLIFT THERMAL"
+    },
+    {
+        "input": "(* three-toed * mixing)",
+        "output": "MIXING THREE-TOED"
+    },
+    {
+        "input": "(* through * lacewing)",
+        "output": "LACEWING THROUGH"
+    },
+    {
+        "input": "(* through * vehicle)",
+        "output": "VEHICLE THROUGH"
+    },
+    {
+        "input": "(* tibetan * flatworm)",
+        "output": "FLATWORM TIBETAN"
+    },
+    {
+        "input": "(* tick * coonhound)",
+        "output": "COONHOUND TICK"
+    },
+    {
+        "input": "(* tie * bay)",
+        "output": "BAY TIE"
+    },
+    {
+        "input": "(* tie * papillon)",
+        "output": "PAPILLON TIE"
+    },
+    {
+        "input": "(* tiger * wind)",
+        "output": "WIND TIGER"
+    },
+    {
+        "input": "(* tights * boston)",
+        "output": "BOSTON TIGHTS"
+    },
+    {
+        "input": "(* tights * doormat)",
+        "output": "DOORMAT TIGHTS"
+    },
+    {
+        "input": "(* tile * vending)",
+        "output": "VENDING TILE"
+    },
+    {
+        "input": "(* titi * bustard)",
+        "output": "BUSTARD TITI"
+    },
+    {
+        "input": "(* titi * manhole)",
+        "output": "MANHOLE TITI"
+    },
+    {
+        "input": "(* toaster * marimba)",
+        "output": "MARIMBA TOASTER"
+    },
+    {
+        "input": "(* toaster * sheepdog)",
+        "output": "SHEEPDOG TOASTER"
+    },
+    {
+        "input": "(* toaster * squirrel)",
+        "output": "SQUIRREL TOASTER"
+    },
+    {
+        "input": "(* tobacco * construction)",
+        "output": "CONSTRUCTION TOBACCO"
+    },
+    {
+        "input": "(* torch * sheep)",
+        "output": "SHEEP TORCH"
+    },
+    {
+        "input": "(* towel * goldfish)",
+        "output": "GOLDFISH TOWEL"
+    },
+    {
+        "input": "(* train * snow)",
+        "output": "SNOW TRAIN"
+    },
+    {
+        "input": "(* trash * maraca)",
+        "output": "MARACA TRASH"
+    },
+    {
+        "input": "(* trench * prison)",
+        "output": "PRISON TRENCH"
+    },
+    {
+        "input": "(* tricycle * finch)",
+        "output": "FINCH TRICYCLE"
+    },
+    {
+        "input": "(* trilobite * helmet)",
+        "output": "HELMET TRILOBITE"
+    },
+    {
+        "input": "(* trimaran * arch)",
+        "output": "ARCH TRIMARAN"
+    },
+    {
+        "input": "(* trimaran * basketball)",
+        "output": "BASKETBALL TRIMARAN"
+    },
+    {
+        "input": "(* tripod * cannon)",
+        "output": "CANNON TRIPOD"
+    },
+    {
+        "input": "(* triumphal * yorkshire)",
+        "output": "YORKSHIRE TRIUMPHAL"
+    },
+    {
+        "input": "(* trunks * apple)",
+        "output": "APPLE TRUNKS"
+    },
+    {
+        "input": "(* trunks * neck)",
+        "output": "NECK TRUNKS"
+    },
+    {
+        "input": "(* tub * corn)",
+        "output": "CORN TUB"
+    },
+    {
+        "input": "(* tub * guinea)",
+        "output": "GUINEA TUB"
+    },
+    {
+        "input": "(* tundra * trash)",
+        "output": "TRASH TUNDRA"
+    },
+    {
+        "input": "(* turtle * newfoundland)",
+        "output": "NEWFOUNDLAND TURTLE"
+    },
+    {
+        "input": "(* tzu * traffic)",
+        "output": "TRAFFIC TZU"
+    },
+    {
+        "input": "(* umbrella * corkscrew)",
+        "output": "CORKSCREW UMBRELLA"
+    },
+    {
+        "input": "(* urchin * colobus)",
+        "output": "COLOBUS URCHIN"
+    },
+    {
+        "input": "(* urchin * farm)",
+        "output": "FARM URCHIN"
+    },
+    {
+        "input": "(* urchin * home)",
+        "output": "HOME URCHIN"
+    },
+    {
+        "input": "(* vacuum * phone)",
+        "output": "PHONE VACUUM"
+    },
+    {
+        "input": "(* vase * fabric)",
+        "output": "FABRIC VASE"
+    },
+    {
+        "input": "(* vase * junco)",
+        "output": "JUNCO VASE"
+    },
+    {
+        "input": "(* velvet * lizard)",
+        "output": "LIZARD VELVET"
+    },
+    {
+        "input": "(* vending * bookcase)",
+        "output": "BOOKCASE VENDING"
+    },
+    {
+        "input": "(* vending * sloth)",
+        "output": "SLOTH VENDING"
+    },
+    {
+        "input": "(* vespa * wok)",
+        "output": "WOK VESPA"
+    },
+    {
+        "input": "(* vestment * theater)",
+        "output": "THEATER VESTMENT"
+    },
+    {
+        "input": "(* volleyball * bikini)",
+        "output": "BIKINI VOLLEYBALL"
+    },
+    {
+        "input": "(* volleyball * dishwasher)",
+        "output": "DISHWASHER VOLLEYBALL"
+    },
+    {
+        "input": "(* vulture * truck)",
+        "output": "TRUCK VULTURE"
+    },
+    {
+        "input": "(* walker * pole)",
+        "output": "POLE WALKER"
+    },
+    {
+        "input": "(* wall * rooster)",
+        "output": "ROOSTER WALL"
+    },
+    {
+        "input": "(* wallaby * muzzle)",
+        "output": "MUZZLE WALLABY"
+    },
+    {
+        "input": "(* warthog * greater)",
+        "output": "GREATER WARTHOG"
+    },
+    {
+        "input": "(* warthog * newt)",
+        "output": "NEWT WARTHOG"
+    },
+    {
+        "input": "(* water * mousetrap)",
+        "output": "MOUSETRAP WATER"
+    },
+    {
+        "input": "(* weasel * slug)",
+        "output": "SLUG WEASEL"
+    },
+    {
+        "input": "(* weighing * lens)",
+        "output": "LENS WEIGHING"
+    },
+    {
+        "input": "(* welsh * arabian)",
+        "output": "ARABIAN WELSH"
+    },
+    {
+        "input": "(* whippet * macaque)",
+        "output": "MACAQUE WHIPPET"
+    },
+    {
+        "input": "(* white-headed * patio)",
+        "output": "PATIO WHITE-HEADED"
+    },
+    {
+        "input": "(* widow * swan)",
+        "output": "SWAN WIDOW"
+    },
+    {
+        "input": "(* window * parking)",
+        "output": "PARKING WINDOW"
+    },
+    {
+        "input": "(* window * through)",
+        "output": "THROUGH WINDOW"
+    },
+    {
+        "input": "(* wing * carrier)",
+        "output": "CARRIER WING"
+    },
+    {
+        "input": "(* wing * dwelling)",
+        "output": "DWELLING WING"
+    },
+    {
+        "input": "(* wire * cabinet)",
+        "output": "CABINET WIRE"
+    },
+    {
+        "input": "(* wire * catamaran)",
+        "output": "CATAMARAN WIRE"
+    },
+    {
+        "input": "(* wire * plastic)",
+        "output": "PLASTIC WIRE"
+    },
+    {
+        "input": "(* wombat * maraca)",
+        "output": "MARACA WOMBAT"
+    },
+    {
+        "input": "(* wooden * nautilus)",
+        "output": "NAUTILUS WOODEN"
+    },
+    {
+        "input": "(* woods * parallel)",
+        "output": "PARALLEL WOODS"
+    }
+]

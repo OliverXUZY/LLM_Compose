@@ -1,0 +1,1458 @@
+[
+    {
+        "input": "8022 junco",
+        "output": "8023 JUNCO"
+    },
+    {
+        "input": "4347 ram",
+        "output": "4348 RAM"
+    },
+    {
+        "input": "6255 spaghetti",
+        "output": "6256 SPAGHETTI"
+    },
+    {
+        "input": "4276 husky",
+        "output": "4277 HUSKY"
+    },
+    {
+        "input": "9936 bulletproof",
+        "output": "9937 BULLETPROOF"
+    },
+    {
+        "input": "3298 macaw",
+        "output": "3299 MACAW"
+    },
+    {
+        "input": "7153 mug",
+        "output": "7154 MUG"
+    },
+    {
+        "input": "6165 asian",
+        "output": "6166 ASIAN"
+    },
+    {
+        "input": "2016 brambling",
+        "output": "2017 BRAMBLING"
+    },
+    {
+        "input": "4177 soda",
+        "output": "4178 SODA"
+    },
+    {
+        "input": "2144 altar",
+        "output": "2145 ALTAR"
+    },
+    {
+        "input": "1899 chiton",
+        "output": "1900 CHITON"
+    },
+    {
+        "input": "7089 lamp",
+        "output": "7090 LAMP"
+    },
+    {
+        "input": "8627 cleaner",
+        "output": "8628 CLEANER"
+    },
+    {
+        "input": "2095 marmoset",
+        "output": "2096 MARMOSET"
+    },
+    {
+        "input": "6765 barn",
+        "output": "6766 BARN"
+    },
+    {
+        "input": "3394 borzoi",
+        "output": "3395 BORZOI"
+    },
+    {
+        "input": "5151 convertible",
+        "output": "5152 CONVERTIBLE"
+    },
+    {
+        "input": "1884 zucchini",
+        "output": "1885 ZUCCHINI"
+    },
+    {
+        "input": "3520 dandie",
+        "output": "3521 DANDIE"
+    },
+    {
+        "input": "3134 gecko",
+        "output": "3135 GECKO"
+    },
+    {
+        "input": "6474 rifle",
+        "output": "6475 RIFLE"
+    },
+    {
+        "input": "8368 bridegroom",
+        "output": "8369 BRIDEGROOM"
+    },
+    {
+        "input": "3396 pufferfish",
+        "output": "3397 PUFFERFISH"
+    },
+    {
+        "input": "4179 cradle",
+        "output": "4180 CRADLE"
+    },
+    {
+        "input": "5301 black",
+        "output": "5302 BLACK"
+    },
+    {
+        "input": "8483 band-aid",
+        "output": "8484 BAND-AID"
+    },
+    {
+        "input": "4095 drink",
+        "output": "4096 DRINK"
+    },
+    {
+        "input": "8800 meter",
+        "output": "8801 METER"
+    },
+    {
+        "input": "5360 horn",
+        "output": "5361 HORN"
+    },
+    {
+        "input": "8728 overskirt",
+        "output": "8729 OVERSKIRT"
+    },
+    {
+        "input": "9982 metal",
+        "output": "9983 METAL"
+    },
+    {
+        "input": "6589 carbonara",
+        "output": "6590 CARBONARA"
+    },
+    {
+        "input": "2944 pyrenees",
+        "output": "2945 PYRENEES"
+    },
+    {
+        "input": "9276 camera",
+        "output": "9277 CAMERA"
+    },
+    {
+        "input": "9635 artichoke",
+        "output": "9636 ARTICHOKE"
+    },
+    {
+        "input": "6668 model",
+        "output": "6669 MODEL"
+    },
+    {
+        "input": "1237 meerkat",
+        "output": "1238 MEERKAT"
+    },
+    {
+        "input": "5861 planetarium",
+        "output": "5862 PLANETARIUM"
+    },
+    {
+        "input": "3168 theater",
+        "output": "3169 THEATER"
+    },
+    {
+        "input": "3259 titi",
+        "output": "3260 TITI"
+    },
+    {
+        "input": "6102 hot",
+        "output": "6103 HOT"
+    },
+    {
+        "input": "6707 blue",
+        "output": "6708 BLUE"
+    },
+    {
+        "input": "7061 spoonbill",
+        "output": "7062 SPOONBILL"
+    },
+    {
+        "input": "9343 pepper",
+        "output": "9344 PEPPER"
+    },
+    {
+        "input": "7895 garter",
+        "output": "7896 GARTER"
+    },
+    {
+        "input": "1441 one-piece",
+        "output": "1442 ONE-PIECE"
+    },
+    {
+        "input": "4467 des",
+        "output": "4468 DES"
+    },
+    {
+        "input": "8813 appenzeller",
+        "output": "8814 APPENZELLER"
+    },
+    {
+        "input": "2063 honeycomb",
+        "output": "2064 HONEYCOMB"
+    },
+    {
+        "input": "5615 station",
+        "output": "5616 STATION"
+    },
+    {
+        "input": "2180 remote",
+        "output": "2181 REMOTE"
+    },
+    {
+        "input": "3224 limousine",
+        "output": "3225 LIMOUSINE"
+    },
+    {
+        "input": "3069 wardrobe",
+        "output": "3070 WARDROBE"
+    },
+    {
+        "input": "8074 race",
+        "output": "8075 RACE"
+    },
+    {
+        "input": "8441 pirate",
+        "output": "8442 PIRATE"
+    },
+    {
+        "input": "8631 pig",
+        "output": "8632 PIG"
+    },
+    {
+        "input": "5960 crane",
+        "output": "5961 CRANE"
+    },
+    {
+        "input": "5437 sennenhund",
+        "output": "5438 SENNENHUND"
+    },
+    {
+        "input": "7494 turtle",
+        "output": "7495 TURTLE"
+    },
+    {
+        "input": "6276 butcher",
+        "output": "6277 BUTCHER"
+    },
+    {
+        "input": "7402 vase",
+        "output": "7403 VASE"
+    },
+    {
+        "input": "3626 pipe",
+        "output": "3627 PIPE"
+    },
+    {
+        "input": "2052 boathouse",
+        "output": "2053 BOATHOUSE"
+    },
+    {
+        "input": "4719 swimming",
+        "output": "4720 SWIMMING"
+    },
+    {
+        "input": "5290 bald",
+        "output": "5291 BALD"
+    },
+    {
+        "input": "9739 traffic",
+        "output": "9740 TRAFFIC"
+    },
+    {
+        "input": "9807 tan",
+        "output": "9808 TAN"
+    },
+    {
+        "input": "7142 lemur",
+        "output": "7143 LEMUR"
+    },
+    {
+        "input": "1622 memorial",
+        "output": "1623 MEMORIAL"
+    },
+    {
+        "input": "1864 lotion",
+        "output": "1865 LOTION"
+    },
+    {
+        "input": "3504 door",
+        "output": "3505 DOOR"
+    },
+    {
+        "input": "9331 egyptian",
+        "output": "9332 EGYPTIAN"
+    },
+    {
+        "input": "2435 alligator",
+        "output": "2436 ALLIGATOR"
+    },
+    {
+        "input": "9669 kuvasz",
+        "output": "9670 KUVASZ"
+    },
+    {
+        "input": "1005 bell",
+        "output": "1006 BELL"
+    },
+    {
+        "input": "8382 prairie",
+        "output": "8383 PRAIRIE"
+    },
+    {
+        "input": "1859 cd",
+        "output": "1860 CD"
+    },
+    {
+        "input": "1625 admiral",
+        "output": "1626 ADMIRAL"
+    },
+    {
+        "input": "4631 paintbrush",
+        "output": "4632 PAINTBRUSH"
+    },
+    {
+        "input": "4015 komodo",
+        "output": "4016 KOMODO"
+    },
+    {
+        "input": "3183 semi-trailer",
+        "output": "3184 SEMI-TRAILER"
+    },
+    {
+        "input": "3922 safe",
+        "output": "3923 SAFE"
+    },
+    {
+        "input": "3343 football",
+        "output": "3344 FOOTBALL"
+    },
+    {
+        "input": "1768 monarch",
+        "output": "1769 MONARCH"
+    },
+    {
+        "input": "7746 joystick",
+        "output": "7747 JOYSTICK"
+    },
+    {
+        "input": "3167 hatchet",
+        "output": "3168 HATCHET"
+    },
+    {
+        "input": "4338 t-shirt",
+        "output": "4339 T-SHIRT"
+    },
+    {
+        "input": "3676 greater",
+        "output": "3677 GREATER"
+    },
+    {
+        "input": "7401 spotlight",
+        "output": "7402 SPOTLIGHT"
+    },
+    {
+        "input": "3973 bakery",
+        "output": "3974 BAKERY"
+    },
+    {
+        "input": "9531 crutch",
+        "output": "9532 CRUTCH"
+    },
+    {
+        "input": "7524 australian",
+        "output": "7525 AUSTRALIAN"
+    },
+    {
+        "input": "2027 infant",
+        "output": "2028 INFANT"
+    },
+    {
+        "input": "5768 sneaker",
+        "output": "5769 SNEAKER"
+    },
+    {
+        "input": "3186 cardigan",
+        "output": "3187 CARDIGAN"
+    },
+    {
+        "input": "3281 dugong",
+        "output": "3282 DUGONG"
+    },
+    {
+        "input": "6743 glass",
+        "output": "6744 GLASS"
+    },
+    {
+        "input": "4849 bolo",
+        "output": "4850 BOLO"
+    },
+    {
+        "input": "5395 cannon",
+        "output": "5396 CANNON"
+    },
+    {
+        "input": "9498 bookcase",
+        "output": "9499 BOOKCASE"
+    },
+    {
+        "input": "5730 conch",
+        "output": "5731 CONCH"
+    },
+    {
+        "input": "1647 poke",
+        "output": "1648 POKE"
+    },
+    {
+        "input": "4046 dishwasher",
+        "output": "4047 DISHWASHER"
+    },
+    {
+        "input": "4684 bullmastiff",
+        "output": "4685 BULLMASTIFF"
+    },
+    {
+        "input": "8091 scarf",
+        "output": "8092 SCARF"
+    },
+    {
+        "input": "4142 plate",
+        "output": "4143 PLATE"
+    },
+    {
+        "input": "5647 knot",
+        "output": "5648 KNOT"
+    },
+    {
+        "input": "3102 pin",
+        "output": "3103 PIN"
+    },
+    {
+        "input": "7042 praying",
+        "output": "7043 PRAYING"
+    },
+    {
+        "input": "4890 piano",
+        "output": "4891 PIANO"
+    },
+    {
+        "input": "8137 dish",
+        "output": "8138 DISH"
+    },
+    {
+        "input": "6597 telescope",
+        "output": "6598 TELESCOPE"
+    },
+    {
+        "input": "6487 balloon",
+        "output": "6488 BALLOON"
+    },
+    {
+        "input": "8080 brake",
+        "output": "8081 BRAKE"
+    },
+    {
+        "input": "4826 mexican",
+        "output": "4827 MEXICAN"
+    },
+    {
+        "input": "2277 rack",
+        "output": "2278 RACK"
+    },
+    {
+        "input": "3131 hairless",
+        "output": "3132 HAIRLESS"
+    },
+    {
+        "input": "1535 microphone",
+        "output": "1536 MICROPHONE"
+    },
+    {
+        "input": "8902 paper",
+        "output": "8903 PAPER"
+    },
+    {
+        "input": "8376 rugby",
+        "output": "8377 RUGBY"
+    },
+    {
+        "input": "1047 go-kart",
+        "output": "1048 GO-KART"
+    },
+    {
+        "input": "6337 pointer",
+        "output": "6338 POINTER"
+    },
+    {
+        "input": "2056 tailed",
+        "output": "2057 TAILED"
+    },
+    {
+        "input": "2428 academic",
+        "output": "2429 ACADEMIC"
+    },
+    {
+        "input": "9173 quill",
+        "output": "9174 QUILL"
+    },
+    {
+        "input": "1267 bank",
+        "output": "1268 BANK"
+    },
+    {
+        "input": "3751 shuttle",
+        "output": "3752 SHUTTLE"
+    },
+    {
+        "input": "6283 bittern",
+        "output": "6284 BITTERN"
+    },
+    {
+        "input": "5175 gyromitra",
+        "output": "5176 GYROMITRA"
+    },
+    {
+        "input": "2651 ground",
+        "output": "2652 GROUND"
+    },
+    {
+        "input": "7345 green",
+        "output": "7346 GREEN"
+    },
+    {
+        "input": "1171 vending",
+        "output": "1172 VENDING"
+    },
+    {
+        "input": "7887 beetle",
+        "output": "7888 BEETLE"
+    },
+    {
+        "input": "4985 bush",
+        "output": "4986 BUSH"
+    },
+    {
+        "input": "6277 pedestal",
+        "output": "6278 PEDESTAL"
+    },
+    {
+        "input": "8439 lady's",
+        "output": "8440 LADY'S"
+    },
+    {
+        "input": "7822 maypole",
+        "output": "7823 MAYPOLE"
+    },
+    {
+        "input": "3535 scorpion",
+        "output": "3536 SCORPION"
+    },
+    {
+        "input": "3756 pill",
+        "output": "3757 PILL"
+    },
+    {
+        "input": "8097 bighorn",
+        "output": "8098 BIGHORN"
+    },
+    {
+        "input": "8075 proboscis",
+        "output": "8076 PROBOSCIS"
+    },
+    {
+        "input": "5254 shoe",
+        "output": "5255 SHOE"
+    },
+    {
+        "input": "7836 pickelhaube",
+        "output": "7837 PICKELHAUBE"
+    },
+    {
+        "input": "8557 beagle",
+        "output": "8558 BEAGLE"
+    },
+    {
+        "input": "5394 pitcher",
+        "output": "5395 PITCHER"
+    },
+    {
+        "input": "3124 high-speed",
+        "output": "3125 HIGH-SPEED"
+    },
+    {
+        "input": "6640 pillow",
+        "output": "6641 PILLOW"
+    },
+    {
+        "input": "3359 bobsleigh",
+        "output": "3360 BOBSLEIGH"
+    },
+    {
+        "input": "6571 bullock",
+        "output": "6572 BULLOCK"
+    },
+    {
+        "input": "6114 pajamas",
+        "output": "6115 PAJAMAS"
+    },
+    {
+        "input": "4542 jacamar",
+        "output": "4543 JACAMAR"
+    },
+    {
+        "input": "8160 yellow",
+        "output": "8161 YELLOW"
+    },
+    {
+        "input": "5576 crossword",
+        "output": "5577 CROSSWORD"
+    },
+    {
+        "input": "6751 towel",
+        "output": "6752 TOWEL"
+    },
+    {
+        "input": "2171 mobile",
+        "output": "2172 MOBILE"
+    },
+    {
+        "input": "4255 gordon",
+        "output": "4256 GORDON"
+    },
+    {
+        "input": "3683 airship",
+        "output": "3684 AIRSHIP"
+    },
+    {
+        "input": "5904 promontory",
+        "output": "5905 PROMONTORY"
+    },
+    {
+        "input": "9166 syringe",
+        "output": "9167 SYRINGE"
+    },
+    {
+        "input": "7332 construction",
+        "output": "7333 CONSTRUCTION"
+    },
+    {
+        "input": "8871 wine",
+        "output": "8872 WINE"
+    },
+    {
+        "input": "9674 pumpkin",
+        "output": "9675 PUMPKIN"
+    },
+    {
+        "input": "4672 cassette",
+        "output": "4673 CASSETTE"
+    },
+    {
+        "input": "5670 coonhound",
+        "output": "5671 COONHOUND"
+    },
+    {
+        "input": "7347 hay",
+        "output": "7348 HAY"
+    },
+    {
+        "input": "7045 bullfrog",
+        "output": "7046 BULLFROG"
+    },
+    {
+        "input": "3295 wombat",
+        "output": "3296 WOMBAT"
+    },
+    {
+        "input": "9259 computer",
+        "output": "9260 COMPUTER"
+    },
+    {
+        "input": "4683 marimba",
+        "output": "4684 MARIMBA"
+    },
+    {
+        "input": "2041 tow",
+        "output": "2042 TOW"
+    },
+    {
+        "input": "2509 cricket",
+        "output": "2510 CRICKET"
+    },
+    {
+        "input": "5213 muzzle",
+        "output": "5214 MUZZLE"
+    },
+    {
+        "input": "4891 potter's",
+        "output": "4892 POTTER'S"
+    },
+    {
+        "input": "6982 isopod",
+        "output": "6983 ISOPOD"
+    },
+    {
+        "input": "6095 tandem",
+        "output": "6096 TANDEM"
+    },
+    {
+        "input": "7576 terrier",
+        "output": "7577 TERRIER"
+    },
+    {
+        "input": "6627 arch",
+        "output": "6628 ARCH"
+    },
+    {
+        "input": "9898 garbage",
+        "output": "9899 GARBAGE"
+    },
+    {
+        "input": "8462 clownfish",
+        "output": "8463 CLOWNFISH"
+    },
+    {
+        "input": "8929 carousel",
+        "output": "8930 CAROUSEL"
+    },
+    {
+        "input": "4165 beauty",
+        "output": "4166 BEAUTY"
+    },
+    {
+        "input": "5051 spatula",
+        "output": "5052 SPATULA"
+    },
+    {
+        "input": "8115 beer",
+        "output": "8116 BEER"
+    },
+    {
+        "input": "2547 python",
+        "output": "2548 PYTHON"
+    },
+    {
+        "input": "2679 mushroom",
+        "output": "2680 MUSHROOM"
+    },
+    {
+        "input": "3105 mongoose",
+        "output": "3106 MONGOOSE"
+    },
+    {
+        "input": "4391 salamander",
+        "output": "4392 SALAMANDER"
+    },
+    {
+        "input": "6382 stretcher",
+        "output": "6383 STRETCHER"
+    },
+    {
+        "input": "3087 window",
+        "output": "3088 WINDOW"
+    },
+    {
+        "input": "2702 keeshond",
+        "output": "2703 KEESHOND"
+    },
+    {
+        "input": "6168 american",
+        "output": "6169 AMERICAN"
+    },
+    {
+        "input": "3616 product",
+        "output": "3617 PRODUCT"
+    },
+    {
+        "input": "4841 fur",
+        "output": "4842 FUR"
+    },
+    {
+        "input": "8778 school",
+        "output": "8779 SCHOOL"
+    },
+    {
+        "input": "6943 eater",
+        "output": "6944 EATER"
+    },
+    {
+        "input": "7096 bolete",
+        "output": "7097 BOLETE"
+    },
+    {
+        "input": "3953 hat",
+        "output": "3954 HAT"
+    },
+    {
+        "input": "1511 jaguar",
+        "output": "1512 JAGUAR"
+    },
+    {
+        "input": "9597 cowboy",
+        "output": "9598 COWBOY"
+    },
+    {
+        "input": "8554 wok",
+        "output": "8555 WOK"
+    },
+    {
+        "input": "5807 partridge",
+        "output": "5808 PARTRIDGE"
+    },
+    {
+        "input": "5455 bee",
+        "output": "5456 BEE"
+    },
+    {
+        "input": "4226 vaulted",
+        "output": "4227 VAULTED"
+    },
+    {
+        "input": "6325 shoji",
+        "output": "6326 SHOJI"
+    },
+    {
+        "input": "5452 burrito",
+        "output": "5453 BURRITO"
+    },
+    {
+        "input": "2934 monastery",
+        "output": "2935 MONASTERY"
+    },
+    {
+        "input": "3411 machine",
+        "output": "3412 MACHINE"
+    },
+    {
+        "input": "6988 grocery",
+        "output": "6989 GROCERY"
+    },
+    {
+        "input": "7047 stethoscope",
+        "output": "7048 STETHOSCOPE"
+    },
+    {
+        "input": "5985 ping-pong",
+        "output": "5986 PING-PONG"
+    },
+    {
+        "input": "7107 roof",
+        "output": "7108 ROOF"
+    },
+    {
+        "input": "8144 respirator",
+        "output": "8145 RESPIRATOR"
+    },
+    {
+        "input": "6861 taxicab",
+        "output": "6862 TAXICAB"
+    },
+    {
+        "input": "1930 gymnastic",
+        "output": "1931 GYMNASTIC"
+    },
+    {
+        "input": "9812 smooth",
+        "output": "9813 SMOOTH"
+    },
+    {
+        "input": "9778 bikini",
+        "output": "9779 BIKINI"
+    },
+    {
+        "input": "9915 bassinet",
+        "output": "9916 BASSINET"
+    },
+    {
+        "input": "8287 screen",
+        "output": "8288 SCREEN"
+    },
+    {
+        "input": "1858 lens",
+        "output": "1859 LENS"
+    },
+    {
+        "input": "6084 horse-drawn",
+        "output": "6085 HORSE-DRAWN"
+    },
+    {
+        "input": "8017 sandal",
+        "output": "8018 SANDAL"
+    },
+    {
+        "input": "5313 garden",
+        "output": "5314 GARDEN"
+    },
+    {
+        "input": "1697 dryer",
+        "output": "1698 DRYER"
+    },
+    {
+        "input": "9065 carrier",
+        "output": "9066 CARRIER"
+    },
+    {
+        "input": "1907 silver",
+        "output": "1908 SILVER"
+    },
+    {
+        "input": "7925 iguana",
+        "output": "7926 IGUANA"
+    },
+    {
+        "input": "2209 urchin",
+        "output": "2210 URCHIN"
+    },
+    {
+        "input": "4781 rooster",
+        "output": "4782 ROOSTER"
+    },
+    {
+        "input": "5950 shovel",
+        "output": "5951 SHOVEL"
+    },
+    {
+        "input": "9768 tea",
+        "output": "9769 TEA"
+    },
+    {
+        "input": "2958 bra",
+        "output": "2959 BRA"
+    },
+    {
+        "input": "5090 frying",
+        "output": "5091 FRYING"
+    },
+    {
+        "input": "9799 watch",
+        "output": "9800 WATCH"
+    },
+    {
+        "input": "7317 picket",
+        "output": "7318 PICKET"
+    },
+    {
+        "input": "6081 retriever",
+        "output": "6082 RETRIEVER"
+    },
+    {
+        "input": "1775 indigo",
+        "output": "1776 INDIGO"
+    },
+    {
+        "input": "2373 highland",
+        "output": "2374 HIGHLAND"
+    },
+    {
+        "input": "5732 weevil",
+        "output": "5733 WEEVIL"
+    },
+    {
+        "input": "1462 broom",
+        "output": "1463 BROOM"
+    },
+    {
+        "input": "5900 obelisk",
+        "output": "5901 OBELISK"
+    },
+    {
+        "input": "1302 tench",
+        "output": "1303 TENCH"
+    },
+    {
+        "input": "4967 triceratops",
+        "output": "4968 TRICERATOPS"
+    },
+    {
+        "input": "2556 trench",
+        "output": "2557 TRENCH"
+    },
+    {
+        "input": "6880 flamingo",
+        "output": "6881 FLAMINGO"
+    },
+    {
+        "input": "2316 cairn",
+        "output": "2317 CAIRN"
+    },
+    {
+        "input": "2511 rotisserie",
+        "output": "2512 ROTISSERIE"
+    },
+    {
+        "input": "8705 collector",
+        "output": "8706 COLLECTOR"
+    },
+    {
+        "input": "7993 marmot",
+        "output": "7994 MARMOT"
+    },
+    {
+        "input": "4315 miniature",
+        "output": "4316 MINIATURE"
+    },
+    {
+        "input": "1108 ambulance",
+        "output": "1109 AMBULANCE"
+    },
+    {
+        "input": "2998 dunlin",
+        "output": "2999 DUNLIN"
+    },
+    {
+        "input": "9077 strainer",
+        "output": "9078 STRAINER"
+    },
+    {
+        "input": "9361 bernard",
+        "output": "9362 BERNARD"
+    },
+    {
+        "input": "2483 ray",
+        "output": "2484 RAY"
+    },
+    {
+        "input": "3806 springer",
+        "output": "3807 SPRINGER"
+    },
+    {
+        "input": "9605 little",
+        "output": "9606 LITTLE"
+    },
+    {
+        "input": "8440 sea",
+        "output": "8441 SEA"
+    },
+    {
+        "input": "1939 pencil",
+        "output": "1940 PENCIL"
+    },
+    {
+        "input": "8352 milk",
+        "output": "8353 MILK"
+    },
+    {
+        "input": "5289 walker",
+        "output": "5290 WALKER"
+    },
+    {
+        "input": "4643 indri",
+        "output": "4644 INDRI"
+    },
+    {
+        "input": "6178 otter",
+        "output": "6179 OTTER"
+    },
+    {
+        "input": "2156 gossamer-winged",
+        "output": "2157 GOSSAMER-WINGED"
+    },
+    {
+        "input": "9141 drumstick",
+        "output": "9142 DRUMSTICK"
+    },
+    {
+        "input": "5770 boston",
+        "output": "5771 BOSTON"
+    },
+    {
+        "input": "1634 upright",
+        "output": "1635 UPRIGHT"
+    },
+    {
+        "input": "5612 wool",
+        "output": "5613 WOOL"
+    },
+    {
+        "input": "8120 drill",
+        "output": "8121 DRILL"
+    },
+    {
+        "input": "4944 paddle",
+        "output": "4945 PADDLE"
+    },
+    {
+        "input": "8253 crocodile",
+        "output": "8254 CROCODILE"
+    },
+    {
+        "input": "6548 leafhopper",
+        "output": "6549 LEAFHOPPER"
+    },
+    {
+        "input": "2178 whale",
+        "output": "2179 WHALE"
+    },
+    {
+        "input": "8330 rule",
+        "output": "8331 RULE"
+    },
+    {
+        "input": "9433 buckle",
+        "output": "9434 BUCKLE"
+    },
+    {
+        "input": "2430 kelpie",
+        "output": "2431 KELPIE"
+    },
+    {
+        "input": "8349 curly-coated",
+        "output": "8350 CURLY-COATED"
+    },
+    {
+        "input": "4251 weimaraner",
+        "output": "4252 WEIMARANER"
+    },
+    {
+        "input": "6281 white",
+        "output": "6282 WHITE"
+    },
+    {
+        "input": "6403 handkerchief",
+        "output": "6404 HANDKERCHIEF"
+    },
+    {
+        "input": "1612 teapot",
+        "output": "1613 TEAPOT"
+    },
+    {
+        "input": "6248 merganser",
+        "output": "6249 MERGANSER"
+    },
+    {
+        "input": "7995 hyena",
+        "output": "7996 HYENA"
+    },
+    {
+        "input": "7416 tabby",
+        "output": "7417 TABBY"
+    },
+    {
+        "input": "3177 stopwatch",
+        "output": "3178 STOPWATCH"
+    },
+    {
+        "input": "6456 plow",
+        "output": "6457 PLOW"
+    },
+    {
+        "input": "1920 split-rail",
+        "output": "1921 SPLIT-RAIL"
+    },
+    {
+        "input": "5334 butterfly",
+        "output": "5335 BUTTERFLY"
+    },
+    {
+        "input": "8633 doormat",
+        "output": "8634 DOORMAT"
+    },
+    {
+        "input": "7102 letter",
+        "output": "7103 LETTER"
+    },
+    {
+        "input": "3273 wire",
+        "output": "3274 WIRE"
+    },
+    {
+        "input": "9189 crash",
+        "output": "9190 CRASH"
+    },
+    {
+        "input": "9645 wild",
+        "output": "9646 WILD"
+    },
+    {
+        "input": "1301 tent",
+        "output": "1302 TENT"
+    },
+    {
+        "input": "7523 butternut",
+        "output": "7524 BUTTERNUT"
+    },
+    {
+        "input": "5956 red-breasted",
+        "output": "5957 RED-BREASTED"
+    },
+    {
+        "input": "9194 bull",
+        "output": "9195 BULL"
+    },
+    {
+        "input": "3596 plectrum",
+        "output": "3597 PLECTRUM"
+    },
+    {
+        "input": "1140 bike",
+        "output": "1141 BIKE"
+    },
+    {
+        "input": "4693 schooner",
+        "output": "4694 SCHOONER"
+    },
+    {
+        "input": "4113 necklace",
+        "output": "4114 NECKLACE"
+    },
+    {
+        "input": "1674 flagpole",
+        "output": "1675 FLAGPOLE"
+    },
+    {
+        "input": "3663 espresso",
+        "output": "3664 ESPRESSO"
+    },
+    {
+        "input": "2299 patas",
+        "output": "2300 PATAS"
+    },
+    {
+        "input": "3699 coucal",
+        "output": "3700 COUCAL"
+    },
+    {
+        "input": "9703 crab",
+        "output": "9704 CRAB"
+    },
+    {
+        "input": "3481 rain",
+        "output": "3482 RAIN"
+    },
+    {
+        "input": "8886 sign",
+        "output": "8887 SIGN"
+    },
+    {
+        "input": "4229 camel",
+        "output": "4230 CAMEL"
+    },
+    {
+        "input": "5358 radio",
+        "output": "5359 RADIO"
+    },
+    {
+        "input": "3500 speaker",
+        "output": "3501 SPEAKER"
+    },
+    {
+        "input": "1013 gar",
+        "output": "1014 GAR"
+    },
+    {
+        "input": "4374 elephant",
+        "output": "4375 ELEPHANT"
+    },
+    {
+        "input": "3866 phone",
+        "output": "3867 PHONE"
+    },
+    {
+        "input": "8166 telephone",
+        "output": "8167 TELEPHONE"
+    },
+    {
+        "input": "7328 brain",
+        "output": "7329 BRAIN"
+    },
+    {
+        "input": "8739 mashed",
+        "output": "8740 MASHED"
+    },
+    {
+        "input": "8878 grasshopper",
+        "output": "8879 GRASSHOPPER"
+    },
+    {
+        "input": "6444 ocean",
+        "output": "6445 OCEAN"
+    },
+    {
+        "input": "4140 gown",
+        "output": "4141 GOWN"
+    },
+    {
+        "input": "4589 feather",
+        "output": "4590 FEATHER"
+    },
+    {
+        "input": "5533 maned",
+        "output": "5534 MANED"
+    },
+    {
+        "input": "1371 house",
+        "output": "1372 HOUSE"
+    },
+    {
+        "input": "8617 reel",
+        "output": "8618 REEL"
+    },
+    {
+        "input": "8559 toucan",
+        "output": "8560 TOUCAN"
+    },
+    {
+        "input": "8280 opener",
+        "output": "8281 OPENER"
+    },
+    {
+        "input": "8594 panda",
+        "output": "8595 PANDA"
+    },
+    {
+        "input": "6681 ruffed",
+        "output": "6682 RUFFED"
+    },
+    {
+        "input": "9155 toaster",
+        "output": "9156 TOASTER"
+    },
+    {
+        "input": "9783 hippopotamus",
+        "output": "9784 HIPPOPOTAMUS"
+    },
+    {
+        "input": "6767 bedlington",
+        "output": "6768 BEDLINGTON"
+    },
+    {
+        "input": "3637 sarong",
+        "output": "3638 SARONG"
+    },
+    {
+        "input": "1389 bluetick",
+        "output": "1390 BLUETICK"
+    },
+    {
+        "input": "2046 swim",
+        "output": "2047 SWIM"
+    },
+    {
+        "input": "3207 bear",
+        "output": "3208 BEAR"
+    },
+    {
+        "input": "5212 trilobite",
+        "output": "5213 TRILOBITE"
+    },
+    {
+        "input": "6253 constrictor",
+        "output": "6254 CONSTRICTOR"
+    },
+    {
+        "input": "7647 barrel",
+        "output": "7648 BARREL"
+    },
+    {
+        "input": "5760 petri",
+        "output": "5761 PETRI"
+    },
+    {
+        "input": "8391 bridge",
+        "output": "8392 BRIDGE"
+    },
+    {
+        "input": "5055 sundial",
+        "output": "5056 SUNDIAL"
+    },
+    {
+        "input": "2469 jacket",
+        "output": "2470 JACKET"
+    },
+    {
+        "input": "4181 candy",
+        "output": "4182 CANDY"
+    },
+    {
+        "input": "2829 megalith",
+        "output": "2830 MEGALITH"
+    },
+    {
+        "input": "3718 coyote",
+        "output": "3719 COYOTE"
+    },
+    {
+        "input": "8147 albatross",
+        "output": "8148 ALBATROSS"
+    },
+    {
+        "input": "1659 silky",
+        "output": "1660 SILKY"
+    },
+    {
+        "input": "3909 bath",
+        "output": "3910 BATH"
+    },
+    {
+        "input": "8348 newt",
+        "output": "8349 NEWT"
+    },
+    {
+        "input": "9304 tie",
+        "output": "9305 TIE"
+    },
+    {
+        "input": "5385 abaya",
+        "output": "5386 ABAYA"
+    },
+    {
+        "input": "4009 goldfish",
+        "output": "4010 GOLDFISH"
+    },
+    {
+        "input": "8297 clip",
+        "output": "8298 CLIP"
+    },
+    {
+        "input": "2031 viper",
+        "output": "2032 VIPER"
+    },
+    {
+        "input": "9923 great",
+        "output": "9924 GREAT"
+    },
+    {
+        "input": "7819 lobster",
+        "output": "7820 LOBSTER"
+    },
+    {
+        "input": "2807 front",
+        "output": "2808 FRONT"
+    },
+    {
+        "input": "2372 car",
+        "output": "2373 CAR"
+    },
+    {
+        "input": "2999 hoop",
+        "output": "3000 HOOP"
+    },
+    {
+        "input": "5064 wheelbarrow",
+        "output": "5065 WHEELBARROW"
+    },
+    {
+        "input": "8961 male",
+        "output": "8962 MALE"
+    },
+    {
+        "input": "9139 cottontail",
+        "output": "9140 COTTONTAIL"
+    },
+    {
+        "input": "1285 dwelling",
+        "output": "1286 DWELLING"
+    },
+    {
+        "input": "6747 rocking",
+        "output": "6748 ROCKING"
+    }
+]

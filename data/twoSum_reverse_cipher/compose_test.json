@@ -1,0 +1,5942 @@
+[
+    {
+        "input": "*(sixteen@fifty-one)",
+        "output": "neves-ytxis"
+    },
+    {
+        "input": "*(eighteen@sixty-five)",
+        "output": "eerht-ythgie"
+    },
+    {
+        "input": "*(eighty-one@eight)",
+        "output": "enin-ythgie"
+    },
+    {
+        "input": "*(thirty@thirty-five)",
+        "output": "evif-ytxis"
+    },
+    {
+        "input": "*(four@thirty-three)",
+        "output": "neves-ytriht"
+    },
+    {
+        "input": "*(sixty-eight@two)",
+        "output": "ytneves"
+    },
+    {
+        "input": "*(seventy-three@one)",
+        "output": "ruof-ytneves"
+    },
+    {
+        "input": "*(five@fourteen)",
+        "output": "neetenin"
+    },
+    {
+        "input": "*(thirty-one@three)",
+        "output": "ruof-ytriht"
+    },
+    {
+        "input": "*(fifty-one@thirty-eight)",
+        "output": "enin-ythgie"
+    },
+    {
+        "input": "*(twelve@one)",
+        "output": "neetriht"
+    },
+    {
+        "input": "*(thirty-seven@six)",
+        "output": "eerht-ytrof"
+    },
+    {
+        "input": "*(forty-seven@twenty-one)",
+        "output": "thgie-ytxis"
+    },
+    {
+        "input": "*(eighteen@twenty-six)",
+        "output": "ruof-ytrof"
+    },
+    {
+        "input": "*(sixty-three@eight)",
+        "output": "eno-ytneves"
+    },
+    {
+        "input": "*(sixteen@eight)",
+        "output": "ruof-ytnewt"
+    },
+    {
+        "input": "*(seventeen@sixteen)",
+        "output": "eerht-ytriht"
+    },
+    {
+        "input": "*(twenty-five@twenty-two)",
+        "output": "neves-ytrof"
+    },
+    {
+        "input": "*(thirteen@fifty-four)",
+        "output": "neves-ytxis"
+    },
+    {
+        "input": "*(thirty-seven@thirteen)",
+        "output": "ytfif"
+    },
+    {
+        "input": "*(seventeen@forty-two)",
+        "output": "enin-ytfif"
+    },
+    {
+        "input": "*(twenty-three@sixty-one)",
+        "output": "ruof-ythgie"
+    },
+    {
+        "input": "*(nineteen@sixteen)",
+        "output": "evif-ytriht"
+    },
+    {
+        "input": "*(twenty-two@sixty)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(forty-one@seven)",
+        "output": "thgie-ytrof"
+    },
+    {
+        "input": "*(three@twenty-eight)",
+        "output": "eno-ytriht"
+    },
+    {
+        "input": "*(ten@thirteen)",
+        "output": "eerht-ytnewt"
+    },
+    {
+        "input": "*(thirty-two@twenty-one)",
+        "output": "eerht-ytfif"
+    },
+    {
+        "input": "*(seventy@two)",
+        "output": "owt-ytneves"
+    },
+    {
+        "input": "*(forty-seven@seventeen)",
+        "output": "ruof-ytxis"
+    },
+    {
+        "input": "*(seventy@six)",
+        "output": "xis-ytneves"
+    },
+    {
+        "input": "*(sixty-five@seven)",
+        "output": "owt-ytneves"
+    },
+    {
+        "input": "*(twenty-seven@twelve)",
+        "output": "enin-ytriht"
+    },
+    {
+        "input": "*(forty-nine@thirty-three)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(thirty-two@six)",
+        "output": "thgie-ytriht"
+    },
+    {
+        "input": "*(two@seventeen)",
+        "output": "neetenin"
+    },
+    {
+        "input": "*(sixty-three@ten)",
+        "output": "eerht-ytneves"
+    },
+    {
+        "input": "*(forty@thirty-two)",
+        "output": "owt-ytneves"
+    },
+    {
+        "input": "*(eight@seventy-two)",
+        "output": "ythgie"
+    },
+    {
+        "input": "*(sixty-nine@twenty-four)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(twenty-seven@sixty-seven)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(three@sixty-two)",
+        "output": "evif-ytxis"
+    },
+    {
+        "input": "*(eight@ninety-one)",
+        "output": "enin-ytenin"
+    },
+    {
+        "input": "*(twenty-five@six)",
+        "output": "eno-ytriht"
+    },
+    {
+        "input": "*(thirty-one@fifty-nine)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(fifty-eight@twenty)",
+        "output": "thgie-ytneves"
+    },
+    {
+        "input": "*(six@fifty-three)",
+        "output": "enin-ytfif"
+    },
+    {
+        "input": "*(twenty-eight@forty-eight)",
+        "output": "xis-ytneves"
+    },
+    {
+        "input": "*(two@forty-nine)",
+        "output": "eno-ytfif"
+    },
+    {
+        "input": "*(two@fifteen)",
+        "output": "neetneves"
+    },
+    {
+        "input": "*(twenty-nine@thirty-five)",
+        "output": "ruof-ytxis"
+    },
+    {
+        "input": "*(zero@ninety-one)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(seventy@thirteen)",
+        "output": "eerht-ythgie"
+    },
+    {
+        "input": "*(sixty@nine)",
+        "output": "enin-ytxis"
+    },
+    {
+        "input": "*(eight@fifty-one)",
+        "output": "enin-ytfif"
+    },
+    {
+        "input": "*(seventy-four@eight)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(seventy-four@five)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(thirty-two@forty-seven)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(forty-seven@one)",
+        "output": "thgie-ytrof"
+    },
+    {
+        "input": "*(thirty-four@sixty-four)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(seventy-six@ten)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(seventy-six@nineteen)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(four@thirty-four)",
+        "output": "thgie-ytriht"
+    },
+    {
+        "input": "*(twenty-eight@sixty-eight)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(sixty-eight@eleven)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(ten@twenty-two)",
+        "output": "owt-ytriht"
+    },
+    {
+        "input": "*(thirty-four@fifty-eight)",
+        "output": "owt-ytenin"
+    },
+    {
+        "input": "*(six@sixteen)",
+        "output": "owt-ytnewt"
+    },
+    {
+        "input": "*(seventy-nine@fifteen)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(seventy-eight@fourteen)",
+        "output": "owt-ytenin"
+    },
+    {
+        "input": "*(seventeen@fifty-two)",
+        "output": "enin-ytxis"
+    },
+    {
+        "input": "*(fifty-one@twenty-one)",
+        "output": "owt-ytneves"
+    },
+    {
+        "input": "*(forty-nine@twenty-one)",
+        "output": "ytneves"
+    },
+    {
+        "input": "*(fifty-one@one)",
+        "output": "owt-ytfif"
+    },
+    {
+        "input": "*(thirteen@forty-two)",
+        "output": "evif-ytfif"
+    },
+    {
+        "input": "*(four@nine)",
+        "output": "neetriht"
+    },
+    {
+        "input": "*(eleven@fifty-seven)",
+        "output": "thgie-ytxis"
+    },
+    {
+        "input": "*(one@twenty-eight)",
+        "output": "enin-ytnewt"
+    },
+    {
+        "input": "*(forty-six@thirty-five)",
+        "output": "eno-ythgie"
+    },
+    {
+        "input": "*(twenty-one@twenty)",
+        "output": "eno-ytrof"
+    },
+    {
+        "input": "*(three@four)",
+        "output": "neves"
+    },
+    {
+        "input": "*(sixty-one@thirty-six)",
+        "output": "neves-ytenin"
+    },
+    {
+        "input": "*(forty-one@thirty-six)",
+        "output": "neves-ytneves"
+    },
+    {
+        "input": "*(two@sixty-six)",
+        "output": "thgie-ytxis"
+    },
+    {
+        "input": "*(seventy-one@fifteen)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(twenty-seven@fifty-eight)",
+        "output": "evif-ythgie"
+    },
+    {
+        "input": "*(forty-six@eleven)",
+        "output": "neves-ytfif"
+    },
+    {
+        "input": "*(seventy@three)",
+        "output": "eerht-ytneves"
+    },
+    {
+        "input": "*(six@sixty-one)",
+        "output": "neves-ytxis"
+    },
+    {
+        "input": "*(thirty-two@thirty-one)",
+        "output": "eerht-ytxis"
+    },
+    {
+        "input": "*(sixty-two@thirty)",
+        "output": "owt-ytenin"
+    },
+    {
+        "input": "*(thirteen@forty-eight)",
+        "output": "eno-ytxis"
+    },
+    {
+        "input": "*(forty@fifty)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(sixteen@five)",
+        "output": "eno-ytnewt"
+    },
+    {
+        "input": "*(forty-one@eight)",
+        "output": "enin-ytrof"
+    },
+    {
+        "input": "*(fourteen@five)",
+        "output": "neetenin"
+    },
+    {
+        "input": "*(six@sixty)",
+        "output": "xis-ytxis"
+    },
+    {
+        "input": "*(twelve@seventy-seven)",
+        "output": "enin-ythgie"
+    },
+    {
+        "input": "*(thirty-seven@two)",
+        "output": "enin-ytriht"
+    },
+    {
+        "input": "*(one@fifty-three)",
+        "output": "ruof-ytfif"
+    },
+    {
+        "input": "*(forty-five@fourteen)",
+        "output": "enin-ytfif"
+    },
+    {
+        "input": "*(twenty@twelve)",
+        "output": "owt-ytriht"
+    },
+    {
+        "input": "*(nine@thirty)",
+        "output": "enin-ytriht"
+    },
+    {
+        "input": "*(one@thirty-two)",
+        "output": "eerht-ytriht"
+    },
+    {
+        "input": "*(two@forty-five)",
+        "output": "neves-ytrof"
+    },
+    {
+        "input": "*(fifty-three@twenty-seven)",
+        "output": "ythgie"
+    },
+    {
+        "input": "*(fourteen@thirty-eight)",
+        "output": "owt-ytfif"
+    },
+    {
+        "input": "*(eleven@twenty-six)",
+        "output": "neves-ytriht"
+    },
+    {
+        "input": "*(five@eighty-one)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(twenty-five@fifty-five)",
+        "output": "ythgie"
+    },
+    {
+        "input": "*(sixty-one@six)",
+        "output": "neves-ytxis"
+    },
+    {
+        "input": "*(forty-nine@thirty)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(fifty-five@twenty-six)",
+        "output": "eno-ythgie"
+    },
+    {
+        "input": "*(eight@seventy-one)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(eight@forty-four)",
+        "output": "owt-ytfif"
+    },
+    {
+        "input": "*(twenty-seven@sixty-six)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(fifteen@seven)",
+        "output": "owt-ytnewt"
+    },
+    {
+        "input": "*(thirty@four)",
+        "output": "ruof-ytriht"
+    },
+    {
+        "input": "*(two@seventy-one)",
+        "output": "eerht-ytneves"
+    },
+    {
+        "input": "*(seventy-seven@five)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(twenty-six@thirty-six)",
+        "output": "owt-ytxis"
+    },
+    {
+        "input": "*(four@sixty-nine)",
+        "output": "eerht-ytneves"
+    },
+    {
+        "input": "*(fifty-nine@eighteen)",
+        "output": "neves-ytneves"
+    },
+    {
+        "input": "*(seventeen@sixty-eight)",
+        "output": "evif-ythgie"
+    },
+    {
+        "input": "*(fifty-two@forty-five)",
+        "output": "neves-ytenin"
+    },
+    {
+        "input": "*(fifty-six@three)",
+        "output": "enin-ytfif"
+    },
+    {
+        "input": "*(forty-nine@thirty-one)",
+        "output": "ythgie"
+    },
+    {
+        "input": "*(seventy-six@sixteen)",
+        "output": "owt-ytenin"
+    },
+    {
+        "input": "*(forty-two@fifty-two)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(two@two)",
+        "output": "ruof"
+    },
+    {
+        "input": "*(fifty-nine@twenty-three)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(twenty@three)",
+        "output": "eerht-ytnewt"
+    },
+    {
+        "input": "*(eighty-five@two)",
+        "output": "neves-ythgie"
+    },
+    {
+        "input": "*(sixty-two@thirty-six)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(twenty-nine@one)",
+        "output": "ytriht"
+    },
+    {
+        "input": "*(seventeen@forty-five)",
+        "output": "owt-ytxis"
+    },
+    {
+        "input": "*(fifty@forty-seven)",
+        "output": "neves-ytenin"
+    },
+    {
+        "input": "*(forty-seven@fourteen)",
+        "output": "eno-ytxis"
+    },
+    {
+        "input": "*(seventeen@forty-four)",
+        "output": "eno-ytxis"
+    },
+    {
+        "input": "*(thirty-three@sixty-six)",
+        "output": "enin-ytenin"
+    },
+    {
+        "input": "*(twenty-five@three)",
+        "output": "thgie-ytnewt"
+    },
+    {
+        "input": "*(thirty-three@four)",
+        "output": "neves-ytriht"
+    },
+    {
+        "input": "*(thirty@forty-eight)",
+        "output": "thgie-ytneves"
+    },
+    {
+        "input": "*(fourteen@eighty-three)",
+        "output": "neves-ytenin"
+    },
+    {
+        "input": "*(thirty-three@thirty-five)",
+        "output": "thgie-ytxis"
+    },
+    {
+        "input": "*(twenty-one@fifty-one)",
+        "output": "owt-ytneves"
+    },
+    {
+        "input": "*(thirty-two@fifty-four)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(thirty-three@sixty)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(forty@thirty-nine)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(zero@thirty)",
+        "output": "ytriht"
+    },
+    {
+        "input": "*(seventy-two@nine)",
+        "output": "eno-ythgie"
+    },
+    {
+        "input": "*(fifty-one@thirty-six)",
+        "output": "neves-ythgie"
+    },
+    {
+        "input": "*(fourteen@sixty-five)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(seventy-four@twenty-two)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(five@twenty-two)",
+        "output": "neves-ytnewt"
+    },
+    {
+        "input": "*(seventy-five@four)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(sixty-two@one)",
+        "output": "eerht-ytxis"
+    },
+    {
+        "input": "*(forty-three@thirty-six)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(fourteen@eighteen)",
+        "output": "owt-ytriht"
+    },
+    {
+        "input": "*(sixteen@twenty-one)",
+        "output": "neves-ytriht"
+    },
+    {
+        "input": "*(forty-four@thirty-three)",
+        "output": "neves-ytneves"
+    },
+    {
+        "input": "*(thirty-three@thirty-three)",
+        "output": "xis-ytxis"
+    },
+    {
+        "input": "*(three@thirty-four)",
+        "output": "neves-ytriht"
+    },
+    {
+        "input": "*(seventy-one@twenty-four)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(thirty-four@fifteen)",
+        "output": "enin-ytrof"
+    },
+    {
+        "input": "*(twenty-four@fifty-six)",
+        "output": "ythgie"
+    },
+    {
+        "input": "*(fifty-seven@sixteen)",
+        "output": "eerht-ytneves"
+    },
+    {
+        "input": "*(thirty-three@twenty-seven)",
+        "output": "ytxis"
+    },
+    {
+        "input": "*(four@eight)",
+        "output": "evlewt"
+    },
+    {
+        "input": "*(seven@seventy-five)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(fifty-nine@fourteen)",
+        "output": "eerht-ytneves"
+    },
+    {
+        "input": "*(fourteen@thirty-three)",
+        "output": "neves-ytrof"
+    },
+    {
+        "input": "*(nineteen@fourteen)",
+        "output": "eerht-ytriht"
+    },
+    {
+        "input": "*(thirty-two@fifty)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(one@ninety-seven)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(thirty-four@six)",
+        "output": "ytrof"
+    },
+    {
+        "input": "*(twenty-five@sixty-nine)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(twenty-seven@twenty)",
+        "output": "neves-ytrof"
+    },
+    {
+        "input": "*(thirty-five@twenty-eight)",
+        "output": "eerht-ytxis"
+    },
+    {
+        "input": "*(eight@twenty-nine)",
+        "output": "neves-ytriht"
+    },
+    {
+        "input": "*(zero@fourteen)",
+        "output": "neetruof"
+    },
+    {
+        "input": "*(forty-three@three)",
+        "output": "xis-ytrof"
+    },
+    {
+        "input": "*(sixty-one@ten)",
+        "output": "eno-ytneves"
+    },
+    {
+        "input": "*(sixty-four@three)",
+        "output": "neves-ytxis"
+    },
+    {
+        "input": "*(seventy-three@twenty-two)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(eighteen@thirty-one)",
+        "output": "enin-ytrof"
+    },
+    {
+        "input": "*(sixty-nine@twenty-seven)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(nine@sixty-six)",
+        "output": "evif-ytneves"
+    },
+    {
+        "input": "*(thirty-two@forty-nine)",
+        "output": "eno-ythgie"
+    },
+    {
+        "input": "*(sixty-five@thirty-two)",
+        "output": "neves-ytenin"
+    },
+    {
+        "input": "*(twenty-five@forty-one)",
+        "output": "xis-ytxis"
+    },
+    {
+        "input": "*(forty-five@thirty-four)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(sixteen@forty-five)",
+        "output": "eno-ytxis"
+    },
+    {
+        "input": "*(six@twelve)",
+        "output": "neethgie"
+    },
+    {
+        "input": "*(fifty-seven@one)",
+        "output": "thgie-ytfif"
+    },
+    {
+        "input": "*(nine@thirty-six)",
+        "output": "evif-ytrof"
+    },
+    {
+        "input": "*(eleven@twenty-nine)",
+        "output": "ytrof"
+    },
+    {
+        "input": "*(forty@fifty-four)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(zero@twenty-eight)",
+        "output": "thgie-ytnewt"
+    },
+    {
+        "input": "*(zero@ninety)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(twenty-one@seven)",
+        "output": "thgie-ytnewt"
+    },
+    {
+        "input": "*(fifty-two@thirty)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(sixty-five@thirty)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(one@seventy-four)",
+        "output": "evif-ytneves"
+    },
+    {
+        "input": "*(three@seventy-one)",
+        "output": "ruof-ytneves"
+    },
+    {
+        "input": "*(forty-five@forty)",
+        "output": "evif-ythgie"
+    },
+    {
+        "input": "*(twenty-three@sixty-eight)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(twenty-four@forty-two)",
+        "output": "xis-ytxis"
+    },
+    {
+        "input": "*(eighty@nineteen)",
+        "output": "enin-ytenin"
+    },
+    {
+        "input": "*(nineteen@forty-eight)",
+        "output": "neves-ytxis"
+    },
+    {
+        "input": "*(five@nine)",
+        "output": "neetruof"
+    },
+    {
+        "input": "*(seventy-one@eleven)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(thirty-three@forty-four)",
+        "output": "neves-ytneves"
+    },
+    {
+        "input": "*(forty@five)",
+        "output": "evif-ytrof"
+    },
+    {
+        "input": "*(forty-seven@forty-two)",
+        "output": "enin-ythgie"
+    },
+    {
+        "input": "*(eleven@eighty-three)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(thirty-nine@twenty-nine)",
+        "output": "thgie-ytxis"
+    },
+    {
+        "input": "*(forty-three@nineteen)",
+        "output": "owt-ytxis"
+    },
+    {
+        "input": "*(zero@ninety-eight)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(one@fifty-two)",
+        "output": "eerht-ytfif"
+    },
+    {
+        "input": "*(eighty-three@three)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(sixty-four@twenty-nine)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(seventy-four@thirteen)",
+        "output": "neves-ythgie"
+    },
+    {
+        "input": "*(nineteen@twenty-three)",
+        "output": "owt-ytrof"
+    },
+    {
+        "input": "*(thirty-two@four)",
+        "output": "xis-ytriht"
+    },
+    {
+        "input": "*(fifty-seven@thirty-four)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(twenty-two@sixty-one)",
+        "output": "eerht-ythgie"
+    },
+    {
+        "input": "*(seventy-four@one)",
+        "output": "evif-ytneves"
+    },
+    {
+        "input": "*(forty-seven@nine)",
+        "output": "xis-ytfif"
+    },
+    {
+        "input": "*(seventy-five@seventeen)",
+        "output": "owt-ytenin"
+    },
+    {
+        "input": "*(fifty-seven@seventeen)",
+        "output": "ruof-ytneves"
+    },
+    {
+        "input": "*(twenty-seven@twenty-one)",
+        "output": "thgie-ytrof"
+    },
+    {
+        "input": "*(fifty-five@twenty-seven)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(thirty-two@twelve)",
+        "output": "ruof-ytrof"
+    },
+    {
+        "input": "*(nine@eighty-four)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(twenty-seven@sixty-three)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(thirty-two@eighteen)",
+        "output": "ytfif"
+    },
+    {
+        "input": "*(sixty-six@thirty-two)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(eighteen@thirty-eight)",
+        "output": "xis-ytfif"
+    },
+    {
+        "input": "*(seventy-one@nine)",
+        "output": "ythgie"
+    },
+    {
+        "input": "*(twenty-two@thirty-two)",
+        "output": "ruof-ytfif"
+    },
+    {
+        "input": "*(twelve@fifty-three)",
+        "output": "evif-ytxis"
+    },
+    {
+        "input": "*(sixteen@three)",
+        "output": "neetenin"
+    },
+    {
+        "input": "*(fifty@twenty-six)",
+        "output": "xis-ytneves"
+    },
+    {
+        "input": "*(twelve@thirteen)",
+        "output": "evif-ytnewt"
+    },
+    {
+        "input": "*(eighteen@twenty-three)",
+        "output": "eno-ytrof"
+    },
+    {
+        "input": "*(thirty-eight@twenty-four)",
+        "output": "owt-ytxis"
+    },
+    {
+        "input": "*(eighty-seven@three)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(sixteen@seventy-seven)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(fifty-three@thirty-two)",
+        "output": "evif-ythgie"
+    },
+    {
+        "input": "*(sixty-eight@seven)",
+        "output": "evif-ytneves"
+    },
+    {
+        "input": "*(sixteen@thirty-one)",
+        "output": "neves-ytrof"
+    },
+    {
+        "input": "*(seventy-two@five)",
+        "output": "neves-ytneves"
+    },
+    {
+        "input": "*(forty-two@fifty-six)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(twenty-eight@forty-seven)",
+        "output": "evif-ytneves"
+    },
+    {
+        "input": "*(forty-five@fifty-four)",
+        "output": "enin-ytenin"
+    },
+    {
+        "input": "*(three@fifty-three)",
+        "output": "xis-ytfif"
+    },
+    {
+        "input": "*(twenty-four@twenty-seven)",
+        "output": "eno-ytfif"
+    },
+    {
+        "input": "*(one@ninety-four)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(fifty@twenty)",
+        "output": "ytneves"
+    },
+    {
+        "input": "*(twenty-one@five)",
+        "output": "xis-ytnewt"
+    },
+    {
+        "input": "*(fifty-eight@ten)",
+        "output": "thgie-ytxis"
+    },
+    {
+        "input": "*(sixty-four@twenty-four)",
+        "output": "thgie-ythgie"
+    },
+    {
+        "input": "*(forty-one@fifty-one)",
+        "output": "owt-ytenin"
+    },
+    {
+        "input": "*(seventy-nine@fourteen)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(forty-three@ten)",
+        "output": "eerht-ytfif"
+    },
+    {
+        "input": "*(sixty-four@ten)",
+        "output": "ruof-ytneves"
+    },
+    {
+        "input": "*(twelve@fifty-seven)",
+        "output": "enin-ytxis"
+    },
+    {
+        "input": "*(fifty-four@twenty-nine)",
+        "output": "eerht-ythgie"
+    },
+    {
+        "input": "*(twenty-three@seventeen)",
+        "output": "ytrof"
+    },
+    {
+        "input": "*(forty-nine@four)",
+        "output": "eerht-ytfif"
+    },
+    {
+        "input": "*(one@fifty-one)",
+        "output": "owt-ytfif"
+    },
+    {
+        "input": "*(thirteen@twenty-nine)",
+        "output": "owt-ytrof"
+    },
+    {
+        "input": "*(sixty-one@nineteen)",
+        "output": "ythgie"
+    },
+    {
+        "input": "*(seventy@eight)",
+        "output": "thgie-ytneves"
+    },
+    {
+        "input": "*(three@sixty-five)",
+        "output": "thgie-ytxis"
+    },
+    {
+        "input": "*(fifty-two@sixteen)",
+        "output": "thgie-ytxis"
+    },
+    {
+        "input": "*(twelve@twenty-nine)",
+        "output": "eno-ytrof"
+    },
+    {
+        "input": "*(thirty-two@twenty-two)",
+        "output": "ruof-ytfif"
+    },
+    {
+        "input": "*(eleven@seventy-two)",
+        "output": "eerht-ythgie"
+    },
+    {
+        "input": "*(seventeen@sixty-one)",
+        "output": "thgie-ytneves"
+    },
+    {
+        "input": "*(seventy-four@twenty-five)",
+        "output": "enin-ytenin"
+    },
+    {
+        "input": "*(one@eighty-five)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(fifty-eight@twenty-seven)",
+        "output": "evif-ythgie"
+    },
+    {
+        "input": "*(forty-eight@fifty)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(four@eighty-eight)",
+        "output": "owt-ytenin"
+    },
+    {
+        "input": "*(five@ninety-three)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(zero@forty-nine)",
+        "output": "enin-ytrof"
+    },
+    {
+        "input": "*(forty-seven@forty-three)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(thirty-five@four)",
+        "output": "enin-ytriht"
+    },
+    {
+        "input": "*(eight@sixty)",
+        "output": "thgie-ytxis"
+    },
+    {
+        "input": "*(forty@four)",
+        "output": "ruof-ytrof"
+    },
+    {
+        "input": "*(forty-three@twenty-three)",
+        "output": "xis-ytxis"
+    },
+    {
+        "input": "*(one@thirty-eight)",
+        "output": "enin-ytriht"
+    },
+    {
+        "input": "*(twenty-one@forty-nine)",
+        "output": "ytneves"
+    },
+    {
+        "input": "*(thirty-five@sixty-three)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(seven@twenty-eight)",
+        "output": "evif-ytriht"
+    },
+    {
+        "input": "*(eight@forty-two)",
+        "output": "ytfif"
+    },
+    {
+        "input": "*(ten@nine)",
+        "output": "neetenin"
+    },
+    {
+        "input": "*(eighty-five@eight)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(seven@forty-eight)",
+        "output": "evif-ytfif"
+    },
+    {
+        "input": "*(forty-eight@twenty)",
+        "output": "thgie-ytxis"
+    },
+    {
+        "input": "*(five@thirteen)",
+        "output": "neethgie"
+    },
+    {
+        "input": "*(forty-nine@forty-eight)",
+        "output": "neves-ytenin"
+    },
+    {
+        "input": "*(six@thirty-one)",
+        "output": "neves-ytriht"
+    },
+    {
+        "input": "*(sixty-seven@thirty-one)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(seventy-four@ten)",
+        "output": "ruof-ythgie"
+    },
+    {
+        "input": "*(one@sixty-two)",
+        "output": "eerht-ytxis"
+    },
+    {
+        "input": "*(eighteen@sixty-eight)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(forty-seven@thirty-five)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(forty-eight@seven)",
+        "output": "evif-ytfif"
+    },
+    {
+        "input": "*(thirteen@seventy-eight)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(twenty-five@sixty-six)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(sixty-three@four)",
+        "output": "neves-ytxis"
+    },
+    {
+        "input": "*(seventy-five@one)",
+        "output": "xis-ytneves"
+    },
+    {
+        "input": "*(forty-eight@forty-two)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(twenty-eight@two)",
+        "output": "ytriht"
+    },
+    {
+        "input": "*(fifty-five@fifteen)",
+        "output": "ytneves"
+    },
+    {
+        "input": "*(fifty-four@one)",
+        "output": "evif-ytfif"
+    },
+    {
+        "input": "*(thirty@fifty-three)",
+        "output": "eerht-ythgie"
+    },
+    {
+        "input": "*(fourteen@seventy-three)",
+        "output": "neves-ythgie"
+    },
+    {
+        "input": "*(six@ninety-three)",
+        "output": "enin-ytenin"
+    },
+    {
+        "input": "*(ninety-two@one)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(seven@thirty-six)",
+        "output": "eerht-ytrof"
+    },
+    {
+        "input": "*(twenty-one@thirty-two)",
+        "output": "eerht-ytfif"
+    },
+    {
+        "input": "*(seventy-two@fifteen)",
+        "output": "neves-ythgie"
+    },
+    {
+        "input": "*(twelve@sixty-three)",
+        "output": "evif-ytneves"
+    },
+    {
+        "input": "*(fifteen@sixty-one)",
+        "output": "xis-ytneves"
+    },
+    {
+        "input": "*(sixty-eight@ten)",
+        "output": "thgie-ytneves"
+    },
+    {
+        "input": "*(fifty@six)",
+        "output": "xis-ytfif"
+    },
+    {
+        "input": "*(thirty-two@forty-three)",
+        "output": "evif-ytneves"
+    },
+    {
+        "input": "*(seventy-nine@one)",
+        "output": "ythgie"
+    },
+    {
+        "input": "*(nineteen@thirty-seven)",
+        "output": "xis-ytfif"
+    },
+    {
+        "input": "*(thirty-five@thirty-three)",
+        "output": "thgie-ytxis"
+    },
+    {
+        "input": "*(thirty-one@twenty-nine)",
+        "output": "ytxis"
+    },
+    {
+        "input": "*(thirty-three@fourteen)",
+        "output": "neves-ytrof"
+    },
+    {
+        "input": "*(seventeen@twenty-nine)",
+        "output": "xis-ytrof"
+    },
+    {
+        "input": "*(three@three)",
+        "output": "xis"
+    },
+    {
+        "input": "*(ten@thirty-eight)",
+        "output": "thgie-ytrof"
+    },
+    {
+        "input": "*(eighty@five)",
+        "output": "evif-ythgie"
+    },
+    {
+        "input": "*(one@sixty-six)",
+        "output": "neves-ytxis"
+    },
+    {
+        "input": "*(forty-seven@forty-one)",
+        "output": "thgie-ythgie"
+    },
+    {
+        "input": "*(thirty-two@sixty-two)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(forty-one@thirty-five)",
+        "output": "xis-ytneves"
+    },
+    {
+        "input": "*(thirty-three@thirty-four)",
+        "output": "neves-ytxis"
+    },
+    {
+        "input": "*(twenty-one@seventy-six)",
+        "output": "neves-ytenin"
+    },
+    {
+        "input": "*(thirty-five@two)",
+        "output": "neves-ytriht"
+    },
+    {
+        "input": "*(fifteen@eighty-one)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(seventy-one@twenty-seven)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(forty-seven@thirty-one)",
+        "output": "thgie-ytneves"
+    },
+    {
+        "input": "*(thirty-three@forty-one)",
+        "output": "ruof-ytneves"
+    },
+    {
+        "input": "*(sixteen@seventy)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(twenty-six@thirty-nine)",
+        "output": "evif-ytxis"
+    },
+    {
+        "input": "*(thirty-four@twenty-eight)",
+        "output": "owt-ytxis"
+    },
+    {
+        "input": "*(forty-nine@six)",
+        "output": "evif-ytfif"
+    },
+    {
+        "input": "*(forty-five@thirty-nine)",
+        "output": "ruof-ythgie"
+    },
+    {
+        "input": "*(six@fifty-five)",
+        "output": "eno-ytxis"
+    },
+    {
+        "input": "*(twenty-eight@fifty-six)",
+        "output": "ruof-ythgie"
+    },
+    {
+        "input": "*(eighty-eight@three)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(thirty-eight@eighteen)",
+        "output": "xis-ytfif"
+    },
+    {
+        "input": "*(thirty-one@fifteen)",
+        "output": "xis-ytrof"
+    },
+    {
+        "input": "*(sixty-seven@four)",
+        "output": "eno-ytneves"
+    },
+    {
+        "input": "*(forty-five@nineteen)",
+        "output": "ruof-ytxis"
+    },
+    {
+        "input": "*(ninety-five@one)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(eleven@sixty-seven)",
+        "output": "thgie-ytneves"
+    },
+    {
+        "input": "*(five@six)",
+        "output": "nevele"
+    },
+    {
+        "input": "*(sixty-eight@twenty-two)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(thirty@sixty-seven)",
+        "output": "neves-ytenin"
+    },
+    {
+        "input": "*(eight@nine)",
+        "output": "neetneves"
+    },
+    {
+        "input": "*(thirty-seven@sixteen)",
+        "output": "eerht-ytfif"
+    },
+    {
+        "input": "*(eighty@seven)",
+        "output": "neves-ythgie"
+    },
+    {
+        "input": "*(thirty-two@fifty-nine)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(two@twenty)",
+        "output": "owt-ytnewt"
+    },
+    {
+        "input": "*(twenty-two@fifty-three)",
+        "output": "evif-ytneves"
+    },
+    {
+        "input": "*(twenty-one@thirty-seven)",
+        "output": "thgie-ytfif"
+    },
+    {
+        "input": "*(sixteen@fifty-nine)",
+        "output": "evif-ytneves"
+    },
+    {
+        "input": "*(ninety@one)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(fifty-seven@eight)",
+        "output": "evif-ytxis"
+    },
+    {
+        "input": "*(thirty@eight)",
+        "output": "thgie-ytriht"
+    },
+    {
+        "input": "*(twenty-seven@thirty-four)",
+        "output": "eno-ytxis"
+    },
+    {
+        "input": "*(seventy-four@fifteen)",
+        "output": "enin-ythgie"
+    },
+    {
+        "input": "*(thirty-four@twenty-five)",
+        "output": "enin-ytfif"
+    },
+    {
+        "input": "*(seven@eighty)",
+        "output": "neves-ythgie"
+    },
+    {
+        "input": "*(twenty-eight@thirty-three)",
+        "output": "eno-ytxis"
+    },
+    {
+        "input": "*(four@sixty-seven)",
+        "output": "eno-ytneves"
+    },
+    {
+        "input": "*(fifty-one@forty-three)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(forty-two@eleven)",
+        "output": "eerht-ytfif"
+    },
+    {
+        "input": "*(fifty-five@five)",
+        "output": "ytxis"
+    },
+    {
+        "input": "*(thirty-five@sixteen)",
+        "output": "eno-ytfif"
+    },
+    {
+        "input": "*(twenty-nine@twenty-three)",
+        "output": "owt-ytfif"
+    },
+    {
+        "input": "*(eighty-four@six)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(forty-six@one)",
+        "output": "neves-ytrof"
+    },
+    {
+        "input": "*(zero@sixty-two)",
+        "output": "owt-ytxis"
+    },
+    {
+        "input": "*(sixty-seven@one)",
+        "output": "thgie-ytxis"
+    },
+    {
+        "input": "*(sixty-seven@twenty-one)",
+        "output": "thgie-ythgie"
+    },
+    {
+        "input": "*(fifty@thirty-nine)",
+        "output": "enin-ythgie"
+    },
+    {
+        "input": "*(fifty-four@thirty-two)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(eleven@sixty-eight)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(five@sixty-six)",
+        "output": "eno-ytneves"
+    },
+    {
+        "input": "*(seventy-seven@nineteen)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(sixty-nine@thirteen)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(fifty-four@thirty)",
+        "output": "ruof-ythgie"
+    },
+    {
+        "input": "*(fifty-five@six)",
+        "output": "eno-ytxis"
+    },
+    {
+        "input": "*(forty-two@thirty-seven)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(two@sixty-four)",
+        "output": "xis-ytxis"
+    },
+    {
+        "input": "*(zero@nine)",
+        "output": "enin"
+    },
+    {
+        "input": "*(seventy@fifteen)",
+        "output": "evif-ythgie"
+    },
+    {
+        "input": "*(eighty-five@nine)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(eighty@thirteen)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(seventy-two@sixteen)",
+        "output": "thgie-ythgie"
+    },
+    {
+        "input": "*(twenty@ten)",
+        "output": "ytriht"
+    },
+    {
+        "input": "*(seven@eighty-three)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(thirty-eight@twenty-five)",
+        "output": "eerht-ytxis"
+    },
+    {
+        "input": "*(forty-seven@twenty-five)",
+        "output": "owt-ytneves"
+    },
+    {
+        "input": "*(thirteen@eighty)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(eighteen@seventy-five)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(thirty-three@fifty-seven)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(thirty-four@forty-nine)",
+        "output": "eerht-ythgie"
+    },
+    {
+        "input": "*(twenty-four@seventy-five)",
+        "output": "enin-ytenin"
+    },
+    {
+        "input": "*(forty-nine@twenty-six)",
+        "output": "evif-ytneves"
+    },
+    {
+        "input": "*(forty-eight@thirty-six)",
+        "output": "ruof-ythgie"
+    },
+    {
+        "input": "*(fifty-nine@fifteen)",
+        "output": "ruof-ytneves"
+    },
+    {
+        "input": "*(eighty-two@thirteen)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(twenty-one@one)",
+        "output": "owt-ytnewt"
+    },
+    {
+        "input": "*(six@seventy-seven)",
+        "output": "eerht-ythgie"
+    },
+    {
+        "input": "*(fifty-five@forty-one)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(fifty-four@twenty-seven)",
+        "output": "eno-ythgie"
+    },
+    {
+        "input": "*(nineteen@eighty)",
+        "output": "enin-ytenin"
+    },
+    {
+        "input": "*(eighty-two@ten)",
+        "output": "owt-ytenin"
+    },
+    {
+        "input": "*(eighteen@three)",
+        "output": "eno-ytnewt"
+    },
+    {
+        "input": "*(fifteen@forty-one)",
+        "output": "xis-ytfif"
+    },
+    {
+        "input": "*(thirty-six@twenty-eight)",
+        "output": "ruof-ytxis"
+    },
+    {
+        "input": "*(thirty-one@forty-eight)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(thirty-four@forty-two)",
+        "output": "xis-ytneves"
+    },
+    {
+        "input": "*(fifty-two@thirty-three)",
+        "output": "evif-ythgie"
+    },
+    {
+        "input": "*(eleven@fifty-one)",
+        "output": "owt-ytxis"
+    },
+    {
+        "input": "*(eighty-six@thirteen)",
+        "output": "enin-ytenin"
+    },
+    {
+        "input": "*(four@eighty-seven)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(nineteen@sixty-nine)",
+        "output": "thgie-ythgie"
+    },
+    {
+        "input": "*(forty-six@twenty-one)",
+        "output": "neves-ytxis"
+    },
+    {
+        "input": "*(forty-four@fifteen)",
+        "output": "enin-ytfif"
+    },
+    {
+        "input": "*(twenty-six@twenty-two)",
+        "output": "thgie-ytrof"
+    },
+    {
+        "input": "*(eleven@sixty-five)",
+        "output": "xis-ytneves"
+    },
+    {
+        "input": "*(seven@fifty-four)",
+        "output": "eno-ytxis"
+    },
+    {
+        "input": "*(seven@thirty-seven)",
+        "output": "ruof-ytrof"
+    },
+    {
+        "input": "*(twenty-four@forty-one)",
+        "output": "evif-ytxis"
+    },
+    {
+        "input": "*(forty-nine@twenty-three)",
+        "output": "owt-ytneves"
+    },
+    {
+        "input": "*(twenty-eight@forty-five)",
+        "output": "eerht-ytneves"
+    },
+    {
+        "input": "*(three@eighteen)",
+        "output": "eno-ytnewt"
+    },
+    {
+        "input": "*(sixty@thirty-four)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(thirty-three@thirteen)",
+        "output": "xis-ytrof"
+    },
+    {
+        "input": "*(thirty-four@fifty-three)",
+        "output": "neves-ythgie"
+    },
+    {
+        "input": "*(fifty-six@twelve)",
+        "output": "thgie-ytxis"
+    },
+    {
+        "input": "*(two@forty-four)",
+        "output": "xis-ytrof"
+    },
+    {
+        "input": "*(three@forty-one)",
+        "output": "ruof-ytrof"
+    },
+    {
+        "input": "*(twelve@seventy-five)",
+        "output": "neves-ythgie"
+    },
+    {
+        "input": "*(nine@eighty-one)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(thirty-eight@two)",
+        "output": "ytrof"
+    },
+    {
+        "input": "*(fifty-six@ten)",
+        "output": "xis-ytxis"
+    },
+    {
+        "input": "*(seventy-three@twenty-one)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(nineteen@forty-four)",
+        "output": "eerht-ytxis"
+    },
+    {
+        "input": "*(five@three)",
+        "output": "thgie"
+    },
+    {
+        "input": "*(fifty-six@eighteen)",
+        "output": "ruof-ytneves"
+    },
+    {
+        "input": "*(zero@sixty-three)",
+        "output": "eerht-ytxis"
+    },
+    {
+        "input": "*(twenty-two@eleven)",
+        "output": "eerht-ytriht"
+    },
+    {
+        "input": "*(forty-nine@one)",
+        "output": "ytfif"
+    },
+    {
+        "input": "*(four@twenty-four)",
+        "output": "thgie-ytnewt"
+    },
+    {
+        "input": "*(thirty@fifty)",
+        "output": "ythgie"
+    },
+    {
+        "input": "*(seventy-two@three)",
+        "output": "evif-ytneves"
+    },
+    {
+        "input": "*(seventeen@thirty)",
+        "output": "neves-ytrof"
+    },
+    {
+        "input": "*(thirty-four@thirteen)",
+        "output": "neves-ytrof"
+    },
+    {
+        "input": "*(forty-five@thirty-five)",
+        "output": "ythgie"
+    },
+    {
+        "input": "*(fourteen@twenty)",
+        "output": "ruof-ytriht"
+    },
+    {
+        "input": "*(fifty-one@two)",
+        "output": "eerht-ytfif"
+    },
+    {
+        "input": "*(thirty-nine@fifty-nine)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(thirty-two@five)",
+        "output": "neves-ytriht"
+    },
+    {
+        "input": "*(eight@forty-six)",
+        "output": "ruof-ytfif"
+    },
+    {
+        "input": "*(seventeen@seventy)",
+        "output": "neves-ythgie"
+    },
+    {
+        "input": "*(forty-six@twenty-seven)",
+        "output": "eerht-ytneves"
+    },
+    {
+        "input": "*(fifty-seven@twenty-one)",
+        "output": "thgie-ytneves"
+    },
+    {
+        "input": "*(thirteen@seventy-five)",
+        "output": "thgie-ythgie"
+    },
+    {
+        "input": "*(thirty-seven@forty-three)",
+        "output": "ythgie"
+    },
+    {
+        "input": "*(forty-four@eight)",
+        "output": "owt-ytfif"
+    },
+    {
+        "input": "*(sixty-six@eight)",
+        "output": "ruof-ytneves"
+    },
+    {
+        "input": "*(forty-seven@eight)",
+        "output": "evif-ytfif"
+    },
+    {
+        "input": "*(seventy-nine@twelve)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(twenty-six@forty-one)",
+        "output": "neves-ytxis"
+    },
+    {
+        "input": "*(twelve@two)",
+        "output": "neetruof"
+    },
+    {
+        "input": "*(thirty-one@twenty-one)",
+        "output": "owt-ytfif"
+    },
+    {
+        "input": "*(forty-seven@forty-four)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(ninety-one@three)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(seventy-one@nineteen)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(fifty-three@forty-one)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(seventy-seven@eighteen)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(thirty-eight@fifteen)",
+        "output": "eerht-ytfif"
+    },
+    {
+        "input": "*(eighty-four@eight)",
+        "output": "owt-ytenin"
+    },
+    {
+        "input": "*(one@ninety-two)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(forty-four@fifty)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(sixty-two@eight)",
+        "output": "ytneves"
+    },
+    {
+        "input": "*(ninety-two@three)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(six@eighty-eight)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(thirty-seven@thirty-six)",
+        "output": "eerht-ytneves"
+    },
+    {
+        "input": "*(nineteen@thirty-eight)",
+        "output": "neves-ytfif"
+    },
+    {
+        "input": "*(five@ten)",
+        "output": "neetfif"
+    },
+    {
+        "input": "*(fifty-eight@twenty-nine)",
+        "output": "neves-ythgie"
+    },
+    {
+        "input": "*(ten@eighteen)",
+        "output": "thgie-ytnewt"
+    },
+    {
+        "input": "*(forty-three@forty-three)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(sixty-four@thirteen)",
+        "output": "neves-ytneves"
+    },
+    {
+        "input": "*(seven@eleven)",
+        "output": "neethgie"
+    },
+    {
+        "input": "*(zero@forty-five)",
+        "output": "evif-ytrof"
+    },
+    {
+        "input": "*(forty-four@twenty-four)",
+        "output": "thgie-ytxis"
+    },
+    {
+        "input": "*(seven@fifty)",
+        "output": "neves-ytfif"
+    },
+    {
+        "input": "*(twenty-nine@forty-four)",
+        "output": "eerht-ytneves"
+    },
+    {
+        "input": "*(fourteen@sixty-one)",
+        "output": "evif-ytneves"
+    },
+    {
+        "input": "*(forty-five@thirty-one)",
+        "output": "xis-ytneves"
+    },
+    {
+        "input": "*(forty-nine@seventeen)",
+        "output": "xis-ytxis"
+    },
+    {
+        "input": "*(seven@seventy-two)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(eighteen@forty)",
+        "output": "thgie-ytfif"
+    },
+    {
+        "input": "*(three@twenty-two)",
+        "output": "evif-ytnewt"
+    },
+    {
+        "input": "*(eighty-two@six)",
+        "output": "thgie-ythgie"
+    },
+    {
+        "input": "*(seven@ten)",
+        "output": "neetneves"
+    },
+    {
+        "input": "*(forty-four@fifty-one)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(fourteen@eighty-two)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(twenty-five@one)",
+        "output": "xis-ytnewt"
+    },
+    {
+        "input": "*(twenty-one@nineteen)",
+        "output": "ytrof"
+    },
+    {
+        "input": "*(thirty-nine@twenty-one)",
+        "output": "ytxis"
+    },
+    {
+        "input": "*(ten@seventy-six)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(ten@nineteen)",
+        "output": "enin-ytnewt"
+    },
+    {
+        "input": "*(five@forty-five)",
+        "output": "ytfif"
+    },
+    {
+        "input": "*(zero@ninety-four)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(fifty-two@eight)",
+        "output": "ytxis"
+    },
+    {
+        "input": "*(thirty-eight@seven)",
+        "output": "evif-ytrof"
+    },
+    {
+        "input": "*(thirty@forty-three)",
+        "output": "eerht-ytneves"
+    },
+    {
+        "input": "*(ninety-two@five)",
+        "output": "neves-ytenin"
+    },
+    {
+        "input": "*(nineteen@eighteen)",
+        "output": "neves-ytriht"
+    },
+    {
+        "input": "*(thirty-nine@eight)",
+        "output": "neves-ytrof"
+    },
+    {
+        "input": "*(fifty-seven@six)",
+        "output": "eerht-ytxis"
+    },
+    {
+        "input": "*(fifty-five@twenty-two)",
+        "output": "neves-ytneves"
+    },
+    {
+        "input": "*(sixteen@fifty-seven)",
+        "output": "eerht-ytneves"
+    },
+    {
+        "input": "*(sixty-four@twenty-eight)",
+        "output": "owt-ytenin"
+    },
+    {
+        "input": "*(thirty-one@eleven)",
+        "output": "owt-ytrof"
+    },
+    {
+        "input": "*(thirty-nine@fifteen)",
+        "output": "ruof-ytfif"
+    },
+    {
+        "input": "*(eighty-three@ten)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(forty-nine@forty-four)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(sixty@twenty-eight)",
+        "output": "thgie-ythgie"
+    },
+    {
+        "input": "*(four@fifty-three)",
+        "output": "neves-ytfif"
+    },
+    {
+        "input": "*(thirty-four@twenty)",
+        "output": "ruof-ytfif"
+    },
+    {
+        "input": "*(forty-five@fifty-three)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(fifty-four@seven)",
+        "output": "eno-ytxis"
+    },
+    {
+        "input": "*(forty@eight)",
+        "output": "thgie-ytrof"
+    },
+    {
+        "input": "*(forty-two@fourteen)",
+        "output": "xis-ytfif"
+    },
+    {
+        "input": "*(nineteen@eleven)",
+        "output": "ytriht"
+    },
+    {
+        "input": "*(five@sixty-nine)",
+        "output": "ruof-ytneves"
+    },
+    {
+        "input": "*(seventy-two@twenty-one)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(four@seventy-six)",
+        "output": "ythgie"
+    },
+    {
+        "input": "*(sixty-nine@twenty)",
+        "output": "enin-ythgie"
+    },
+    {
+        "input": "*(forty-nine@two)",
+        "output": "eno-ytfif"
+    },
+    {
+        "input": "*(twenty-nine@thirty-eight)",
+        "output": "neves-ytxis"
+    },
+    {
+        "input": "*(twenty-three@sixty-seven)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(forty-five@two)",
+        "output": "neves-ytrof"
+    },
+    {
+        "input": "*(eighteen@seventy)",
+        "output": "thgie-ythgie"
+    },
+    {
+        "input": "*(fifty-nine@thirty-one)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(eighty-one@four)",
+        "output": "evif-ythgie"
+    },
+    {
+        "input": "*(fifty@forty-five)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(three@forty-seven)",
+        "output": "ytfif"
+    },
+    {
+        "input": "*(sixty-nine@twenty-six)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(nineteen@sixty-seven)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(forty-eight@fifteen)",
+        "output": "eerht-ytxis"
+    },
+    {
+        "input": "*(twenty-seven@thirty-eight)",
+        "output": "evif-ytxis"
+    },
+    {
+        "input": "*(six@fifty-nine)",
+        "output": "evif-ytxis"
+    },
+    {
+        "input": "*(twenty-three@forty-two)",
+        "output": "evif-ytxis"
+    },
+    {
+        "input": "*(thirteen@thirty-five)",
+        "output": "thgie-ytrof"
+    },
+    {
+        "input": "*(fifty-seven@thirty-eight)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(twenty-four@fifty-seven)",
+        "output": "eno-ythgie"
+    },
+    {
+        "input": "*(sixty@thirty-seven)",
+        "output": "neves-ytenin"
+    },
+    {
+        "input": "*(twenty-two@sixty-three)",
+        "output": "evif-ythgie"
+    },
+    {
+        "input": "*(eleven@thirteen)",
+        "output": "ruof-ytnewt"
+    },
+    {
+        "input": "*(five@seventy-seven)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(fifteen@twelve)",
+        "output": "neves-ytnewt"
+    },
+    {
+        "input": "*(nineteen@thirteen)",
+        "output": "owt-ytriht"
+    },
+    {
+        "input": "*(thirty-eight@sixty)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(fifty@thirteen)",
+        "output": "eerht-ytxis"
+    },
+    {
+        "input": "*(eleven@seven)",
+        "output": "neethgie"
+    },
+    {
+        "input": "*(ninety-one@five)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(twenty-three@thirty-nine)",
+        "output": "owt-ytxis"
+    },
+    {
+        "input": "*(fifty-five@thirty-two)",
+        "output": "neves-ythgie"
+    },
+    {
+        "input": "*(thirty-three@fifty-eight)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(eleven@twenty-one)",
+        "output": "owt-ytriht"
+    },
+    {
+        "input": "*(twenty-two@thirty-five)",
+        "output": "neves-ytfif"
+    },
+    {
+        "input": "*(thirty-five@twenty-six)",
+        "output": "eno-ytxis"
+    },
+    {
+        "input": "*(four@three)",
+        "output": "neves"
+    },
+    {
+        "input": "*(nine@sixty-seven)",
+        "output": "xis-ytneves"
+    },
+    {
+        "input": "*(fifty-eight@eleven)",
+        "output": "enin-ytxis"
+    },
+    {
+        "input": "*(fourteen@six)",
+        "output": "ytnewt"
+    },
+    {
+        "input": "*(one@sixty)",
+        "output": "eno-ytxis"
+    },
+    {
+        "input": "*(thirty-two@thirty-five)",
+        "output": "neves-ytxis"
+    },
+    {
+        "input": "*(sixty-six@fifteen)",
+        "output": "eno-ythgie"
+    },
+    {
+        "input": "*(forty@eleven)",
+        "output": "eno-ytfif"
+    },
+    {
+        "input": "*(ten@forty-three)",
+        "output": "eerht-ytfif"
+    },
+    {
+        "input": "*(forty-eight@nine)",
+        "output": "neves-ytfif"
+    },
+    {
+        "input": "*(thirty-four@fifty-nine)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(three@eighty-three)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(ten@sixty-nine)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(three@one)",
+        "output": "ruof"
+    },
+    {
+        "input": "*(forty-five@five)",
+        "output": "ytfif"
+    },
+    {
+        "input": "*(fifty-eight@three)",
+        "output": "eno-ytxis"
+    },
+    {
+        "input": "*(sixty-one@four)",
+        "output": "evif-ytxis"
+    },
+    {
+        "input": "*(thirty-five@fifty-two)",
+        "output": "neves-ythgie"
+    },
+    {
+        "input": "*(thirty-eight@fifty-three)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(sixty-six@ten)",
+        "output": "xis-ytneves"
+    },
+    {
+        "input": "*(twenty-eight@seven)",
+        "output": "evif-ytriht"
+    },
+    {
+        "input": "*(ten@seventy-nine)",
+        "output": "enin-ythgie"
+    },
+    {
+        "input": "*(twenty-four@nine)",
+        "output": "eerht-ytriht"
+    },
+    {
+        "input": "*(sixteen@ten)",
+        "output": "xis-ytnewt"
+    },
+    {
+        "input": "*(fifty-seven@forty-two)",
+        "output": "enin-ytenin"
+    },
+    {
+        "input": "*(twelve@thirty-eight)",
+        "output": "ytfif"
+    },
+    {
+        "input": "*(zero@fifty-eight)",
+        "output": "thgie-ytfif"
+    },
+    {
+        "input": "*(twelve@fifteen)",
+        "output": "neves-ytnewt"
+    },
+    {
+        "input": "*(sixty-nine@ten)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(thirty-eight@forty-five)",
+        "output": "eerht-ythgie"
+    },
+    {
+        "input": "*(three@thirty-seven)",
+        "output": "ytrof"
+    },
+    {
+        "input": "*(twelve@eighty-four)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(twelve@forty-eight)",
+        "output": "ytxis"
+    },
+    {
+        "input": "*(twenty@five)",
+        "output": "evif-ytnewt"
+    },
+    {
+        "input": "*(fourteen@forty-six)",
+        "output": "ytxis"
+    },
+    {
+        "input": "*(forty-six@forty)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(forty-seven@twenty-seven)",
+        "output": "ruof-ytneves"
+    },
+    {
+        "input": "*(seventeen@forty-six)",
+        "output": "eerht-ytxis"
+    },
+    {
+        "input": "*(thirty-eight@twenty-one)",
+        "output": "enin-ytfif"
+    },
+    {
+        "input": "*(forty-nine@thirty-two)",
+        "output": "eno-ythgie"
+    },
+    {
+        "input": "*(twenty-six@sixty-eight)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(twenty-nine@fifty-three)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(sixty-five@twenty-two)",
+        "output": "neves-ythgie"
+    },
+    {
+        "input": "*(twenty-seven@twenty-five)",
+        "output": "owt-ytfif"
+    },
+    {
+        "input": "*(eighty-one@one)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(twenty-four@fourteen)",
+        "output": "thgie-ytriht"
+    },
+    {
+        "input": "*(forty-five@six)",
+        "output": "eno-ytfif"
+    },
+    {
+        "input": "*(sixty@three)",
+        "output": "eerht-ytxis"
+    },
+    {
+        "input": "*(forty-five@forty-nine)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(eighteen@nineteen)",
+        "output": "neves-ytriht"
+    },
+    {
+        "input": "*(nine@twenty-four)",
+        "output": "eerht-ytriht"
+    },
+    {
+        "input": "*(ninety-one@six)",
+        "output": "neves-ytenin"
+    },
+    {
+        "input": "*(seven@six)",
+        "output": "neetriht"
+    },
+    {
+        "input": "*(twenty-nine@forty-seven)",
+        "output": "xis-ytneves"
+    },
+    {
+        "input": "*(six@forty-nine)",
+        "output": "evif-ytfif"
+    },
+    {
+        "input": "*(five@fifty-two)",
+        "output": "neves-ytfif"
+    },
+    {
+        "input": "*(seventy-two@twenty-four)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(twenty-one@seventy-three)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(forty-nine@seven)",
+        "output": "xis-ytfif"
+    },
+    {
+        "input": "*(sixteen@seventeen)",
+        "output": "eerht-ytriht"
+    },
+    {
+        "input": "*(twenty-two@seventy-four)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(eleven@nineteen)",
+        "output": "ytriht"
+    },
+    {
+        "input": "*(seven@twenty)",
+        "output": "neves-ytnewt"
+    },
+    {
+        "input": "*(fifty-eight@six)",
+        "output": "ruof-ytxis"
+    },
+    {
+        "input": "*(forty-six@fifty)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(twenty-nine@twenty-one)",
+        "output": "ytfif"
+    },
+    {
+        "input": "*(seventy-eight@sixteen)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(thirty@twenty-two)",
+        "output": "owt-ytfif"
+    },
+    {
+        "input": "*(nine@fifty-one)",
+        "output": "ytxis"
+    },
+    {
+        "input": "*(twenty-eight@twenty-three)",
+        "output": "eno-ytfif"
+    },
+    {
+        "input": "*(eight@seven)",
+        "output": "neetfif"
+    },
+    {
+        "input": "*(seven@seventy-eight)",
+        "output": "evif-ythgie"
+    },
+    {
+        "input": "*(seven@twenty-three)",
+        "output": "ytriht"
+    },
+    {
+        "input": "*(thirty-seven@twenty-three)",
+        "output": "ytxis"
+    },
+    {
+        "input": "*(two@ninety-six)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(eighteen@forty-five)",
+        "output": "eerht-ytxis"
+    },
+    {
+        "input": "*(fifteen@twenty-two)",
+        "output": "neves-ytriht"
+    },
+    {
+        "input": "*(nine@forty-eight)",
+        "output": "neves-ytfif"
+    },
+    {
+        "input": "*(seventy-six@twenty-one)",
+        "output": "neves-ytenin"
+    },
+    {
+        "input": "*(thirty-nine@forty-three)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(fourteen@fifty-eight)",
+        "output": "owt-ytneves"
+    },
+    {
+        "input": "*(thirty@twenty-five)",
+        "output": "evif-ytfif"
+    },
+    {
+        "input": "*(twenty-one@fifty-nine)",
+        "output": "ythgie"
+    },
+    {
+        "input": "*(forty-two@two)",
+        "output": "ruof-ytrof"
+    },
+    {
+        "input": "*(thirty-six@thirty)",
+        "output": "xis-ytxis"
+    },
+    {
+        "input": "*(six@thirty-nine)",
+        "output": "evif-ytrof"
+    },
+    {
+        "input": "*(seven@sixty)",
+        "output": "neves-ytxis"
+    },
+    {
+        "input": "*(fifty-five@thirty-nine)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(fifty@one)",
+        "output": "eno-ytfif"
+    },
+    {
+        "input": "*(forty-four@twenty-six)",
+        "output": "ytneves"
+    },
+    {
+        "input": "*(twelve@eighty)",
+        "output": "owt-ytenin"
+    },
+    {
+        "input": "*(forty-seven@twenty-eight)",
+        "output": "evif-ytneves"
+    },
+    {
+        "input": "*(fifty-three@twenty-nine)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(sixty@thirty-one)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(fifty-six@thirty-six)",
+        "output": "owt-ytenin"
+    },
+    {
+        "input": "*(thirty-five@six)",
+        "output": "eno-ytrof"
+    },
+    {
+        "input": "*(sixteen@twenty-nine)",
+        "output": "evif-ytrof"
+    },
+    {
+        "input": "*(eighty-one@fifteen)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(sixty-five@nine)",
+        "output": "ruof-ytneves"
+    },
+    {
+        "input": "*(twenty-eight@twenty-nine)",
+        "output": "neves-ytfif"
+    },
+    {
+        "input": "*(three@fifty-five)",
+        "output": "thgie-ytfif"
+    },
+    {
+        "input": "*(eighty-seven@four)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(seventeen@thirty-nine)",
+        "output": "xis-ytfif"
+    },
+    {
+        "input": "*(fifteen@sixty-four)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(forty-three@twenty-eight)",
+        "output": "eno-ytneves"
+    },
+    {
+        "input": "*(twenty-three@forty-five)",
+        "output": "thgie-ytxis"
+    },
+    {
+        "input": "*(eighty-seven@nine)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(thirty@fifty-one)",
+        "output": "eno-ythgie"
+    },
+    {
+        "input": "*(fifty-seven@two)",
+        "output": "enin-ytfif"
+    },
+    {
+        "input": "*(fifty-one@twenty-seven)",
+        "output": "thgie-ytneves"
+    },
+    {
+        "input": "*(seventeen@forty-seven)",
+        "output": "ruof-ytxis"
+    },
+    {
+        "input": "*(eight@seventy-five)",
+        "output": "eerht-ythgie"
+    },
+    {
+        "input": "*(thirty-three@nine)",
+        "output": "owt-ytrof"
+    },
+    {
+        "input": "*(sixteen@eighty-two)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(fifteen@thirty-one)",
+        "output": "xis-ytrof"
+    },
+    {
+        "input": "*(eighteen@sixty-seven)",
+        "output": "evif-ythgie"
+    },
+    {
+        "input": "*(twelve@four)",
+        "output": "neetxis"
+    },
+    {
+        "input": "*(twenty-nine@fifty-four)",
+        "output": "eerht-ythgie"
+    },
+    {
+        "input": "*(forty-seven@twenty-nine)",
+        "output": "xis-ytneves"
+    },
+    {
+        "input": "*(eighty-five@six)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(eighteen@two)",
+        "output": "ytnewt"
+    },
+    {
+        "input": "*(thirty-three@fifty-one)",
+        "output": "ruof-ythgie"
+    },
+    {
+        "input": "*(fifty-nine@seventeen)",
+        "output": "xis-ytneves"
+    },
+    {
+        "input": "*(fifty-nine@twelve)",
+        "output": "eno-ytneves"
+    },
+    {
+        "input": "*(sixteen@thirty-two)",
+        "output": "thgie-ytrof"
+    },
+    {
+        "input": "*(two@ten)",
+        "output": "evlewt"
+    },
+    {
+        "input": "*(thirty-six@fifty-four)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(thirty-one@thirteen)",
+        "output": "ruof-ytrof"
+    },
+    {
+        "input": "*(forty-three@fifty-two)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(thirty-nine@nineteen)",
+        "output": "thgie-ytfif"
+    },
+    {
+        "input": "*(sixteen@forty-three)",
+        "output": "enin-ytfif"
+    },
+    {
+        "input": "*(four@one)",
+        "output": "evif"
+    },
+    {
+        "input": "*(six@eighty-two)",
+        "output": "thgie-ythgie"
+    },
+    {
+        "input": "*(ninety-one@two)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(sixty-two@twenty-one)",
+        "output": "eerht-ythgie"
+    },
+    {
+        "input": "*(forty-one@forty-seven)",
+        "output": "thgie-ythgie"
+    },
+    {
+        "input": "*(thirty-three@sixty-one)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(three@thirty-six)",
+        "output": "enin-ytriht"
+    },
+    {
+        "input": "*(twenty-three@forty-three)",
+        "output": "xis-ytxis"
+    },
+    {
+        "input": "*(forty-eight@thirty-nine)",
+        "output": "neves-ythgie"
+    },
+    {
+        "input": "*(thirty-one@thirty)",
+        "output": "eno-ytxis"
+    },
+    {
+        "input": "*(twenty-two@fourteen)",
+        "output": "xis-ytriht"
+    },
+    {
+        "input": "*(twenty@thirteen)",
+        "output": "eerht-ytriht"
+    },
+    {
+        "input": "*(fifty-four@nine)",
+        "output": "eerht-ytxis"
+    },
+    {
+        "input": "*(fifty-six@thirty-three)",
+        "output": "enin-ythgie"
+    },
+    {
+        "input": "*(fifty@forty-six)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(four@thirty-eight)",
+        "output": "owt-ytrof"
+    },
+    {
+        "input": "*(twenty-five@nineteen)",
+        "output": "ruof-ytrof"
+    },
+    {
+        "input": "*(twenty-seven@sixty-four)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(sixty@thirty-six)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(six@sixty-three)",
+        "output": "enin-ytxis"
+    },
+    {
+        "input": "*(twenty-nine@twenty-eight)",
+        "output": "neves-ytfif"
+    },
+    {
+        "input": "*(twenty@seventy)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(twenty@sixty-five)",
+        "output": "evif-ythgie"
+    },
+    {
+        "input": "*(six@eighty-nine)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(thirty-four@fourteen)",
+        "output": "thgie-ytrof"
+    },
+    {
+        "input": "*(ninety-three@four)",
+        "output": "neves-ytenin"
+    },
+    {
+        "input": "*(sixty-one@thirty)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(twenty@sixteen)",
+        "output": "xis-ytriht"
+    },
+    {
+        "input": "*(four@fifty-six)",
+        "output": "ytxis"
+    },
+    {
+        "input": "*(fifty-one@thirty)",
+        "output": "eno-ythgie"
+    },
+    {
+        "input": "*(twenty-six@ten)",
+        "output": "xis-ytriht"
+    },
+    {
+        "input": "*(twenty@fifty-eight)",
+        "output": "thgie-ytneves"
+    },
+    {
+        "input": "*(nine@twenty-one)",
+        "output": "ytriht"
+    },
+    {
+        "input": "*(thirty-six@twenty-three)",
+        "output": "enin-ytfif"
+    },
+    {
+        "input": "*(twenty-three@thirty-two)",
+        "output": "evif-ytfif"
+    },
+    {
+        "input": "*(sixty-four@six)",
+        "output": "ytneves"
+    },
+    {
+        "input": "*(forty-two@twenty-two)",
+        "output": "ruof-ytxis"
+    },
+    {
+        "input": "*(twelve@twenty-three)",
+        "output": "evif-ytriht"
+    },
+    {
+        "input": "*(thirty@seventeen)",
+        "output": "neves-ytrof"
+    },
+    {
+        "input": "*(seventy-seven@eight)",
+        "output": "evif-ythgie"
+    },
+    {
+        "input": "*(forty-eight@forty-six)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(twenty-two@fifty)",
+        "output": "owt-ytneves"
+    },
+    {
+        "input": "*(thirty-seven@seventeen)",
+        "output": "ruof-ytfif"
+    },
+    {
+        "input": "*(forty@thirty-eight)",
+        "output": "thgie-ytneves"
+    },
+    {
+        "input": "*(eighty-four@fourteen)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(eighty-four@ten)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(seventy-three@seventeen)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(sixty-six@twenty-eight)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(thirty-nine@twenty-seven)",
+        "output": "xis-ytxis"
+    },
+    {
+        "input": "*(eleven@forty-eight)",
+        "output": "enin-ytfif"
+    },
+    {
+        "input": "*(twenty-five@sixty-eight)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(thirty-five@seven)",
+        "output": "owt-ytrof"
+    },
+    {
+        "input": "*(forty-five@fifty-one)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(five@seventy-two)",
+        "output": "neves-ytneves"
+    },
+    {
+        "input": "*(thirteen@five)",
+        "output": "neethgie"
+    },
+    {
+        "input": "*(fifty-eight@nine)",
+        "output": "neves-ytxis"
+    },
+    {
+        "input": "*(forty-three@twenty-one)",
+        "output": "ruof-ytxis"
+    },
+    {
+        "input": "*(eleven@forty-two)",
+        "output": "eerht-ytfif"
+    },
+    {
+        "input": "*(three@ninety)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(five@seventy-four)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(eighteen@sixteen)",
+        "output": "ruof-ytriht"
+    },
+    {
+        "input": "*(twenty-six@sixty-seven)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(three@sixty)",
+        "output": "eerht-ytxis"
+    },
+    {
+        "input": "*(forty-seven@twelve)",
+        "output": "enin-ytfif"
+    },
+    {
+        "input": "*(thirty-six@thirty-two)",
+        "output": "thgie-ytxis"
+    },
+    {
+        "input": "*(three@fifty-four)",
+        "output": "neves-ytfif"
+    },
+    {
+        "input": "*(thirty-one@fifty-one)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(twenty@eight)",
+        "output": "thgie-ytnewt"
+    },
+    {
+        "input": "*(eighty-nine@five)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(four@eighty-one)",
+        "output": "evif-ythgie"
+    },
+    {
+        "input": "*(fifty-two@seven)",
+        "output": "enin-ytfif"
+    },
+    {
+        "input": "*(eighty-eight@four)",
+        "output": "owt-ytenin"
+    },
+    {
+        "input": "*(eighty-four@seven)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(six@twenty-one)",
+        "output": "neves-ytnewt"
+    },
+    {
+        "input": "*(twenty-six@sixty-four)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(sixty-five@thirty-one)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(forty-nine@twenty-nine)",
+        "output": "thgie-ytneves"
+    },
+    {
+        "input": "*(fifty-one@forty-eight)",
+        "output": "enin-ytenin"
+    },
+    {
+        "input": "*(three@fifty-seven)",
+        "output": "ytxis"
+    },
+    {
+        "input": "*(forty@forty-six)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(eleven@eighty-seven)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(twenty-one@fourteen)",
+        "output": "evif-ytriht"
+    },
+    {
+        "input": "*(thirty-two@thirty-six)",
+        "output": "thgie-ytxis"
+    },
+    {
+        "input": "*(fifty-nine@twenty-four)",
+        "output": "eerht-ythgie"
+    },
+    {
+        "input": "*(four@eighty-five)",
+        "output": "enin-ythgie"
+    },
+    {
+        "input": "*(twenty-three@twenty-three)",
+        "output": "xis-ytrof"
+    },
+    {
+        "input": "*(eighteen@fifteen)",
+        "output": "eerht-ytriht"
+    },
+    {
+        "input": "*(forty-eight@forty-seven)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(one@seventy-six)",
+        "output": "neves-ytneves"
+    },
+    {
+        "input": "*(thirty-five@thirty-eight)",
+        "output": "eerht-ytneves"
+    },
+    {
+        "input": "*(seventy@sixteen)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(eight@five)",
+        "output": "neetriht"
+    },
+    {
+        "input": "*(one@eighty-seven)",
+        "output": "thgie-ythgie"
+    },
+    {
+        "input": "*(ten@forty-six)",
+        "output": "xis-ytfif"
+    },
+    {
+        "input": "*(two@sixty-eight)",
+        "output": "ytneves"
+    },
+    {
+        "input": "*(four@seventy-nine)",
+        "output": "eerht-ythgie"
+    },
+    {
+        "input": "*(forty-eight@twenty-three)",
+        "output": "eno-ytneves"
+    },
+    {
+        "input": "*(twenty-six@seventeen)",
+        "output": "eerht-ytrof"
+    },
+    {
+        "input": "*(fifty-nine@thirty-four)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(sixteen@twenty-four)",
+        "output": "ytrof"
+    },
+    {
+        "input": "*(fifty-eight@forty)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(twenty@seventy-six)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(ninety-two@seven)",
+        "output": "enin-ytenin"
+    },
+    {
+        "input": "*(eighteen@twenty-four)",
+        "output": "owt-ytrof"
+    },
+    {
+        "input": "*(nineteen@five)",
+        "output": "ruof-ytnewt"
+    },
+    {
+        "input": "*(twelve@eighty-one)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(thirty-six@thirty-eight)",
+        "output": "ruof-ytneves"
+    },
+    {
+        "input": "*(fourteen@sixteen)",
+        "output": "ytriht"
+    },
+    {
+        "input": "*(sixty-nine@seventeen)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(thirty-five@five)",
+        "output": "ytrof"
+    },
+    {
+        "input": "*(twenty-one@twenty-eight)",
+        "output": "enin-ytrof"
+    },
+    {
+        "input": "*(four@seventy-four)",
+        "output": "thgie-ytneves"
+    },
+    {
+        "input": "*(eleven@twenty-three)",
+        "output": "ruof-ytriht"
+    },
+    {
+        "input": "*(thirty-five@forty-seven)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(twenty@forty-two)",
+        "output": "owt-ytxis"
+    },
+    {
+        "input": "*(six@forty-eight)",
+        "output": "ruof-ytfif"
+    },
+    {
+        "input": "*(forty-eight@forty-four)",
+        "output": "owt-ytenin"
+    },
+    {
+        "input": "*(three@eighty-one)",
+        "output": "ruof-ythgie"
+    },
+    {
+        "input": "*(two@ninety-two)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(eighty-one@five)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(twelve@fifty-nine)",
+        "output": "eno-ytneves"
+    },
+    {
+        "input": "*(sixty-nine@two)",
+        "output": "eno-ytneves"
+    },
+    {
+        "input": "*(seventy-four@sixteen)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(forty-nine@eighteen)",
+        "output": "neves-ytxis"
+    },
+    {
+        "input": "*(four@twenty-one)",
+        "output": "evif-ytnewt"
+    },
+    {
+        "input": "*(twenty-seven@sixty-two)",
+        "output": "enin-ythgie"
+    },
+    {
+        "input": "*(fifty-nine@thirty)",
+        "output": "enin-ythgie"
+    },
+    {
+        "input": "*(thirty-eight@forty-six)",
+        "output": "ruof-ythgie"
+    },
+    {
+        "input": "*(eighteen@eighty-one)",
+        "output": "enin-ytenin"
+    },
+    {
+        "input": "*(sixty-four@twenty)",
+        "output": "ruof-ythgie"
+    },
+    {
+        "input": "*(nine@forty-three)",
+        "output": "owt-ytfif"
+    },
+    {
+        "input": "*(sixty@twenty-nine)",
+        "output": "enin-ythgie"
+    },
+    {
+        "input": "*(twenty-nine@five)",
+        "output": "ruof-ytriht"
+    },
+    {
+        "input": "*(fifty@three)",
+        "output": "eerht-ytfif"
+    },
+    {
+        "input": "*(twelve@seventy-four)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(nine@two)",
+        "output": "nevele"
+    },
+    {
+        "input": "*(one@sixty-four)",
+        "output": "evif-ytxis"
+    },
+    {
+        "input": "*(four@forty-three)",
+        "output": "neves-ytrof"
+    },
+    {
+        "input": "*(twenty-seven@thirty-nine)",
+        "output": "xis-ytxis"
+    },
+    {
+        "input": "*(twenty-eight@four)",
+        "output": "owt-ytriht"
+    },
+    {
+        "input": "*(forty-one@eleven)",
+        "output": "owt-ytfif"
+    },
+    {
+        "input": "*(fifteen@eighty-four)",
+        "output": "enin-ytenin"
+    },
+    {
+        "input": "*(sixty-one@thirty-two)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(ten@twenty-eight)",
+        "output": "thgie-ytriht"
+    },
+    {
+        "input": "*(thirty-two@three)",
+        "output": "evif-ytriht"
+    },
+    {
+        "input": "*(four@five)",
+        "output": "enin"
+    },
+    {
+        "input": "*(twenty-two@fifteen)",
+        "output": "neves-ytriht"
+    },
+    {
+        "input": "*(forty-one@forty)",
+        "output": "eno-ythgie"
+    },
+    {
+        "input": "*(seventy-two@one)",
+        "output": "eerht-ytneves"
+    },
+    {
+        "input": "*(fifty-six@forty-three)",
+        "output": "enin-ytenin"
+    },
+    {
+        "input": "*(four@thirty-six)",
+        "output": "ytrof"
+    },
+    {
+        "input": "*(seven@forty-two)",
+        "output": "enin-ytrof"
+    },
+    {
+        "input": "*(sixty-one@fourteen)",
+        "output": "evif-ytneves"
+    },
+    {
+        "input": "*(fifty-seven@thirty-one)",
+        "output": "thgie-ythgie"
+    },
+    {
+        "input": "*(sixty-five@seventeen)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(eleven@twelve)",
+        "output": "eerht-ytnewt"
+    },
+    {
+        "input": "*(twenty-one@seventy-four)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(seventy-one@seven)",
+        "output": "thgie-ytneves"
+    },
+    {
+        "input": "*(twenty-five@four)",
+        "output": "enin-ytnewt"
+    },
+    {
+        "input": "*(sixty-three@fourteen)",
+        "output": "neves-ytneves"
+    },
+    {
+        "input": "*(seven@sixty-four)",
+        "output": "eno-ytneves"
+    },
+    {
+        "input": "*(twenty-two@sixty-four)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(four@seventy-eight)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(fifty-nine@twenty-six)",
+        "output": "evif-ythgie"
+    },
+    {
+        "input": "*(forty-two@twenty-six)",
+        "output": "thgie-ytxis"
+    },
+    {
+        "input": "*(thirty-six@fifty-five)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(eleven@eighty-five)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(thirty-two@fifty-one)",
+        "output": "eerht-ythgie"
+    },
+    {
+        "input": "*(twenty@seventy-nine)",
+        "output": "enin-ytenin"
+    },
+    {
+        "input": "*(seventy-five@nine)",
+        "output": "ruof-ythgie"
+    },
+    {
+        "input": "*(thirteen@twenty-five)",
+        "output": "thgie-ytriht"
+    },
+    {
+        "input": "*(four@thirty-nine)",
+        "output": "eerht-ytrof"
+    },
+    {
+        "input": "*(forty-three@thirty-one)",
+        "output": "ruof-ytneves"
+    },
+    {
+        "input": "*(forty-two@fifty-four)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(sixty-three@one)",
+        "output": "ruof-ytxis"
+    },
+    {
+        "input": "*(forty-one@fifteen)",
+        "output": "xis-ytfif"
+    },
+    {
+        "input": "*(three@fifty)",
+        "output": "eerht-ytfif"
+    },
+    {
+        "input": "*(eleven@eighty-four)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(twenty-seven@ten)",
+        "output": "neves-ytriht"
+    },
+    {
+        "input": "*(thirty-four@three)",
+        "output": "neves-ytriht"
+    },
+    {
+        "input": "*(fifty-eight@four)",
+        "output": "owt-ytxis"
+    },
+    {
+        "input": "*(seventy-eight@seven)",
+        "output": "evif-ythgie"
+    },
+    {
+        "input": "*(thirty-six@eleven)",
+        "output": "neves-ytrof"
+    },
+    {
+        "input": "*(thirty-seven@twenty-one)",
+        "output": "thgie-ytfif"
+    },
+    {
+        "input": "*(twelve@thirty)",
+        "output": "owt-ytrof"
+    },
+    {
+        "input": "*(twenty-seven@seven)",
+        "output": "ruof-ytriht"
+    },
+    {
+        "input": "*(sixty-nine@nineteen)",
+        "output": "thgie-ythgie"
+    },
+    {
+        "input": "*(forty-nine@forty-five)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(five@seventy-one)",
+        "output": "xis-ytneves"
+    },
+    {
+        "input": "*(twenty-three@thirteen)",
+        "output": "xis-ytriht"
+    },
+    {
+        "input": "*(nine@fourteen)",
+        "output": "eerht-ytnewt"
+    },
+    {
+        "input": "*(sixteen@seventy-five)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(zero@ninety-nine)",
+        "output": "enin-ytenin"
+    },
+    {
+        "input": "*(twenty-nine@forty-nine)",
+        "output": "thgie-ytneves"
+    },
+    {
+        "input": "*(two@twenty-two)",
+        "output": "ruof-ytnewt"
+    },
+    {
+        "input": "*(ten@seventy-four)",
+        "output": "ruof-ythgie"
+    },
+    {
+        "input": "*(three@nine)",
+        "output": "evlewt"
+    },
+    {
+        "input": "*(eight@fifty-nine)",
+        "output": "neves-ytxis"
+    },
+    {
+        "input": "*(zero@twenty-three)",
+        "output": "eerht-ytnewt"
+    },
+    {
+        "input": "*(thirty-one@fifty-seven)",
+        "output": "thgie-ythgie"
+    },
+    {
+        "input": "*(forty-eight@fourteen)",
+        "output": "owt-ytxis"
+    },
+    {
+        "input": "*(fifty-one@nineteen)",
+        "output": "ytneves"
+    },
+    {
+        "input": "*(twenty@one)",
+        "output": "eno-ytnewt"
+    },
+    {
+        "input": "*(twenty-two@thirty)",
+        "output": "owt-ytfif"
+    },
+    {
+        "input": "*(twenty-nine@twelve)",
+        "output": "eno-ytrof"
+    },
+    {
+        "input": "*(ninety-five@four)",
+        "output": "enin-ytenin"
+    },
+    {
+        "input": "*(seven@nineteen)",
+        "output": "xis-ytnewt"
+    },
+    {
+        "input": "*(eight@forty-seven)",
+        "output": "evif-ytfif"
+    },
+    {
+        "input": "*(thirteen@twenty-seven)",
+        "output": "ytrof"
+    },
+    {
+        "input": "*(eleven@thirty-four)",
+        "output": "evif-ytrof"
+    },
+    {
+        "input": "*(forty-three@eleven)",
+        "output": "ruof-ytfif"
+    },
+    {
+        "input": "*(fifty-two@twelve)",
+        "output": "ruof-ytxis"
+    },
+    {
+        "input": "*(four@eighty-four)",
+        "output": "thgie-ythgie"
+    },
+    {
+        "input": "*(sixty-one@nine)",
+        "output": "ytneves"
+    },
+    {
+        "input": "*(one@ninety-one)",
+        "output": "owt-ytenin"
+    },
+    {
+        "input": "*(eighty-eight@six)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(sixty-two@six)",
+        "output": "thgie-ytxis"
+    },
+    {
+        "input": "*(ten@seventy-two)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(forty-two@fifty-one)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(zero@twenty-four)",
+        "output": "ruof-ytnewt"
+    },
+    {
+        "input": "*(twenty-four@twenty-six)",
+        "output": "ytfif"
+    },
+    {
+        "input": "*(twenty-nine@thirty-seven)",
+        "output": "xis-ytxis"
+    },
+    {
+        "input": "*(thirty-eight@thirty-two)",
+        "output": "ytneves"
+    },
+    {
+        "input": "*(six@twenty-three)",
+        "output": "enin-ytnewt"
+    },
+    {
+        "input": "*(twenty-eight@thirty-six)",
+        "output": "ruof-ytxis"
+    },
+    {
+        "input": "*(eighty-six@eight)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(thirty@sixty-five)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(forty-five@fifty)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(ten@forty-seven)",
+        "output": "neves-ytfif"
+    },
+    {
+        "input": "*(eighteen@fifty-seven)",
+        "output": "evif-ytneves"
+    },
+    {
+        "input": "*(forty-one@fifty-three)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(thirty-four@twenty-three)",
+        "output": "neves-ytfif"
+    },
+    {
+        "input": "*(thirty-eight@fifty-one)",
+        "output": "enin-ythgie"
+    },
+    {
+        "input": "*(fifty-two@forty-three)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(twenty@seventy-two)",
+        "output": "owt-ytenin"
+    },
+    {
+        "input": "*(thirty-seven@thirty-two)",
+        "output": "enin-ytxis"
+    },
+    {
+        "input": "*(nine@thirty-nine)",
+        "output": "thgie-ytrof"
+    },
+    {
+        "input": "*(one@eighty-eight)",
+        "output": "enin-ythgie"
+    },
+    {
+        "input": "*(eleven@ten)",
+        "output": "eno-ytnewt"
+    },
+    {
+        "input": "*(sixty-five@thirty-three)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(fifty-five@eleven)",
+        "output": "xis-ytxis"
+    },
+    {
+        "input": "*(sixty-seven@twenty)",
+        "output": "neves-ythgie"
+    },
+    {
+        "input": "*(five@forty-three)",
+        "output": "thgie-ytrof"
+    },
+    {
+        "input": "*(sixty-seven@twenty-nine)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(forty@fifty-two)",
+        "output": "owt-ytenin"
+    },
+    {
+        "input": "*(two@ninety-one)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(twelve@thirty-five)",
+        "output": "neves-ytrof"
+    },
+    {
+        "input": "*(forty-six@thirty)",
+        "output": "xis-ytneves"
+    },
+    {
+        "input": "*(eleven@thirty-three)",
+        "output": "ruof-ytrof"
+    },
+    {
+        "input": "*(eighteen@fourteen)",
+        "output": "owt-ytriht"
+    },
+    {
+        "input": "*(thirty-three@forty-eight)",
+        "output": "eno-ythgie"
+    },
+    {
+        "input": "*(thirty-nine@twenty-four)",
+        "output": "eerht-ytxis"
+    },
+    {
+        "input": "*(eighty@fifteen)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(seventy-one@eight)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(sixty-two@twenty-seven)",
+        "output": "enin-ythgie"
+    },
+    {
+        "input": "*(six@eighty-one)",
+        "output": "neves-ythgie"
+    },
+    {
+        "input": "*(fifteen@forty-eight)",
+        "output": "eerht-ytxis"
+    },
+    {
+        "input": "*(thirty-six@twenty-four)",
+        "output": "ytxis"
+    },
+    {
+        "input": "*(seventeen@eighty-two)",
+        "output": "enin-ytenin"
+    },
+    {
+        "input": "*(twenty-one@sixty-seven)",
+        "output": "thgie-ythgie"
+    },
+    {
+        "input": "*(fifty-two@three)",
+        "output": "evif-ytfif"
+    },
+    {
+        "input": "*(fifty-five@two)",
+        "output": "neves-ytfif"
+    },
+    {
+        "input": "*(forty@forty-two)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(eleven@sixty)",
+        "output": "eno-ytneves"
+    },
+    {
+        "input": "*(one@thirty-seven)",
+        "output": "thgie-ytriht"
+    },
+    {
+        "input": "*(six@forty-seven)",
+        "output": "eerht-ytfif"
+    },
+    {
+        "input": "*(thirteen@forty-seven)",
+        "output": "ytxis"
+    },
+    {
+        "input": "*(one@forty-four)",
+        "output": "evif-ytrof"
+    },
+    {
+        "input": "*(eighty-seven@six)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(thirty-six@five)",
+        "output": "eno-ytrof"
+    },
+    {
+        "input": "*(twelve@sixty)",
+        "output": "owt-ytneves"
+    },
+    {
+        "input": "*(zero@forty-seven)",
+        "output": "neves-ytrof"
+    },
+    {
+        "input": "*(sixty-five@eight)",
+        "output": "eerht-ytneves"
+    },
+    {
+        "input": "*(forty-six@forty-one)",
+        "output": "neves-ythgie"
+    },
+    {
+        "input": "*(six@sixty-six)",
+        "output": "owt-ytneves"
+    },
+    {
+        "input": "*(twenty-four@twenty-two)",
+        "output": "xis-ytrof"
+    },
+    {
+        "input": "*(fourteen@sixty)",
+        "output": "ruof-ytneves"
+    },
+    {
+        "input": "*(thirty-one@sixty-eight)",
+        "output": "enin-ytenin"
+    },
+    {
+        "input": "*(four@twenty-three)",
+        "output": "neves-ytnewt"
+    },
+    {
+        "input": "*(eighty@nine)",
+        "output": "enin-ythgie"
+    },
+    {
+        "input": "*(sixty-two@twenty-eight)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(thirty-three@fifty)",
+        "output": "eerht-ythgie"
+    },
+    {
+        "input": "*(fifteen@fifty-nine)",
+        "output": "ruof-ytneves"
+    },
+    {
+        "input": "*(forty-nine@thirty-four)",
+        "output": "eerht-ythgie"
+    },
+    {
+        "input": "*(twelve@forty)",
+        "output": "owt-ytfif"
+    },
+    {
+        "input": "*(eleven@thirty-eight)",
+        "output": "enin-ytrof"
+    },
+    {
+        "input": "*(zero@eighty-one)",
+        "output": "eno-ythgie"
+    },
+    {
+        "input": "*(seven@four)",
+        "output": "nevele"
+    },
+    {
+        "input": "*(ten@forty-two)",
+        "output": "owt-ytfif"
+    },
+    {
+        "input": "*(thirty-one@forty-seven)",
+        "output": "thgie-ytneves"
+    },
+    {
+        "input": "*(sixty-two@four)",
+        "output": "xis-ytxis"
+    },
+    {
+        "input": "*(twelve@eighty-two)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(seventeen@forty)",
+        "output": "neves-ytfif"
+    },
+    {
+        "input": "*(twenty-seven@sixty-eight)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(thirty-seven@thirty-five)",
+        "output": "owt-ytneves"
+    },
+    {
+        "input": "*(ten@twenty)",
+        "output": "ytriht"
+    },
+    {
+        "input": "*(nine@sixty)",
+        "output": "enin-ytxis"
+    },
+    {
+        "input": "*(twenty-three@forty-six)",
+        "output": "enin-ytxis"
+    },
+    {
+        "input": "*(seventy-seven@two)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(sixty-six@seventeen)",
+        "output": "eerht-ythgie"
+    },
+    {
+        "input": "*(fifty-six@six)",
+        "output": "owt-ytxis"
+    },
+    {
+        "input": "*(twenty-three@thirty-seven)",
+        "output": "ytxis"
+    },
+    {
+        "input": "*(thirty-eight@thirty-three)",
+        "output": "eno-ytneves"
+    },
+    {
+        "input": "*(twenty-five@forty-nine)",
+        "output": "ruof-ytneves"
+    },
+    {
+        "input": "*(thirty-five@thirty-five)",
+        "output": "ytneves"
+    },
+    {
+        "input": "*(fifty-nine@thirty-nine)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(two@seventy-four)",
+        "output": "xis-ytneves"
+    },
+    {
+        "input": "*(sixty-eight@one)",
+        "output": "enin-ytxis"
+    },
+    {
+        "input": "*(forty-six@forty-four)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(forty-six@fifteen)",
+        "output": "eno-ytxis"
+    },
+    {
+        "input": "*(seventy-four@seven)",
+        "output": "eno-ythgie"
+    },
+    {
+        "input": "*(forty-three@sixteen)",
+        "output": "enin-ytfif"
+    },
+    {
+        "input": "*(sixty-four@nine)",
+        "output": "eerht-ytneves"
+    },
+    {
+        "input": "*(eighteen@thirty-seven)",
+        "output": "evif-ytfif"
+    },
+    {
+        "input": "*(thirty-eight@thirty-eight)",
+        "output": "xis-ytneves"
+    },
+    {
+        "input": "*(four@thirty-two)",
+        "output": "xis-ytriht"
+    },
+    {
+        "input": "*(sixty-eight@twenty-six)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(seventy-nine@eleven)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(twenty-five@thirty-four)",
+        "output": "enin-ytfif"
+    },
+    {
+        "input": "*(twenty-four@nineteen)",
+        "output": "eerht-ytrof"
+    },
+    {
+        "input": "*(forty-four@four)",
+        "output": "thgie-ytrof"
+    },
+    {
+        "input": "*(forty-four@forty-eight)",
+        "output": "owt-ytenin"
+    },
+    {
+        "input": "*(thirty-four@forty-one)",
+        "output": "evif-ytneves"
+    },
+    {
+        "input": "*(thirteen@seventy-seven)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(four@thirteen)",
+        "output": "neetneves"
+    },
+    {
+        "input": "*(zero@seven)",
+        "output": "neves"
+    },
+    {
+        "input": "*(fifteen@eighty)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(fifty@fifteen)",
+        "output": "evif-ytxis"
+    },
+    {
+        "input": "*(five@twenty-six)",
+        "output": "eno-ytriht"
+    },
+    {
+        "input": "*(fourteen@three)",
+        "output": "neetneves"
+    },
+    {
+        "input": "*(forty-five@twenty-seven)",
+        "output": "owt-ytneves"
+    },
+    {
+        "input": "*(forty-four@forty-four)",
+        "output": "thgie-ythgie"
+    },
+    {
+        "input": "*(forty-four@fifty-three)",
+        "output": "neves-ytenin"
+    },
+    {
+        "input": "*(twenty-five@sixteen)",
+        "output": "eno-ytrof"
+    },
+    {
+        "input": "*(thirty-nine@three)",
+        "output": "owt-ytrof"
+    },
+    {
+        "input": "*(five@forty-two)",
+        "output": "neves-ytrof"
+    },
+    {
+        "input": "*(forty-three@fifty-four)",
+        "output": "neves-ytenin"
+    },
+    {
+        "input": "*(forty@fifty-three)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(forty-five@nine)",
+        "output": "ruof-ytfif"
+    },
+    {
+        "input": "*(forty-six@five)",
+        "output": "eno-ytfif"
+    },
+    {
+        "input": "*(twenty-one@forty-eight)",
+        "output": "enin-ytxis"
+    },
+    {
+        "input": "*(eight@eighty-three)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(four@twelve)",
+        "output": "neetxis"
+    },
+    {
+        "input": "*(fifty-nine@three)",
+        "output": "owt-ytxis"
+    },
+    {
+        "input": "*(thirty-three@thirty)",
+        "output": "eerht-ytxis"
+    },
+    {
+        "input": "*(ninety@three)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(fourteen@eighty-one)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(sixty-three@twenty-three)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(twenty@forty-nine)",
+        "output": "enin-ytxis"
+    },
+    {
+        "input": "*(thirty-two@seven)",
+        "output": "enin-ytriht"
+    },
+    {
+        "input": "*(fifty-six@thirty-seven)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(sixty-seven@thirty-two)",
+        "output": "enin-ytenin"
+    },
+    {
+        "input": "*(fifteen@five)",
+        "output": "ytnewt"
+    },
+    {
+        "input": "*(three@ninety-five)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(fifty-six@thirty-two)",
+        "output": "thgie-ythgie"
+    },
+    {
+        "input": "*(sixty-two@seventeen)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(forty-four@fifty-four)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(twelve@sixty-two)",
+        "output": "ruof-ytneves"
+    },
+    {
+        "input": "*(sixty-six@three)",
+        "output": "enin-ytxis"
+    },
+    {
+        "input": "*(zero@thirteen)",
+        "output": "neetriht"
+    },
+    {
+        "input": "*(nine@five)",
+        "output": "neetruof"
+    },
+    {
+        "input": "*(eleven@fifty-six)",
+        "output": "neves-ytxis"
+    },
+    {
+        "input": "*(twenty-one@twenty-four)",
+        "output": "evif-ytrof"
+    },
+    {
+        "input": "*(sixty-four@twenty-five)",
+        "output": "enin-ythgie"
+    },
+    {
+        "input": "*(twenty-one@thirty-three)",
+        "output": "ruof-ytfif"
+    },
+    {
+        "input": "*(thirty-two@forty-eight)",
+        "output": "ythgie"
+    },
+    {
+        "input": "*(twenty-six@thirty-eight)",
+        "output": "ruof-ytxis"
+    },
+    {
+        "input": "*(thirty-four@forty-eight)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(six@thirty)",
+        "output": "xis-ytriht"
+    },
+    {
+        "input": "*(thirty@fifty-four)",
+        "output": "ruof-ythgie"
+    },
+    {
+        "input": "*(eighteen@twenty)",
+        "output": "thgie-ytriht"
+    },
+    {
+        "input": "*(eighty-one@eighteen)",
+        "output": "enin-ytenin"
+    },
+    {
+        "input": "*(twenty-one@twenty-six)",
+        "output": "neves-ytrof"
+    },
+    {
+        "input": "*(thirty-three@thirty-one)",
+        "output": "ruof-ytxis"
+    },
+    {
+        "input": "*(forty-seven@six)",
+        "output": "eerht-ytfif"
+    },
+    {
+        "input": "*(forty-two@seven)",
+        "output": "enin-ytrof"
+    },
+    {
+        "input": "*(eighty-two@three)",
+        "output": "evif-ythgie"
+    },
+    {
+        "input": "*(fifty-two@thirteen)",
+        "output": "evif-ytxis"
+    },
+    {
+        "input": "*(sixty-one@twenty-three)",
+        "output": "ruof-ythgie"
+    },
+    {
+        "input": "*(forty-six@twenty-nine)",
+        "output": "evif-ytneves"
+    },
+    {
+        "input": "*(thirty-six@sixty-three)",
+        "output": "enin-ytenin"
+    },
+    {
+        "input": "*(twenty-four@one)",
+        "output": "evif-ytnewt"
+    },
+    {
+        "input": "*(sixty@two)",
+        "output": "owt-ytxis"
+    },
+    {
+        "input": "*(six@eighty-seven)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(nine@forty-seven)",
+        "output": "xis-ytfif"
+    },
+    {
+        "input": "*(forty-seven@thirty-seven)",
+        "output": "ruof-ythgie"
+    },
+    {
+        "input": "*(two@seventy-two)",
+        "output": "ruof-ytneves"
+    },
+    {
+        "input": "*(twenty-three@forty)",
+        "output": "eerht-ytxis"
+    },
+    {
+        "input": "*(three@eighty-seven)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(ten@fourteen)",
+        "output": "ruof-ytnewt"
+    },
+    {
+        "input": "*(forty-three@forty-seven)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(fifty@eight)",
+        "output": "thgie-ytfif"
+    },
+    {
+        "input": "*(five@fifty-five)",
+        "output": "ytxis"
+    },
+    {
+        "input": "*(fifteen@fifteen)",
+        "output": "ytriht"
+    },
+    {
+        "input": "*(fifteen@two)",
+        "output": "neetneves"
+    },
+    {
+        "input": "*(thirty-nine@fifty-eight)",
+        "output": "neves-ytenin"
+    },
+    {
+        "input": "*(twenty-nine@seven)",
+        "output": "xis-ytriht"
+    },
+    {
+        "input": "*(seventeen@thirty-three)",
+        "output": "ytfif"
+    },
+    {
+        "input": "*(seventy@nine)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(sixty-eight@four)",
+        "output": "owt-ytneves"
+    },
+    {
+        "input": "*(twenty-three@sixty-three)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(twenty-seven@sixty-nine)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(six@eight)",
+        "output": "neetruof"
+    },
+    {
+        "input": "*(thirty-seven@one)",
+        "output": "thgie-ytriht"
+    },
+    {
+        "input": "*(two@fifty-five)",
+        "output": "neves-ytfif"
+    },
+    {
+        "input": "*(thirty-four@thirty-two)",
+        "output": "xis-ytxis"
+    },
+    {
+        "input": "*(one@eight)",
+        "output": "enin"
+    },
+    {
+        "input": "*(twelve@seventy-one)",
+        "output": "eerht-ythgie"
+    },
+    {
+        "input": "*(fifty-nine@ten)",
+        "output": "enin-ytxis"
+    },
+    {
+        "input": "*(thirty-four@eighteen)",
+        "output": "owt-ytfif"
+    },
+    {
+        "input": "*(seventeen@seventy-three)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(sixty-three@three)",
+        "output": "xis-ytxis"
+    },
+    {
+        "input": "*(fifty-eight@seven)",
+        "output": "evif-ytxis"
+    },
+    {
+        "input": "*(seventeen@fifty-nine)",
+        "output": "xis-ytneves"
+    },
+    {
+        "input": "*(sixty@thirteen)",
+        "output": "eerht-ytneves"
+    },
+    {
+        "input": "*(thirteen@seventy-two)",
+        "output": "evif-ythgie"
+    },
+    {
+        "input": "*(nine@seventy-three)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(five@thirty-six)",
+        "output": "eno-ytrof"
+    },
+    {
+        "input": "*(eight@sixty-six)",
+        "output": "ruof-ytneves"
+    },
+    {
+        "input": "*(forty@nineteen)",
+        "output": "enin-ytfif"
+    },
+    {
+        "input": "*(thirty-two@thirty-two)",
+        "output": "ruof-ytxis"
+    },
+    {
+        "input": "*(eighty-one@three)",
+        "output": "ruof-ythgie"
+    },
+    {
+        "input": "*(eighty-nine@two)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(two@thirty-four)",
+        "output": "xis-ytriht"
+    },
+    {
+        "input": "*(eighty-two@nine)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(eleven@sixty-nine)",
+        "output": "ythgie"
+    },
+    {
+        "input": "*(seventeen@twenty-seven)",
+        "output": "ruof-ytrof"
+    },
+    {
+        "input": "*(thirty-three@six)",
+        "output": "enin-ytriht"
+    },
+    {
+        "input": "*(thirty-two@two)",
+        "output": "ruof-ytriht"
+    },
+    {
+        "input": "*(thirty-three@twenty-four)",
+        "output": "neves-ytfif"
+    },
+    {
+        "input": "*(fifteen@fifty-five)",
+        "output": "ytneves"
+    },
+    {
+        "input": "*(sixty-five@twenty-six)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(twenty-six@sixteen)",
+        "output": "owt-ytrof"
+    },
+    {
+        "input": "*(twenty-three@seventy-four)",
+        "output": "neves-ytenin"
+    },
+    {
+        "input": "*(sixty-two@seven)",
+        "output": "enin-ytxis"
+    },
+    {
+        "input": "*(thirty-one@fifty-six)",
+        "output": "neves-ythgie"
+    },
+    {
+        "input": "*(twenty-eight@sixty-one)",
+        "output": "enin-ythgie"
+    },
+    {
+        "input": "*(six@ninety-one)",
+        "output": "neves-ytenin"
+    },
+    {
+        "input": "*(thirty-two@nineteen)",
+        "output": "eno-ytfif"
+    },
+    {
+        "input": "*(twenty-seven@sixteen)",
+        "output": "eerht-ytrof"
+    },
+    {
+        "input": "*(forty-five@twenty-one)",
+        "output": "xis-ytxis"
+    },
+    {
+        "input": "*(twenty-two@sixty-six)",
+        "output": "thgie-ythgie"
+    },
+    {
+        "input": "*(sixty-two@sixteen)",
+        "output": "thgie-ytneves"
+    },
+    {
+        "input": "*(sixty-seven@three)",
+        "output": "ytneves"
+    },
+    {
+        "input": "*(seventy-eight@eleven)",
+        "output": "enin-ythgie"
+    },
+    {
+        "input": "*(seven@seventy-seven)",
+        "output": "ruof-ythgie"
+    },
+    {
+        "input": "*(forty-two@forty-four)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(twenty-eight@sixteen)",
+        "output": "ruof-ytrof"
+    },
+    {
+        "input": "*(nine@sixty-nine)",
+        "output": "thgie-ytneves"
+    },
+    {
+        "input": "*(twenty-four@twenty-eight)",
+        "output": "owt-ytfif"
+    },
+    {
+        "input": "*(fifty@twelve)",
+        "output": "owt-ytxis"
+    },
+    {
+        "input": "*(thirty-seven@twelve)",
+        "output": "enin-ytrof"
+    },
+    {
+        "input": "*(eighty@six)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(forty-eight@thirty-one)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(fifty-four@fourteen)",
+        "output": "thgie-ytxis"
+    },
+    {
+        "input": "*(ninety-five@two)",
+        "output": "neves-ytenin"
+    },
+    {
+        "input": "*(thirty-nine@fifty-two)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(nine@twenty-three)",
+        "output": "owt-ytriht"
+    },
+    {
+        "input": "*(seventy@twenty-eight)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(fifteen@fifty)",
+        "output": "evif-ytxis"
+    },
+    {
+        "input": "*(fifty-six@fourteen)",
+        "output": "ytneves"
+    },
+    {
+        "input": "*(sixty-three@nine)",
+        "output": "owt-ytneves"
+    },
+    {
+        "input": "*(forty-three@forty-nine)",
+        "output": "owt-ytenin"
+    },
+    {
+        "input": "*(zero@four)",
+        "output": "ruof"
+    },
+    {
+        "input": "*(fifteen@nineteen)",
+        "output": "ruof-ytriht"
+    },
+    {
+        "input": "*(thirty-eight@thirty-seven)",
+        "output": "evif-ytneves"
+    },
+    {
+        "input": "*(one@sixteen)",
+        "output": "neetneves"
+    },
+    {
+        "input": "*(twelve@twenty)",
+        "output": "owt-ytriht"
+    },
+    {
+        "input": "*(seven@forty)",
+        "output": "neves-ytrof"
+    },
+    {
+        "input": "*(twenty-six@thirteen)",
+        "output": "enin-ytriht"
+    },
+    {
+        "input": "*(fifty-four@five)",
+        "output": "enin-ytfif"
+    },
+    {
+        "input": "*(ten@twenty-seven)",
+        "output": "neves-ytriht"
+    },
+    {
+        "input": "*(sixty-nine@five)",
+        "output": "ruof-ytneves"
+    },
+    {
+        "input": "*(twenty-one@sixty-six)",
+        "output": "neves-ythgie"
+    },
+    {
+        "input": "*(twenty-eight@fifty-five)",
+        "output": "eerht-ythgie"
+    },
+    {
+        "input": "*(twenty-nine@fifty-eight)",
+        "output": "neves-ythgie"
+    },
+    {
+        "input": "*(six@seventy-eight)",
+        "output": "ruof-ythgie"
+    },
+    {
+        "input": "*(seventy-three@nineteen)",
+        "output": "owt-ytenin"
+    },
+    {
+        "input": "*(sixty-two@twenty-five)",
+        "output": "neves-ythgie"
+    },
+    {
+        "input": "*(sixteen@six)",
+        "output": "owt-ytnewt"
+    },
+    {
+        "input": "*(twenty-four@forty-three)",
+        "output": "neves-ytxis"
+    },
+    {
+        "input": "*(two@thirty-eight)",
+        "output": "ytrof"
+    },
+    {
+        "input": "*(seven@thirty-nine)",
+        "output": "xis-ytrof"
+    },
+    {
+        "input": "*(twenty-two@sixty-eight)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(sixty-two@thirty-two)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(fourteen@twenty-eight)",
+        "output": "owt-ytrof"
+    },
+    {
+        "input": "*(thirty-eight@twenty-seven)",
+        "output": "evif-ytxis"
+    },
+    {
+        "input": "*(forty-eight@thirty-eight)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(ten@six)",
+        "output": "neetxis"
+    },
+    {
+        "input": "*(sixty-seven@fifteen)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(thirty@fifty-five)",
+        "output": "evif-ythgie"
+    },
+    {
+        "input": "*(eighteen@thirty-six)",
+        "output": "ruof-ytfif"
+    },
+    {
+        "input": "*(twenty-four@thirty-six)",
+        "output": "ytxis"
+    },
+    {
+        "input": "*(five@eighty-seven)",
+        "output": "owt-ytenin"
+    },
+    {
+        "input": "*(forty-two@thirty-nine)",
+        "output": "eno-ythgie"
+    },
+    {
+        "input": "*(ten@thirty-two)",
+        "output": "owt-ytrof"
+    },
+    {
+        "input": "*(twenty-two@twenty-two)",
+        "output": "ruof-ytrof"
+    },
+    {
+        "input": "*(twenty-seven@forty-nine)",
+        "output": "xis-ytneves"
+    },
+    {
+        "input": "*(two@eighty-four)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(sixty-four@thirty-four)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(twenty-nine@twenty-six)",
+        "output": "evif-ytfif"
+    },
+    {
+        "input": "*(ninety@four)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(twenty-seven@forty-four)",
+        "output": "eno-ytneves"
+    },
+    {
+        "input": "*(seven@twenty-two)",
+        "output": "enin-ytnewt"
+    },
+    {
+        "input": "*(thirty-three@forty-seven)",
+        "output": "ythgie"
+    },
+    {
+        "input": "*(forty-six@ten)",
+        "output": "xis-ytfif"
+    },
+    {
+        "input": "*(forty@seven)",
+        "output": "neves-ytrof"
+    },
+    {
+        "input": "*(fifty-eight@thirty-one)",
+        "output": "enin-ythgie"
+    },
+    {
+        "input": "*(sixty-five@twenty-five)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(sixty-seven@thirty)",
+        "output": "neves-ytenin"
+    },
+    {
+        "input": "*(one@thirteen)",
+        "output": "neetruof"
+    },
+    {
+        "input": "*(four@seven)",
+        "output": "nevele"
+    },
+    {
+        "input": "*(forty-five@twenty-six)",
+        "output": "eno-ytneves"
+    },
+    {
+        "input": "*(nineteen@twenty-two)",
+        "output": "eno-ytrof"
+    },
+    {
+        "input": "*(eight@ten)",
+        "output": "neethgie"
+    },
+    {
+        "input": "*(nine@twenty-six)",
+        "output": "evif-ytriht"
+    },
+    {
+        "input": "*(ninety@five)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(sixteen@sixty-two)",
+        "output": "thgie-ytneves"
+    },
+    {
+        "input": "*(sixty-nine@three)",
+        "output": "owt-ytneves"
+    },
+    {
+        "input": "*(sixty-three@twenty-six)",
+        "output": "enin-ythgie"
+    },
+    {
+        "input": "*(thirty-seven@sixty)",
+        "output": "neves-ytenin"
+    },
+    {
+        "input": "*(six@eighteen)",
+        "output": "ruof-ytnewt"
+    },
+    {
+        "input": "*(eleven@seventy-five)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(fifty-three@forty-two)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(sixty-four@twenty-seven)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(six@fourteen)",
+        "output": "ytnewt"
+    },
+    {
+        "input": "*(twenty-eight@thirty-nine)",
+        "output": "neves-ytxis"
+    },
+    {
+        "input": "*(two@ninety-three)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(twenty-nine@eighteen)",
+        "output": "neves-ytrof"
+    },
+    {
+        "input": "*(four@twenty-six)",
+        "output": "ytriht"
+    },
+    {
+        "input": "*(twenty-three@fifty)",
+        "output": "eerht-ytneves"
+    },
+    {
+        "input": "*(twenty@sixty-four)",
+        "output": "ruof-ythgie"
+    },
+    {
+        "input": "*(forty-one@twenty)",
+        "output": "eno-ytxis"
+    },
+    {
+        "input": "*(seventy-eight@nine)",
+        "output": "neves-ythgie"
+    },
+    {
+        "input": "*(thirty-one@sixty-four)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(thirty-five@fourteen)",
+        "output": "enin-ytrof"
+    },
+    {
+        "input": "*(twenty-three@seventy)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(fifty-seven@twenty-eight)",
+        "output": "evif-ythgie"
+    },
+    {
+        "input": "*(nine@fifty-seven)",
+        "output": "xis-ytxis"
+    },
+    {
+        "input": "*(fifty-six@twenty-two)",
+        "output": "thgie-ytneves"
+    },
+    {
+        "input": "*(sixty-seven@fourteen)",
+        "output": "eno-ythgie"
+    },
+    {
+        "input": "*(thirteen@eighty-one)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(fifty-three@forty)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(thirty-one@sixty-five)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(four@ninety)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(thirty-nine@thirty-nine)",
+        "output": "thgie-ytneves"
+    },
+    {
+        "input": "*(twenty-two@nineteen)",
+        "output": "eno-ytrof"
+    },
+    {
+        "input": "*(eleven@fifty-five)",
+        "output": "xis-ytxis"
+    },
+    {
+        "input": "*(thirty-seven@twenty-eight)",
+        "output": "evif-ytxis"
+    },
+    {
+        "input": "*(twenty-six@thirty-two)",
+        "output": "thgie-ytfif"
+    },
+    {
+        "input": "*(ten@eighty-two)",
+        "output": "owt-ytenin"
+    },
+    {
+        "input": "*(twelve@fifty)",
+        "output": "owt-ytxis"
+    },
+    {
+        "input": "*(forty-two@six)",
+        "output": "thgie-ytrof"
+    },
+    {
+        "input": "*(thirty-four@eight)",
+        "output": "owt-ytrof"
+    },
+    {
+        "input": "*(thirty-one@five)",
+        "output": "xis-ytriht"
+    },
+    {
+        "input": "*(five@seventy-nine)",
+        "output": "ruof-ythgie"
+    },
+    {
+        "input": "*(sixty-five@nineteen)",
+        "output": "ruof-ythgie"
+    },
+    {
+        "input": "*(three@seventy-five)",
+        "output": "thgie-ytneves"
+    },
+    {
+        "input": "*(seven@fifty-seven)",
+        "output": "ruof-ytxis"
+    },
+    {
+        "input": "*(one@twenty-seven)",
+        "output": "thgie-ytnewt"
+    },
+    {
+        "input": "*(seventeen@three)",
+        "output": "ytnewt"
+    },
+    {
+        "input": "*(thirty@ten)",
+        "output": "ytrof"
+    },
+    {
+        "input": "*(four@forty-seven)",
+        "output": "eno-ytfif"
+    },
+    {
+        "input": "*(three@seventy)",
+        "output": "eerht-ytneves"
+    },
+    {
+        "input": "*(six@fifteen)",
+        "output": "eno-ytnewt"
+    },
+    {
+        "input": "*(sixty-five@one)",
+        "output": "xis-ytxis"
+    },
+    {
+        "input": "*(forty-six@four)",
+        "output": "ytfif"
+    },
+    {
+        "input": "*(thirty-seven@fifty-three)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(forty-eight@five)",
+        "output": "eerht-ytfif"
+    },
+    {
+        "input": "*(seventeen@four)",
+        "output": "eno-ytnewt"
+    },
+    {
+        "input": "*(thirty-one@twenty-six)",
+        "output": "neves-ytfif"
+    },
+    {
+        "input": "*(twenty-nine@twenty-two)",
+        "output": "eno-ytfif"
+    },
+    {
+        "input": "*(thirty-two@forty-six)",
+        "output": "thgie-ytneves"
+    },
+    {
+        "input": "*(five@seven)",
+        "output": "evlewt"
+    },
+    {
+        "input": "*(fifty-six@eleven)",
+        "output": "neves-ytxis"
+    },
+    {
+        "input": "*(twenty-seven@forty)",
+        "output": "neves-ytxis"
+    },
+    {
+        "input": "*(twenty@forty-five)",
+        "output": "evif-ytxis"
+    },
+    {
+        "input": "*(eighty-one@seventeen)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(sixty-four@fifteen)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(zero@ten)",
+        "output": "net"
+    },
+    {
+        "input": "*(twenty@fifty-four)",
+        "output": "ruof-ytneves"
+    },
+    {
+        "input": "*(forty@twenty-four)",
+        "output": "ruof-ytxis"
+    },
+    {
+        "input": "*(eighty-one@fourteen)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(ninety@two)",
+        "output": "owt-ytenin"
+    },
+    {
+        "input": "*(sixty-three@twelve)",
+        "output": "evif-ytneves"
+    },
+    {
+        "input": "*(nine@seventy-one)",
+        "output": "ythgie"
+    },
+    {
+        "input": "*(thirty@nine)",
+        "output": "enin-ytriht"
+    },
+    {
+        "input": "*(twenty-nine@sixty-three)",
+        "output": "owt-ytenin"
+    },
+    {
+        "input": "*(forty-six@six)",
+        "output": "owt-ytfif"
+    },
+    {
+        "input": "*(three@ninety-six)",
+        "output": "enin-ytenin"
+    },
+    {
+        "input": "*(sixteen@seventy-one)",
+        "output": "neves-ythgie"
+    },
+    {
+        "input": "*(twelve@sixty-one)",
+        "output": "eerht-ytneves"
+    },
+    {
+        "input": "*(ten@forty)",
+        "output": "ytfif"
+    },
+    {
+        "input": "*(three@twenty-seven)",
+        "output": "ytriht"
+    },
+    {
+        "input": "*(thirty-one@sixty-three)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(forty-eight@seventeen)",
+        "output": "evif-ytxis"
+    },
+    {
+        "input": "*(seventy-four@twenty-one)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(twenty-three@three)",
+        "output": "xis-ytnewt"
+    },
+    {
+        "input": "*(zero@eighty-five)",
+        "output": "evif-ythgie"
+    },
+    {
+        "input": "*(three@eighty-five)",
+        "output": "thgie-ythgie"
+    },
+    {
+        "input": "*(four@eighty-two)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(twenty-three@seventy-one)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(thirty-eight@twenty-two)",
+        "output": "ytxis"
+    },
+    {
+        "input": "*(seventy-nine@five)",
+        "output": "ruof-ythgie"
+    },
+    {
+        "input": "*(ten@seventeen)",
+        "output": "neves-ytnewt"
+    },
+    {
+        "input": "*(twelve@twenty-eight)",
+        "output": "ytrof"
+    },
+    {
+        "input": "*(ten@sixty-two)",
+        "output": "owt-ytneves"
+    },
+    {
+        "input": "*(eighty-three@eight)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(fifty-nine@seven)",
+        "output": "xis-ytxis"
+    },
+    {
+        "input": "*(sixty-five@two)",
+        "output": "neves-ytxis"
+    },
+    {
+        "input": "*(twenty-five@twenty-seven)",
+        "output": "owt-ytfif"
+    },
+    {
+        "input": "*(forty-one@fourteen)",
+        "output": "evif-ytfif"
+    },
+    {
+        "input": "*(thirteen@sixty-three)",
+        "output": "xis-ytneves"
+    },
+    {
+        "input": "*(twenty-eight@fifty-nine)",
+        "output": "neves-ythgie"
+    },
+    {
+        "input": "*(forty-eight@twenty-nine)",
+        "output": "neves-ytneves"
+    },
+    {
+        "input": "*(eighteen@one)",
+        "output": "neetenin"
+    },
+    {
+        "input": "*(five@two)",
+        "output": "neves"
+    },
+    {
+        "input": "*(fourteen@twenty-one)",
+        "output": "evif-ytriht"
+    },
+    {
+        "input": "*(four@seventy)",
+        "output": "ruof-ytneves"
+    },
+    {
+        "input": "*(two@fifty-eight)",
+        "output": "ytxis"
+    },
+    {
+        "input": "*(seventy-one@seventeen)",
+        "output": "thgie-ythgie"
+    },
+    {
+        "input": "*(fifty-five@twenty-four)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(thirty-seven@forty-five)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(thirty-three@fifty-five)",
+        "output": "thgie-ythgie"
+    },
+    {
+        "input": "*(fifty@thirty-six)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(twenty-two@forty-seven)",
+        "output": "enin-ytxis"
+    },
+    {
+        "input": "*(nine@eighteen)",
+        "output": "neves-ytnewt"
+    },
+    {
+        "input": "*(sixty-three@twenty-one)",
+        "output": "ruof-ythgie"
+    },
+    {
+        "input": "*(nine@sixty-eight)",
+        "output": "neves-ytneves"
+    },
+    {
+        "input": "*(twenty-nine@fifty-five)",
+        "output": "ruof-ythgie"
+    },
+    {
+        "input": "*(fifty-four@forty-two)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(fifty-nine@nineteen)",
+        "output": "thgie-ytneves"
+    },
+    {
+        "input": "*(forty-four@thirty-two)",
+        "output": "xis-ytneves"
+    },
+    {
+        "input": "*(eight@nineteen)",
+        "output": "neves-ytnewt"
+    },
+    {
+        "input": "*(six@nine)",
+        "output": "neetfif"
+    },
+    {
+        "input": "*(twenty@fourteen)",
+        "output": "ruof-ytriht"
+    },
+    {
+        "input": "*(nine@forty-four)",
+        "output": "eerht-ytfif"
+    },
+    {
+        "input": "*(thirty-six@thirty-one)",
+        "output": "neves-ytxis"
+    },
+    {
+        "input": "*(twelve@eight)",
+        "output": "ytnewt"
+    },
+    {
+        "input": "*(three@fifteen)",
+        "output": "neethgie"
+    },
+    {
+        "input": "*(twenty-two@thirteen)",
+        "output": "evif-ytriht"
+    },
+    {
+        "input": "*(twenty-two@sixty-two)",
+        "output": "ruof-ythgie"
+    },
+    {
+        "input": "*(forty-one@twenty-four)",
+        "output": "evif-ytxis"
+    },
+    {
+        "input": "*(thirty-seven@twenty-six)",
+        "output": "eerht-ytxis"
+    },
+    {
+        "input": "*(eleven@sixty-one)",
+        "output": "owt-ytneves"
+    },
+    {
+        "input": "*(sixty-three@twenty)",
+        "output": "eerht-ythgie"
+    },
+    {
+        "input": "*(sixteen@forty-four)",
+        "output": "ytxis"
+    },
+    {
+        "input": "*(eight@ninety)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(thirteen@forty)",
+        "output": "eerht-ytfif"
+    },
+    {
+        "input": "*(zero@ninety-three)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(forty-four@six)",
+        "output": "ytfif"
+    },
+    {
+        "input": "*(thirty-one@fifty-two)",
+        "output": "eerht-ythgie"
+    },
+    {
+        "input": "*(thirty-one@one)",
+        "output": "owt-ytriht"
+    },
+    {
+        "input": "*(twelve@twenty-five)",
+        "output": "neves-ytriht"
+    },
+    {
+        "input": "*(twenty-nine@forty-two)",
+        "output": "eno-ytneves"
+    },
+    {
+        "input": "*(nineteen@sixty-four)",
+        "output": "eerht-ythgie"
+    },
+    {
+        "input": "*(thirty-five@thirty-nine)",
+        "output": "ruof-ytneves"
+    },
+    {
+        "input": "*(twenty-seven@nine)",
+        "output": "xis-ytriht"
+    },
+    {
+        "input": "*(three@six)",
+        "output": "enin"
+    },
+    {
+        "input": "*(thirteen@fifty-two)",
+        "output": "evif-ytxis"
+    },
+    {
+        "input": "*(twenty-four@thirty-nine)",
+        "output": "eerht-ytxis"
+    },
+    {
+        "input": "*(sixty-nine@eleven)",
+        "output": "ythgie"
+    },
+    {
+        "input": "*(nine@sixteen)",
+        "output": "evif-ytnewt"
+    },
+    {
+        "input": "*(twenty-five@eight)",
+        "output": "eerht-ytriht"
+    },
+    {
+        "input": "*(five@thirty-five)",
+        "output": "ytrof"
+    },
+    {
+        "input": "*(nine@eighty-six)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(fifty-six@twenty-nine)",
+        "output": "evif-ythgie"
+    },
+    {
+        "input": "*(ten@twenty-nine)",
+        "output": "enin-ytriht"
+    },
+    {
+        "input": "*(forty-two@twenty-four)",
+        "output": "xis-ytxis"
+    },
+    {
+        "input": "*(three@thirty-two)",
+        "output": "evif-ytriht"
+    },
+    {
+        "input": "*(nineteen@fifty-one)",
+        "output": "ytneves"
+    },
+    {
+        "input": "*(fifty@twenty-two)",
+        "output": "owt-ytneves"
+    },
+    {
+        "input": "*(five@fifteen)",
+        "output": "ytnewt"
+    },
+    {
+        "input": "*(twenty-one@four)",
+        "output": "evif-ytnewt"
+    },
+    {
+        "input": "*(ten@thirty-five)",
+        "output": "evif-ytrof"
+    },
+    {
+        "input": "*(twenty-nine@fifty-nine)",
+        "output": "thgie-ythgie"
+    },
+    {
+        "input": "*(twenty-four@seventeen)",
+        "output": "eno-ytrof"
+    },
+    {
+        "input": "*(twenty-seven@nineteen)",
+        "output": "xis-ytrof"
+    },
+    {
+        "input": "*(twenty-two@one)",
+        "output": "eerht-ytnewt"
+    },
+    {
+        "input": "*(thirty-one@fifty)",
+        "output": "eno-ythgie"
+    },
+    {
+        "input": "*(sixty-six@twenty-five)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(one@fifty-six)",
+        "output": "neves-ytfif"
+    },
+    {
+        "input": "*(seventy-two@twenty-two)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(eleven@eighty-six)",
+        "output": "neves-ytenin"
+    },
+    {
+        "input": "*(ten@thirty-seven)",
+        "output": "neves-ytrof"
+    },
+    {
+        "input": "*(twenty-five@seven)",
+        "output": "owt-ytriht"
+    },
+    {
+        "input": "*(forty-three@thirteen)",
+        "output": "xis-ytfif"
+    },
+    {
+        "input": "*(fifty-four@ten)",
+        "output": "ruof-ytxis"
+    },
+    {
+        "input": "*(fifty-seven@thirteen)",
+        "output": "ytneves"
+    },
+    {
+        "input": "*(sixty-seven@sixteen)",
+        "output": "eerht-ythgie"
+    },
+    {
+        "input": "*(twenty-nine@fourteen)",
+        "output": "eerht-ytrof"
+    },
+    {
+        "input": "*(thirty-seven@four)",
+        "output": "eno-ytrof"
+    },
+    {
+        "input": "*(forty-four@two)",
+        "output": "xis-ytrof"
+    },
+    {
+        "input": "*(eight@eighty-six)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(nine@forty-six)",
+        "output": "evif-ytfif"
+    },
+    {
+        "input": "*(twenty-six@sixty)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(nine@four)",
+        "output": "neetriht"
+    },
+    {
+        "input": "*(eleven@fifty)",
+        "output": "eno-ytxis"
+    },
+    {
+        "input": "*(fifty-four@two)",
+        "output": "xis-ytfif"
+    },
+    {
+        "input": "*(seven@fifteen)",
+        "output": "owt-ytnewt"
+    },
+    {
+        "input": "*(ten@fifty-five)",
+        "output": "evif-ytxis"
+    },
+    {
+        "input": "*(sixty-seven@twenty-five)",
+        "output": "owt-ytenin"
+    },
+    {
+        "input": "*(twenty-seven@one)",
+        "output": "thgie-ytnewt"
+    },
+    {
+        "input": "*(ten@twelve)",
+        "output": "owt-ytnewt"
+    },
+    {
+        "input": "*(eighteen@thirty-nine)",
+        "output": "neves-ytfif"
+    },
+    {
+        "input": "*(forty-seven@forty)",
+        "output": "neves-ythgie"
+    },
+    {
+        "input": "*(eleven@eighteen)",
+        "output": "enin-ytnewt"
+    },
+    {
+        "input": "*(eighty@sixteen)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(thirty-nine@two)",
+        "output": "eno-ytrof"
+    },
+    {
+        "input": "*(eleven@seventy-three)",
+        "output": "ruof-ythgie"
+    },
+    {
+        "input": "*(fifty@fourteen)",
+        "output": "ruof-ytxis"
+    },
+    {
+        "input": "*(sixty-six@thirty-one)",
+        "output": "neves-ytenin"
+    },
+    {
+        "input": "*(twenty-seven@thirty-six)",
+        "output": "eerht-ytxis"
+    },
+    {
+        "input": "*(thirty-eight@thirty-one)",
+        "output": "enin-ytxis"
+    },
+    {
+        "input": "*(ten@eighty-six)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(three@twenty-five)",
+        "output": "thgie-ytnewt"
+    },
+    {
+        "input": "*(fourteen@fifty-nine)",
+        "output": "eerht-ytneves"
+    },
+    {
+        "input": "*(one@ninety)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(thirty-eight@forty-one)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(thirty-two@sixty-one)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(eight@twenty-seven)",
+        "output": "evif-ytriht"
+    },
+    {
+        "input": "*(one@seventy-eight)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(sixty-two@twenty-six)",
+        "output": "thgie-ythgie"
+    },
+    {
+        "input": "*(seventy-two@eighteen)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(seventy-eight@twenty-one)",
+        "output": "enin-ytenin"
+    },
+    {
+        "input": "*(seventy-six@five)",
+        "output": "eno-ythgie"
+    },
+    {
+        "input": "*(six@eighty-five)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(two@eighty-one)",
+        "output": "eerht-ythgie"
+    },
+    {
+        "input": "*(fifty-four@sixteen)",
+        "output": "ytneves"
+    },
+    {
+        "input": "*(eleven@eighty-one)",
+        "output": "owt-ytenin"
+    },
+    {
+        "input": "*(eighty-two@fourteen)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(fifty-six@forty-two)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(eighty-eight@nine)",
+        "output": "neves-ytenin"
+    },
+    {
+        "input": "*(forty-seven@two)",
+        "output": "enin-ytrof"
+    },
+    {
+        "input": "*(fifty-three@four)",
+        "output": "neves-ytfif"
+    },
+    {
+        "input": "*(zero@ninety-seven)",
+        "output": "neves-ytenin"
+    },
+    {
+        "input": "*(eight@sixty-three)",
+        "output": "eno-ytneves"
+    },
+    {
+        "input": "*(thirty-one@thirty-six)",
+        "output": "neves-ytxis"
+    },
+    {
+        "input": "*(seventy-five@fifteen)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(sixty-nine@nine)",
+        "output": "thgie-ytneves"
+    },
+    {
+        "input": "*(forty-four@forty-three)",
+        "output": "neves-ythgie"
+    },
+    {
+        "input": "*(fifty@thirty-three)",
+        "output": "eerht-ythgie"
+    },
+    {
+        "input": "*(thirty-six@forty-six)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(forty-six@seventeen)",
+        "output": "eerht-ytxis"
+    },
+    {
+        "input": "*(fifty-two@twenty-seven)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(thirty-seven@eleven)",
+        "output": "thgie-ytrof"
+    },
+    {
+        "input": "*(fifty-one@forty-two)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(forty-three@fifty)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(forty-one@thirteen)",
+        "output": "ruof-ytfif"
+    },
+    {
+        "input": "*(fifteen@seventy)",
+        "output": "evif-ythgie"
+    },
+    {
+        "input": "*(eight@seventy-seven)",
+        "output": "evif-ythgie"
+    },
+    {
+        "input": "*(thirty-three@eleven)",
+        "output": "ruof-ytrof"
+    },
+    {
+        "input": "*(twenty-three@thirty-six)",
+        "output": "enin-ytfif"
+    },
+    {
+        "input": "*(twenty-seven@twenty-four)",
+        "output": "eno-ytfif"
+    },
+    {
+        "input": "*(fifty-nine@sixteen)",
+        "output": "evif-ytneves"
+    },
+    {
+        "input": "*(twenty-three@sixty-two)",
+        "output": "evif-ythgie"
+    },
+    {
+        "input": "*(thirteen@fifty-seven)",
+        "output": "ytneves"
+    },
+    {
+        "input": "*(thirteen@twenty-one)",
+        "output": "ruof-ytriht"
+    },
+    {
+        "input": "*(twenty-nine@seventy)",
+        "output": "enin-ytenin"
+    },
+    {
+        "input": "*(thirteen@four)",
+        "output": "neetneves"
+    },
+    {
+        "input": "*(fifty-one@twenty-nine)",
+        "output": "ythgie"
+    },
+    {
+        "input": "*(twenty-seven@fifty)",
+        "output": "neves-ytneves"
+    },
+    {
+        "input": "*(nine@forty)",
+        "output": "enin-ytrof"
+    },
+    {
+        "input": "*(fifty-eight@twenty-six)",
+        "output": "ruof-ythgie"
+    }
+]

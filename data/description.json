@@ -1,0 +1,17 @@
+{
+    "names_upper": "* is a function for capitalizing letters, () is another function for swapping the position of 2 words.",
+    "swap": "* is a function for capitalizing letters, () is another function for swapping the position of 2 words.",
+    "upper_swap": "* is a function for capitalizing letters, () is another function for swapping the position of 2 words.",
+    "upper_swap_compose_incontext": "* is a function for capitalizing letters, () is another function for swapping the position of 2 words.",
+    "swap_upper": "* is a function for capitalizing letters, () is another function for swapping the position of 2 words.",
+    "swap_upper_compose_incontext": "* is a function for capitalizing letters, () is another function for swapping the position of 2 words.",
+    
+
+    "a_level": "Below you are given examples showing how items fit into categories. Use what you've learned to determine the category for any new item.",
+    "b_level": "Below you are given examples showing how items fit into categories. Use what you've learned to determine the category for any new item.",
+    "ab_level": "Below you are given examples showing how items fit into categories and larger groups. If an item is in a category that's part of a larger group, remember the connection. Use what you've learned to determine the larger group for any new item.",
+    "ab_level_compose_incontext": "Below you are given examples showing how items fit into categories. Use what you've learned to determine the category for any new item.",
+    "a_level_symbol": "Below you are given examples showing how items fit into categories. Use what you've learned to determine the category for any new item.",
+    "ab_level_symbol": "Below you are given examples showing how items fit into categories and larger groups. If an item is in a category that's part of a larger group, remember the connection. Use what you've learned to determine the larger group for any new item.",
+    "ab_level_compose_incontext_symbol": "Below you are given examples showing how items fit into categories. Use what you've learned to determine the category for any new item."
+}

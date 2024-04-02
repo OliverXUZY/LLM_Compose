@@ -1,0 +1,34 @@
+[
+    {
+        "input": "Mollusks",
+        "output": "animal"
+    },
+    {
+        "input": "Dairy",
+        "output": "food"
+    },
+    {
+        "input": "Nut_and_Seed",
+        "output": "food"
+    },
+    {
+        "input": "Boat",
+        "output": "vehicle"
+    },
+    {
+        "input": "Reptiles",
+        "output": "animal"
+    },
+    {
+        "input": "Fruit",
+        "output": "food"
+    },
+    {
+        "input": "Vegetable",
+        "output": "food"
+    },
+    {
+        "input": "Mammals",
+        "output": "animal"
+    }
+]

@@ -1,0 +1,2802 @@
+[
+    {
+        "input": "Above Leave",
+        "output": "Below Arrive"
+    },
+    {
+        "input": "Above Pure",
+        "output": "Below Impure"
+    },
+    {
+        "input": "Accept Low",
+        "output": "Reject High"
+    },
+    {
+        "input": "Accept Safe",
+        "output": "Reject Dangerous"
+    },
+    {
+        "input": "Accept Scarce",
+        "output": "Reject Abundant"
+    },
+    {
+        "input": "Advance Day",
+        "output": "Retreat Night"
+    },
+    {
+        "input": "Advance Gentle",
+        "output": "Retreat Rough"
+    },
+    {
+        "input": "Advance Scatter",
+        "output": "Retreat Gather"
+    },
+    {
+        "input": "Alive Create",
+        "output": "Dead Destroy"
+    },
+    {
+        "input": "Alive Loud",
+        "output": "Dead Quiet"
+    },
+    {
+        "input": "Alive Modern",
+        "output": "Dead Ancient"
+    },
+    {
+        "input": "Alive Thick",
+        "output": "Dead Thin"
+    },
+    {
+        "input": "Ancient Now",
+        "output": "Modern Then"
+    },
+    {
+        "input": "Ancient Scatter",
+        "output": "Modern Gather"
+    },
+    {
+        "input": "Ascend Increase",
+        "output": "Descend Decrease"
+    },
+    {
+        "input": "Ascend Present",
+        "output": "Descend Absent"
+    },
+    {
+        "input": "Ascend Right",
+        "output": "Descend Wrong"
+    },
+    {
+        "input": "Attack Natural",
+        "output": "Defend Artificial"
+    },
+    {
+        "input": "Begin Dull",
+        "output": "End Interesting"
+    },
+    {
+        "input": "Begin Poor",
+        "output": "End Wealthy"
+    },
+    {
+        "input": "Begin Young",
+        "output": "End Old"
+    },
+    {
+        "input": "Birth Obey",
+        "output": "Death Disobey"
+    },
+    {
+        "input": "Birth Reduce",
+        "output": "Death Increase"
+    },
+    {
+        "input": "Bitter Freeze",
+        "output": "Sweet Melt"
+    },
+    {
+        "input": "Bitter Learn",
+        "output": "Sweet Forget"
+    },
+    {
+        "input": "Bitter Soft",
+        "output": "Sweet Hard"
+    },
+    {
+        "input": "Black Expensive",
+        "output": "White Cheap"
+    },
+    {
+        "input": "Black Forgive",
+        "output": "White Blame"
+    },
+    {
+        "input": "Black Ignore",
+        "output": "White Notice"
+    },
+    {
+        "input": "Borrow Hard",
+        "output": "Lend Soft"
+    },
+    {
+        "input": "Bottom Lean",
+        "output": "Top Fat"
+    },
+    {
+        "input": "Brave Deep",
+        "output": "Cowardly Shallow"
+    },
+    {
+        "input": "Brave Hate",
+        "output": "Cowardly Love"
+    },
+    {
+        "input": "Brave Pass",
+        "output": "Cowardly Fail"
+    },
+    {
+        "input": "Break Hungry",
+        "output": "Fix Full"
+    },
+    {
+        "input": "Break Night",
+        "output": "Fix Day"
+    },
+    {
+        "input": "Bright Hire",
+        "output": "Dim Fire"
+    },
+    {
+        "input": "Bright Save",
+        "output": "Dim Spend"
+    },
+    {
+        "input": "Broad Complicated",
+        "output": "Narrow Simple"
+    },
+    {
+        "input": "Broad Descend",
+        "output": "Narrow Ascend"
+    },
+    {
+        "input": "Buy Create",
+        "output": "Sell Destroy"
+    },
+    {
+        "input": "Buy Permanent",
+        "output": "Sell Temporary"
+    },
+    {
+        "input": "Clean Enemy",
+        "output": "Dirty Friend"
+    },
+    {
+        "input": "Clean Out",
+        "output": "Dirty In"
+    },
+    {
+        "input": "Clean Past",
+        "output": "Dirty Future"
+    },
+    {
+        "input": "Clean Pure",
+        "output": "Dirty Impure"
+    },
+    {
+        "input": "Clear Ordinary",
+        "output": "Cloudy Extraordinary"
+    },
+    {
+        "input": "Clever Ascend",
+        "output": "Foolish Descend"
+    },
+    {
+        "input": "Clever Early",
+        "output": "Foolish Late"
+    },
+    {
+        "input": "Clever Finish",
+        "output": "Foolish Start"
+    },
+    {
+        "input": "Clever Friend",
+        "output": "Foolish Enemy"
+    },
+    {
+        "input": "Clever In",
+        "output": "Foolish Out"
+    },
+    {
+        "input": "Clever Inferior",
+        "output": "Foolish Superior"
+    },
+    {
+        "input": "Combine Empty",
+        "output": "Separate Full"
+    },
+    {
+        "input": "Comedy Hard",
+        "output": "Tragedy Soft"
+    },
+    {
+        "input": "Comedy Hot",
+        "output": "Tragedy Cold"
+    },
+    {
+        "input": "Comedy Messy",
+        "output": "Tragedy Neat"
+    },
+    {
+        "input": "Complicated East",
+        "output": "Simple West"
+    },
+    {
+        "input": "Complicated Gift",
+        "output": "Simple Take"
+    },
+    {
+        "input": "Complicated Organized",
+        "output": "Simple Disorganized"
+    },
+    {
+        "input": "Cool Advance",
+        "output": "Warm Retreat"
+    },
+    {
+        "input": "Cool Free",
+        "output": "Warm Expensive"
+    },
+    {
+        "input": "Cool Hungry",
+        "output": "Warm Full"
+    },
+    {
+        "input": "Cool Joy",
+        "output": "Warm Sorrow"
+    },
+    {
+        "input": "Correct Birth",
+        "output": "Incorrect Death"
+    },
+    {
+        "input": "Correct Enemy",
+        "output": "Incorrect Friend"
+    },
+    {
+        "input": "Correct Front",
+        "output": "Incorrect Back"
+    },
+    {
+        "input": "Correct Junior",
+        "output": "Incorrect Senior"
+    },
+    {
+        "input": "Correct Permit",
+        "output": "Incorrect Forbid"
+    },
+    {
+        "input": "Courageous Give",
+        "output": "Fearful Take"
+    },
+    {
+        "input": "Courageous Polite",
+        "output": "Fearful Rude"
+    },
+    {
+        "input": "Courageous Private",
+        "output": "Fearful Public"
+    },
+    {
+        "input": "Create Lose",
+        "output": "Destroy Win"
+    },
+    {
+        "input": "Create Ordinary",
+        "output": "Destroy Extraordinary"
+    },
+    {
+        "input": "Create Regret",
+        "output": "Destroy Delight"
+    },
+    {
+        "input": "Cruel Courageous",
+        "output": "Kind Fearful"
+    },
+    {
+        "input": "Cruel Permit",
+        "output": "Kind Forbid"
+    },
+    {
+        "input": "Day Dry",
+        "output": "Night Wet"
+    },
+    {
+        "input": "Day Glad",
+        "output": "Night Sad"
+    },
+    {
+        "input": "Day Liquid",
+        "output": "Night Solid"
+    },
+    {
+        "input": "Day Pleasant",
+        "output": "Night Unpleasant"
+    },
+    {
+        "input": "Decrease Black",
+        "output": "Increase White"
+    },
+    {
+        "input": "Decrease Deep",
+        "output": "Increase Shallow"
+    },
+    {
+        "input": "Decrease Descend",
+        "output": "Increase Ascend"
+    },
+    {
+        "input": "Decrease Expensive",
+        "output": "Increase Cheap"
+    },
+    {
+        "input": "Decrease Full",
+        "output": "Increase Empty"
+    },
+    {
+        "input": "Decrease Good",
+        "output": "Increase Bad"
+    },
+    {
+        "input": "Decrease Minor",
+        "output": "Increase Major"
+    },
+    {
+        "input": "Defeat Begin",
+        "output": "Victory End"
+    },
+    {
+        "input": "Dense Hate",
+        "output": "Sparse Love"
+    },
+    {
+        "input": "Dense Ignore",
+        "output": "Sparse Notice"
+    },
+    {
+        "input": "Dense Increase",
+        "output": "Sparse Decrease"
+    },
+    {
+        "input": "Dense Least",
+        "output": "Sparse Most"
+    },
+    {
+        "input": "Dense Low",
+        "output": "Sparse High"
+    },
+    {
+        "input": "Dense Now",
+        "output": "Sparse Then"
+    },
+    {
+        "input": "Dense Organized",
+        "output": "Sparse Disorganized"
+    },
+    {
+        "input": "Descend Correct",
+        "output": "Ascend Incorrect"
+    },
+    {
+        "input": "Descend Intentional",
+        "output": "Ascend Accidental"
+    },
+    {
+        "input": "Descend Professional",
+        "output": "Ascend Amateur"
+    },
+    {
+        "input": "Destroy Intentional",
+        "output": "Build Accidental"
+    },
+    {
+        "input": "Destroy Nothing",
+        "output": "Build Everything"
+    },
+    {
+        "input": "Destroy Powerful",
+        "output": "Build Weak"
+    },
+    {
+        "input": "Destroy Secure",
+        "output": "Build Attack"
+    },
+    {
+        "input": "Different Lend",
+        "output": "Same Borrow"
+    },
+    {
+        "input": "Difficult Peace",
+        "output": "Easy War"
+    },
+    {
+        "input": "Difficult Praise",
+        "output": "Easy Criticize"
+    },
+    {
+        "input": "Dirty Light",
+        "output": "Clean Heavy"
+    },
+    {
+        "input": "Dirty Male",
+        "output": "Clean Female"
+    },
+    {
+        "input": "Disappear Decrease",
+        "output": "Appear Increase"
+    },
+    {
+        "input": "Disappear Grow",
+        "output": "Appear Shrink"
+    },
+    {
+        "input": "Disappear Major",
+        "output": "Appear Minor"
+    },
+    {
+        "input": "Disappear Safe",
+        "output": "Appear Dangerous"
+    },
+    {
+        "input": "Disappear Soft",
+        "output": "Appear Hard"
+    },
+    {
+        "input": "Divide Learn",
+        "output": "Unite Forget"
+    },
+    {
+        "input": "Divide Legal",
+        "output": "Unite Illegal"
+    },
+    {
+        "input": "Dry Lie",
+        "output": "Wet Stand"
+    },
+    {
+        "input": "Dry Progress",
+        "output": "Wet Regres"
+    },
+    {
+        "input": "Eager Flat",
+        "output": "Reluctant Hilly"
+    },
+    {
+        "input": "Eager Light",
+        "output": "Reluctant Dark"
+    },
+    {
+        "input": "Eager Proud",
+        "output": "Reluctant Humble"
+    },
+    {
+        "input": "Early Fixed",
+        "output": "Late Broken"
+    },
+    {
+        "input": "Early Outside",
+        "output": "Late Inside"
+    },
+    {
+        "input": "Early Save",
+        "output": "Late Spend"
+    },
+    {
+        "input": "East Black",
+        "output": "West White"
+    },
+    {
+        "input": "East Fixed",
+        "output": "West Broken"
+    },
+    {
+        "input": "Empty Right",
+        "output": "Full Wrong"
+    },
+    {
+        "input": "Empty Strong",
+        "output": "Full Weak"
+    },
+    {
+        "input": "End Little",
+        "output": "Begin Big"
+    },
+    {
+        "input": "End Manual",
+        "output": "Begin Automatic"
+    },
+    {
+        "input": "Enemy Float",
+        "output": "Friend Sink"
+    },
+    {
+        "input": "Enemy Inflate",
+        "output": "Friend Deflate"
+    },
+    {
+        "input": "Enemy Less",
+        "output": "Friend More"
+    },
+    {
+        "input": "Enemy Rise",
+        "output": "Friend Fall"
+    },
+    {
+        "input": "Enter Advance",
+        "output": "Exit Retreat"
+    },
+    {
+        "input": "Enter Hit",
+        "output": "Exit Miss"
+    },
+    {
+        "input": "Enter Pure",
+        "output": "Exit Impure"
+    },
+    {
+        "input": "Enter Thick",
+        "output": "Exit Thin"
+    },
+    {
+        "input": "Equal Ancient",
+        "output": "Different Modern"
+    },
+    {
+        "input": "Equal Dry",
+        "output": "Different Wet"
+    },
+    {
+        "input": "Equal Front",
+        "output": "Different Back"
+    },
+    {
+        "input": "Even East",
+        "output": "Odd West"
+    },
+    {
+        "input": "Even Grant",
+        "output": "Odd Refuse"
+    },
+    {
+        "input": "Even Remember",
+        "output": "Odd Forget"
+    },
+    {
+        "input": "Excited Day",
+        "output": "Bored Night"
+    },
+    {
+        "input": "Excited In",
+        "output": "Bored Out"
+    },
+    {
+        "input": "Excited Safe",
+        "output": "Bored Dangerous"
+    },
+    {
+        "input": "Expensive Begin",
+        "output": "Cheap End"
+    },
+    {
+        "input": "Expensive Far",
+        "output": "Cheap Near"
+    },
+    {
+        "input": "Expensive Responsible",
+        "output": "Cheap Irresponsible"
+    },
+    {
+        "input": "Fail Buy",
+        "output": "Succeed Sell"
+    },
+    {
+        "input": "Fail Enemy",
+        "output": "Succeed Friend"
+    },
+    {
+        "input": "Fail Powerful",
+        "output": "Succeed Weak"
+    },
+    {
+        "input": "Famous Junior",
+        "output": "Unknown Senior"
+    },
+    {
+        "input": "Famous Thick",
+        "output": "Unknown Thin"
+    },
+    {
+        "input": "Far Finish",
+        "output": "Near Start"
+    },
+    {
+        "input": "Far Land",
+        "output": "Near Sea"
+    },
+    {
+        "input": "Far Loud",
+        "output": "Near Quiet"
+    },
+    {
+        "input": "Fast Borrow",
+        "output": "Slow Lend"
+    },
+    {
+        "input": "Fast Over",
+        "output": "Slow Under"
+    },
+    {
+        "input": "Fast Patient",
+        "output": "Slow Impatient"
+    },
+    {
+        "input": "Fat Descend",
+        "output": "Skinny Ascend"
+    },
+    {
+        "input": "Fat Find",
+        "output": "Skinny Lose"
+    },
+    {
+        "input": "Fat Powerful",
+        "output": "Skinny Weak"
+    },
+    {
+        "input": "Few Guilty",
+        "output": "Many Innocent"
+    },
+    {
+        "input": "Few Lie",
+        "output": "Many Stand"
+    },
+    {
+        "input": "Find Fat",
+        "output": "Lose Skinny"
+    },
+    {
+        "input": "Find Hurry",
+        "output": "Lose Delay"
+    },
+    {
+        "input": "Find Lend",
+        "output": "Lose Borrow"
+    },
+    {
+        "input": "Finish Leave",
+        "output": "Start Arrive"
+    },
+    {
+        "input": "Finish Repair",
+        "output": "Start Damage"
+    },
+    {
+        "input": "First Disappear",
+        "output": "Last Appear"
+    },
+    {
+        "input": "First Grant",
+        "output": "Last Refuse"
+    },
+    {
+        "input": "First Interest",
+        "output": "Last Disinterest"
+    },
+    {
+        "input": "First Lead",
+        "output": "Last Follow"
+    },
+    {
+        "input": "Fixed Forget",
+        "output": "Broken Remember"
+    },
+    {
+        "input": "Fixed High",
+        "output": "Broken Low"
+    },
+    {
+        "input": "Fixed Polite",
+        "output": "Broken Rude"
+    },
+    {
+        "input": "Flat Free",
+        "output": "Hilly Expensive"
+    },
+    {
+        "input": "Flat Less",
+        "output": "Hilly More"
+    },
+    {
+        "input": "Flat Outside",
+        "output": "Hilly Inside"
+    },
+    {
+        "input": "Flat Rough",
+        "output": "Hilly Smooth"
+    },
+    {
+        "input": "Float Noisy",
+        "output": "Sink Silent"
+    },
+    {
+        "input": "Float Sharp",
+        "output": "Sink Dull"
+    },
+    {
+        "input": "Foolish Go",
+        "output": "Wise Come"
+    },
+    {
+        "input": "Foolish Nothing",
+        "output": "Wise Everything"
+    },
+    {
+        "input": "Foolish Permit",
+        "output": "Wise Forbid"
+    },
+    {
+        "input": "Forget Advance",
+        "output": "Remember Retreat"
+    },
+    {
+        "input": "Forget Clear",
+        "output": "Remember Cloudy"
+    },
+    {
+        "input": "Forget Fresh",
+        "output": "Remember Stale"
+    },
+    {
+        "input": "Forget Miss",
+        "output": "Remember Hit"
+    },
+    {
+        "input": "Forgive Find",
+        "output": "Blame Lose"
+    },
+    {
+        "input": "Forgive Leader",
+        "output": "Blame Follower"
+    },
+    {
+        "input": "Free High",
+        "output": "Expensive Low"
+    },
+    {
+        "input": "Free Organized",
+        "output": "Expensive Disorganized"
+    },
+    {
+        "input": "Free Pass",
+        "output": "Expensive Fail"
+    },
+    {
+        "input": "Free Right",
+        "output": "Expensive Wrong"
+    },
+    {
+        "input": "Freeze Yes",
+        "output": "Melt No"
+    },
+    {
+        "input": "Fresh Fat",
+        "output": "Stale Skinny"
+    },
+    {
+        "input": "Fresh Sad",
+        "output": "Stale Happy"
+    },
+    {
+        "input": "Front Float",
+        "output": "Back Sink"
+    },
+    {
+        "input": "Front Happy",
+        "output": "Back Sad"
+    },
+    {
+        "input": "Full Respect",
+        "output": "Empty Disrespect"
+    },
+    {
+        "input": "Full Tall",
+        "output": "Empty Short"
+    },
+    {
+        "input": "Funny Give",
+        "output": "Serious Take"
+    },
+    {
+        "input": "Funny Hurt",
+        "output": "Serious Heal"
+    },
+    {
+        "input": "Funny Joy",
+        "output": "Serious Sorrow"
+    },
+    {
+        "input": "Funny Notice",
+        "output": "Serious Ignore"
+    },
+    {
+        "input": "Gift Nasty",
+        "output": "Take Nice"
+    },
+    {
+        "input": "Gift New",
+        "output": "Take Old"
+    },
+    {
+        "input": "Gift Normal",
+        "output": "Take Strange"
+    },
+    {
+        "input": "Gift Round",
+        "output": "Take Square"
+    },
+    {
+        "input": "Give High",
+        "output": "Take Low"
+    },
+    {
+        "input": "Give Learn",
+        "output": "Take Forget"
+    },
+    {
+        "input": "Give Nasty",
+        "output": "Take Nice"
+    },
+    {
+        "input": "Give Pretty",
+        "output": "Take Ugly"
+    },
+    {
+        "input": "Glad Above",
+        "output": "Sad Below"
+    },
+    {
+        "input": "Glad Dry",
+        "output": "Sad Wet"
+    },
+    {
+        "input": "Glad Flat",
+        "output": "Sad Hilly"
+    },
+    {
+        "input": "Good Plenty",
+        "output": "Bad Lack"
+    },
+    {
+        "input": "Good Quiet",
+        "output": "Bad Loud"
+    },
+    {
+        "input": "Good Bitter",
+        "output": "Evil Sweet"
+    },
+    {
+        "input": "Good Clean",
+        "output": "Evil Dirty"
+    },
+    {
+        "input": "Good Hold",
+        "output": "Evil Release"
+    },
+    {
+        "input": "Good Less",
+        "output": "Evil More"
+    },
+    {
+        "input": "Good Notice",
+        "output": "Evil Ignore"
+    },
+    {
+        "input": "Good Quiet",
+        "output": "Evil Loud"
+    },
+    {
+        "input": "Grant Advance",
+        "output": "Refuse Retreat"
+    },
+    {
+        "input": "Grant Combine",
+        "output": "Refuse Separate"
+    },
+    {
+        "input": "Grant North",
+        "output": "Refuse South"
+    },
+    {
+        "input": "Great East",
+        "output": "Terrible West"
+    },
+    {
+        "input": "Grow Legal",
+        "output": "Shrink Illegal"
+    },
+    {
+        "input": "Grow Rough",
+        "output": "Shrink Smooth"
+    },
+    {
+        "input": "Guilty Enemy",
+        "output": "Innocent Friend"
+    },
+    {
+        "input": "Guilty Equal",
+        "output": "Innocent Different"
+    },
+    {
+        "input": "Happy Close",
+        "output": "Sad Far"
+    },
+    {
+        "input": "Happy Last",
+        "output": "Sad First"
+    },
+    {
+        "input": "Harsh Few",
+        "output": "Mild Many"
+    },
+    {
+        "input": "Harsh Gift",
+        "output": "Mild Take"
+    },
+    {
+        "input": "Harsh Great",
+        "output": "Mild Terrible"
+    },
+    {
+        "input": "Harsh Smooth",
+        "output": "Mild Rough"
+    },
+    {
+        "input": "Harsh Strong",
+        "output": "Mild Weak"
+    },
+    {
+        "input": "Hate Eager",
+        "output": "Love Reluctant"
+    },
+    {
+        "input": "Hate Find",
+        "output": "Love Lose"
+    },
+    {
+        "input": "Healthy Mature",
+        "output": "Sick Immature"
+    },
+    {
+        "input": "Heavy Dull",
+        "output": "Light Interesting"
+    },
+    {
+        "input": "Heavy Harsh",
+        "output": "Light Mild"
+    },
+    {
+        "input": "Heavy Ignore",
+        "output": "Light Notice"
+    },
+    {
+        "input": "Heavy Messy",
+        "output": "Light Neat"
+    },
+    {
+        "input": "Help Ancient",
+        "output": "Hinder Modern"
+    },
+    {
+        "input": "Help Hold",
+        "output": "Hinder Release"
+    },
+    {
+        "input": "Help In",
+        "output": "Hinder Out"
+    },
+    {
+        "input": "Help Large",
+        "output": "Hinder Small"
+    },
+    {
+        "input": "High Birth",
+        "output": "Low Death"
+    },
+    {
+        "input": "High Miss",
+        "output": "Low Hit"
+    },
+    {
+        "input": "High Nasty",
+        "output": "Low Nice"
+    },
+    {
+        "input": "High Rich",
+        "output": "Low Poor"
+    },
+    {
+        "input": "Hire Deep",
+        "output": "Fire Shallow"
+    },
+    {
+        "input": "Hire Great",
+        "output": "Fire Terrible"
+    },
+    {
+        "input": "Hire Mature",
+        "output": "Fire Immature"
+    },
+    {
+        "input": "Hire Rude",
+        "output": "Fire Polite"
+    },
+    {
+        "input": "Hit Arrive",
+        "output": "Miss Depart"
+    },
+    {
+        "input": "Hit Gift",
+        "output": "Miss Take"
+    },
+    {
+        "input": "Hit Yes",
+        "output": "Miss No"
+    },
+    {
+        "input": "Hold Disappear",
+        "output": "Release Appear"
+    },
+    {
+        "input": "Hold Pretty",
+        "output": "Release Ugly"
+    },
+    {
+        "input": "Hold Secure",
+        "output": "Release Attack"
+    },
+    {
+        "input": "Hot Awake",
+        "output": "Cold Asleep"
+    },
+    {
+        "input": "Hot Love",
+        "output": "Cold Hate"
+    },
+    {
+        "input": "Humble Destroy",
+        "output": "Proud Build"
+    },
+    {
+        "input": "Humble Enemy",
+        "output": "Proud Friend"
+    },
+    {
+        "input": "Humble Negative",
+        "output": "Proud Positive"
+    },
+    {
+        "input": "Humble Permit",
+        "output": "Proud Forbid"
+    },
+    {
+        "input": "Hungry Lead",
+        "output": "Full Follow"
+    },
+    {
+        "input": "Hungry Now",
+        "output": "Full Then"
+    },
+    {
+        "input": "Hurry Combine",
+        "output": "Delay Separate"
+    },
+    {
+        "input": "Hurry Pleasant",
+        "output": "Delay Unpleasant"
+    },
+    {
+        "input": "Ignore Junior",
+        "output": "Notice Senior"
+    },
+    {
+        "input": "Ignore Related",
+        "output": "Notice Unrelated"
+    },
+    {
+        "input": "Illegal North",
+        "output": "Legal South"
+    },
+    {
+        "input": "Illegal True",
+        "output": "Legal False"
+    },
+    {
+        "input": "Improve High",
+        "output": "Worsen Low"
+    },
+    {
+        "input": "In Dull",
+        "output": "Out Interesting"
+    },
+    {
+        "input": "In Nasty",
+        "output": "Out Nice"
+    },
+    {
+        "input": "In Rough",
+        "output": "Out Smooth"
+    },
+    {
+        "input": "Increase Good",
+        "output": "Decrease Evil"
+    },
+    {
+        "input": "Inferior Find",
+        "output": "Superior Lose"
+    },
+    {
+        "input": "Inferior Round",
+        "output": "Superior Square"
+    },
+    {
+        "input": "Inflate Hold",
+        "output": "Deflate Release"
+    },
+    {
+        "input": "Inflate Regular",
+        "output": "Deflate Irregular"
+    },
+    {
+        "input": "Innocent Little",
+        "output": "Guilty Big"
+    },
+    {
+        "input": "Inside Deep",
+        "output": "Outside Shallow"
+    },
+    {
+        "input": "Inside Join",
+        "output": "Outside Separate"
+    },
+    {
+        "input": "Inside Satisfy",
+        "output": "Outside Dissatisfy"
+    },
+    {
+        "input": "Insult Gift",
+        "output": "Compliment Take"
+    },
+    {
+        "input": "Insult Grant",
+        "output": "Compliment Refuse"
+    },
+    {
+        "input": "Intelligent Manual",
+        "output": "Unintelligent Automatic"
+    },
+    {
+        "input": "Intelligent Random",
+        "output": "Unintelligent Specific"
+    },
+    {
+        "input": "Intentional Divide",
+        "output": "Accidental Unite"
+    },
+    {
+        "input": "Intentional Finish",
+        "output": "Accidental Start"
+    },
+    {
+        "input": "Intentional Forget",
+        "output": "Accidental Remember"
+    },
+    {
+        "input": "Intentional Hit",
+        "output": "Accidental Miss"
+    },
+    {
+        "input": "Intentional Regret",
+        "output": "Accidental Delight"
+    },
+    {
+        "input": "Intentional Scatter",
+        "output": "Accidental Gather"
+    },
+    {
+        "input": "Intentional Up",
+        "output": "Accidental Down"
+    },
+    {
+        "input": "Interest Break",
+        "output": "Disinterest Fix"
+    },
+    {
+        "input": "Interest Out",
+        "output": "Disinterest In"
+    },
+    {
+        "input": "Join Difficult",
+        "output": "Separate Easy"
+    },
+    {
+        "input": "Join Enter",
+        "output": "Separate Exit"
+    },
+    {
+        "input": "Join Expensive",
+        "output": "Separate Cheap"
+    },
+    {
+        "input": "Join Find",
+        "output": "Separate Lose"
+    },
+    {
+        "input": "Join Raise",
+        "output": "Separate Lower"
+    },
+    {
+        "input": "Join Reply",
+        "output": "Separate Question"
+    },
+    {
+        "input": "Join Science",
+        "output": "Separate Art"
+    },
+    {
+        "input": "Joy Quiet",
+        "output": "Sorrow Loud"
+    },
+    {
+        "input": "Junior Join",
+        "output": "Senior Separate"
+    },
+    {
+        "input": "Junior Near",
+        "output": "Senior Far"
+    },
+    {
+        "input": "Just Complicated",
+        "output": "Unjust Simple"
+    },
+    {
+        "input": "Just Early",
+        "output": "Unjust Late"
+    },
+    {
+        "input": "Just Find",
+        "output": "Unjust Lose"
+    },
+    {
+        "input": "Just Join",
+        "output": "Unjust Separate"
+    },
+    {
+        "input": "Just Rigid",
+        "output": "Unjust Flexible"
+    },
+    {
+        "input": "Knowledge Hungry",
+        "output": "Ignorance Full"
+    },
+    {
+        "input": "Knowledge Reduce",
+        "output": "Ignorance Increase"
+    },
+    {
+        "input": "Land Begin",
+        "output": "Sea End"
+    },
+    {
+        "input": "Land Famous",
+        "output": "Sea Unknown"
+    },
+    {
+        "input": "Land Less",
+        "output": "Sea More"
+    },
+    {
+        "input": "Land Narrow",
+        "output": "Sea Wide"
+    },
+    {
+        "input": "Land Over",
+        "output": "Sea Under"
+    },
+    {
+        "input": "Large Cool",
+        "output": "Small Warm"
+    },
+    {
+        "input": "Large Divide",
+        "output": "Small Unite"
+    },
+    {
+        "input": "Large Full",
+        "output": "Small Empty"
+    },
+    {
+        "input": "Large Regular",
+        "output": "Small Irregular"
+    },
+    {
+        "input": "Large Scream",
+        "output": "Small Whisper"
+    },
+    {
+        "input": "Last Innocent",
+        "output": "First Guilty"
+    },
+    {
+        "input": "Last Lose",
+        "output": "First Win"
+    },
+    {
+        "input": "Last Rough",
+        "output": "First Smooth"
+    },
+    {
+        "input": "Laugh Male",
+        "output": "Cry Female"
+    },
+    {
+        "input": "Lead Attack",
+        "output": "Follow Defend"
+    },
+    {
+        "input": "Lead Live",
+        "output": "Follow Die"
+    },
+    {
+        "input": "Lead Random",
+        "output": "Follow Specific"
+    },
+    {
+        "input": "Leader Help",
+        "output": "Follower Hinder"
+    },
+    {
+        "input": "Leader Just",
+        "output": "Follower Unjust"
+    },
+    {
+        "input": "Leader Legal",
+        "output": "Follower Illegal"
+    },
+    {
+        "input": "Leader Order",
+        "output": "Follower Chaos"
+    },
+    {
+        "input": "Leader Organized",
+        "output": "Follower Disorganized"
+    },
+    {
+        "input": "Leader Outside",
+        "output": "Follower Inside"
+    },
+    {
+        "input": "Leader Smooth",
+        "output": "Follower Rough"
+    },
+    {
+        "input": "Lean Dull",
+        "output": "Fat Interesting"
+    },
+    {
+        "input": "Lean Illegal",
+        "output": "Fat Legal"
+    },
+    {
+        "input": "Lean Light",
+        "output": "Fat Heavy"
+    },
+    {
+        "input": "Learn Day",
+        "output": "Forget Night"
+    },
+    {
+        "input": "Learn Forget",
+        "output": "Forget Remember"
+    },
+    {
+        "input": "Learn Pull",
+        "output": "Forget Push"
+    },
+    {
+        "input": "Least Over",
+        "output": "Most Under"
+    },
+    {
+        "input": "Leave Gift",
+        "output": "Arrive Take"
+    },
+    {
+        "input": "Leave Grant",
+        "output": "Arrive Refuse"
+    },
+    {
+        "input": "Leave Save",
+        "output": "Arrive Spend"
+    },
+    {
+        "input": "Leave True",
+        "output": "Arrive False"
+    },
+    {
+        "input": "Left Night",
+        "output": "Right Day"
+    },
+    {
+        "input": "Left Satisfy",
+        "output": "Right Dissatisfy"
+    },
+    {
+        "input": "Left Win",
+        "output": "Right Lose"
+    },
+    {
+        "input": "Legal Cool",
+        "output": "Illegal Warm"
+    },
+    {
+        "input": "Legal Excited",
+        "output": "Illegal Bored"
+    },
+    {
+        "input": "Legal Fast",
+        "output": "Illegal Slow"
+    },
+    {
+        "input": "Legal Glad",
+        "output": "Illegal Sad"
+    },
+    {
+        "input": "Legal Join",
+        "output": "Illegal Separate"
+    },
+    {
+        "input": "Legal Light",
+        "output": "Illegal Dark"
+    },
+    {
+        "input": "Legal Noisy",
+        "output": "Illegal Silent"
+    },
+    {
+        "input": "Lend Famous",
+        "output": "Borrow Unknown"
+    },
+    {
+        "input": "Lend Go",
+        "output": "Borrow Come"
+    },
+    {
+        "input": "Lend Healthy",
+        "output": "Borrow Sick"
+    },
+    {
+        "input": "Lie Hard",
+        "output": "Stand Soft"
+    },
+    {
+        "input": "Lie Join",
+        "output": "Stand Separate"
+    },
+    {
+        "input": "Lie Learn",
+        "output": "Stand Forget"
+    },
+    {
+        "input": "Lie Pass",
+        "output": "Stand Fail"
+    },
+    {
+        "input": "Lie Regular",
+        "output": "Stand Irregular"
+    },
+    {
+        "input": "Light Forget",
+        "output": "Dark Remember"
+    },
+    {
+        "input": "Light Permit",
+        "output": "Dark Forbid"
+    },
+    {
+        "input": "Light On",
+        "output": "Heavy Off"
+    },
+    {
+        "input": "Like Secure",
+        "output": "Dislike Attack"
+    },
+    {
+        "input": "Liquid Flat",
+        "output": "Solid Hilly"
+    },
+    {
+        "input": "Liquid Ordinary",
+        "output": "Solid Extraordinary"
+    },
+    {
+        "input": "Little Forgive",
+        "output": "Big Blame"
+    },
+    {
+        "input": "Little Secure",
+        "output": "Big Attack"
+    },
+    {
+        "input": "Live Break",
+        "output": "Die Fix"
+    },
+    {
+        "input": "Live Destroy",
+        "output": "Die Build"
+    },
+    {
+        "input": "Live Dirty",
+        "output": "Die Clean"
+    },
+    {
+        "input": "Live Inside",
+        "output": "Die Outside"
+    },
+    {
+        "input": "Live Left",
+        "output": "Die Right"
+    },
+    {
+        "input": "Live Poor",
+        "output": "Die Wealthy"
+    },
+    {
+        "input": "Live Public",
+        "output": "Die Private"
+    },
+    {
+        "input": "Long Far",
+        "output": "Short Near"
+    },
+    {
+        "input": "Long Front",
+        "output": "Short Back"
+    },
+    {
+        "input": "Long Mean",
+        "output": "Short Generous"
+    },
+    {
+        "input": "Long Modern",
+        "output": "Short Ancient"
+    },
+    {
+        "input": "Lose Attack",
+        "output": "Win Defend"
+    },
+    {
+        "input": "Loud First",
+        "output": "Quiet Last"
+    },
+    {
+        "input": "Loud On",
+        "output": "Quiet Off"
+    },
+    {
+        "input": "Love Now",
+        "output": "Hate Then"
+    },
+    {
+        "input": "Love Poor",
+        "output": "Hate Wealthy"
+    },
+    {
+        "input": "Love Tall",
+        "output": "Hate Short"
+    },
+    {
+        "input": "Low Forgive",
+        "output": "High Blame"
+    },
+    {
+        "input": "Low Rural",
+        "output": "High Urban"
+    },
+    {
+        "input": "Major Difficult",
+        "output": "Minor Easy"
+    },
+    {
+        "input": "Major False",
+        "output": "Minor True"
+    },
+    {
+        "input": "Major Fat",
+        "output": "Minor Skinny"
+    },
+    {
+        "input": "Major Safe",
+        "output": "Minor Dangerous"
+    },
+    {
+        "input": "Manual Alive",
+        "output": "Automatic Dead"
+    },
+    {
+        "input": "Manual Correct",
+        "output": "Automatic Incorrect"
+    },
+    {
+        "input": "Manual Fixed",
+        "output": "Automatic Broken"
+    },
+    {
+        "input": "Manual Liquid",
+        "output": "Automatic Solid"
+    },
+    {
+        "input": "Married Guilty",
+        "output": "Single Innocent"
+    },
+    {
+        "input": "Married Lose",
+        "output": "Single Win"
+    },
+    {
+        "input": "Married Out",
+        "output": "Single In"
+    },
+    {
+        "input": "Married Soft",
+        "output": "Single Hard"
+    },
+    {
+        "input": "Maximum Freeze",
+        "output": "Minimum Melt"
+    },
+    {
+        "input": "Mean Early",
+        "output": "Generous Late"
+    },
+    {
+        "input": "Mean Good",
+        "output": "Generous Evil"
+    },
+    {
+        "input": "Mean Live",
+        "output": "Generous Die"
+    },
+    {
+        "input": "Messy Help",
+        "output": "Neat Hinder"
+    },
+    {
+        "input": "Messy Illegal",
+        "output": "Neat Legal"
+    },
+    {
+        "input": "Messy Land",
+        "output": "Neat Sea"
+    },
+    {
+        "input": "Minor Brave",
+        "output": "Major Cowardly"
+    },
+    {
+        "input": "Minor Glad",
+        "output": "Major Sad"
+    },
+    {
+        "input": "Minor Least",
+        "output": "Major Most"
+    },
+    {
+        "input": "Minor Regret",
+        "output": "Major Delight"
+    },
+    {
+        "input": "Miss Accept",
+        "output": "Hit Reject"
+    },
+    {
+        "input": "Miss Go",
+        "output": "Hit Come"
+    },
+    {
+        "input": "Modern Dense",
+        "output": "Ancient Sparse"
+    },
+    {
+        "input": "Modern Joy",
+        "output": "Ancient Sorrow"
+    },
+    {
+        "input": "Modern Quiet",
+        "output": "Ancient Loud"
+    },
+    {
+        "input": "Modern Related",
+        "output": "Ancient Unrelated"
+    },
+    {
+        "input": "Moist Strong",
+        "output": "Dry Weak"
+    },
+    {
+        "input": "Moon Reduce",
+        "output": "Sun Increase"
+    },
+    {
+        "input": "Moon Save",
+        "output": "Sun Spend"
+    },
+    {
+        "input": "Morning Brave",
+        "output": "Evening Cowardly"
+    },
+    {
+        "input": "Morning Deep",
+        "output": "Evening Shallow"
+    },
+    {
+        "input": "Morning Enter",
+        "output": "Evening Exit"
+    },
+    {
+        "input": "Morning Find",
+        "output": "Evening Lose"
+    },
+    {
+        "input": "Morning Junior",
+        "output": "Evening Senior"
+    },
+    {
+        "input": "Morning Left",
+        "output": "Evening Right"
+    },
+    {
+        "input": "Morning Permit",
+        "output": "Evening Forbid"
+    },
+    {
+        "input": "Morning Plenty",
+        "output": "Evening Lack"
+    },
+    {
+        "input": "Narrow Liquid",
+        "output": "Wide Solid"
+    },
+    {
+        "input": "Narrow Moon",
+        "output": "Wide Sun"
+    },
+    {
+        "input": "Nasty Disappear",
+        "output": "Nice Appear"
+    },
+    {
+        "input": "Nasty Float",
+        "output": "Nice Sink"
+    },
+    {
+        "input": "Nasty Knowledge",
+        "output": "Nice Ignorance"
+    },
+    {
+        "input": "Natural Hate",
+        "output": "Artificial Love"
+    },
+    {
+        "input": "Natural Inside",
+        "output": "Artificial Outside"
+    },
+    {
+        "input": "Natural Private",
+        "output": "Artificial Public"
+    },
+    {
+        "input": "Natural Respect",
+        "output": "Artificial Disrespect"
+    },
+    {
+        "input": "New Harsh",
+        "output": "Old Mild"
+    },
+    {
+        "input": "New Land",
+        "output": "Old Sea"
+    },
+    {
+        "input": "New North",
+        "output": "Old South"
+    },
+    {
+        "input": "New Peace",
+        "output": "Old War"
+    },
+    {
+        "input": "Night Last",
+        "output": "Day First"
+    },
+    {
+        "input": "Night Noisy",
+        "output": "Day Silent"
+    },
+    {
+        "input": "Night Praise",
+        "output": "Day Criticize"
+    },
+    {
+        "input": "Night Pure",
+        "output": "Day Impure"
+    },
+    {
+        "input": "Night Safe",
+        "output": "Day Dangerous"
+    },
+    {
+        "input": "Noisy Awake",
+        "output": "Silent Asleep"
+    },
+    {
+        "input": "Noisy Combine",
+        "output": "Silent Separate"
+    },
+    {
+        "input": "Noisy Hungry",
+        "output": "Silent Full"
+    },
+    {
+        "input": "Noisy Rise",
+        "output": "Silent Fall"
+    },
+    {
+        "input": "Normal Hold",
+        "output": "Strange Release"
+    },
+    {
+        "input": "Normal Hurry",
+        "output": "Strange Delay"
+    },
+    {
+        "input": "Normal Random",
+        "output": "Strange Specific"
+    },
+    {
+        "input": "North Insult",
+        "output": "South Compliment"
+    },
+    {
+        "input": "Nothing Lie",
+        "output": "Everything Stand"
+    },
+    {
+        "input": "Nothing Sharp",
+        "output": "Everything Dull"
+    },
+    {
+        "input": "Notice Intelligent",
+        "output": "Ignore Unintelligent"
+    },
+    {
+        "input": "Now Bottom",
+        "output": "Then Top"
+    },
+    {
+        "input": "Obey Intelligent",
+        "output": "Disobey Unintelligent"
+    },
+    {
+        "input": "Obey Messy",
+        "output": "Disobey Neat"
+    },
+    {
+        "input": "On Young",
+        "output": "Off Old"
+    },
+    {
+        "input": "Open Lose",
+        "output": "Closed Win"
+    },
+    {
+        "input": "Optimist Enter",
+        "output": "Pessimist Exit"
+    },
+    {
+        "input": "Optimist Freeze",
+        "output": "Pessimist Melt"
+    },
+    {
+        "input": "Optimist Illegal",
+        "output": "Pessimist Legal"
+    },
+    {
+        "input": "Order Different",
+        "output": "Chaos Same"
+    },
+    {
+        "input": "Order Minor",
+        "output": "Chaos Major"
+    },
+    {
+        "input": "Order Part",
+        "output": "Chaos Whole"
+    },
+    {
+        "input": "Ordinary Awake",
+        "output": "Extraordinary Asleep"
+    },
+    {
+        "input": "Ordinary Buy",
+        "output": "Extraordinary Sell"
+    },
+    {
+        "input": "Ordinary Hard",
+        "output": "Extraordinary Soft"
+    },
+    {
+        "input": "Ordinary Harsh",
+        "output": "Extraordinary Mild"
+    },
+    {
+        "input": "Ordinary Patient",
+        "output": "Extraordinary Impatient"
+    },
+    {
+        "input": "Ordinary Real",
+        "output": "Extraordinary Fake"
+    },
+    {
+        "input": "Organized Courageous",
+        "output": "Disorganized Fearful"
+    },
+    {
+        "input": "Organized Inside",
+        "output": "Disorganized Outside"
+    },
+    {
+        "input": "Organized Powerful",
+        "output": "Disorganized Weak"
+    },
+    {
+        "input": "Original Create",
+        "output": "Copy Destroy"
+    },
+    {
+        "input": "Original Hurry",
+        "output": "Copy Delay"
+    },
+    {
+        "input": "Original Improve",
+        "output": "Copy Worsen"
+    },
+    {
+        "input": "Original Night",
+        "output": "Copy Day"
+    },
+    {
+        "input": "Out Ascend",
+        "output": "In Descend"
+    },
+    {
+        "input": "Outside Noisy",
+        "output": "Inside Silent"
+    },
+    {
+        "input": "Outside Praise",
+        "output": "Inside Criticize"
+    },
+    {
+        "input": "Over Clean",
+        "output": "Under Dirty"
+    },
+    {
+        "input": "Over Defeat",
+        "output": "Under Victory"
+    },
+    {
+        "input": "Over Inside",
+        "output": "Under Outside"
+    },
+    {
+        "input": "Over Pretty",
+        "output": "Under Ugly"
+    },
+    {
+        "input": "Part First",
+        "output": "Whole Last"
+    },
+    {
+        "input": "Part Repair",
+        "output": "Whole Damage"
+    },
+    {
+        "input": "Pass Ascend",
+        "output": "Fail Descend"
+    },
+    {
+        "input": "Pass Bitter",
+        "output": "Fail Sweet"
+    },
+    {
+        "input": "Pass Few",
+        "output": "Fail Many"
+    },
+    {
+        "input": "Pass Peace",
+        "output": "Fail War"
+    },
+    {
+        "input": "Pass Random",
+        "output": "Fail Specific"
+    },
+    {
+        "input": "Pass Win",
+        "output": "Fail Lose"
+    },
+    {
+        "input": "Past Begin",
+        "output": "Future End"
+    },
+    {
+        "input": "Past Complicated",
+        "output": "Future Simple"
+    },
+    {
+        "input": "Past Live",
+        "output": "Future Die"
+    },
+    {
+        "input": "Past Order",
+        "output": "Future Chaos"
+    },
+    {
+        "input": "Past Right",
+        "output": "Future Wrong"
+    },
+    {
+        "input": "Patient Descend",
+        "output": "Impatient Ascend"
+    },
+    {
+        "input": "Patient Lie",
+        "output": "Impatient Stand"
+    },
+    {
+        "input": "Patient Right",
+        "output": "Impatient Wrong"
+    },
+    {
+        "input": "Peace Defeat",
+        "output": "War Victory"
+    },
+    {
+        "input": "Peace Rural",
+        "output": "War Urban"
+    },
+    {
+        "input": "Permanent Complicated",
+        "output": "Temporary Simple"
+    },
+    {
+        "input": "Permanent Decrease",
+        "output": "Temporary Increase"
+    },
+    {
+        "input": "Permanent Forget",
+        "output": "Temporary Remember"
+    },
+    {
+        "input": "Permanent Hard",
+        "output": "Temporary Soft"
+    },
+    {
+        "input": "Permanent Natural",
+        "output": "Temporary Artificial"
+    },
+    {
+        "input": "Permit Begin",
+        "output": "Forbid End"
+    },
+    {
+        "input": "Permit Cruel",
+        "output": "Forbid Kind"
+    },
+    {
+        "input": "Permit Quiet",
+        "output": "Forbid Loud"
+    },
+    {
+        "input": "Plenty Miss",
+        "output": "Lack Hit"
+    },
+    {
+        "input": "Polite Borrow",
+        "output": "Rude Lend"
+    },
+    {
+        "input": "Polite Close",
+        "output": "Rude Far"
+    },
+    {
+        "input": "Polite Full",
+        "output": "Rude Empty"
+    },
+    {
+        "input": "Polite Male",
+        "output": "Rude Female"
+    },
+    {
+        "input": "Poor Messy",
+        "output": "Wealthy Neat"
+    },
+    {
+        "input": "Possible Descend",
+        "output": "Impossible Ascend"
+    },
+    {
+        "input": "Possible Heavy",
+        "output": "Impossible Light"
+    },
+    {
+        "input": "Possible Hold",
+        "output": "Impossible Release"
+    },
+    {
+        "input": "Possible Normal",
+        "output": "Impossible Strange"
+    },
+    {
+        "input": "Possible Progress",
+        "output": "Impossible Regres"
+    },
+    {
+        "input": "Powerful Patient",
+        "output": "Weak Impatient"
+    },
+    {
+        "input": "Praise Descend",
+        "output": "Criticize Ascend"
+    },
+    {
+        "input": "Praise Join",
+        "output": "Criticize Separate"
+    },
+    {
+        "input": "Praise Moon",
+        "output": "Criticize Sun"
+    },
+    {
+        "input": "Present Float",
+        "output": "Absent Sink"
+    },
+    {
+        "input": "Present Give",
+        "output": "Absent Take"
+    },
+    {
+        "input": "Private Difficult",
+        "output": "Public Easy"
+    },
+    {
+        "input": "Private Regular",
+        "output": "Public Irregular"
+    },
+    {
+        "input": "Private Scarce",
+        "output": "Public Abundant"
+    },
+    {
+        "input": "Professional Dense",
+        "output": "Amateur Sparse"
+    },
+    {
+        "input": "Professional Order",
+        "output": "Amateur Chaos"
+    },
+    {
+        "input": "Profit Reduce",
+        "output": "Loss Increase"
+    },
+    {
+        "input": "Progress Great",
+        "output": "Regres Terrible"
+    },
+    {
+        "input": "Proud Birth",
+        "output": "Humble Death"
+    },
+    {
+        "input": "Public Early",
+        "output": "Private Late"
+    },
+    {
+        "input": "Public Land",
+        "output": "Private Sea"
+    },
+    {
+        "input": "Pull Right",
+        "output": "Push Wrong"
+    },
+    {
+        "input": "Pure Obey",
+        "output": "Impure Disobey"
+    },
+    {
+        "input": "Pure Patient",
+        "output": "Impure Impatient"
+    },
+    {
+        "input": "Pure Progress",
+        "output": "Impure Regres"
+    },
+    {
+        "input": "Pure Up",
+        "output": "Impure Down"
+    },
+    {
+        "input": "Quiet Bright",
+        "output": "Loud Dim"
+    },
+    {
+        "input": "Raise Day",
+        "output": "Lower Night"
+    },
+    {
+        "input": "Raise Learn",
+        "output": "Lower Forget"
+    },
+    {
+        "input": "Random Good",
+        "output": "Specific Evil"
+    },
+    {
+        "input": "Random Leave",
+        "output": "Specific Arrive"
+    },
+    {
+        "input": "Random Modern",
+        "output": "Specific Ancient"
+    },
+    {
+        "input": "Random Over",
+        "output": "Specific Under"
+    },
+    {
+        "input": "Random Smooth",
+        "output": "Specific Rough"
+    },
+    {
+        "input": "Rare Day",
+        "output": "Common Night"
+    },
+    {
+        "input": "Rare Excited",
+        "output": "Common Bored"
+    },
+    {
+        "input": "Rare Grow",
+        "output": "Common Shrink"
+    },
+    {
+        "input": "Rare Patient",
+        "output": "Common Impatient"
+    },
+    {
+        "input": "Rare Rich",
+        "output": "Common Poor"
+    },
+    {
+        "input": "Real Friend",
+        "output": "Fake Enemy"
+    },
+    {
+        "input": "Real On",
+        "output": "Fake Off"
+    },
+    {
+        "input": "Real Order",
+        "output": "Fake Chaos"
+    },
+    {
+        "input": "Receive Buy",
+        "output": "Send Sell"
+    },
+    {
+        "input": "Receive Rise",
+        "output": "Send Fall"
+    },
+    {
+        "input": "Receive Secure",
+        "output": "Send Attack"
+    },
+    {
+        "input": "Reduce Bottom",
+        "output": "Increase Top"
+    },
+    {
+        "input": "Reduce Inferior",
+        "output": "Increase Superior"
+    },
+    {
+        "input": "Reduce Joy",
+        "output": "Increase Sorrow"
+    },
+    {
+        "input": "Refuse Hot",
+        "output": "Accept Cold"
+    },
+    {
+        "input": "Refuse North",
+        "output": "Accept South"
+    },
+    {
+        "input": "Regret Advance",
+        "output": "Delight Retreat"
+    },
+    {
+        "input": "Regret Cruel",
+        "output": "Delight Kind"
+    },
+    {
+        "input": "Regret Dry",
+        "output": "Delight Wet"
+    },
+    {
+        "input": "Regret Gift",
+        "output": "Delight Take"
+    },
+    {
+        "input": "Regular Comedy",
+        "output": "Irregular Tragedy"
+    },
+    {
+        "input": "Regular Dirty",
+        "output": "Irregular Clean"
+    },
+    {
+        "input": "Regular Lose",
+        "output": "Irregular Win"
+    },
+    {
+        "input": "Regular Proud",
+        "output": "Irregular Humble"
+    },
+    {
+        "input": "Regular Smooth",
+        "output": "Irregular Rough"
+    },
+    {
+        "input": "Related Dry",
+        "output": "Unrelated Wet"
+    },
+    {
+        "input": "Related Expensive",
+        "output": "Unrelated Cheap"
+    },
+    {
+        "input": "Related Grant",
+        "output": "Unrelated Refuse"
+    },
+    {
+        "input": "Related Love",
+        "output": "Unrelated Hate"
+    },
+    {
+        "input": "Related Messy",
+        "output": "Unrelated Neat"
+    },
+    {
+        "input": "Related Order",
+        "output": "Unrelated Chaos"
+    },
+    {
+        "input": "Related Science",
+        "output": "Unrelated Art"
+    },
+    {
+        "input": "Remember Clear",
+        "output": "Forget Cloudy"
+    },
+    {
+        "input": "Remember Married",
+        "output": "Forget Single"
+    },
+    {
+        "input": "Remember Proud",
+        "output": "Forget Humble"
+    },
+    {
+        "input": "Repair Grow",
+        "output": "Damage Shrink"
+    },
+    {
+        "input": "Repair Hurry",
+        "output": "Damage Delay"
+    },
+    {
+        "input": "Repair Join",
+        "output": "Damage Separate"
+    },
+    {
+        "input": "Repair Win",
+        "output": "Damage Lose"
+    },
+    {
+        "input": "Repair Yes",
+        "output": "Damage No"
+    },
+    {
+        "input": "Reply Bitter",
+        "output": "Question Sweet"
+    },
+    {
+        "input": "Reply Liquid",
+        "output": "Question Solid"
+    },
+    {
+        "input": "Reply Messy",
+        "output": "Question Neat"
+    },
+    {
+        "input": "Respect Equal",
+        "output": "Disrespect Different"
+    },
+    {
+        "input": "Respect Possible",
+        "output": "Disrespect Impossible"
+    },
+    {
+        "input": "Responsible Begin",
+        "output": "Irresponsible End"
+    },
+    {
+        "input": "Rich Expensive",
+        "output": "Poor Cheap"
+    },
+    {
+        "input": "Rich Gift",
+        "output": "Poor Take"
+    },
+    {
+        "input": "Rich Help",
+        "output": "Poor Hinder"
+    },
+    {
+        "input": "Rich Humble",
+        "output": "Poor Proud"
+    },
+    {
+        "input": "Rich New",
+        "output": "Poor Old"
+    },
+    {
+        "input": "Rich Noisy",
+        "output": "Poor Silent"
+    },
+    {
+        "input": "Rich Nothing",
+        "output": "Poor Everything"
+    },
+    {
+        "input": "Rich Polite",
+        "output": "Poor Rude"
+    },
+    {
+        "input": "Right Mature",
+        "output": "Wrong Immature"
+    },
+    {
+        "input": "Rigid Close",
+        "output": "Flexible Far"
+    },
+    {
+        "input": "Rigid Free",
+        "output": "Flexible Expensive"
+    },
+    {
+        "input": "Rise Cool",
+        "output": "Fall Warm"
+    },
+    {
+        "input": "Rise Lend",
+        "output": "Fall Borrow"
+    },
+    {
+        "input": "Rough Go",
+        "output": "Smooth Come"
+    },
+    {
+        "input": "Rough Polite",
+        "output": "Smooth Rude"
+    },
+    {
+        "input": "Round Public",
+        "output": "Square Private"
+    },
+    {
+        "input": "Rude Learn",
+        "output": "Polite Forget"
+    },
+    {
+        "input": "Rude Morning",
+        "output": "Polite Evening"
+    },
+    {
+        "input": "Rude Original",
+        "output": "Polite Copy"
+    },
+    {
+        "input": "Rude Smooth",
+        "output": "Polite Rough"
+    },
+    {
+        "input": "Rural Day",
+        "output": "Urban Night"
+    },
+    {
+        "input": "Rural Fat",
+        "output": "Urban Skinny"
+    },
+    {
+        "input": "Rural Regular",
+        "output": "Urban Irregular"
+    },
+    {
+        "input": "Sad Dry",
+        "output": "Happy Wet"
+    },
+    {
+        "input": "Sad Foolish",
+        "output": "Happy Wise"
+    },
+    {
+        "input": "Sad Less",
+        "output": "Happy More"
+    },
+    {
+        "input": "Sad Related",
+        "output": "Happy Unrelated"
+    },
+    {
+        "input": "Sad Yes",
+        "output": "Happy No"
+    },
+    {
+        "input": "Safe End",
+        "output": "Dangerous Begin"
+    },
+    {
+        "input": "Safe Float",
+        "output": "Dangerous Sink"
+    },
+    {
+        "input": "Safe Scream",
+        "output": "Dangerous Whisper"
+    },
+    {
+        "input": "Same Thick",
+        "output": "Different Thin"
+    },
+    {
+        "input": "Satisfy Forgive",
+        "output": "Dissatisfy Blame"
+    },
+    {
+        "input": "Satisfy Funny",
+        "output": "Dissatisfy Serious"
+    },
+    {
+        "input": "Save Long",
+        "output": "Spend Short"
+    },
+    {
+        "input": "Save Pleasant",
+        "output": "Spend Unpleasant"
+    },
+    {
+        "input": "Scarce Equal",
+        "output": "Abundant Different"
+    },
+    {
+        "input": "Scarce Possible",
+        "output": "Abundant Impossible"
+    },
+    {
+        "input": "Scatter Disappear",
+        "output": "Gather Appear"
+    },
+    {
+        "input": "Scatter Even",
+        "output": "Gather Odd"
+    },
+    {
+        "input": "Scatter Part",
+        "output": "Gather Whole"
+    },
+    {
+        "input": "Scatter Responsible",
+        "output": "Gather Irresponsible"
+    },
+    {
+        "input": "Science Clear",
+        "output": "Art Cloudy"
+    },
+    {
+        "input": "Science Hate",
+        "output": "Art Love"
+    },
+    {
+        "input": "Science Light",
+        "output": "Art Dark"
+    },
+    {
+        "input": "Science Natural",
+        "output": "Art Artificial"
+    },
+    {
+        "input": "Science Near",
+        "output": "Art Far"
+    },
+    {
+        "input": "Secure Clean",
+        "output": "Attack Dirty"
+    },
+    {
+        "input": "Secure Guilty",
+        "output": "Attack Innocent"
+    },
+    {
+        "input": "Secure Negative",
+        "output": "Attack Positive"
+    },
+    {
+        "input": "Sharp Guilty",
+        "output": "Dull Innocent"
+    },
+    {
+        "input": "Sharp Minor",
+        "output": "Dull Major"
+    },
+    {
+        "input": "Sharp North",
+        "output": "Dull South"
+    },
+    {
+        "input": "Smooth Buy",
+        "output": "Rough Sell"
+    },
+    {
+        "input": "Smooth North",
+        "output": "Rough South"
+    },
+    {
+        "input": "Soft Intentional",
+        "output": "Hard Accidental"
+    },
+    {
+        "input": "Start Empty",
+        "output": "Stop Full"
+    },
+    {
+        "input": "Start Famous",
+        "output": "Stop Unknown"
+    },
+    {
+        "input": "Tall Illegal",
+        "output": "Short Legal"
+    },
+    {
+        "input": "Tall Obey",
+        "output": "Short Disobey"
+    },
+    {
+        "input": "Tall Present",
+        "output": "Short Absent"
+    },
+    {
+        "input": "Tall Start",
+        "output": "Short Stop"
+    },
+    {
+        "input": "True Begin",
+        "output": "False End"
+    },
+    {
+        "input": "True Clear",
+        "output": "False Cloudy"
+    },
+    {
+        "input": "True Clever",
+        "output": "False Foolish"
+    },
+    {
+        "input": "True Decrease",
+        "output": "False Increase"
+    },
+    {
+        "input": "True Early",
+        "output": "False Late"
+    },
+    {
+        "input": "True Fixed",
+        "output": "False Broken"
+    },
+    {
+        "input": "True Go",
+        "output": "False Come"
+    },
+    {
+        "input": "True Hate",
+        "output": "False Love"
+    },
+    {
+        "input": "True Rude",
+        "output": "False Polite"
+    },
+    {
+        "input": "Up Day",
+        "output": "Down Night"
+    },
+    {
+        "input": "Up Proud",
+        "output": "Down Humble"
+    },
+    {
+        "input": "Wide Advance",
+        "output": "Narrow Retreat"
+    },
+    {
+        "input": "Wide Different",
+        "output": "Narrow Same"
+    },
+    {
+        "input": "Wide Equal",
+        "output": "Narrow Different"
+    },
+    {
+        "input": "Wide Find",
+        "output": "Narrow Lose"
+    },
+    {
+        "input": "Wide Left",
+        "output": "Narrow Right"
+    },
+    {
+        "input": "Wide Light",
+        "output": "Narrow Dark"
+    },
+    {
+        "input": "Wide Morning",
+        "output": "Narrow Evening"
+    },
+    {
+        "input": "Win Alive",
+        "output": "Lose Dead"
+    },
+    {
+        "input": "Yes Begin",
+        "output": "No End"
+    },
+    {
+        "input": "Yes Remember",
+        "output": "No Forget"
+    },
+    {
+        "input": "Yes Scream",
+        "output": "No Whisper"
+    },
+    {
+        "input": "Young End",
+        "output": "Old Begin"
+    }
+]

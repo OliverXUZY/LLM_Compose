@@ -1,0 +1,4002 @@
+[
+    {
+        "input": "*(tench)",
+        "output": "hcnet"
+    },
+    {
+        "input": "*(goldfish)",
+        "output": "hsifdlog"
+    },
+    {
+        "input": "*(great white shark)",
+        "output": "krahs etihw taerg"
+    },
+    {
+        "input": "*(tiger shark)",
+        "output": "krahs regit"
+    },
+    {
+        "input": "*(hammerhead shark)",
+        "output": "krahs daehremmah"
+    },
+    {
+        "input": "*(electric ray)",
+        "output": "yar cirtcele"
+    },
+    {
+        "input": "*(stingray)",
+        "output": "yargnits"
+    },
+    {
+        "input": "*(rooster)",
+        "output": "retsoor"
+    },
+    {
+        "input": "*(hen)",
+        "output": "neh"
+    },
+    {
+        "input": "*(ostrich)",
+        "output": "hcirtso"
+    },
+    {
+        "input": "*(brambling)",
+        "output": "gnilbmarb"
+    },
+    {
+        "input": "*(goldfinch)",
+        "output": "hcnifdlog"
+    },
+    {
+        "input": "*(house finch)",
+        "output": "hcnif esuoh"
+    },
+    {
+        "input": "*(junco)",
+        "output": "ocnuj"
+    },
+    {
+        "input": "*(indigo bunting)",
+        "output": "gnitnub ogidni"
+    },
+    {
+        "input": "*(American robin)",
+        "output": "nibor naciremA"
+    },
+    {
+        "input": "*(bulbul)",
+        "output": "lublub"
+    },
+    {
+        "input": "*(jay)",
+        "output": "yaj"
+    },
+    {
+        "input": "*(magpie)",
+        "output": "eipgam"
+    },
+    {
+        "input": "*(chickadee)",
+        "output": "eedakcihc"
+    },
+    {
+        "input": "*(American dipper)",
+        "output": "reppid naciremA"
+    },
+    {
+        "input": "*(kite (bird of prey))",
+        "output": ")yerp fo drib( etik"
+    },
+    {
+        "input": "*(bald eagle)",
+        "output": "elgae dlab"
+    },
+    {
+        "input": "*(vulture)",
+        "output": "erutluv"
+    },
+    {
+        "input": "*(great grey owl)",
+        "output": "lwo yerg taerg"
+    },
+    {
+        "input": "*(fire salamander)",
+        "output": "rednamalas erif"
+    },
+    {
+        "input": "*(smooth newt)",
+        "output": "twen htooms"
+    },
+    {
+        "input": "*(newt)",
+        "output": "twen"
+    },
+    {
+        "input": "*(spotted salamander)",
+        "output": "rednamalas dettops"
+    },
+    {
+        "input": "*(axolotl)",
+        "output": "ltoloxa"
+    },
+    {
+        "input": "*(American bullfrog)",
+        "output": "gorfllub naciremA"
+    },
+    {
+        "input": "*(tree frog)",
+        "output": "gorf eert"
+    },
+    {
+        "input": "*(tailed frog)",
+        "output": "gorf deliat"
+    },
+    {
+        "input": "*(loggerhead sea turtle)",
+        "output": "eltrut aes daehreggol"
+    },
+    {
+        "input": "*(leatherback sea turtle)",
+        "output": "eltrut aes kcabrehtael"
+    },
+    {
+        "input": "*(mud turtle)",
+        "output": "eltrut dum"
+    },
+    {
+        "input": "*(terrapin)",
+        "output": "niparret"
+    },
+    {
+        "input": "*(box turtle)",
+        "output": "eltrut xob"
+    },
+    {
+        "input": "*(banded gecko)",
+        "output": "okceg dednab"
+    },
+    {
+        "input": "*(green iguana)",
+        "output": "anaugi neerg"
+    },
+    {
+        "input": "*(Carolina anole)",
+        "output": "elona aniloraC"
+    },
+    {
+        "input": "*(desert grassland whiptail lizard)",
+        "output": "drazil liatpihw dnalssarg tresed"
+    },
+    {
+        "input": "*(agama)",
+        "output": "amaga"
+    },
+    {
+        "input": "*(frilled-necked lizard)",
+        "output": "drazil dekcen-dellirf"
+    },
+    {
+        "input": "*(alligator lizard)",
+        "output": "drazil rotagilla"
+    },
+    {
+        "input": "*(Gila monster)",
+        "output": "retsnom aliG"
+    },
+    {
+        "input": "*(European green lizard)",
+        "output": "drazil neerg naeporuE"
+    },
+    {
+        "input": "*(chameleon)",
+        "output": "noelemahc"
+    },
+    {
+        "input": "*(Komodo dragon)",
+        "output": "nogard odomoK"
+    },
+    {
+        "input": "*(Nile crocodile)",
+        "output": "elidocorc eliN"
+    },
+    {
+        "input": "*(American alligator)",
+        "output": "rotagilla naciremA"
+    },
+    {
+        "input": "*(triceratops)",
+        "output": "spotarecirt"
+    },
+    {
+        "input": "*(worm snake)",
+        "output": "ekans mrow"
+    },
+    {
+        "input": "*(ring-necked snake)",
+        "output": "ekans dekcen-gnir"
+    },
+    {
+        "input": "*(eastern hog-nosed snake)",
+        "output": "ekans deson-goh nretsae"
+    },
+    {
+        "input": "*(smooth green snake)",
+        "output": "ekans neerg htooms"
+    },
+    {
+        "input": "*(kingsnake)",
+        "output": "ekansgnik"
+    },
+    {
+        "input": "*(garter snake)",
+        "output": "ekans retrag"
+    },
+    {
+        "input": "*(water snake)",
+        "output": "ekans retaw"
+    },
+    {
+        "input": "*(vine snake)",
+        "output": "ekans eniv"
+    },
+    {
+        "input": "*(night snake)",
+        "output": "ekans thgin"
+    },
+    {
+        "input": "*(boa constrictor)",
+        "output": "rotcirtsnoc aob"
+    },
+    {
+        "input": "*(African rock python)",
+        "output": "nohtyp kcor nacirfA"
+    },
+    {
+        "input": "*(Indian cobra)",
+        "output": "arboc naidnI"
+    },
+    {
+        "input": "*(green mamba)",
+        "output": "abmam neerg"
+    },
+    {
+        "input": "*(sea snake)",
+        "output": "ekans aes"
+    },
+    {
+        "input": "*(Saharan horned viper)",
+        "output": "repiv denroh narahaS"
+    },
+    {
+        "input": "*(eastern diamondback rattlesnake)",
+        "output": "ekanselttar kcabdnomaid nretsae"
+    },
+    {
+        "input": "*(sidewinder rattlesnake)",
+        "output": "ekanselttar redniwedis"
+    },
+    {
+        "input": "*(trilobite)",
+        "output": "etibolirt"
+    },
+    {
+        "input": "*(harvestman)",
+        "output": "namtsevrah"
+    },
+    {
+        "input": "*(scorpion)",
+        "output": "noiprocs"
+    },
+    {
+        "input": "*(yellow garden spider)",
+        "output": "redips nedrag wolley"
+    },
+    {
+        "input": "*(barn spider)",
+        "output": "redips nrab"
+    },
+    {
+        "input": "*(European garden spider)",
+        "output": "redips nedrag naeporuE"
+    },
+    {
+        "input": "*(southern black widow)",
+        "output": "wodiw kcalb nrehtuos"
+    },
+    {
+        "input": "*(tarantula)",
+        "output": "alutnarat"
+    },
+    {
+        "input": "*(wolf spider)",
+        "output": "redips flow"
+    },
+    {
+        "input": "*(tick)",
+        "output": "kcit"
+    },
+    {
+        "input": "*(centipede)",
+        "output": "edepitnec"
+    },
+    {
+        "input": "*(black grouse)",
+        "output": "esuorg kcalb"
+    },
+    {
+        "input": "*(ptarmigan)",
+        "output": "nagimratp"
+    },
+    {
+        "input": "*(ruffed grouse)",
+        "output": "esuorg deffur"
+    },
+    {
+        "input": "*(prairie grouse)",
+        "output": "esuorg eiriarp"
+    },
+    {
+        "input": "*(peafowl)",
+        "output": "lwofaep"
+    },
+    {
+        "input": "*(quail)",
+        "output": "liauq"
+    },
+    {
+        "input": "*(partridge)",
+        "output": "egdirtrap"
+    },
+    {
+        "input": "*(african grey parrot)",
+        "output": "torrap yerg nacirfa"
+    },
+    {
+        "input": "*(macaw)",
+        "output": "wacam"
+    },
+    {
+        "input": "*(sulphur-crested cockatoo)",
+        "output": "ootakcoc detserc-ruhplus"
+    },
+    {
+        "input": "*(lorikeet)",
+        "output": "teekirol"
+    },
+    {
+        "input": "*(coucal)",
+        "output": "lacuoc"
+    },
+    {
+        "input": "*(bee eater)",
+        "output": "retae eeb"
+    },
+    {
+        "input": "*(hornbill)",
+        "output": "llibnroh"
+    },
+    {
+        "input": "*(hummingbird)",
+        "output": "dribgnimmuh"
+    },
+    {
+        "input": "*(jacamar)",
+        "output": "ramacaj"
+    },
+    {
+        "input": "*(toucan)",
+        "output": "nacuot"
+    },
+    {
+        "input": "*(duck)",
+        "output": "kcud"
+    },
+    {
+        "input": "*(red-breasted merganser)",
+        "output": "resnagrem detsaerb-der"
+    },
+    {
+        "input": "*(goose)",
+        "output": "esoog"
+    },
+    {
+        "input": "*(black swan)",
+        "output": "naws kcalb"
+    },
+    {
+        "input": "*(tusker)",
+        "output": "reksut"
+    },
+    {
+        "input": "*(echidna)",
+        "output": "andihce"
+    },
+    {
+        "input": "*(platypus)",
+        "output": "supytalp"
+    },
+    {
+        "input": "*(wallaby)",
+        "output": "yballaw"
+    },
+    {
+        "input": "*(koala)",
+        "output": "alaok"
+    },
+    {
+        "input": "*(wombat)",
+        "output": "tabmow"
+    },
+    {
+        "input": "*(jellyfish)",
+        "output": "hsifyllej"
+    },
+    {
+        "input": "*(sea anemone)",
+        "output": "enomena aes"
+    },
+    {
+        "input": "*(brain coral)",
+        "output": "laroc niarb"
+    },
+    {
+        "input": "*(flatworm)",
+        "output": "mrowtalf"
+    },
+    {
+        "input": "*(nematode)",
+        "output": "edotamen"
+    },
+    {
+        "input": "*(conch)",
+        "output": "hcnoc"
+    },
+    {
+        "input": "*(snail)",
+        "output": "lians"
+    },
+    {
+        "input": "*(slug)",
+        "output": "guls"
+    },
+    {
+        "input": "*(sea slug)",
+        "output": "guls aes"
+    },
+    {
+        "input": "*(chiton)",
+        "output": "notihc"
+    },
+    {
+        "input": "*(chambered nautilus)",
+        "output": "sulituan derebmahc"
+    },
+    {
+        "input": "*(Dungeness crab)",
+        "output": "barc ssenegnuD"
+    },
+    {
+        "input": "*(rock crab)",
+        "output": "barc kcor"
+    },
+    {
+        "input": "*(fiddler crab)",
+        "output": "barc relddif"
+    },
+    {
+        "input": "*(red king crab)",
+        "output": "barc gnik der"
+    },
+    {
+        "input": "*(American lobster)",
+        "output": "retsbol naciremA"
+    },
+    {
+        "input": "*(spiny lobster)",
+        "output": "retsbol ynips"
+    },
+    {
+        "input": "*(crayfish)",
+        "output": "hsifyarc"
+    },
+    {
+        "input": "*(hermit crab)",
+        "output": "barc timreh"
+    },
+    {
+        "input": "*(isopod)",
+        "output": "doposi"
+    },
+    {
+        "input": "*(white stork)",
+        "output": "krots etihw"
+    },
+    {
+        "input": "*(black stork)",
+        "output": "krots kcalb"
+    },
+    {
+        "input": "*(spoonbill)",
+        "output": "llibnoops"
+    },
+    {
+        "input": "*(flamingo)",
+        "output": "ognimalf"
+    },
+    {
+        "input": "*(little blue heron)",
+        "output": "noreh eulb elttil"
+    },
+    {
+        "input": "*(great egret)",
+        "output": "terge taerg"
+    },
+    {
+        "input": "*(bittern bird)",
+        "output": "drib nrettib"
+    },
+    {
+        "input": "*(crane bird)",
+        "output": "drib enarc"
+    },
+    {
+        "input": "*(limpkin)",
+        "output": "nikpmil"
+    },
+    {
+        "input": "*(common gallinule)",
+        "output": "elunillag nommoc"
+    },
+    {
+        "input": "*(American coot)",
+        "output": "tooc naciremA"
+    },
+    {
+        "input": "*(bustard)",
+        "output": "dratsub"
+    },
+    {
+        "input": "*(ruddy turnstone)",
+        "output": "enotsnrut yddur"
+    },
+    {
+        "input": "*(dunlin)",
+        "output": "nilnud"
+    },
+    {
+        "input": "*(common redshank)",
+        "output": "knahsder nommoc"
+    },
+    {
+        "input": "*(dowitcher)",
+        "output": "rehctiwod"
+    },
+    {
+        "input": "*(oystercatcher)",
+        "output": "rehctacretsyo"
+    },
+    {
+        "input": "*(pelican)",
+        "output": "nacilep"
+    },
+    {
+        "input": "*(king penguin)",
+        "output": "niugnep gnik"
+    },
+    {
+        "input": "*(albatross)",
+        "output": "ssortabla"
+    },
+    {
+        "input": "*(grey whale)",
+        "output": "elahw yerg"
+    },
+    {
+        "input": "*(killer whale)",
+        "output": "elahw rellik"
+    },
+    {
+        "input": "*(dugong)",
+        "output": "gnogud"
+    },
+    {
+        "input": "*(sea lion)",
+        "output": "noil aes"
+    },
+    {
+        "input": "*(Chihuahua)",
+        "output": "auhauhihC"
+    },
+    {
+        "input": "*(Japanese Chin)",
+        "output": "nihC esenapaJ"
+    },
+    {
+        "input": "*(Maltese)",
+        "output": "esetlaM"
+    },
+    {
+        "input": "*(Pekingese)",
+        "output": "esegnikeP"
+    },
+    {
+        "input": "*(Shih Tzu)",
+        "output": "uzT hihS"
+    },
+    {
+        "input": "*(King Charles Spaniel)",
+        "output": "leinapS selrahC gniK"
+    },
+    {
+        "input": "*(Papillon)",
+        "output": "nollipaP"
+    },
+    {
+        "input": "*(toy terrier)",
+        "output": "reirret yot"
+    },
+    {
+        "input": "*(Rhodesian Ridgeback)",
+        "output": "kcabegdiR naisedohR"
+    },
+    {
+        "input": "*(Afghan Hound)",
+        "output": "dnuoH nahgfA"
+    },
+    {
+        "input": "*(Basset Hound)",
+        "output": "dnuoH tessaB"
+    },
+    {
+        "input": "*(Beagle)",
+        "output": "elgaeB"
+    },
+    {
+        "input": "*(Bloodhound)",
+        "output": "dnuohdoolB"
+    },
+    {
+        "input": "*(Bluetick Coonhound)",
+        "output": "dnuohnooC kciteulB"
+    },
+    {
+        "input": "*(Black and Tan Coonhound)",
+        "output": "dnuohnooC naT dna kcalB"
+    },
+    {
+        "input": "*(Treeing Walker Coonhound)",
+        "output": "dnuohnooC reklaW gnieerT"
+    },
+    {
+        "input": "*(English foxhound)",
+        "output": "dnuohxof hsilgnE"
+    },
+    {
+        "input": "*(Redbone Coonhound)",
+        "output": "dnuohnooC enobdeR"
+    },
+    {
+        "input": "*(borzoi)",
+        "output": "iozrob"
+    },
+    {
+        "input": "*(Irish Wolfhound)",
+        "output": "dnuohfloW hsirI"
+    },
+    {
+        "input": "*(Italian Greyhound)",
+        "output": "dnuohyerG nailatI"
+    },
+    {
+        "input": "*(Whippet)",
+        "output": "teppihW"
+    },
+    {
+        "input": "*(Ibizan Hound)",
+        "output": "dnuoH nazibI"
+    },
+    {
+        "input": "*(Norwegian Elkhound)",
+        "output": "dnuohklE naigewroN"
+    },
+    {
+        "input": "*(Otterhound)",
+        "output": "dnuohrettO"
+    },
+    {
+        "input": "*(Saluki)",
+        "output": "ikulaS"
+    },
+    {
+        "input": "*(Scottish Deerhound)",
+        "output": "dnuohreeD hsittocS"
+    },
+    {
+        "input": "*(Weimaraner)",
+        "output": "renaramieW"
+    },
+    {
+        "input": "*(Staffordshire Bull Terrier)",
+        "output": "reirreT lluB erihsdroffatS"
+    },
+    {
+        "input": "*(American Staffordshire Terrier)",
+        "output": "reirreT erihsdroffatS naciremA"
+    },
+    {
+        "input": "*(Bedlington Terrier)",
+        "output": "reirreT notgnildeB"
+    },
+    {
+        "input": "*(Border Terrier)",
+        "output": "reirreT redroB"
+    },
+    {
+        "input": "*(Kerry Blue Terrier)",
+        "output": "reirreT eulB yrreK"
+    },
+    {
+        "input": "*(Irish Terrier)",
+        "output": "reirreT hsirI"
+    },
+    {
+        "input": "*(Norfolk Terrier)",
+        "output": "reirreT klofroN"
+    },
+    {
+        "input": "*(Norwich Terrier)",
+        "output": "reirreT hciwroN"
+    },
+    {
+        "input": "*(Yorkshire Terrier)",
+        "output": "reirreT erihskroY"
+    },
+    {
+        "input": "*(Wire Fox Terrier)",
+        "output": "reirreT xoF eriW"
+    },
+    {
+        "input": "*(Lakeland Terrier)",
+        "output": "reirreT dnalekaL"
+    },
+    {
+        "input": "*(Sealyham Terrier)",
+        "output": "reirreT mahylaeS"
+    },
+    {
+        "input": "*(Airedale Terrier)",
+        "output": "reirreT eladeriA"
+    },
+    {
+        "input": "*(Cairn Terrier)",
+        "output": "reirreT nriaC"
+    },
+    {
+        "input": "*(Australian Terrier)",
+        "output": "reirreT nailartsuA"
+    },
+    {
+        "input": "*(Dandie Dinmont Terrier)",
+        "output": "reirreT tnomniD eidnaD"
+    },
+    {
+        "input": "*(Boston Terrier)",
+        "output": "reirreT notsoB"
+    },
+    {
+        "input": "*(Miniature Schnauzer)",
+        "output": "rezuanhcS erutainiM"
+    },
+    {
+        "input": "*(Giant Schnauzer)",
+        "output": "rezuanhcS tnaiG"
+    },
+    {
+        "input": "*(Standard Schnauzer)",
+        "output": "rezuanhcS dradnatS"
+    },
+    {
+        "input": "*(Scottish Terrier)",
+        "output": "reirreT hsittocS"
+    },
+    {
+        "input": "*(Tibetan Terrier)",
+        "output": "reirreT natebiT"
+    },
+    {
+        "input": "*(Australian Silky Terrier)",
+        "output": "reirreT ykliS nailartsuA"
+    },
+    {
+        "input": "*(Soft-coated Wheaten Terrier)",
+        "output": "reirreT netaehW detaoc-tfoS"
+    },
+    {
+        "input": "*(West Highland White Terrier)",
+        "output": "reirreT etihW dnalhgiH tseW"
+    },
+    {
+        "input": "*(Lhasa Apso)",
+        "output": "ospA asahL"
+    },
+    {
+        "input": "*(Flat-Coated Retriever)",
+        "output": "reveirteR detaoC-talF"
+    },
+    {
+        "input": "*(Curly-coated Retriever)",
+        "output": "reveirteR detaoc-ylruC"
+    },
+    {
+        "input": "*(Golden Retriever)",
+        "output": "reveirteR nedloG"
+    },
+    {
+        "input": "*(Labrador Retriever)",
+        "output": "reveirteR rodarbaL"
+    },
+    {
+        "input": "*(Chesapeake Bay Retriever)",
+        "output": "reveirteR yaB ekaepasehC"
+    },
+    {
+        "input": "*(German Shorthaired Pointer)",
+        "output": "retnioP deriahtrohS namreG"
+    },
+    {
+        "input": "*(Vizsla)",
+        "output": "alsziV"
+    },
+    {
+        "input": "*(English Setter)",
+        "output": "retteS hsilgnE"
+    },
+    {
+        "input": "*(Irish Setter)",
+        "output": "retteS hsirI"
+    },
+    {
+        "input": "*(Gordon Setter)",
+        "output": "retteS nodroG"
+    },
+    {
+        "input": "*(Brittany dog)",
+        "output": "god ynattirB"
+    },
+    {
+        "input": "*(Clumber Spaniel)",
+        "output": "leinapS rebmulC"
+    },
+    {
+        "input": "*(English Springer Spaniel)",
+        "output": "leinapS regnirpS hsilgnE"
+    },
+    {
+        "input": "*(Welsh Springer Spaniel)",
+        "output": "leinapS regnirpS hsleW"
+    },
+    {
+        "input": "*(Cocker Spaniel)",
+        "output": "leinapS rekcoC"
+    },
+    {
+        "input": "*(Sussex Spaniel)",
+        "output": "leinapS xessuS"
+    },
+    {
+        "input": "*(Irish Water Spaniel)",
+        "output": "leinapS retaW hsirI"
+    },
+    {
+        "input": "*(Kuvasz)",
+        "output": "zsavuK"
+    },
+    {
+        "input": "*(Schipperke)",
+        "output": "ekreppihcS"
+    },
+    {
+        "input": "*(Groenendael dog)",
+        "output": "god leadneneorG"
+    },
+    {
+        "input": "*(Malinois)",
+        "output": "sionilaM"
+    },
+    {
+        "input": "*(Briard)",
+        "output": "drairB"
+    },
+    {
+        "input": "*(Australian Kelpie)",
+        "output": "eipleK nailartsuA"
+    },
+    {
+        "input": "*(Komondor)",
+        "output": "rodnomoK"
+    },
+    {
+        "input": "*(Old English Sheepdog)",
+        "output": "godpeehS hsilgnE dlO"
+    },
+    {
+        "input": "*(Shetland Sheepdog)",
+        "output": "godpeehS dnaltehS"
+    },
+    {
+        "input": "*(collie)",
+        "output": "eilloc"
+    },
+    {
+        "input": "*(Border Collie)",
+        "output": "eilloC redroB"
+    },
+    {
+        "input": "*(Bouvier des Flandres dog)",
+        "output": "god serdnalF sed reivuoB"
+    },
+    {
+        "input": "*(Rottweiler)",
+        "output": "reliewttoR"
+    },
+    {
+        "input": "*(German Shepherd Dog)",
+        "output": "goD drehpehS namreG"
+    },
+    {
+        "input": "*(Dobermann)",
+        "output": "nnamreboD"
+    },
+    {
+        "input": "*(Miniature Pinscher)",
+        "output": "rehcsniP erutainiM"
+    },
+    {
+        "input": "*(Greater Swiss Mountain Dog)",
+        "output": "goD niatnuoM ssiwS retaerG"
+    },
+    {
+        "input": "*(Bernese Mountain Dog)",
+        "output": "goD niatnuoM esenreB"
+    },
+    {
+        "input": "*(Appenzeller Sennenhund)",
+        "output": "dnuhnenneS rellezneppA"
+    },
+    {
+        "input": "*(Entlebucher Sennenhund)",
+        "output": "dnuhnenneS rehcubeltnE"
+    },
+    {
+        "input": "*(Boxer)",
+        "output": "rexoB"
+    },
+    {
+        "input": "*(Bullmastiff)",
+        "output": "ffitsamlluB"
+    },
+    {
+        "input": "*(Tibetan Mastiff)",
+        "output": "ffitsaM natebiT"
+    },
+    {
+        "input": "*(French Bulldog)",
+        "output": "godlluB hcnerF"
+    },
+    {
+        "input": "*(Great Dane)",
+        "output": "enaD taerG"
+    },
+    {
+        "input": "*(St. Bernard)",
+        "output": "dranreB .tS"
+    },
+    {
+        "input": "*(husky)",
+        "output": "yksuh"
+    },
+    {
+        "input": "*(Alaskan Malamute)",
+        "output": "etumalaM naksalA"
+    },
+    {
+        "input": "*(Siberian Husky)",
+        "output": "yksuH nairebiS"
+    },
+    {
+        "input": "*(Dalmatian)",
+        "output": "naitamlaD"
+    },
+    {
+        "input": "*(Affenpinscher)",
+        "output": "rehcsnipneffA"
+    },
+    {
+        "input": "*(Basenji)",
+        "output": "ijnesaB"
+    },
+    {
+        "input": "*(pug)",
+        "output": "gup"
+    },
+    {
+        "input": "*(Leonberger)",
+        "output": "regrebnoeL"
+    },
+    {
+        "input": "*(Newfoundland dog)",
+        "output": "god dnaldnuofweN"
+    },
+    {
+        "input": "*(Great Pyrenees dog)",
+        "output": "god seeneryP taerG"
+    },
+    {
+        "input": "*(Samoyed)",
+        "output": "deyomaS"
+    },
+    {
+        "input": "*(Pomeranian)",
+        "output": "nainaremoP"
+    },
+    {
+        "input": "*(Chow Chow)",
+        "output": "wohC wohC"
+    },
+    {
+        "input": "*(Keeshond)",
+        "output": "dnohseeK"
+    },
+    {
+        "input": "*(brussels griffon)",
+        "output": "noffirg slessurb"
+    },
+    {
+        "input": "*(Pembroke Welsh Corgi)",
+        "output": "igroC hsleW ekorbmeP"
+    },
+    {
+        "input": "*(Cardigan Welsh Corgi)",
+        "output": "igroC hsleW nagidraC"
+    },
+    {
+        "input": "*(Toy Poodle)",
+        "output": "eldooP yoT"
+    },
+    {
+        "input": "*(Miniature Poodle)",
+        "output": "eldooP erutainiM"
+    },
+    {
+        "input": "*(Standard Poodle)",
+        "output": "eldooP dradnatS"
+    },
+    {
+        "input": "*(Mexican hairless dog (xoloitzcuintli))",
+        "output": ")iltniucztiolox( god sselriah nacixeM"
+    },
+    {
+        "input": "*(grey wolf)",
+        "output": "flow yerg"
+    },
+    {
+        "input": "*(Alaskan tundra wolf)",
+        "output": "flow ardnut naksalA"
+    },
+    {
+        "input": "*(red wolf or maned wolf)",
+        "output": "flow denam ro flow der"
+    },
+    {
+        "input": "*(coyote)",
+        "output": "etoyoc"
+    },
+    {
+        "input": "*(dingo)",
+        "output": "ognid"
+    },
+    {
+        "input": "*(dhole)",
+        "output": "elohd"
+    },
+    {
+        "input": "*(African wild dog)",
+        "output": "god dliw nacirfA"
+    },
+    {
+        "input": "*(hyena)",
+        "output": "aneyh"
+    },
+    {
+        "input": "*(red fox)",
+        "output": "xof der"
+    },
+    {
+        "input": "*(kit fox)",
+        "output": "xof tik"
+    },
+    {
+        "input": "*(Arctic fox)",
+        "output": "xof citcrA"
+    },
+    {
+        "input": "*(grey fox)",
+        "output": "xof yerg"
+    },
+    {
+        "input": "*(tabby cat)",
+        "output": "tac ybbat"
+    },
+    {
+        "input": "*(tiger cat)",
+        "output": "tac regit"
+    },
+    {
+        "input": "*(Persian cat)",
+        "output": "tac naisreP"
+    },
+    {
+        "input": "*(Siamese cat)",
+        "output": "tac esemaiS"
+    },
+    {
+        "input": "*(Egyptian Mau)",
+        "output": "uaM naitpygE"
+    },
+    {
+        "input": "*(cougar)",
+        "output": "raguoc"
+    },
+    {
+        "input": "*(lynx)",
+        "output": "xnyl"
+    },
+    {
+        "input": "*(leopard)",
+        "output": "drapoel"
+    },
+    {
+        "input": "*(snow leopard)",
+        "output": "drapoel wons"
+    },
+    {
+        "input": "*(jaguar)",
+        "output": "raugaj"
+    },
+    {
+        "input": "*(lion)",
+        "output": "noil"
+    },
+    {
+        "input": "*(tiger)",
+        "output": "regit"
+    },
+    {
+        "input": "*(cheetah)",
+        "output": "hateehc"
+    },
+    {
+        "input": "*(brown bear)",
+        "output": "raeb nworb"
+    },
+    {
+        "input": "*(American black bear)",
+        "output": "raeb kcalb naciremA"
+    },
+    {
+        "input": "*(polar bear)",
+        "output": "raeb ralop"
+    },
+    {
+        "input": "*(sloth bear)",
+        "output": "raeb htols"
+    },
+    {
+        "input": "*(mongoose)",
+        "output": "esoognom"
+    },
+    {
+        "input": "*(meerkat)",
+        "output": "takreem"
+    },
+    {
+        "input": "*(tiger beetle)",
+        "output": "elteeb regit"
+    },
+    {
+        "input": "*(ladybug)",
+        "output": "gubydal"
+    },
+    {
+        "input": "*(ground beetle)",
+        "output": "elteeb dnuorg"
+    },
+    {
+        "input": "*(longhorn beetle)",
+        "output": "elteeb nrohgnol"
+    },
+    {
+        "input": "*(leaf beetle)",
+        "output": "elteeb fael"
+    },
+    {
+        "input": "*(dung beetle)",
+        "output": "elteeb gnud"
+    },
+    {
+        "input": "*(rhinoceros beetle)",
+        "output": "elteeb soreconihr"
+    },
+    {
+        "input": "*(weevil)",
+        "output": "liveew"
+    },
+    {
+        "input": "*(fly)",
+        "output": "ylf"
+    },
+    {
+        "input": "*(bee)",
+        "output": "eeb"
+    },
+    {
+        "input": "*(ant)",
+        "output": "tna"
+    },
+    {
+        "input": "*(grasshopper)",
+        "output": "reppohssarg"
+    },
+    {
+        "input": "*(cricket insect)",
+        "output": "tcesni tekcirc"
+    },
+    {
+        "input": "*(stick insect)",
+        "output": "tcesni kcits"
+    },
+    {
+        "input": "*(cockroach)",
+        "output": "hcaorkcoc"
+    },
+    {
+        "input": "*(praying mantis)",
+        "output": "sitnam gniyarp"
+    },
+    {
+        "input": "*(cicada)",
+        "output": "adacic"
+    },
+    {
+        "input": "*(leafhopper)",
+        "output": "reppohfael"
+    },
+    {
+        "input": "*(lacewing)",
+        "output": "gniwecal"
+    },
+    {
+        "input": "*(dragonfly)",
+        "output": "ylfnogard"
+    },
+    {
+        "input": "*(damselfly)",
+        "output": "ylflesmad"
+    },
+    {
+        "input": "*(red admiral butterfly)",
+        "output": "ylfrettub larimda der"
+    },
+    {
+        "input": "*(ringlet butterfly)",
+        "output": "ylfrettub telgnir"
+    },
+    {
+        "input": "*(monarch butterfly)",
+        "output": "ylfrettub hcranom"
+    },
+    {
+        "input": "*(small white butterfly)",
+        "output": "ylfrettub etihw llams"
+    },
+    {
+        "input": "*(sulphur butterfly)",
+        "output": "ylfrettub ruhplus"
+    },
+    {
+        "input": "*(gossamer-winged butterfly)",
+        "output": "ylfrettub degniw-remassog"
+    },
+    {
+        "input": "*(starfish)",
+        "output": "hsifrats"
+    },
+    {
+        "input": "*(sea urchin)",
+        "output": "nihcru aes"
+    },
+    {
+        "input": "*(sea cucumber)",
+        "output": "rebmucuc aes"
+    },
+    {
+        "input": "*(cottontail rabbit)",
+        "output": "tibbar liatnottoc"
+    },
+    {
+        "input": "*(hare)",
+        "output": "erah"
+    },
+    {
+        "input": "*(Angora rabbit)",
+        "output": "tibbar arognA"
+    },
+    {
+        "input": "*(hamster)",
+        "output": "retsmah"
+    },
+    {
+        "input": "*(porcupine)",
+        "output": "enipucrop"
+    },
+    {
+        "input": "*(fox squirrel)",
+        "output": "lerriuqs xof"
+    },
+    {
+        "input": "*(marmot)",
+        "output": "tomram"
+    },
+    {
+        "input": "*(beaver)",
+        "output": "revaeb"
+    },
+    {
+        "input": "*(guinea pig)",
+        "output": "gip aeniug"
+    },
+    {
+        "input": "*(common sorrel horse)",
+        "output": "esroh lerros nommoc"
+    },
+    {
+        "input": "*(zebra)",
+        "output": "arbez"
+    },
+    {
+        "input": "*(pig)",
+        "output": "gip"
+    },
+    {
+        "input": "*(wild boar)",
+        "output": "raob dliw"
+    },
+    {
+        "input": "*(warthog)",
+        "output": "gohtraw"
+    },
+    {
+        "input": "*(hippopotamus)",
+        "output": "sumatopoppih"
+    },
+    {
+        "input": "*(ox)",
+        "output": "xo"
+    },
+    {
+        "input": "*(water buffalo)",
+        "output": "olaffub retaw"
+    },
+    {
+        "input": "*(bison)",
+        "output": "nosib"
+    },
+    {
+        "input": "*(ram (adult male sheep))",
+        "output": ")peehs elam tluda( mar"
+    },
+    {
+        "input": "*(bighorn sheep)",
+        "output": "peehs nrohgib"
+    },
+    {
+        "input": "*(Alpine ibex)",
+        "output": "xebi eniplA"
+    },
+    {
+        "input": "*(hartebeest)",
+        "output": "tseebetrah"
+    },
+    {
+        "input": "*(impala (antelope))",
+        "output": ")epoletna( alapmi"
+    },
+    {
+        "input": "*(gazelle)",
+        "output": "ellezag"
+    },
+    {
+        "input": "*(arabian camel)",
+        "output": "lemac naibara"
+    },
+    {
+        "input": "*(llama)",
+        "output": "amall"
+    },
+    {
+        "input": "*(weasel)",
+        "output": "lesaew"
+    },
+    {
+        "input": "*(mink)",
+        "output": "knim"
+    },
+    {
+        "input": "*(European polecat)",
+        "output": "tacelop naeporuE"
+    },
+    {
+        "input": "*(black-footed ferret)",
+        "output": "terref detoof-kcalb"
+    },
+    {
+        "input": "*(otter)",
+        "output": "retto"
+    },
+    {
+        "input": "*(skunk)",
+        "output": "knuks"
+    },
+    {
+        "input": "*(badger)",
+        "output": "regdab"
+    },
+    {
+        "input": "*(armadillo)",
+        "output": "ollidamra"
+    },
+    {
+        "input": "*(three-toed sloth)",
+        "output": "htols deot-eerht"
+    },
+    {
+        "input": "*(orangutan)",
+        "output": "natugnaro"
+    },
+    {
+        "input": "*(gorilla)",
+        "output": "allirog"
+    },
+    {
+        "input": "*(chimpanzee)",
+        "output": "eeznapmihc"
+    },
+    {
+        "input": "*(gibbon)",
+        "output": "nobbig"
+    },
+    {
+        "input": "*(siamang)",
+        "output": "gnamais"
+    },
+    {
+        "input": "*(guenon)",
+        "output": "noneug"
+    },
+    {
+        "input": "*(patas monkey)",
+        "output": "yeknom satap"
+    },
+    {
+        "input": "*(baboon)",
+        "output": "noobab"
+    },
+    {
+        "input": "*(macaque)",
+        "output": "euqacam"
+    },
+    {
+        "input": "*(langur)",
+        "output": "rugnal"
+    },
+    {
+        "input": "*(black-and-white colobus)",
+        "output": "suboloc etihw-dna-kcalb"
+    },
+    {
+        "input": "*(proboscis monkey)",
+        "output": "yeknom sicsoborp"
+    },
+    {
+        "input": "*(marmoset)",
+        "output": "tesomram"
+    },
+    {
+        "input": "*(white-headed capuchin)",
+        "output": "nihcupac dedaeh-etihw"
+    },
+    {
+        "input": "*(howler monkey)",
+        "output": "yeknom relwoh"
+    },
+    {
+        "input": "*(titi monkey)",
+        "output": "yeknom itit"
+    },
+    {
+        "input": "*(Geoffroy's spider monkey)",
+        "output": "yeknom redips s'yorffoeG"
+    },
+    {
+        "input": "*(common squirrel monkey)",
+        "output": "yeknom lerriuqs nommoc"
+    },
+    {
+        "input": "*(ring-tailed lemur)",
+        "output": "rumel deliat-gnir"
+    },
+    {
+        "input": "*(indri)",
+        "output": "irdni"
+    },
+    {
+        "input": "*(Asian elephant)",
+        "output": "tnahpele naisA"
+    },
+    {
+        "input": "*(African bush elephant)",
+        "output": "tnahpele hsub nacirfA"
+    },
+    {
+        "input": "*(red panda)",
+        "output": "adnap der"
+    },
+    {
+        "input": "*(giant panda)",
+        "output": "adnap tnaig"
+    },
+    {
+        "input": "*(snoek fish)",
+        "output": "hsif keons"
+    },
+    {
+        "input": "*(eel)",
+        "output": "lee"
+    },
+    {
+        "input": "*(silver salmon)",
+        "output": "nomlas revlis"
+    },
+    {
+        "input": "*(rock beauty fish)",
+        "output": "hsif ytuaeb kcor"
+    },
+    {
+        "input": "*(clownfish)",
+        "output": "hsifnwolc"
+    },
+    {
+        "input": "*(sturgeon)",
+        "output": "noegruts"
+    },
+    {
+        "input": "*(gar fish)",
+        "output": "hsif rag"
+    },
+    {
+        "input": "*(lionfish)",
+        "output": "hsifnoil"
+    },
+    {
+        "input": "*(pufferfish)",
+        "output": "hsifreffup"
+    },
+    {
+        "input": "*(abacus)",
+        "output": "sucaba"
+    },
+    {
+        "input": "*(abaya)",
+        "output": "ayaba"
+    },
+    {
+        "input": "*(academic gown)",
+        "output": "nwog cimedaca"
+    },
+    {
+        "input": "*(accordion)",
+        "output": "noidrocca"
+    },
+    {
+        "input": "*(acoustic guitar)",
+        "output": "ratiug citsuoca"
+    },
+    {
+        "input": "*(aircraft carrier)",
+        "output": "reirrac tfarcria"
+    },
+    {
+        "input": "*(airliner)",
+        "output": "renilria"
+    },
+    {
+        "input": "*(airship)",
+        "output": "pihsria"
+    },
+    {
+        "input": "*(altar)",
+        "output": "ratla"
+    },
+    {
+        "input": "*(ambulance)",
+        "output": "ecnalubma"
+    },
+    {
+        "input": "*(amphibious vehicle)",
+        "output": "elcihev suoibihpma"
+    },
+    {
+        "input": "*(analog clock)",
+        "output": "kcolc golana"
+    },
+    {
+        "input": "*(apiary)",
+        "output": "yraipa"
+    },
+    {
+        "input": "*(apron)",
+        "output": "norpa"
+    },
+    {
+        "input": "*(trash can)",
+        "output": "nac hsart"
+    },
+    {
+        "input": "*(assault rifle)",
+        "output": "elfir tluassa"
+    },
+    {
+        "input": "*(backpack)",
+        "output": "kcapkcab"
+    },
+    {
+        "input": "*(bakery)",
+        "output": "yrekab"
+    },
+    {
+        "input": "*(balance beam)",
+        "output": "maeb ecnalab"
+    },
+    {
+        "input": "*(balloon)",
+        "output": "noollab"
+    },
+    {
+        "input": "*(ballpoint pen)",
+        "output": "nep tniopllab"
+    },
+    {
+        "input": "*(Band-Aid)",
+        "output": "diA-dnaB"
+    },
+    {
+        "input": "*(banjo)",
+        "output": "ojnab"
+    },
+    {
+        "input": "*(baluster / handrail)",
+        "output": "liardnah / retsulab"
+    },
+    {
+        "input": "*(barbell)",
+        "output": "llebrab"
+    },
+    {
+        "input": "*(barber chair)",
+        "output": "riahc rebrab"
+    },
+    {
+        "input": "*(barbershop)",
+        "output": "pohsrebrab"
+    },
+    {
+        "input": "*(barn)",
+        "output": "nrab"
+    },
+    {
+        "input": "*(barometer)",
+        "output": "retemorab"
+    },
+    {
+        "input": "*(barrel)",
+        "output": "lerrab"
+    },
+    {
+        "input": "*(wheelbarrow)",
+        "output": "worrableehw"
+    },
+    {
+        "input": "*(baseball)",
+        "output": "llabesab"
+    },
+    {
+        "input": "*(basketball)",
+        "output": "llabteksab"
+    },
+    {
+        "input": "*(bassinet)",
+        "output": "tenissab"
+    },
+    {
+        "input": "*(bassoon)",
+        "output": "noossab"
+    },
+    {
+        "input": "*(swimming cap)",
+        "output": "pac gnimmiws"
+    },
+    {
+        "input": "*(bath towel)",
+        "output": "lewot htab"
+    },
+    {
+        "input": "*(bathtub)",
+        "output": "buthtab"
+    },
+    {
+        "input": "*(station wagon)",
+        "output": "nogaw noitats"
+    },
+    {
+        "input": "*(lighthouse)",
+        "output": "esuohthgil"
+    },
+    {
+        "input": "*(beaker)",
+        "output": "rekaeb"
+    },
+    {
+        "input": "*(military hat (bearskin or shako))",
+        "output": ")okahs ro niksraeb( tah yratilim"
+    },
+    {
+        "input": "*(beer bottle)",
+        "output": "elttob reeb"
+    },
+    {
+        "input": "*(beer glass)",
+        "output": "ssalg reeb"
+    },
+    {
+        "input": "*(bell tower)",
+        "output": "rewot lleb"
+    },
+    {
+        "input": "*(baby bib)",
+        "output": "bib ybab"
+    },
+    {
+        "input": "*(tandem bicycle)",
+        "output": "elcycib mednat"
+    },
+    {
+        "input": "*(bikini)",
+        "output": "inikib"
+    },
+    {
+        "input": "*(ring binder)",
+        "output": "rednib gnir"
+    },
+    {
+        "input": "*(binoculars)",
+        "output": "sraluconib"
+    },
+    {
+        "input": "*(birdhouse)",
+        "output": "esuohdrib"
+    },
+    {
+        "input": "*(boathouse)",
+        "output": "esuohtaob"
+    },
+    {
+        "input": "*(bobsleigh)",
+        "output": "hgielsbob"
+    },
+    {
+        "input": "*(bolo tie)",
+        "output": "eit olob"
+    },
+    {
+        "input": "*(poke bonnet)",
+        "output": "tennob ekop"
+    },
+    {
+        "input": "*(bookcase)",
+        "output": "esackoob"
+    },
+    {
+        "input": "*(bookstore)",
+        "output": "erotskoob"
+    },
+    {
+        "input": "*(bottle cap)",
+        "output": "pac elttob"
+    },
+    {
+        "input": "*(hunting bow)",
+        "output": "wob gnitnuh"
+    },
+    {
+        "input": "*(bow tie)",
+        "output": "eit wob"
+    },
+    {
+        "input": "*(brass memorial plaque)",
+        "output": "euqalp lairomem ssarb"
+    },
+    {
+        "input": "*(bra)",
+        "output": "arb"
+    },
+    {
+        "input": "*(breakwater)",
+        "output": "retawkaerb"
+    },
+    {
+        "input": "*(breastplate)",
+        "output": "etalptsaerb"
+    },
+    {
+        "input": "*(broom)",
+        "output": "moorb"
+    },
+    {
+        "input": "*(bucket)",
+        "output": "tekcub"
+    },
+    {
+        "input": "*(buckle)",
+        "output": "elkcub"
+    },
+    {
+        "input": "*(bulletproof vest)",
+        "output": "tsev foorptellub"
+    },
+    {
+        "input": "*(high-speed train)",
+        "output": "niart deeps-hgih"
+    },
+    {
+        "input": "*(butcher shop)",
+        "output": "pohs rehctub"
+    },
+    {
+        "input": "*(taxicab)",
+        "output": "bacixat"
+    },
+    {
+        "input": "*(cauldron)",
+        "output": "nordluac"
+    },
+    {
+        "input": "*(candle)",
+        "output": "eldnac"
+    },
+    {
+        "input": "*(cannon)",
+        "output": "nonnac"
+    },
+    {
+        "input": "*(canoe)",
+        "output": "eonac"
+    },
+    {
+        "input": "*(can opener)",
+        "output": "renepo nac"
+    },
+    {
+        "input": "*(cardigan)",
+        "output": "nagidrac"
+    },
+    {
+        "input": "*(car mirror)",
+        "output": "rorrim rac"
+    },
+    {
+        "input": "*(carousel)",
+        "output": "lesuorac"
+    },
+    {
+        "input": "*(tool kit)",
+        "output": "tik loot"
+    },
+    {
+        "input": "*(cardboard box / carton)",
+        "output": "notrac / xob draobdrac"
+    },
+    {
+        "input": "*(car wheel)",
+        "output": "leehw rac"
+    },
+    {
+        "input": "*(automated teller machine)",
+        "output": "enihcam rellet detamotua"
+    },
+    {
+        "input": "*(cassette)",
+        "output": "ettessac"
+    },
+    {
+        "input": "*(cassette player)",
+        "output": "reyalp ettessac"
+    },
+    {
+        "input": "*(castle)",
+        "output": "eltsac"
+    },
+    {
+        "input": "*(catamaran)",
+        "output": "naramatac"
+    },
+    {
+        "input": "*(CD player)",
+        "output": "reyalp DC"
+    },
+    {
+        "input": "*(cello)",
+        "output": "ollec"
+    },
+    {
+        "input": "*(mobile phone)",
+        "output": "enohp elibom"
+    },
+    {
+        "input": "*(chain)",
+        "output": "niahc"
+    },
+    {
+        "input": "*(chain-link fence)",
+        "output": "ecnef knil-niahc"
+    },
+    {
+        "input": "*(chain mail)",
+        "output": "liam niahc"
+    },
+    {
+        "input": "*(chainsaw)",
+        "output": "wasniahc"
+    },
+    {
+        "input": "*(storage chest)",
+        "output": "tsehc egarots"
+    },
+    {
+        "input": "*(chiffonier)",
+        "output": "reinoffihc"
+    },
+    {
+        "input": "*(bell or wind chime)",
+        "output": "emihc dniw ro lleb"
+    },
+    {
+        "input": "*(china cabinet)",
+        "output": "tenibac anihc"
+    },
+    {
+        "input": "*(Christmas stocking)",
+        "output": "gnikcots samtsirhC"
+    },
+    {
+        "input": "*(church)",
+        "output": "hcruhc"
+    },
+    {
+        "input": "*(movie theater)",
+        "output": "retaeht eivom"
+    },
+    {
+        "input": "*(cleaver)",
+        "output": "revaelc"
+    },
+    {
+        "input": "*(cliff dwelling)",
+        "output": "gnillewd ffilc"
+    },
+    {
+        "input": "*(cloak)",
+        "output": "kaolc"
+    },
+    {
+        "input": "*(clogs)",
+        "output": "sgolc"
+    },
+    {
+        "input": "*(cocktail shaker)",
+        "output": "rekahs liatkcoc"
+    },
+    {
+        "input": "*(coffee mug)",
+        "output": "gum eeffoc"
+    },
+    {
+        "input": "*(coffeemaker)",
+        "output": "rekameeffoc"
+    },
+    {
+        "input": "*(spiral or coil)",
+        "output": "lioc ro larips"
+    },
+    {
+        "input": "*(combination lock)",
+        "output": "kcol noitanibmoc"
+    },
+    {
+        "input": "*(computer keyboard)",
+        "output": "draobyek retupmoc"
+    },
+    {
+        "input": "*(candy store)",
+        "output": "erots ydnac"
+    },
+    {
+        "input": "*(container ship)",
+        "output": "pihs reniatnoc"
+    },
+    {
+        "input": "*(convertible)",
+        "output": "elbitrevnoc"
+    },
+    {
+        "input": "*(corkscrew)",
+        "output": "wercskroc"
+    },
+    {
+        "input": "*(cornet)",
+        "output": "tenroc"
+    },
+    {
+        "input": "*(cowboy boot)",
+        "output": "toob yobwoc"
+    },
+    {
+        "input": "*(cowboy hat)",
+        "output": "tah yobwoc"
+    },
+    {
+        "input": "*(cradle)",
+        "output": "eldarc"
+    },
+    {
+        "input": "*(construction crane)",
+        "output": "enarc noitcurtsnoc"
+    },
+    {
+        "input": "*(crash helmet)",
+        "output": "temleh hsarc"
+    },
+    {
+        "input": "*(crate)",
+        "output": "etarc"
+    },
+    {
+        "input": "*(infant bed)",
+        "output": "deb tnafni"
+    },
+    {
+        "input": "*(Crock Pot)",
+        "output": "toP kcorC"
+    },
+    {
+        "input": "*(croquet ball)",
+        "output": "llab teuqorc"
+    },
+    {
+        "input": "*(crutch)",
+        "output": "hcturc"
+    },
+    {
+        "input": "*(cuirass)",
+        "output": "ssariuc"
+    },
+    {
+        "input": "*(dam)",
+        "output": "mad"
+    },
+    {
+        "input": "*(desk)",
+        "output": "ksed"
+    },
+    {
+        "input": "*(desktop computer)",
+        "output": "retupmoc potksed"
+    },
+    {
+        "input": "*(rotary dial telephone)",
+        "output": "enohpelet laid yrator"
+    },
+    {
+        "input": "*(diaper)",
+        "output": "repaid"
+    },
+    {
+        "input": "*(digital clock)",
+        "output": "kcolc latigid"
+    },
+    {
+        "input": "*(digital watch)",
+        "output": "hctaw latigid"
+    },
+    {
+        "input": "*(dining table)",
+        "output": "elbat gninid"
+    },
+    {
+        "input": "*(dishcloth)",
+        "output": "htolchsid"
+    },
+    {
+        "input": "*(dishwasher)",
+        "output": "rehsawhsid"
+    },
+    {
+        "input": "*(disc brake)",
+        "output": "ekarb csid"
+    },
+    {
+        "input": "*(dock)",
+        "output": "kcod"
+    },
+    {
+        "input": "*(dog sled)",
+        "output": "dels god"
+    },
+    {
+        "input": "*(dome)",
+        "output": "emod"
+    },
+    {
+        "input": "*(doormat)",
+        "output": "tamrood"
+    },
+    {
+        "input": "*(drilling rig)",
+        "output": "gir gnillird"
+    },
+    {
+        "input": "*(drum)",
+        "output": "murd"
+    },
+    {
+        "input": "*(drumstick)",
+        "output": "kcitsmurd"
+    },
+    {
+        "input": "*(dumbbell)",
+        "output": "llebbmud"
+    },
+    {
+        "input": "*(Dutch oven)",
+        "output": "nevo hctuD"
+    },
+    {
+        "input": "*(electric fan)",
+        "output": "naf cirtcele"
+    },
+    {
+        "input": "*(electric guitar)",
+        "output": "ratiug cirtcele"
+    },
+    {
+        "input": "*(electric locomotive)",
+        "output": "evitomocol cirtcele"
+    },
+    {
+        "input": "*(entertainment center)",
+        "output": "retnec tnemniatretne"
+    },
+    {
+        "input": "*(envelope)",
+        "output": "epolevne"
+    },
+    {
+        "input": "*(espresso machine)",
+        "output": "enihcam osserpse"
+    },
+    {
+        "input": "*(face powder)",
+        "output": "redwop ecaf"
+    },
+    {
+        "input": "*(feather boa)",
+        "output": "aob rehtaef"
+    },
+    {
+        "input": "*(filing cabinet)",
+        "output": "tenibac gnilif"
+    },
+    {
+        "input": "*(fireboat)",
+        "output": "taoberif"
+    },
+    {
+        "input": "*(fire truck)",
+        "output": "kcurt erif"
+    },
+    {
+        "input": "*(fire screen)",
+        "output": "neercs erif"
+    },
+    {
+        "input": "*(flagpole)",
+        "output": "elopgalf"
+    },
+    {
+        "input": "*(flute)",
+        "output": "etulf"
+    },
+    {
+        "input": "*(folding chair)",
+        "output": "riahc gnidlof"
+    },
+    {
+        "input": "*(football helmet)",
+        "output": "temleh llabtoof"
+    },
+    {
+        "input": "*(forklift)",
+        "output": "tfilkrof"
+    },
+    {
+        "input": "*(fountain)",
+        "output": "niatnuof"
+    },
+    {
+        "input": "*(fountain pen)",
+        "output": "nep niatnuof"
+    },
+    {
+        "input": "*(four-poster bed)",
+        "output": "deb retsop-ruof"
+    },
+    {
+        "input": "*(freight car)",
+        "output": "rac thgierf"
+    },
+    {
+        "input": "*(French horn)",
+        "output": "nroh hcnerF"
+    },
+    {
+        "input": "*(frying pan)",
+        "output": "nap gniyrf"
+    },
+    {
+        "input": "*(fur coat)",
+        "output": "taoc ruf"
+    },
+    {
+        "input": "*(garbage truck)",
+        "output": "kcurt egabrag"
+    },
+    {
+        "input": "*(gas mask or respirator)",
+        "output": "rotaripser ro ksam sag"
+    },
+    {
+        "input": "*(gas pump)",
+        "output": "pmup sag"
+    },
+    {
+        "input": "*(goblet)",
+        "output": "telbog"
+    },
+    {
+        "input": "*(go-kart)",
+        "output": "trak-og"
+    },
+    {
+        "input": "*(golf ball)",
+        "output": "llab flog"
+    },
+    {
+        "input": "*(golf cart)",
+        "output": "trac flog"
+    },
+    {
+        "input": "*(gondola)",
+        "output": "alodnog"
+    },
+    {
+        "input": "*(gong)",
+        "output": "gnog"
+    },
+    {
+        "input": "*(gown)",
+        "output": "nwog"
+    },
+    {
+        "input": "*(grand piano)",
+        "output": "onaip dnarg"
+    },
+    {
+        "input": "*(greenhouse)",
+        "output": "esuohneerg"
+    },
+    {
+        "input": "*(radiator grille)",
+        "output": "ellirg rotaidar"
+    },
+    {
+        "input": "*(grocery store)",
+        "output": "erots yrecorg"
+    },
+    {
+        "input": "*(guillotine)",
+        "output": "enitolliug"
+    },
+    {
+        "input": "*(hair clip)",
+        "output": "pilc riah"
+    },
+    {
+        "input": "*(hair spray)",
+        "output": "yarps riah"
+    },
+    {
+        "input": "*(half-track)",
+        "output": "kcart-flah"
+    },
+    {
+        "input": "*(hammer)",
+        "output": "remmah"
+    },
+    {
+        "input": "*(hamper)",
+        "output": "repmah"
+    },
+    {
+        "input": "*(hair dryer)",
+        "output": "reyrd riah"
+    },
+    {
+        "input": "*(hand-held computer)",
+        "output": "retupmoc dleh-dnah"
+    },
+    {
+        "input": "*(handkerchief)",
+        "output": "feihcrekdnah"
+    },
+    {
+        "input": "*(hard disk drive)",
+        "output": "evird ksid drah"
+    },
+    {
+        "input": "*(harmonica)",
+        "output": "acinomrah"
+    },
+    {
+        "input": "*(harp)",
+        "output": "prah"
+    },
+    {
+        "input": "*(combine harvester)",
+        "output": "retsevrah enibmoc"
+    },
+    {
+        "input": "*(hatchet)",
+        "output": "tehctah"
+    },
+    {
+        "input": "*(holster)",
+        "output": "retsloh"
+    },
+    {
+        "input": "*(home theater)",
+        "output": "retaeht emoh"
+    },
+    {
+        "input": "*(honeycomb)",
+        "output": "bmocyenoh"
+    },
+    {
+        "input": "*(hook)",
+        "output": "kooh"
+    },
+    {
+        "input": "*(hoop skirt)",
+        "output": "triks pooh"
+    },
+    {
+        "input": "*(gymnastic horizontal bar)",
+        "output": "rab latnoziroh citsanmyg"
+    },
+    {
+        "input": "*(horse-drawn vehicle)",
+        "output": "elcihev nward-esroh"
+    },
+    {
+        "input": "*(hourglass)",
+        "output": "ssalgruoh"
+    },
+    {
+        "input": "*(iPod)",
+        "output": "doPi"
+    },
+    {
+        "input": "*(clothes iron)",
+        "output": "nori sehtolc"
+    },
+    {
+        "input": "*(carved pumpkin)",
+        "output": "nikpmup devrac"
+    },
+    {
+        "input": "*(jeans)",
+        "output": "snaej"
+    },
+    {
+        "input": "*(jeep)",
+        "output": "peej"
+    },
+    {
+        "input": "*(T-shirt)",
+        "output": "trihs-T"
+    },
+    {
+        "input": "*(jigsaw puzzle)",
+        "output": "elzzup wasgij"
+    },
+    {
+        "input": "*(rickshaw)",
+        "output": "wahskcir"
+    },
+    {
+        "input": "*(joystick)",
+        "output": "kcitsyoj"
+    },
+    {
+        "input": "*(kimono)",
+        "output": "onomik"
+    },
+    {
+        "input": "*(knee pad)",
+        "output": "dap eenk"
+    },
+    {
+        "input": "*(knot)",
+        "output": "tonk"
+    },
+    {
+        "input": "*(lab coat)",
+        "output": "taoc bal"
+    },
+    {
+        "input": "*(ladle)",
+        "output": "eldal"
+    },
+    {
+        "input": "*(lampshade)",
+        "output": "edahspmal"
+    },
+    {
+        "input": "*(laptop computer)",
+        "output": "retupmoc potpal"
+    },
+    {
+        "input": "*(lawn mower)",
+        "output": "rewom nwal"
+    },
+    {
+        "input": "*(lens cap)",
+        "output": "pac snel"
+    },
+    {
+        "input": "*(letter opener)",
+        "output": "renepo rettel"
+    },
+    {
+        "input": "*(library)",
+        "output": "yrarbil"
+    },
+    {
+        "input": "*(lifeboat)",
+        "output": "taobefil"
+    },
+    {
+        "input": "*(lighter)",
+        "output": "rethgil"
+    },
+    {
+        "input": "*(limousine)",
+        "output": "enisuomil"
+    },
+    {
+        "input": "*(ocean liner)",
+        "output": "renil naeco"
+    },
+    {
+        "input": "*(lipstick)",
+        "output": "kcitspil"
+    },
+    {
+        "input": "*(slip-on shoe)",
+        "output": "eohs no-pils"
+    },
+    {
+        "input": "*(lotion)",
+        "output": "noitol"
+    },
+    {
+        "input": "*(music speaker)",
+        "output": "rekaeps cisum"
+    },
+    {
+        "input": "*(loupe magnifying glass)",
+        "output": "ssalg gniyfingam epuol"
+    },
+    {
+        "input": "*(sawmill)",
+        "output": "llimwas"
+    },
+    {
+        "input": "*(magnetic compass)",
+        "output": "ssapmoc citengam"
+    },
+    {
+        "input": "*(messenger bag)",
+        "output": "gab regnessem"
+    },
+    {
+        "input": "*(mailbox)",
+        "output": "xobliam"
+    },
+    {
+        "input": "*(tights)",
+        "output": "sthgit"
+    },
+    {
+        "input": "*(one-piece bathing suit)",
+        "output": "tius gnihtab eceip-eno"
+    },
+    {
+        "input": "*(manhole cover)",
+        "output": "revoc elohnam"
+    },
+    {
+        "input": "*(maraca)",
+        "output": "acaram"
+    },
+    {
+        "input": "*(marimba)",
+        "output": "abmiram"
+    },
+    {
+        "input": "*(mask)",
+        "output": "ksam"
+    },
+    {
+        "input": "*(matchstick)",
+        "output": "kcitshctam"
+    },
+    {
+        "input": "*(maypole)",
+        "output": "elopyam"
+    },
+    {
+        "input": "*(maze)",
+        "output": "ezam"
+    },
+    {
+        "input": "*(measuring cup)",
+        "output": "puc gnirusaem"
+    },
+    {
+        "input": "*(medicine cabinet)",
+        "output": "tenibac enicidem"
+    },
+    {
+        "input": "*(megalith)",
+        "output": "htilagem"
+    },
+    {
+        "input": "*(microphone)",
+        "output": "enohporcim"
+    },
+    {
+        "input": "*(microwave oven)",
+        "output": "nevo evaworcim"
+    },
+    {
+        "input": "*(military uniform)",
+        "output": "mrofinu yratilim"
+    },
+    {
+        "input": "*(milk can)",
+        "output": "nac klim"
+    },
+    {
+        "input": "*(minibus)",
+        "output": "subinim"
+    },
+    {
+        "input": "*(miniskirt)",
+        "output": "triksinim"
+    },
+    {
+        "input": "*(minivan)",
+        "output": "navinim"
+    },
+    {
+        "input": "*(missile)",
+        "output": "elissim"
+    },
+    {
+        "input": "*(mitten)",
+        "output": "nettim"
+    },
+    {
+        "input": "*(mixing bowl)",
+        "output": "lwob gnixim"
+    },
+    {
+        "input": "*(mobile home)",
+        "output": "emoh elibom"
+    },
+    {
+        "input": "*(ford model t)",
+        "output": "t ledom drof"
+    },
+    {
+        "input": "*(modem)",
+        "output": "medom"
+    },
+    {
+        "input": "*(monastery)",
+        "output": "yretsanom"
+    },
+    {
+        "input": "*(monitor)",
+        "output": "rotinom"
+    },
+    {
+        "input": "*(moped)",
+        "output": "depom"
+    },
+    {
+        "input": "*(mortar and pestle)",
+        "output": "eltsep dna ratrom"
+    },
+    {
+        "input": "*(graduation cap)",
+        "output": "pac noitaudarg"
+    },
+    {
+        "input": "*(mosque)",
+        "output": "euqsom"
+    },
+    {
+        "input": "*(mosquito net)",
+        "output": "ten otiuqsom"
+    },
+    {
+        "input": "*(vespa)",
+        "output": "apsev"
+    },
+    {
+        "input": "*(mountain bike)",
+        "output": "ekib niatnuom"
+    },
+    {
+        "input": "*(tent)",
+        "output": "tnet"
+    },
+    {
+        "input": "*(computer mouse)",
+        "output": "esuom retupmoc"
+    },
+    {
+        "input": "*(mousetrap)",
+        "output": "partesuom"
+    },
+    {
+        "input": "*(moving van)",
+        "output": "nav gnivom"
+    },
+    {
+        "input": "*(muzzle)",
+        "output": "elzzum"
+    },
+    {
+        "input": "*(metal nail)",
+        "output": "lian latem"
+    },
+    {
+        "input": "*(neck brace)",
+        "output": "ecarb kcen"
+    },
+    {
+        "input": "*(necklace)",
+        "output": "ecalkcen"
+    },
+    {
+        "input": "*(baby pacifier)",
+        "output": "reificap ybab"
+    },
+    {
+        "input": "*(notebook computer)",
+        "output": "retupmoc koobeton"
+    },
+    {
+        "input": "*(obelisk)",
+        "output": "ksilebo"
+    },
+    {
+        "input": "*(oboe)",
+        "output": "eobo"
+    },
+    {
+        "input": "*(ocarina)",
+        "output": "aniraco"
+    },
+    {
+        "input": "*(odometer)",
+        "output": "retemodo"
+    },
+    {
+        "input": "*(oil filter)",
+        "output": "retlif lio"
+    },
+    {
+        "input": "*(pipe organ)",
+        "output": "nagro epip"
+    },
+    {
+        "input": "*(oscilloscope)",
+        "output": "epocsollicso"
+    },
+    {
+        "input": "*(overskirt)",
+        "output": "triksrevo"
+    },
+    {
+        "input": "*(bullock cart)",
+        "output": "trac kcollub"
+    },
+    {
+        "input": "*(oxygen mask)",
+        "output": "ksam negyxo"
+    },
+    {
+        "input": "*(product packet / packaging)",
+        "output": "gnigakcap / tekcap tcudorp"
+    },
+    {
+        "input": "*(paddle)",
+        "output": "elddap"
+    },
+    {
+        "input": "*(paddle wheel)",
+        "output": "leehw elddap"
+    },
+    {
+        "input": "*(padlock)",
+        "output": "kcoldap"
+    },
+    {
+        "input": "*(paintbrush)",
+        "output": "hsurbtniap"
+    },
+    {
+        "input": "*(pajamas)",
+        "output": "samajap"
+    },
+    {
+        "input": "*(palace)",
+        "output": "ecalap"
+    },
+    {
+        "input": "*(pan flute)",
+        "output": "etulf nap"
+    },
+    {
+        "input": "*(paper towel)",
+        "output": "lewot repap"
+    },
+    {
+        "input": "*(parachute)",
+        "output": "etuhcarap"
+    },
+    {
+        "input": "*(parallel bars)",
+        "output": "srab lellarap"
+    },
+    {
+        "input": "*(park bench)",
+        "output": "hcneb krap"
+    },
+    {
+        "input": "*(parking meter)",
+        "output": "retem gnikrap"
+    },
+    {
+        "input": "*(railroad car)",
+        "output": "rac daorliar"
+    },
+    {
+        "input": "*(patio)",
+        "output": "oitap"
+    },
+    {
+        "input": "*(payphone)",
+        "output": "enohpyap"
+    },
+    {
+        "input": "*(pedestal)",
+        "output": "latsedep"
+    },
+    {
+        "input": "*(pencil case)",
+        "output": "esac licnep"
+    },
+    {
+        "input": "*(pencil sharpener)",
+        "output": "reneprahs licnep"
+    },
+    {
+        "input": "*(perfume)",
+        "output": "emufrep"
+    },
+    {
+        "input": "*(Petri dish)",
+        "output": "hsid irteP"
+    },
+    {
+        "input": "*(photocopier)",
+        "output": "reipocotohp"
+    },
+    {
+        "input": "*(plectrum)",
+        "output": "murtcelp"
+    },
+    {
+        "input": "*(Pickelhaube)",
+        "output": "ebuahlekciP"
+    },
+    {
+        "input": "*(picket fence)",
+        "output": "ecnef tekcip"
+    },
+    {
+        "input": "*(pickup truck)",
+        "output": "kcurt pukcip"
+    },
+    {
+        "input": "*(pier)",
+        "output": "reip"
+    },
+    {
+        "input": "*(piggy bank)",
+        "output": "knab yggip"
+    },
+    {
+        "input": "*(pill bottle)",
+        "output": "elttob llip"
+    },
+    {
+        "input": "*(pillow)",
+        "output": "wollip"
+    },
+    {
+        "input": "*(ping-pong ball)",
+        "output": "llab gnop-gnip"
+    },
+    {
+        "input": "*(pinwheel)",
+        "output": "leehwnip"
+    },
+    {
+        "input": "*(pirate ship)",
+        "output": "pihs etarip"
+    },
+    {
+        "input": "*(drink pitcher)",
+        "output": "rehctip knird"
+    },
+    {
+        "input": "*(block plane)",
+        "output": "enalp kcolb"
+    },
+    {
+        "input": "*(planetarium)",
+        "output": "muiratenalp"
+    },
+    {
+        "input": "*(plastic bag)",
+        "output": "gab citsalp"
+    },
+    {
+        "input": "*(plate rack)",
+        "output": "kcar etalp"
+    },
+    {
+        "input": "*(farm plow)",
+        "output": "wolp mraf"
+    },
+    {
+        "input": "*(plunger)",
+        "output": "regnulp"
+    },
+    {
+        "input": "*(Polaroid camera)",
+        "output": "aremac dioraloP"
+    },
+    {
+        "input": "*(pole)",
+        "output": "elop"
+    },
+    {
+        "input": "*(police van)",
+        "output": "nav ecilop"
+    },
+    {
+        "input": "*(poncho)",
+        "output": "ohcnop"
+    },
+    {
+        "input": "*(pool table)",
+        "output": "elbat loop"
+    },
+    {
+        "input": "*(soda bottle)",
+        "output": "elttob ados"
+    },
+    {
+        "input": "*(plant pot)",
+        "output": "top tnalp"
+    },
+    {
+        "input": "*(potter's wheel)",
+        "output": "leehw s'rettop"
+    },
+    {
+        "input": "*(power drill)",
+        "output": "llird rewop"
+    },
+    {
+        "input": "*(prayer rug)",
+        "output": "gur reyarp"
+    },
+    {
+        "input": "*(printer)",
+        "output": "retnirp"
+    },
+    {
+        "input": "*(prison)",
+        "output": "nosirp"
+    },
+    {
+        "input": "*(projectile)",
+        "output": "elitcejorp"
+    },
+    {
+        "input": "*(projector)",
+        "output": "rotcejorp"
+    },
+    {
+        "input": "*(hockey puck)",
+        "output": "kcup yekcoh"
+    },
+    {
+        "input": "*(punching bag)",
+        "output": "gab gnihcnup"
+    },
+    {
+        "input": "*(purse)",
+        "output": "esrup"
+    },
+    {
+        "input": "*(quill)",
+        "output": "lliuq"
+    },
+    {
+        "input": "*(quilt)",
+        "output": "tliuq"
+    },
+    {
+        "input": "*(race car)",
+        "output": "rac ecar"
+    },
+    {
+        "input": "*(racket)",
+        "output": "tekcar"
+    },
+    {
+        "input": "*(radiator)",
+        "output": "rotaidar"
+    },
+    {
+        "input": "*(radio)",
+        "output": "oidar"
+    },
+    {
+        "input": "*(radio telescope)",
+        "output": "epocselet oidar"
+    },
+    {
+        "input": "*(rain barrel)",
+        "output": "lerrab niar"
+    },
+    {
+        "input": "*(recreational vehicle)",
+        "output": "elcihev lanoitaercer"
+    },
+    {
+        "input": "*(fishing casting reel)",
+        "output": "leer gnitsac gnihsif"
+    },
+    {
+        "input": "*(reflex camera)",
+        "output": "aremac xelfer"
+    },
+    {
+        "input": "*(refrigerator)",
+        "output": "rotaregirfer"
+    },
+    {
+        "input": "*(remote control)",
+        "output": "lortnoc etomer"
+    },
+    {
+        "input": "*(restaurant)",
+        "output": "tnaruatser"
+    },
+    {
+        "input": "*(revolver)",
+        "output": "revlover"
+    },
+    {
+        "input": "*(rifle)",
+        "output": "elfir"
+    },
+    {
+        "input": "*(rocking chair)",
+        "output": "riahc gnikcor"
+    },
+    {
+        "input": "*(rotisserie)",
+        "output": "eiressitor"
+    },
+    {
+        "input": "*(eraser)",
+        "output": "resare"
+    },
+    {
+        "input": "*(rugby ball)",
+        "output": "llab ybgur"
+    },
+    {
+        "input": "*(ruler measuring stick)",
+        "output": "kcits gnirusaem relur"
+    },
+    {
+        "input": "*(sneaker)",
+        "output": "rekaens"
+    },
+    {
+        "input": "*(safe)",
+        "output": "efas"
+    },
+    {
+        "input": "*(safety pin)",
+        "output": "nip ytefas"
+    },
+    {
+        "input": "*(salt shaker)",
+        "output": "rekahs tlas"
+    },
+    {
+        "input": "*(sandal)",
+        "output": "ladnas"
+    },
+    {
+        "input": "*(sarong)",
+        "output": "gnoras"
+    },
+    {
+        "input": "*(saxophone)",
+        "output": "enohpoxas"
+    },
+    {
+        "input": "*(scabbard)",
+        "output": "drabbacs"
+    },
+    {
+        "input": "*(weighing scale)",
+        "output": "elacs gnihgiew"
+    },
+    {
+        "input": "*(school bus)",
+        "output": "sub loohcs"
+    },
+    {
+        "input": "*(schooner)",
+        "output": "renoohcs"
+    },
+    {
+        "input": "*(scoreboard)",
+        "output": "draoberocs"
+    },
+    {
+        "input": "*(CRT monitor)",
+        "output": "rotinom TRC"
+    },
+    {
+        "input": "*(screw)",
+        "output": "wercs"
+    },
+    {
+        "input": "*(screwdriver)",
+        "output": "revirdwercs"
+    },
+    {
+        "input": "*(seat belt)",
+        "output": "tleb taes"
+    },
+    {
+        "input": "*(sewing machine)",
+        "output": "enihcam gniwes"
+    },
+    {
+        "input": "*(shield)",
+        "output": "dleihs"
+    },
+    {
+        "input": "*(shoe store)",
+        "output": "erots eohs"
+    },
+    {
+        "input": "*(shoji screen / room divider)",
+        "output": "redivid moor / neercs ijohs"
+    },
+    {
+        "input": "*(shopping basket)",
+        "output": "teksab gnippohs"
+    },
+    {
+        "input": "*(shopping cart)",
+        "output": "trac gnippohs"
+    },
+    {
+        "input": "*(shovel)",
+        "output": "levohs"
+    },
+    {
+        "input": "*(shower cap)",
+        "output": "pac rewohs"
+    },
+    {
+        "input": "*(shower curtain)",
+        "output": "niatruc rewohs"
+    },
+    {
+        "input": "*(ski)",
+        "output": "iks"
+    },
+    {
+        "input": "*(balaclava ski mask)",
+        "output": "ksam iks avalcalab"
+    },
+    {
+        "input": "*(sleeping bag)",
+        "output": "gab gnipeels"
+    },
+    {
+        "input": "*(slide rule)",
+        "output": "elur edils"
+    },
+    {
+        "input": "*(sliding door)",
+        "output": "rood gnidils"
+    },
+    {
+        "input": "*(slot machine)",
+        "output": "enihcam tols"
+    },
+    {
+        "input": "*(snorkel)",
+        "output": "lekrons"
+    },
+    {
+        "input": "*(snowmobile)",
+        "output": "elibomwons"
+    },
+    {
+        "input": "*(snowplow)",
+        "output": "wolpwons"
+    },
+    {
+        "input": "*(soap dispenser)",
+        "output": "resnepsid paos"
+    },
+    {
+        "input": "*(soccer ball)",
+        "output": "llab reccos"
+    },
+    {
+        "input": "*(sock)",
+        "output": "kcos"
+    },
+    {
+        "input": "*(solar thermal collector)",
+        "output": "rotcelloc lamreht ralos"
+    },
+    {
+        "input": "*(sombrero)",
+        "output": "orerbmos"
+    },
+    {
+        "input": "*(soup bowl)",
+        "output": "lwob puos"
+    },
+    {
+        "input": "*(keyboard space bar)",
+        "output": "rab ecaps draobyek"
+    },
+    {
+        "input": "*(space heater)",
+        "output": "retaeh ecaps"
+    },
+    {
+        "input": "*(space shuttle)",
+        "output": "elttuhs ecaps"
+    },
+    {
+        "input": "*(spatula)",
+        "output": "alutaps"
+    },
+    {
+        "input": "*(motorboat)",
+        "output": "taobrotom"
+    },
+    {
+        "input": "*(spider web)",
+        "output": "bew redips"
+    },
+    {
+        "input": "*(spindle)",
+        "output": "eldnips"
+    },
+    {
+        "input": "*(sports car)",
+        "output": "rac strops"
+    },
+    {
+        "input": "*(spotlight)",
+        "output": "thgiltops"
+    },
+    {
+        "input": "*(stage)",
+        "output": "egats"
+    },
+    {
+        "input": "*(steam locomotive)",
+        "output": "evitomocol maets"
+    },
+    {
+        "input": "*(through arch bridge)",
+        "output": "egdirb hcra hguorht"
+    },
+    {
+        "input": "*(steel drum)",
+        "output": "murd leets"
+    },
+    {
+        "input": "*(stethoscope)",
+        "output": "epocsohtets"
+    },
+    {
+        "input": "*(scarf)",
+        "output": "fracs"
+    },
+    {
+        "input": "*(stone wall)",
+        "output": "llaw enots"
+    },
+    {
+        "input": "*(stopwatch)",
+        "output": "hctawpots"
+    },
+    {
+        "input": "*(stove)",
+        "output": "evots"
+    },
+    {
+        "input": "*(strainer)",
+        "output": "reniarts"
+    },
+    {
+        "input": "*(tram)",
+        "output": "mart"
+    },
+    {
+        "input": "*(stretcher)",
+        "output": "rehcterts"
+    },
+    {
+        "input": "*(couch)",
+        "output": "hcuoc"
+    },
+    {
+        "input": "*(stupa)",
+        "output": "aputs"
+    },
+    {
+        "input": "*(submarine)",
+        "output": "enirambus"
+    },
+    {
+        "input": "*(suit)",
+        "output": "tius"
+    },
+    {
+        "input": "*(sundial)",
+        "output": "laidnus"
+    },
+    {
+        "input": "*(sunglasses)",
+        "output": "sessalgnus"
+    },
+    {
+        "input": "*(dark glasses)",
+        "output": "sessalg krad"
+    },
+    {
+        "input": "*(sunscreen)",
+        "output": "neercsnus"
+    },
+    {
+        "input": "*(suspension bridge)",
+        "output": "egdirb noisnepsus"
+    },
+    {
+        "input": "*(mop)",
+        "output": "pom"
+    },
+    {
+        "input": "*(sweatshirt)",
+        "output": "trihstaews"
+    },
+    {
+        "input": "*(swim trunks / shorts)",
+        "output": "strohs / sknurt miws"
+    },
+    {
+        "input": "*(swing)",
+        "output": "gniws"
+    },
+    {
+        "input": "*(electrical switch)",
+        "output": "hctiws lacirtcele"
+    },
+    {
+        "input": "*(syringe)",
+        "output": "egnirys"
+    },
+    {
+        "input": "*(table lamp)",
+        "output": "pmal elbat"
+    },
+    {
+        "input": "*(tank)",
+        "output": "knat"
+    },
+    {
+        "input": "*(tape player)",
+        "output": "reyalp epat"
+    },
+    {
+        "input": "*(teapot)",
+        "output": "topaet"
+    },
+    {
+        "input": "*(teddy bear)",
+        "output": "raeb yddet"
+    },
+    {
+        "input": "*(television)",
+        "output": "noisivelet"
+    },
+    {
+        "input": "*(tennis ball)",
+        "output": "llab sinnet"
+    },
+    {
+        "input": "*(thatched roof)",
+        "output": "foor dehctaht"
+    },
+    {
+        "input": "*(front curtain)",
+        "output": "niatruc tnorf"
+    },
+    {
+        "input": "*(thimble)",
+        "output": "elbmiht"
+    },
+    {
+        "input": "*(threshing machine)",
+        "output": "enihcam gnihserht"
+    },
+    {
+        "input": "*(throne)",
+        "output": "enorht"
+    },
+    {
+        "input": "*(tile roof)",
+        "output": "foor elit"
+    },
+    {
+        "input": "*(toaster)",
+        "output": "retsaot"
+    },
+    {
+        "input": "*(tobacco shop)",
+        "output": "pohs occabot"
+    },
+    {
+        "input": "*(toilet seat)",
+        "output": "taes teliot"
+    },
+    {
+        "input": "*(torch)",
+        "output": "hcrot"
+    },
+    {
+        "input": "*(totem pole)",
+        "output": "elop metot"
+    },
+    {
+        "input": "*(tow truck)",
+        "output": "kcurt wot"
+    },
+    {
+        "input": "*(toy store)",
+        "output": "erots yot"
+    },
+    {
+        "input": "*(tractor)",
+        "output": "rotcart"
+    },
+    {
+        "input": "*(semi-trailer truck)",
+        "output": "kcurt reliart-imes"
+    },
+    {
+        "input": "*(tray)",
+        "output": "yart"
+    },
+    {
+        "input": "*(trench coat)",
+        "output": "taoc hcnert"
+    },
+    {
+        "input": "*(tricycle)",
+        "output": "elcycirt"
+    },
+    {
+        "input": "*(trimaran)",
+        "output": "naramirt"
+    },
+    {
+        "input": "*(tripod)",
+        "output": "dopirt"
+    },
+    {
+        "input": "*(triumphal arch)",
+        "output": "hcra lahpmuirt"
+    },
+    {
+        "input": "*(trolleybus)",
+        "output": "subyellort"
+    },
+    {
+        "input": "*(trombone)",
+        "output": "enobmort"
+    },
+    {
+        "input": "*(hot tub)",
+        "output": "but toh"
+    },
+    {
+        "input": "*(turnstile)",
+        "output": "elitsnrut"
+    },
+    {
+        "input": "*(typewriter keyboard)",
+        "output": "draobyek retirwepyt"
+    },
+    {
+        "input": "*(umbrella)",
+        "output": "allerbmu"
+    },
+    {
+        "input": "*(unicycle)",
+        "output": "elcycinu"
+    },
+    {
+        "input": "*(upright piano)",
+        "output": "onaip thgirpu"
+    },
+    {
+        "input": "*(vacuum cleaner)",
+        "output": "renaelc muucav"
+    },
+    {
+        "input": "*(vase)",
+        "output": "esav"
+    },
+    {
+        "input": "*(vaulted or arched ceiling)",
+        "output": "gniliec dehcra ro detluav"
+    },
+    {
+        "input": "*(velvet fabric)",
+        "output": "cirbaf tevlev"
+    },
+    {
+        "input": "*(vending machine)",
+        "output": "enihcam gnidnev"
+    },
+    {
+        "input": "*(vestment)",
+        "output": "tnemtsev"
+    },
+    {
+        "input": "*(viaduct)",
+        "output": "tcudaiv"
+    },
+    {
+        "input": "*(violin)",
+        "output": "niloiv"
+    },
+    {
+        "input": "*(volleyball)",
+        "output": "llabyellov"
+    },
+    {
+        "input": "*(waffle iron)",
+        "output": "nori elffaw"
+    },
+    {
+        "input": "*(wall clock)",
+        "output": "kcolc llaw"
+    },
+    {
+        "input": "*(wallet)",
+        "output": "tellaw"
+    },
+    {
+        "input": "*(wardrobe)",
+        "output": "ebordraw"
+    },
+    {
+        "input": "*(military aircraft)",
+        "output": "tfarcria yratilim"
+    },
+    {
+        "input": "*(sink)",
+        "output": "knis"
+    },
+    {
+        "input": "*(washing machine)",
+        "output": "enihcam gnihsaw"
+    },
+    {
+        "input": "*(water bottle)",
+        "output": "elttob retaw"
+    },
+    {
+        "input": "*(water jug)",
+        "output": "guj retaw"
+    },
+    {
+        "input": "*(water tower)",
+        "output": "rewot retaw"
+    },
+    {
+        "input": "*(whiskey jug)",
+        "output": "guj yeksihw"
+    },
+    {
+        "input": "*(whistle)",
+        "output": "eltsihw"
+    },
+    {
+        "input": "*(hair wig)",
+        "output": "giw riah"
+    },
+    {
+        "input": "*(window screen)",
+        "output": "neercs wodniw"
+    },
+    {
+        "input": "*(window shade)",
+        "output": "edahs wodniw"
+    },
+    {
+        "input": "*(Windsor tie)",
+        "output": "eit rosdniW"
+    },
+    {
+        "input": "*(wine bottle)",
+        "output": "elttob eniw"
+    },
+    {
+        "input": "*(airplane wing)",
+        "output": "gniw enalpria"
+    },
+    {
+        "input": "*(wok)",
+        "output": "kow"
+    },
+    {
+        "input": "*(wooden spoon)",
+        "output": "noops nedoow"
+    },
+    {
+        "input": "*(wool)",
+        "output": "loow"
+    },
+    {
+        "input": "*(split-rail fence)",
+        "output": "ecnef liar-tilps"
+    },
+    {
+        "input": "*(shipwreck)",
+        "output": "kcerwpihs"
+    },
+    {
+        "input": "*(sailboat)",
+        "output": "taoblias"
+    },
+    {
+        "input": "*(yurt)",
+        "output": "truy"
+    },
+    {
+        "input": "*(website)",
+        "output": "etisbew"
+    },
+    {
+        "input": "*(comic book)",
+        "output": "koob cimoc"
+    },
+    {
+        "input": "*(crossword)",
+        "output": "drowssorc"
+    },
+    {
+        "input": "*(traffic or street sign)",
+        "output": "ngis teerts ro ciffart"
+    },
+    {
+        "input": "*(traffic light)",
+        "output": "thgil ciffart"
+    },
+    {
+        "input": "*(dust jacket)",
+        "output": "tekcaj tsud"
+    },
+    {
+        "input": "*(menu)",
+        "output": "unem"
+    },
+    {
+        "input": "*(plate)",
+        "output": "etalp"
+    },
+    {
+        "input": "*(guacamole)",
+        "output": "elomacaug"
+    },
+    {
+        "input": "*(consomme)",
+        "output": "emmosnoc"
+    },
+    {
+        "input": "*(hot pot)",
+        "output": "top toh"
+    },
+    {
+        "input": "*(trifle)",
+        "output": "elfirt"
+    },
+    {
+        "input": "*(ice cream)",
+        "output": "maerc eci"
+    },
+    {
+        "input": "*(popsicle)",
+        "output": "elcispop"
+    },
+    {
+        "input": "*(baguette)",
+        "output": "etteugab"
+    },
+    {
+        "input": "*(bagel)",
+        "output": "legab"
+    },
+    {
+        "input": "*(pretzel)",
+        "output": "lezterp"
+    },
+    {
+        "input": "*(cheeseburger)",
+        "output": "regrubeseehc"
+    },
+    {
+        "input": "*(hot dog)",
+        "output": "god toh"
+    },
+    {
+        "input": "*(mashed potatoes)",
+        "output": "seotatop dehsam"
+    },
+    {
+        "input": "*(cabbage)",
+        "output": "egabbac"
+    },
+    {
+        "input": "*(broccoli)",
+        "output": "iloccorb"
+    },
+    {
+        "input": "*(cauliflower)",
+        "output": "rewolfiluac"
+    },
+    {
+        "input": "*(zucchini)",
+        "output": "inihccuz"
+    },
+    {
+        "input": "*(spaghetti squash)",
+        "output": "hsauqs ittehgaps"
+    },
+    {
+        "input": "*(acorn squash)",
+        "output": "hsauqs nroca"
+    },
+    {
+        "input": "*(butternut squash)",
+        "output": "hsauqs tunrettub"
+    },
+    {
+        "input": "*(cucumber)",
+        "output": "rebmucuc"
+    },
+    {
+        "input": "*(artichoke)",
+        "output": "ekohcitra"
+    },
+    {
+        "input": "*(bell pepper)",
+        "output": "reppep lleb"
+    },
+    {
+        "input": "*(cardoon)",
+        "output": "noodrac"
+    },
+    {
+        "input": "*(mushroom)",
+        "output": "moorhsum"
+    },
+    {
+        "input": "*(Granny Smith apple)",
+        "output": "elppa htimS ynnarG"
+    },
+    {
+        "input": "*(strawberry)",
+        "output": "yrrebwarts"
+    },
+    {
+        "input": "*(orange)",
+        "output": "egnaro"
+    },
+    {
+        "input": "*(lemon)",
+        "output": "nomel"
+    },
+    {
+        "input": "*(fig)",
+        "output": "gif"
+    },
+    {
+        "input": "*(pineapple)",
+        "output": "elppaenip"
+    },
+    {
+        "input": "*(banana)",
+        "output": "ananab"
+    },
+    {
+        "input": "*(jackfruit)",
+        "output": "tiurfkcaj"
+    },
+    {
+        "input": "*(cherimoya (custard apple))",
+        "output": ")elppa dratsuc( ayomirehc"
+    },
+    {
+        "input": "*(pomegranate)",
+        "output": "etanargemop"
+    },
+    {
+        "input": "*(hay)",
+        "output": "yah"
+    },
+    {
+        "input": "*(carbonara)",
+        "output": "aranobrac"
+    },
+    {
+        "input": "*(chocolate syrup)",
+        "output": "purys etalocohc"
+    },
+    {
+        "input": "*(dough)",
+        "output": "hguod"
+    },
+    {
+        "input": "*(meatloaf)",
+        "output": "faoltaem"
+    },
+    {
+        "input": "*(pizza)",
+        "output": "azzip"
+    },
+    {
+        "input": "*(pot pie)",
+        "output": "eip top"
+    },
+    {
+        "input": "*(burrito)",
+        "output": "otirrub"
+    },
+    {
+        "input": "*(red wine)",
+        "output": "eniw der"
+    },
+    {
+        "input": "*(espresso)",
+        "output": "osserpse"
+    },
+    {
+        "input": "*(tea cup)",
+        "output": "puc aet"
+    },
+    {
+        "input": "*(eggnog)",
+        "output": "gongge"
+    },
+    {
+        "input": "*(mountain)",
+        "output": "niatnuom"
+    },
+    {
+        "input": "*(bubble)",
+        "output": "elbbub"
+    },
+    {
+        "input": "*(cliff)",
+        "output": "ffilc"
+    },
+    {
+        "input": "*(coral reef)",
+        "output": "feer laroc"
+    },
+    {
+        "input": "*(geyser)",
+        "output": "resyeg"
+    },
+    {
+        "input": "*(lakeshore)",
+        "output": "erohsekal"
+    },
+    {
+        "input": "*(promontory)",
+        "output": "yrotnomorp"
+    },
+    {
+        "input": "*(sandbar)",
+        "output": "rabdnas"
+    },
+    {
+        "input": "*(beach)",
+        "output": "hcaeb"
+    },
+    {
+        "input": "*(valley)",
+        "output": "yellav"
+    },
+    {
+        "input": "*(volcano)",
+        "output": "onaclov"
+    },
+    {
+        "input": "*(baseball player)",
+        "output": "reyalp llabesab"
+    },
+    {
+        "input": "*(bridegroom)",
+        "output": "moorgedirb"
+    },
+    {
+        "input": "*(scuba diver)",
+        "output": "revid abucs"
+    },
+    {
+        "input": "*(rapeseed)",
+        "output": "deesepar"
+    },
+    {
+        "input": "*(daisy)",
+        "output": "ysiad"
+    },
+    {
+        "input": "*(yellow lady's slipper)",
+        "output": "reppils s'ydal wolley"
+    },
+    {
+        "input": "*(corn)",
+        "output": "nroc"
+    },
+    {
+        "input": "*(acorn)",
+        "output": "nroca"
+    },
+    {
+        "input": "*(rose hip)",
+        "output": "pih esor"
+    },
+    {
+        "input": "*(horse chestnut seed)",
+        "output": "dees tuntsehc esroh"
+    },
+    {
+        "input": "*(coral fungus)",
+        "output": "sugnuf laroc"
+    },
+    {
+        "input": "*(agaric)",
+        "output": "ciraga"
+    },
+    {
+        "input": "*(gyromitra)",
+        "output": "artimoryg"
+    },
+    {
+        "input": "*(stinkhorn mushroom)",
+        "output": "moorhsum nrohknits"
+    },
+    {
+        "input": "*(earth star fungus)",
+        "output": "sugnuf rats htrae"
+    },
+    {
+        "input": "*(hen of the woods mushroom)",
+        "output": "moorhsum sdoow eht fo neh"
+    },
+    {
+        "input": "*(bolete)",
+        "output": "etelob"
+    },
+    {
+        "input": "*(corn cob)",
+        "output": "boc nroc"
+    },
+    {
+        "input": "*(toilet paper)",
+        "output": "repap teliot"
+    }
+]

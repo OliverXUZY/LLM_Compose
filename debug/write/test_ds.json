@@ -1,0 +1,125 @@
+[
+    {
+        "acc": 0.7
+    },
+    {
+        "prompt": "Leopard is *&, Blue_Crab is *&, Funnel-web_Spider is *&, City_Bike is $#, Minivan is $#, Passenger_Train is $#, Tortoise is *&, Bologna is !%, Bat is *&, Mite is *&, Pedal_Boat is",
+        "solution": "$#,",
+        "answer": "$#",
+        "accuracy": true
+    },
+    {
+        "prompt": "Turmeric is !%, Poppy_Seed is !%, Recumbent_Bike is $#, Roadster is $#, Pastrami is !%, Oyster is !%, Giant_Squid is *&, Rubber-tired_Tram is $#, Moped is $#, Shark is *&, Mussel is",
+        "solution": "!%,",
+        "answer": "!%",
+        "accuracy": true
+    },
+    {
+        "prompt": "Peach is !%, Marlin is *&, Trainer_Aircraft is $#, Watermelon is !%, Sidewinder is *&, Skink is *&, Open-top_Bus is $#, Garlic is !%, Vocational_Truck is $#, Children's_Bike is $#, Raspberry is",
+        "solution": "!%,",
+        "answer": "!%",
+        "accuracy": true
+    },
+    {
+        "prompt": "Salamander is *&, Sleeping_Car_Train is $#, Chameleon is *&, Oyster is *&, Toffee is !%, Battery_Tram is $#, Eggplant is !%, Mosquito is *&, Komodo_Dragon is *&, Macaron is !%, Herbal_Tea is",
+        "solution": "!%,",
+        "answer": "!%",
+        "accuracy": true
+    },
+    {
+        "prompt": "Catamaran is $#, Light_Rail is $#, Double-decker_Tram is $#, Chili_Pepper is !%, Scallop is !%, Low-floor_Bus is $#, Sturgeon is *&, Cauliflower is !%, Station_Wagon is $#, Road_Bike is $#, Ginger is",
+        "solution": "!%,",
+        "answer": "!%",
+        "accuracy": true
+    },
+    {
+        "prompt": "Komodo_Dragon is *&, Fudge is !%, Popcorn is !%, Amblypygi is *&, Catfish is !%, Snow_Crab is *&, Restaurant_Car_Train is $#, Subcompact_Car is $#, Harvestman is *&, Orange is !%, Coconut is",
+        "solution": "!%,",
+        "answer": "!%",
+        "accuracy": true
+    },
+    {
+        "prompt": "Daddy_Longlegs is *&, Dolphin is *&, Sea_Butterfly is *&, Mantis_Shrimp is *&, Tarantula is *&, Bomber is $#, Vintage_Tram is $#, Sea_Butterfly is *&, Chocolate_Bar is !%, Venison is !%, Dog is",
+        "solution": "!%,",
+        "answer": "*&",
+        "accuracy": false
+    },
+    {
+        "prompt": "Caviar is !%, Isopod is *&, Solifugae is *&, Poppy_Seed is !%, Amphipod is *&, Green_Tea is !%, High-speed_Train is $#, Rabbit is !%, Mite is *&, Skiff is $#, Leatherback_Sea_Turtle is",
+        "solution": "!%,",
+        "answer": "*&",
+        "accuracy": false
+    },
+    {
+        "prompt": "Buttermilk is !%, Cafe_Racer is $#, High-floor_Tram is $#, Mackerel is *&, Shark is *&, Pickup_Truck is $#, Oregano is !%, Beef is !%, Oregano is !%, Butter is !%, Blackberry is",
+        "solution": "!%,",
+        "answer": "!%",
+        "accuracy": true
+    },
+    {
+        "prompt": "Business_Jet is $#, High-floor_Tram is $#, Monkey is *&, Track_Bike is $#, Luxury_Car is $#, Almond is !%, Mantis_Shrimp is *&, Nougat is !%, Fire_Salamander is *&, Mackerel is !%, Gecko is",
+        "solution": "!%,",
+        "answer": "*&",
+        "accuracy": false
+    },
+    {
+        "prompt": "Giraffe is *&, Freight_Bicycle is $#, Track_Bike is $#, Business_Jet is $#, Trike is $#, Rye is !%, Axolotl is *&, Candy is !%, Party_Bus is $#, Rye is !%, Chestnut is",
+        "solution": "!%,",
+        "answer": "!%",
+        "accuracy": true
+    },
+    {
+        "prompt": "Mackerel is *&, Trike is $#, Peanut is !%, Tank_Truck is $#, Jasmine_Rice is !%, Elephant is *&, Orange is !%, Deer is *&, Tank_Car_Train is $#, Modern_Tram is $#, Krill is",
+        "solution": "!%,",
+        "answer": "*&",
+        "accuracy": false
+    },
+    {
+        "prompt": "Pseudoscorpion is *&, Schizomida is *&, Soda is !%, Chameleon is *&, Children's_Bike is $#, City_Bus is $#, Inflatable_Boat is $#, Pearl_Barley is !%, Spadefoot_Toad is *&, Praline is !%, Papaya is",
+        "solution": "!%,",
+        "answer": "!%",
+        "accuracy": true
+    },
+    {
+        "prompt": "Tilapia is *&, Basmati_Rice is !%, Rosemary is !%, Airliner is $#, Tank_Car_Train is $#, Cafe_Racer is $#, Hybrid_Car is $#, BMX_Bike is $#, Rabbit is !%, Hatchback is $#, Mustard_Seed is",
+        "solution": "!%,",
+        "answer": "!%",
+        "accuracy": true
+    },
+    {
+        "prompt": "Anchovy is !%, Buckwheat is !%, Red-eyed_Tree_Frog is *&, Orb-weaver_Spider is *&, Cherry is !%, Pepper is !%, Camel_Spider is *&, Harvestman is *&, Komodo_Dragon is *&, Turkish_Delight is !%, Surinam_Toad is",
+        "solution": "*&",
+        "answer": "*&",
+        "accuracy": true
+    },
+    {
+        "prompt": "American_Alligator is *&, Dolphin is *&, Blueberry is !%, Sorghum is !%, Giant_Squid is *&, Brie is !%, Peanut is !%, Freight_Bicycle is $#, Horse-drawn_Tram is $#, Smoothie is !%, King_Cobra is",
+        "solution": "*&",
+        "answer": "*&",
+        "accuracy": true
+    },
+    {
+        "prompt": "Box_Truck is $#, Vocational_Truck is $#, Ladybug is *&, Skink is *&, Trout is !%, Salmon is !%, Butter is !%, Fat_Bike is $#, Hatchback is $#, Kayak is $#, Tuatara is",
+        "solution": "$#,",
+        "answer": "*&",
+        "accuracy": false
+    },
+    {
+        "prompt": "Penguin is *&, Fat_Bike is $#, Chipper_Truck is $#, Dart_Frog is *&, Mosquito is *&, Almond is !%, Clownfish is *&, Cockroach is *&, Catfish is !%, Rapid_Transit_Tram is $#, Fiddler_Crab is",
+        "solution": "*&",
+        "answer": "*&",
+        "accuracy": true
+    },
+    {
+        "prompt": "Lobster is !%, High-floor_Tram is $#, Macadamia is !%, Starling is *&, Skiff is $#, Battery_Electric_Bus is $#, Light_Aircraft is $#, Caboose is $#, Open-top_Bus is $#, Tuna is *&, Mint is",
+        "solution": "$#,",
+        "answer": "!%",
+        "accuracy": false
+    },
+    {
+        "prompt": "Parmesan is !%, Articulated_Tram is $#, Subway_Train is $#, Tilapia is *&, Elephant is *&, Turkey is !%, Caboose is $#, Box_Truck is $#, Nautilus is *&, Limousine is $#, High-floor_Bus is",
+        "solution": "$#,",
+        "answer": "$#",
+        "accuracy": true
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "input": "* (four)",
+        "output": "FOUR"
+    },
+    {
+        "input": "* (eleven)",
+        "output": "ELEVEN"
+    },
+    {
+        "input": "* (twelve)",
+        "output": "TWELVE"
+    },
+    {
+        "input": "* (thirteen)",
+        "output": "THIRTEEN"
+    },
+    {
+        "input": "* (seventeen)",
+        "output": "SEVENTEEN"
+    },
+    {
+        "input": "* (twenty-two)",
+        "output": "TWENTY-TWO"
+    },
+    {
+        "input": "* (twenty-four)",
+        "output": "TWENTY-FOUR"
+    },
+    {
+        "input": "* (twenty-seven)",
+        "output": "TWENTY-SEVEN"
+    },
+    {
+        "input": "* (twenty-eight)",
+        "output": "TWENTY-EIGHT"
+    },
+    {
+        "input": "* (thirty-three)",
+        "output": "THIRTY-THREE"
+    },
+    {
+        "input": "* (thirty-four)",
+        "output": "THIRTY-FOUR"
+    },
+    {
+        "input": "* (thirty-eight)",
+        "output": "THIRTY-EIGHT"
+    },
+    {
+        "input": "* (thirty-nine)",
+        "output": "THIRTY-NINE"
+    },
+    {
+        "input": "* (forty-one)",
+        "output": "FORTY-ONE"
+    },
+    {
+        "input": "* (forty-two)",
+        "output": "FORTY-TWO"
+    },
+    {
+        "input": "* (forty-six)",
+        "output": "FORTY-SIX"
+    },
+    {
+        "input": "* (forty-eight)",
+        "output": "FORTY-EIGHT"
+    },
+    {
+        "input": "* (forty-nine)",
+        "output": "FORTY-NINE"
+    },
+    {
+        "input": "* (fifty)",
+        "output": "FIFTY"
+    },
+    {
+        "input": "* (fifty-one)",
+        "output": "FIFTY-ONE"
+    },
+    {
+        "input": "* (fifty-three)",
+        "output": "FIFTY-THREE"
+    },
+    {
+        "input": "* (fifty-six)",
+        "output": "FIFTY-SIX"
+    },
+    {
+        "input": "* (fifty-eight)",
+        "output": "FIFTY-EIGHT"
+    },
+    {
+        "input": "* (sixty)",
+        "output": "SIXTY"
+    },
+    {
+        "input": "* (sixty-one)",
+        "output": "SIXTY-ONE"
+    },
+    {
+        "input": "* (sixty-two)",
+        "output": "SIXTY-TWO"
+    },
+    {
+        "input": "* (sixty-three)",
+        "output": "SIXTY-THREE"
+    },
+    {
+        "input": "* (sixty-eight)",
+        "output": "SIXTY-EIGHT"
+    },
+    {
+        "input": "* (sixty-nine)",
+        "output": "SIXTY-NINE"
+    },
+    {
+        "input": "* (seventy-one)",
+        "output": "SEVENTY-ONE"
+    },
+    {
+        "input": "* (seventy-two)",
+        "output": "SEVENTY-TWO"
+    },
+    {
+        "input": "* (seventy-five)",
+        "output": "SEVENTY-FIVE"
+    },
+    {
+        "input": "* (seventy-seven)",
+        "output": "SEVENTY-SEVEN"
+    },
+    {
+        "input": "* (seventy-nine)",
+        "output": "SEVENTY-NINE"
+    },
+    {
+        "input": "* (eighty-four)",
+        "output": "EIGHTY-FOUR"
+    },
+    {
+        "input": "* (eighty-six)",
+        "output": "EIGHTY-SIX"
+    },
+    {
+        "input": "* (eighty-eight)",
+        "output": "EIGHTY-EIGHT"
+    },
+    {
+        "input": "* (eighty-nine)",
+        "output": "EIGHTY-NINE"
+    },
+    {
+        "input": "* (ninety-one)",
+        "output": "NINETY-ONE"
+    },
+    {
+        "input": "* (ninety-three)",
+        "output": "NINETY-THREE"
+    },
+    {
+        "input": "* (ninety-four)",
+        "output": "NINETY-FOUR"
+    },
+    {
+        "input": "* (ninety-five)",
+        "output": "NINETY-FIVE"
+    },
+    {
+        "input": "* (ninety-seven)",
+        "output": "NINETY-SEVEN"
+    },
+    {
+        "input": "* (one-hundred)",
+        "output": "ONE-HUNDRED"
+    },
+    {
+        "input": "* (one-hundred-two)",
+        "output": "ONE-HUNDRED-TWO"
+    },
+    {
+        "input": "* (one-hundred-three)",
+        "output": "ONE-HUNDRED-THREE"
+    },
+    {
+        "input": "* (one-hundred-four)",
+        "output": "ONE-HUNDRED-FOUR"
+    },
+    {
+        "input": "* (one-hundred-eight)",
+        "output": "ONE-HUNDRED-EIGHT"
+    },
+    {
+        "input": "* (one-hundred-eleven)",
+        "output": "ONE-HUNDRED-ELEVEN"
+    },
+    {
+        "input": "* (one-hundred-thirteen)",
+        "output": "ONE-HUNDRED-THIRTEEN"
+    },
+    {
+        "input": "* (one-hundred-fourteen)",
+        "output": "ONE-HUNDRED-FOURTEEN"
+    },
+    {
+        "input": "* (one-hundred-fifteen)",
+        "output": "ONE-HUNDRED-FIFTEEN"
+    },
+    {
+        "input": "* (one-hundred-sixteen)",
+        "output": "ONE-HUNDRED-SIXTEEN"
+    },
+    {
+        "input": "* (one-hundred-nineteen)",
+        "output": "ONE-HUNDRED-NINETEEN"
+    },
+    {
+        "input": "* (one-hundred-twenty)",
+        "output": "ONE-HUNDRED-TWENTY"
+    },
+    {
+        "input": "* (one-hundred-twenty-two)",
+        "output": "ONE-HUNDRED-TWENTY-TWO"
+    },
+    {
+        "input": "* (one-hundred-twenty-three)",
+        "output": "ONE-HUNDRED-TWENTY-THREE"
+    },
+    {
+        "input": "* (one-hundred-twenty-nine)",
+        "output": "ONE-HUNDRED-TWENTY-NINE"
+    },
+    {
+        "input": "* (one-hundred-thirty)",
+        "output": "ONE-HUNDRED-THIRTY"
+    },
+    {
+        "input": "* (one-hundred-thirty-one)",
+        "output": "ONE-HUNDRED-THIRTY-ONE"
+    },
+    {
+        "input": "* (one-hundred-thirty-three)",
+        "output": "ONE-HUNDRED-THIRTY-THREE"
+    },
+    {
+        "input": "* (one-hundred-thirty-five)",
+        "output": "ONE-HUNDRED-THIRTY-FIVE"
+    },
+    {
+        "input": "* (one-hundred-thirty-seven)",
+        "output": "ONE-HUNDRED-THIRTY-SEVEN"
+    },
+    {
+        "input": "* (one-hundred-thirty-nine)",
+        "output": "ONE-HUNDRED-THIRTY-NINE"
+    },
+    {
+        "input": "* (one-hundred-forty)",
+        "output": "ONE-HUNDRED-FORTY"
+    },
+    {
+        "input": "* (one-hundred-forty-two)",
+        "output": "ONE-HUNDRED-FORTY-TWO"
+    },
+    {
+        "input": "* (one-hundred-forty-three)",
+        "output": "ONE-HUNDRED-FORTY-THREE"
+    },
+    {
+        "input": "* (one-hundred-forty-four)",
+        "output": "ONE-HUNDRED-FORTY-FOUR"
+    },
+    {
+        "input": "* (one-hundred-forty-five)",
+        "output": "ONE-HUNDRED-FORTY-FIVE"
+    },
+    {
+        "input": "* (one-hundred-forty-eight)",
+        "output": "ONE-HUNDRED-FORTY-EIGHT"
+    },
+    {
+        "input": "* (one-hundred-forty-nine)",
+        "output": "ONE-HUNDRED-FORTY-NINE"
+    },
+    {
+        "input": "* (one-hundred-fifty)",
+        "output": "ONE-HUNDRED-FIFTY"
+    },
+    {
+        "input": "* (one-hundred-fifty-three)",
+        "output": "ONE-HUNDRED-FIFTY-THREE"
+    },
+    {
+        "input": "* (one-hundred-fifty-five)",
+        "output": "ONE-HUNDRED-FIFTY-FIVE"
+    },
+    {
+        "input": "* (one-hundred-fifty-six)",
+        "output": "ONE-HUNDRED-FIFTY-SIX"
+    },
+    {
+        "input": "* (one-hundred-fifty-eight)",
+        "output": "ONE-HUNDRED-FIFTY-EIGHT"
+    },
+    {
+        "input": "* (one-hundred-fifty-nine)",
+        "output": "ONE-HUNDRED-FIFTY-NINE"
+    },
+    {
+        "input": "* (one-hundred-sixty-two)",
+        "output": "ONE-HUNDRED-SIXTY-TWO"
+    },
+    {
+        "input": "* (one-hundred-sixty-four)",
+        "output": "ONE-HUNDRED-SIXTY-FOUR"
+    },
+    {
+        "input": "* (one-hundred-sixty-five)",
+        "output": "ONE-HUNDRED-SIXTY-FIVE"
+    },
+    {
+        "input": "* (one-hundred-sixty-eight)",
+        "output": "ONE-HUNDRED-SIXTY-EIGHT"
+    },
+    {
+        "input": "* (one-hundred-seventy)",
+        "output": "ONE-HUNDRED-SEVENTY"
+    },
+    {
+        "input": "* (one-hundred-seventy-one)",
+        "output": "ONE-HUNDRED-SEVENTY-ONE"
+    },
+    {
+        "input": "* (one-hundred-seventy-two)",
+        "output": "ONE-HUNDRED-SEVENTY-TWO"
+    },
+    {
+        "input": "* (one-hundred-seventy-four)",
+        "output": "ONE-HUNDRED-SEVENTY-FOUR"
+    },
+    {
+        "input": "* (one-hundred-seventy-five)",
+        "output": "ONE-HUNDRED-SEVENTY-FIVE"
+    },
+    {
+        "input": "* (one-hundred-seventy-six)",
+        "output": "ONE-HUNDRED-SEVENTY-SIX"
+    },
+    {
+        "input": "* (one-hundred-seventy-seven)",
+        "output": "ONE-HUNDRED-SEVENTY-SEVEN"
+    },
+    {
+        "input": "* (one-hundred-seventy-eight)",
+        "output": "ONE-HUNDRED-SEVENTY-EIGHT"
+    },
+    {
+        "input": "* (one-hundred-eighty)",
+        "output": "ONE-HUNDRED-EIGHTY"
+    },
+    {
+        "input": "* (one-hundred-eighty-two)",
+        "output": "ONE-HUNDRED-EIGHTY-TWO"
+    },
+    {
+        "input": "* (one-hundred-eighty-four)",
+        "output": "ONE-HUNDRED-EIGHTY-FOUR"
+    },
+    {
+        "input": "* (one-hundred-eighty-seven)",
+        "output": "ONE-HUNDRED-EIGHTY-SEVEN"
+    },
+    {
+        "input": "* (one-hundred-eighty-eight)",
+        "output": "ONE-HUNDRED-EIGHTY-EIGHT"
+    },
+    {
+        "input": "* (one-hundred-eighty-nine)",
+        "output": "ONE-HUNDRED-EIGHTY-NINE"
+    },
+    {
+        "input": "* (one-hundred-ninety)",
+        "output": "ONE-HUNDRED-NINETY"
+    },
+    {
+        "input": "* (one-hundred-ninety-one)",
+        "output": "ONE-HUNDRED-NINETY-ONE"
+    },
+    {
+        "input": "* (one-hundred-ninety-two)",
+        "output": "ONE-HUNDRED-NINETY-TWO"
+    },
+    {
+        "input": "* (one-hundred-ninety-four)",
+        "output": "ONE-HUNDRED-NINETY-FOUR"
+    },
+    {
+        "input": "* (one-hundred-ninety-six)",
+        "output": "ONE-HUNDRED-NINETY-SIX"
+    }
+]

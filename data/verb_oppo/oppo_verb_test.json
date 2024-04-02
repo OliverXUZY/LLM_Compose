@@ -1,0 +1,314 @@
+[
+    {
+        "input": "Lie hear",
+        "output": "Stand heard"
+    },
+    {
+        "input": "Quiet pay",
+        "output": "Loud paid"
+    },
+    {
+        "input": "Soft sell",
+        "output": "Hard sold"
+    },
+    {
+        "input": "Lean give",
+        "output": "Fat gave"
+    },
+    {
+        "input": "Dirty clean",
+        "output": "Clean cleaned"
+    },
+    {
+        "input": "Front describe",
+        "output": "Back described"
+    },
+    {
+        "input": "Good dislike",
+        "output": "Evil disliked"
+    },
+    {
+        "input": "Arrive answer",
+        "output": "Depart answered"
+    },
+    {
+        "input": "Broad beat",
+        "output": "Narrow beat"
+    },
+    {
+        "input": "Just fly",
+        "output": "Unjust flew"
+    },
+    {
+        "input": "Advance act",
+        "output": "Retreat acted"
+    },
+    {
+        "input": "Courageous calculate",
+        "output": "Fearful calculated"
+    },
+    {
+        "input": "Forgive decide",
+        "output": "Blame decided"
+    },
+    {
+        "input": "Professional offer",
+        "output": "Amateur offered"
+    },
+    {
+        "input": "Create call",
+        "output": "Destroy called"
+    },
+    {
+        "input": "Science ring",
+        "output": "Art rang"
+    },
+    {
+        "input": "Funny destroy",
+        "output": "Serious destroyed"
+    },
+    {
+        "input": "Receive play",
+        "output": "Send played"
+    },
+    {
+        "input": "Pass manage",
+        "output": "Fail managed"
+    },
+    {
+        "input": "Nasty keep",
+        "output": "Nice kept"
+    },
+    {
+        "input": "Begin arrange",
+        "output": "End arranged"
+    },
+    {
+        "input": "Right publish",
+        "output": "Wrong published"
+    },
+    {
+        "input": "Minor introduce",
+        "output": "Major introduced"
+    },
+    {
+        "input": "Bright be",
+        "output": "Dim was/were"
+    },
+    {
+        "input": "Deep catch",
+        "output": "Shallow caught"
+    },
+    {
+        "input": "Float damage",
+        "output": "Sink damaged"
+    },
+    {
+        "input": "Present observe",
+        "output": "Absent observed"
+    },
+    {
+        "input": "Rich provide",
+        "output": "Poor provided"
+    },
+    {
+        "input": "Over love",
+        "output": "Under loved"
+    },
+    {
+        "input": "Different choose",
+        "output": "Same chose"
+    },
+    {
+        "input": "Even consider",
+        "output": "Odd considered"
+    },
+    {
+        "input": "Real plan",
+        "output": "Fake planned"
+    },
+    {
+        "input": "Permanent measure",
+        "output": "Temporary measured"
+    },
+    {
+        "input": "Ordinary like",
+        "output": "Extraordinary liked"
+    },
+    {
+        "input": "Improve experience",
+        "output": "Worsen experienced"
+    },
+    {
+        "input": "Buy become",
+        "output": "Sell became"
+    },
+    {
+        "input": "Maximum insist",
+        "output": "Minimum insisted"
+    },
+    {
+        "input": "Hungry establish",
+        "output": "Full established"
+    },
+    {
+        "input": "Dense change",
+        "output": "Sparse changed"
+    },
+    {
+        "input": "On lend",
+        "output": "Off lent"
+    },
+    {
+        "input": "Bottom attend",
+        "output": "Top attended"
+    },
+    {
+        "input": "Awake argue",
+        "output": "Asleep argued"
+    },
+    {
+        "input": "Dry close",
+        "output": "Wet closed"
+    },
+    {
+        "input": "Give die",
+        "output": "Take died"
+    },
+    {
+        "input": "Find count",
+        "output": "Lose counted"
+    },
+    {
+        "input": "Happy drink",
+        "output": "Sad drank"
+    },
+    {
+        "input": "Polite miss",
+        "output": "Rude missed"
+    },
+    {
+        "input": "Original live",
+        "output": "Copy lived"
+    },
+    {
+        "input": "Gift develop",
+        "output": "Take developed"
+    },
+    {
+        "input": "Combine breathe",
+        "output": "Separate breathed"
+    },
+    {
+        "input": "Hurry examine",
+        "output": "Delay examined"
+    },
+    {
+        "input": "Clever borrow",
+        "output": "Foolish borrowed"
+    },
+    {
+        "input": "Tall shake",
+        "output": "Short shook"
+    },
+    {
+        "input": "Patient matter",
+        "output": "Impatient mattered"
+    },
+    {
+        "input": "Go discover",
+        "output": "Come discovered"
+    },
+    {
+        "input": "Pull overcome",
+        "output": "Push overcame"
+    },
+    {
+        "input": "Possible move",
+        "output": "Impossible moved"
+    },
+    {
+        "input": "Hire engage",
+        "output": "Fire engaged"
+    },
+    {
+        "input": "Obey leave",
+        "output": "Disobey left"
+    },
+    {
+        "input": "Save recommend",
+        "output": "Spend recommended"
+    },
+    {
+        "input": "Left hang",
+        "output": "Right hung"
+    },
+    {
+        "input": "Negative kiss",
+        "output": "Positive kissed"
+    },
+    {
+        "input": "Lend hate",
+        "output": "Borrow hated"
+    },
+    {
+        "input": "Modern investigate",
+        "output": "Ancient investigated"
+    },
+    {
+        "input": "Outside lose",
+        "output": "Inside lost"
+    },
+    {
+        "input": "Messy intend",
+        "output": "Neat intended"
+    },
+    {
+        "input": "Refuse prefer",
+        "output": "Accept preferred"
+    },
+    {
+        "input": "Morning jump",
+        "output": "Evening jumped"
+    },
+    {
+        "input": "Finish cover",
+        "output": "Start covered"
+    },
+    {
+        "input": "Major improve",
+        "output": "Minor improved"
+    },
+    {
+        "input": "Yes sit",
+        "output": "No sat"
+    },
+    {
+        "input": "Brave avoid",
+        "output": "Cowardly avoided"
+    },
+    {
+        "input": "Large forbid",
+        "output": "Small forbade"
+    },
+    {
+        "input": "Healthy eat",
+        "output": "Sick ate"
+    },
+    {
+        "input": "Equal connect",
+        "output": "Different connected"
+    },
+    {
+        "input": "Grow draw",
+        "output": "Shrink drew"
+    },
+    {
+        "input": "Safe realize",
+        "output": "Dangerous realized"
+    },
+    {
+        "input": "Miss invest",
+        "output": "Hit invested"
+    }
+]

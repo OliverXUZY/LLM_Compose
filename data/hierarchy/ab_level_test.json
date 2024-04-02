@@ -1,0 +1,674 @@
+[
+    {
+        "input": "Kefir",
+        "output": "food"
+    },
+    {
+        "input": "Naked_Bike",
+        "output": "vehicle"
+    },
+    {
+        "input": "Freight_Tram",
+        "output": "vehicle"
+    },
+    {
+        "input": "Yogurt",
+        "output": "food"
+    },
+    {
+        "input": "Cod",
+        "output": "animal"
+    },
+    {
+        "input": "Chia_Seed",
+        "output": "food"
+    },
+    {
+        "input": "Saffron",
+        "output": "food"
+    },
+    {
+        "input": "American_Robin",
+        "output": "animal"
+    },
+    {
+        "input": "Tiger_Salamander",
+        "output": "animal"
+    },
+    {
+        "input": "Steam_Tram",
+        "output": "vehicle"
+    },
+    {
+        "input": "Zebra",
+        "output": "animal"
+    },
+    {
+        "input": "Weevil",
+        "output": "animal"
+    },
+    {
+        "input": "Spelt",
+        "output": "food"
+    },
+    {
+        "input": "Black_Widow_Spider",
+        "output": "animal"
+    },
+    {
+        "input": "Coconut",
+        "output": "food"
+    },
+    {
+        "input": "Peacock",
+        "output": "animal"
+    },
+    {
+        "input": "Natterjack_Toad",
+        "output": "animal"
+    },
+    {
+        "input": "Thelyphonida",
+        "output": "animal"
+    },
+    {
+        "input": "Narrowboat",
+        "output": "vehicle"
+    },
+    {
+        "input": "Fiddler_Crab",
+        "output": "animal"
+    },
+    {
+        "input": "Tomato",
+        "output": "food"
+    },
+    {
+        "input": "Grand_Prix_Motorcycle",
+        "output": "vehicle"
+    },
+    {
+        "input": "Wood_Frog",
+        "output": "animal"
+    },
+    {
+        "input": "Triathlon_Bike",
+        "output": "vehicle"
+    },
+    {
+        "input": "Barnacle",
+        "output": "animal"
+    },
+    {
+        "input": "Tuatara",
+        "output": "animal"
+    },
+    {
+        "input": "Heron",
+        "output": "animal"
+    },
+    {
+        "input": "Abalone",
+        "output": "animal"
+    },
+    {
+        "input": "Cocktail",
+        "output": "food"
+    },
+    {
+        "input": "Cod",
+        "output": "food"
+    },
+    {
+        "input": "Jelly",
+        "output": "food"
+    },
+    {
+        "input": "Wine",
+        "output": "food"
+    },
+    {
+        "input": "Trout",
+        "output": "animal"
+    },
+    {
+        "input": "Sport_Bike",
+        "output": "vehicle"
+    },
+    {
+        "input": "Sardine",
+        "output": "animal"
+    },
+    {
+        "input": "Peregrine_Falcon",
+        "output": "animal"
+    },
+    {
+        "input": "Black_Tea",
+        "output": "food"
+    },
+    {
+        "input": "Lemonade",
+        "output": "food"
+    },
+    {
+        "input": "Microcar",
+        "output": "vehicle"
+    },
+    {
+        "input": "Milk",
+        "output": "food"
+    },
+    {
+        "input": "American_Toad",
+        "output": "animal"
+    },
+    {
+        "input": "Monorail",
+        "output": "vehicle"
+    },
+    {
+        "input": "Sports_Car",
+        "output": "vehicle"
+    },
+    {
+        "input": "Spinach",
+        "output": "food"
+    },
+    {
+        "input": "Paprika",
+        "output": "food"
+    },
+    {
+        "input": "Sand_Crab",
+        "output": "animal"
+    },
+    {
+        "input": "Squirrel",
+        "output": "animal"
+    },
+    {
+        "input": "Octopus",
+        "output": "food"
+    },
+    {
+        "input": "Inter-city_Train",
+        "output": "vehicle"
+    },
+    {
+        "input": "Marshmallow",
+        "output": "food"
+    },
+    {
+        "input": "Chestnut",
+        "output": "food"
+    },
+    {
+        "input": "Zucchini",
+        "output": "food"
+    },
+    {
+        "input": "Copepod",
+        "output": "animal"
+    },
+    {
+        "input": "Grasshopper",
+        "output": "animal"
+    },
+    {
+        "input": "Pumpkin",
+        "output": "food"
+    },
+    {
+        "input": "Lemon",
+        "output": "food"
+    },
+    {
+        "input": "Jet_Boat",
+        "output": "vehicle"
+    },
+    {
+        "input": "Pomegranate",
+        "output": "food"
+    },
+    {
+        "input": "Surinam_Toad",
+        "output": "animal"
+    },
+    {
+        "input": "Oatmeal",
+        "output": "food"
+    },
+    {
+        "input": "Salami",
+        "output": "food"
+    },
+    {
+        "input": "Barley",
+        "output": "food"
+    },
+    {
+        "input": "King_Cobra",
+        "output": "animal"
+    },
+    {
+        "input": "Millet",
+        "output": "food"
+    },
+    {
+        "input": "Blackberry",
+        "output": "food"
+    },
+    {
+        "input": "Flamingo",
+        "output": "animal"
+    },
+    {
+        "input": "Tractor_Unit",
+        "output": "vehicle"
+    },
+    {
+        "input": "Pontoon_Boat",
+        "output": "vehicle"
+    },
+    {
+        "input": "Pine_Nut",
+        "output": "food"
+    },
+    {
+        "input": "Shuttle_Bus",
+        "output": "vehicle"
+    },
+    {
+        "input": "Cheetah",
+        "output": "animal"
+    },
+    {
+        "input": "Electric_Locomotive",
+        "output": "vehicle"
+    },
+    {
+        "input": "Electric_Motorcycle",
+        "output": "vehicle"
+    },
+    {
+        "input": "Motorboat",
+        "output": "vehicle"
+    },
+    {
+        "input": "Herbal_Tea",
+        "output": "food"
+    },
+    {
+        "input": "Tea",
+        "output": "food"
+    },
+    {
+        "input": "Sour_Cream",
+        "output": "food"
+    },
+    {
+        "input": "Economy_Car",
+        "output": "vehicle"
+    },
+    {
+        "input": "Krill",
+        "output": "animal"
+    },
+    {
+        "input": "Cuttlefish",
+        "output": "animal"
+    },
+    {
+        "input": "Horseshoe_Crab",
+        "output": "animal"
+    },
+    {
+        "input": "Guppy",
+        "output": "animal"
+    },
+    {
+        "input": "Sole",
+        "output": "animal"
+    },
+    {
+        "input": "Tiger",
+        "output": "animal"
+    },
+    {
+        "input": "Houseboat",
+        "output": "vehicle"
+    },
+    {
+        "input": "Lobster",
+        "output": "animal"
+    },
+    {
+        "input": "Goldfinch",
+        "output": "animal"
+    },
+    {
+        "input": "Cucumber",
+        "output": "food"
+    },
+    {
+        "input": "Garbage_Truck",
+        "output": "vehicle"
+    },
+    {
+        "input": "Monitor_Lizard",
+        "output": "animal"
+    },
+    {
+        "input": "Cat",
+        "output": "animal"
+    },
+    {
+        "input": "Cable_Car",
+        "output": "vehicle"
+    },
+    {
+        "input": "Wild_Rice",
+        "output": "food"
+    },
+    {
+        "input": "Air_Ambulance",
+        "output": "vehicle"
+    },
+    {
+        "input": "Mango",
+        "output": "food"
+    },
+    {
+        "input": "Mustard_Seed",
+        "output": "food"
+    },
+    {
+        "input": "King_Crab",
+        "output": "animal"
+    },
+    {
+        "input": "Bacon",
+        "output": "food"
+    },
+    {
+        "input": "Duck",
+        "output": "food"
+    },
+    {
+        "input": "Butterfly",
+        "output": "animal"
+    },
+    {
+        "input": "Mussel",
+        "output": "animal"
+    },
+    {
+        "input": "Speedboat",
+        "output": "vehicle"
+    },
+    {
+        "input": "Scorpion",
+        "output": "animal"
+    },
+    {
+        "input": "Milkshake",
+        "output": "food"
+    },
+    {
+        "input": "Coffee",
+        "output": "food"
+    },
+    {
+        "input": "Ice_Cream",
+        "output": "food"
+    },
+    {
+        "input": "Sports_Drink",
+        "output": "food"
+    },
+    {
+        "input": "Termite",
+        "output": "animal"
+    },
+    {
+        "input": "Mussel",
+        "output": "food"
+    },
+    {
+        "input": "Interurban",
+        "output": "vehicle"
+    },
+    {
+        "input": "Supersonic_Aircraft",
+        "output": "vehicle"
+    },
+    {
+        "input": "Yacht",
+        "output": "vehicle"
+    },
+    {
+        "input": "Pistachio",
+        "output": "food"
+    },
+    {
+        "input": "Whip_Scorpion",
+        "output": "animal"
+    },
+    {
+        "input": "Off-road_Motorcycle",
+        "output": "vehicle"
+    },
+    {
+        "input": "Sardine",
+        "output": "food"
+    },
+    {
+        "input": "Gecko",
+        "output": "animal"
+    },
+    {
+        "input": "Pufferfish",
+        "output": "animal"
+    },
+    {
+        "input": "Sesame_Seed",
+        "output": "food"
+    },
+    {
+        "input": "Locust",
+        "output": "animal"
+    },
+    {
+        "input": "Mountain_Bike",
+        "output": "vehicle"
+    },
+    {
+        "input": "Amphibious_Aircraft",
+        "output": "vehicle"
+    },
+    {
+        "input": "Gila_Monster",
+        "output": "animal"
+    },
+    {
+        "input": "Kingfisher",
+        "output": "animal"
+    },
+    {
+        "input": "Mint",
+        "output": "food"
+    },
+    {
+        "input": "Japanese_Giant_Salamander",
+        "output": "animal"
+    },
+    {
+        "input": "Carrot",
+        "output": "food"
+    },
+    {
+        "input": "Folding_Bike",
+        "output": "vehicle"
+    },
+    {
+        "input": "Sunflower_Seed",
+        "output": "food"
+    },
+    {
+        "input": "Pedal_Boat",
+        "output": "vehicle"
+    },
+    {
+        "input": "Leatherback_Sea_Turtle",
+        "output": "animal"
+    },
+    {
+        "input": "Salt",
+        "output": "food"
+    },
+    {
+        "input": "Clove",
+        "output": "food"
+    },
+    {
+        "input": "Energy_Drink",
+        "output": "food"
+    },
+    {
+        "input": "SUV",
+        "output": "vehicle"
+    },
+    {
+        "input": "Gum",
+        "output": "food"
+    },
+    {
+        "input": "Goat",
+        "output": "food"
+    },
+    {
+        "input": "Raspberry",
+        "output": "food"
+    },
+    {
+        "input": "Cappuccino",
+        "output": "food"
+    },
+    {
+        "input": "Tour_Bus",
+        "output": "vehicle"
+    },
+    {
+        "input": "Papaya",
+        "output": "food"
+    },
+    {
+        "input": "Electric_Car",
+        "output": "vehicle"
+    },
+    {
+        "input": "High-floor_Bus",
+        "output": "vehicle"
+    },
+    {
+        "input": "Plum",
+        "output": "food"
+    },
+    {
+        "input": "Scooter",
+        "output": "vehicle"
+    },
+    {
+        "input": "Lollipop",
+        "output": "food"
+    },
+    {
+        "input": "Mozzarella",
+        "output": "food"
+    },
+    {
+        "input": "Rhinoceros",
+        "output": "animal"
+    },
+    {
+        "input": "Cabin_Cruiser",
+        "output": "vehicle"
+    },
+    {
+        "input": "Snail",
+        "output": "animal"
+    },
+    {
+        "input": "Walnut",
+        "output": "food"
+    },
+    {
+        "input": "Agricultural_Plane",
+        "output": "vehicle"
+    },
+    {
+        "input": "Quad_Bike",
+        "output": "vehicle"
+    },
+    {
+        "input": "Light_Rail_Train",
+        "output": "vehicle"
+    },
+    {
+        "input": "Silverfish",
+        "output": "animal"
+    },
+    {
+        "input": "Fixed_Gear_Bike",
+        "output": "vehicle"
+    },
+    {
+        "input": "Pineapple",
+        "output": "food"
+    },
+    {
+        "input": "School_Bus",
+        "output": "vehicle"
+    },
+    {
+        "input": "Trolleybus",
+        "output": "vehicle"
+    },
+    {
+        "input": "Moth",
+        "output": "animal"
+    },
+    {
+        "input": "Chopper",
+        "output": "vehicle"
+    },
+    {
+        "input": "Low-floor_Tram",
+        "output": "vehicle"
+    },
+    {
+        "input": "Feta",
+        "output": "food"
+    },
+    {
+        "input": "Dual-sport_Motorcycle",
+        "output": "vehicle"
+    },
+    {
+        "input": "Dog",
+        "output": "animal"
+    },
+    {
+        "input": "Ginger",
+        "output": "food"
+    },
+    {
+        "input": "Potato",
+        "output": "food"
+    },
+    {
+        "input": "Electric_Bicycle",
+        "output": "vehicle"
+    }
+]

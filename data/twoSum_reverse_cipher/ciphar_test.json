@@ -1,0 +1,402 @@
+[
+    {
+        "input": "*(zero)",
+        "output": "chur"
+    },
+    {
+        "input": "*(one)",
+        "output": "rqh"
+    },
+    {
+        "input": "*(two)",
+        "output": "wzr"
+    },
+    {
+        "input": "*(three)",
+        "output": "wkuhh"
+    },
+    {
+        "input": "*(four)",
+        "output": "irxu"
+    },
+    {
+        "input": "*(five)",
+        "output": "ilyh"
+    },
+    {
+        "input": "*(six)",
+        "output": "vla"
+    },
+    {
+        "input": "*(seven)",
+        "output": "vhyhq"
+    },
+    {
+        "input": "*(eight)",
+        "output": "hljkw"
+    },
+    {
+        "input": "*(nine)",
+        "output": "qlqh"
+    },
+    {
+        "input": "*(ten)",
+        "output": "whq"
+    },
+    {
+        "input": "*(eleven)",
+        "output": "hohyhq"
+    },
+    {
+        "input": "*(twelve)",
+        "output": "wzhoyh"
+    },
+    {
+        "input": "*(thirteen)",
+        "output": "wkluwhhq"
+    },
+    {
+        "input": "*(fourteen)",
+        "output": "irxuwhhq"
+    },
+    {
+        "input": "*(fifteen)",
+        "output": "iliwhhq"
+    },
+    {
+        "input": "*(sixteen)",
+        "output": "vlawhhq"
+    },
+    {
+        "input": "*(seventeen)",
+        "output": "vhyhqwhhq"
+    },
+    {
+        "input": "*(eighteen)",
+        "output": "hljkwhhq"
+    },
+    {
+        "input": "*(nineteen)",
+        "output": "qlqhwhhq"
+    },
+    {
+        "input": "*(twenty)",
+        "output": "wzhqwb"
+    },
+    {
+        "input": "*(twenty-one)",
+        "output": "wzhqwb-rqh"
+    },
+    {
+        "input": "*(twenty-two)",
+        "output": "wzhqwb-wzr"
+    },
+    {
+        "input": "*(twenty-three)",
+        "output": "wzhqwb-wkuhh"
+    },
+    {
+        "input": "*(twenty-four)",
+        "output": "wzhqwb-irxu"
+    },
+    {
+        "input": "*(twenty-five)",
+        "output": "wzhqwb-ilyh"
+    },
+    {
+        "input": "*(twenty-six)",
+        "output": "wzhqwb-vla"
+    },
+    {
+        "input": "*(twenty-seven)",
+        "output": "wzhqwb-vhyhq"
+    },
+    {
+        "input": "*(twenty-eight)",
+        "output": "wzhqwb-hljkw"
+    },
+    {
+        "input": "*(twenty-nine)",
+        "output": "wzhqwb-qlqh"
+    },
+    {
+        "input": "*(thirty)",
+        "output": "wkluwb"
+    },
+    {
+        "input": "*(thirty-one)",
+        "output": "wkluwb-rqh"
+    },
+    {
+        "input": "*(thirty-two)",
+        "output": "wkluwb-wzr"
+    },
+    {
+        "input": "*(thirty-three)",
+        "output": "wkluwb-wkuhh"
+    },
+    {
+        "input": "*(thirty-four)",
+        "output": "wkluwb-irxu"
+    },
+    {
+        "input": "*(thirty-five)",
+        "output": "wkluwb-ilyh"
+    },
+    {
+        "input": "*(thirty-six)",
+        "output": "wkluwb-vla"
+    },
+    {
+        "input": "*(thirty-seven)",
+        "output": "wkluwb-vhyhq"
+    },
+    {
+        "input": "*(thirty-eight)",
+        "output": "wkluwb-hljkw"
+    },
+    {
+        "input": "*(thirty-nine)",
+        "output": "wkluwb-qlqh"
+    },
+    {
+        "input": "*(forty)",
+        "output": "iruwb"
+    },
+    {
+        "input": "*(forty-one)",
+        "output": "iruwb-rqh"
+    },
+    {
+        "input": "*(forty-two)",
+        "output": "iruwb-wzr"
+    },
+    {
+        "input": "*(forty-three)",
+        "output": "iruwb-wkuhh"
+    },
+    {
+        "input": "*(forty-four)",
+        "output": "iruwb-irxu"
+    },
+    {
+        "input": "*(forty-five)",
+        "output": "iruwb-ilyh"
+    },
+    {
+        "input": "*(forty-six)",
+        "output": "iruwb-vla"
+    },
+    {
+        "input": "*(forty-seven)",
+        "output": "iruwb-vhyhq"
+    },
+    {
+        "input": "*(forty-eight)",
+        "output": "iruwb-hljkw"
+    },
+    {
+        "input": "*(forty-nine)",
+        "output": "iruwb-qlqh"
+    },
+    {
+        "input": "*(fifty)",
+        "output": "iliwb"
+    },
+    {
+        "input": "*(fifty-one)",
+        "output": "iliwb-rqh"
+    },
+    {
+        "input": "*(fifty-two)",
+        "output": "iliwb-wzr"
+    },
+    {
+        "input": "*(fifty-three)",
+        "output": "iliwb-wkuhh"
+    },
+    {
+        "input": "*(fifty-four)",
+        "output": "iliwb-irxu"
+    },
+    {
+        "input": "*(fifty-five)",
+        "output": "iliwb-ilyh"
+    },
+    {
+        "input": "*(fifty-six)",
+        "output": "iliwb-vla"
+    },
+    {
+        "input": "*(fifty-seven)",
+        "output": "iliwb-vhyhq"
+    },
+    {
+        "input": "*(fifty-eight)",
+        "output": "iliwb-hljkw"
+    },
+    {
+        "input": "*(fifty-nine)",
+        "output": "iliwb-qlqh"
+    },
+    {
+        "input": "*(sixty)",
+        "output": "vlawb"
+    },
+    {
+        "input": "*(sixty-one)",
+        "output": "vlawb-rqh"
+    },
+    {
+        "input": "*(sixty-two)",
+        "output": "vlawb-wzr"
+    },
+    {
+        "input": "*(sixty-three)",
+        "output": "vlawb-wkuhh"
+    },
+    {
+        "input": "*(sixty-four)",
+        "output": "vlawb-irxu"
+    },
+    {
+        "input": "*(sixty-five)",
+        "output": "vlawb-ilyh"
+    },
+    {
+        "input": "*(sixty-six)",
+        "output": "vlawb-vla"
+    },
+    {
+        "input": "*(sixty-seven)",
+        "output": "vlawb-vhyhq"
+    },
+    {
+        "input": "*(sixty-eight)",
+        "output": "vlawb-hljkw"
+    },
+    {
+        "input": "*(sixty-nine)",
+        "output": "vlawb-qlqh"
+    },
+    {
+        "input": "*(seventy)",
+        "output": "vhyhqwb"
+    },
+    {
+        "input": "*(seventy-one)",
+        "output": "vhyhqwb-rqh"
+    },
+    {
+        "input": "*(seventy-two)",
+        "output": "vhyhqwb-wzr"
+    },
+    {
+        "input": "*(seventy-three)",
+        "output": "vhyhqwb-wkuhh"
+    },
+    {
+        "input": "*(seventy-four)",
+        "output": "vhyhqwb-irxu"
+    },
+    {
+        "input": "*(seventy-five)",
+        "output": "vhyhqwb-ilyh"
+    },
+    {
+        "input": "*(seventy-six)",
+        "output": "vhyhqwb-vla"
+    },
+    {
+        "input": "*(seventy-seven)",
+        "output": "vhyhqwb-vhyhq"
+    },
+    {
+        "input": "*(seventy-eight)",
+        "output": "vhyhqwb-hljkw"
+    },
+    {
+        "input": "*(seventy-nine)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(eighty)",
+        "output": "hljkwb"
+    },
+    {
+        "input": "*(eighty-one)",
+        "output": "hljkwb-rqh"
+    },
+    {
+        "input": "*(eighty-two)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(eighty-three)",
+        "output": "hljkwb-wkuhh"
+    },
+    {
+        "input": "*(eighty-four)",
+        "output": "hljkwb-irxu"
+    },
+    {
+        "input": "*(eighty-five)",
+        "output": "hljkwb-ilyh"
+    },
+    {
+        "input": "*(eighty-six)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(eighty-seven)",
+        "output": "hljkwb-vhyhq"
+    },
+    {
+        "input": "*(eighty-eight)",
+        "output": "hljkwb-hljkw"
+    },
+    {
+        "input": "*(eighty-nine)",
+        "output": "hljkwb-qlqh"
+    },
+    {
+        "input": "*(ninety)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(ninety-one)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(ninety-two)",
+        "output": "qlqhwb-wzr"
+    },
+    {
+        "input": "*(ninety-three)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(ninety-four)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(ninety-five)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(ninety-six)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(ninety-seven)",
+        "output": "qlqhwb-vhyhq"
+    },
+    {
+        "input": "*(ninety-eight)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(ninety-nine)",
+        "output": "qlqhwb-qlqh"
+    }
+]

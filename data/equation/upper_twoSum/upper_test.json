@@ -1,0 +1,402 @@
+[
+    {
+        "input": "* (seventy)",
+        "output": "SEVENTY"
+    },
+    {
+        "input": "* (one-hundred-seven)",
+        "output": "ONE-HUNDRED-SEVEN"
+    },
+    {
+        "input": "* (one-hundred-twenty-five)",
+        "output": "ONE-HUNDRED-TWENTY-FIVE"
+    },
+    {
+        "input": "* (sixty-six)",
+        "output": "SIXTY-SIX"
+    },
+    {
+        "input": "* (twenty-one)",
+        "output": "TWENTY-ONE"
+    },
+    {
+        "input": "* (seventy-eight)",
+        "output": "SEVENTY-EIGHT"
+    },
+    {
+        "input": "* (eighty-seven)",
+        "output": "EIGHTY-SEVEN"
+    },
+    {
+        "input": "* (six)",
+        "output": "SIX"
+    },
+    {
+        "input": "* (nineteen)",
+        "output": "NINETEEN"
+    },
+    {
+        "input": "* (one-hundred-twenty-four)",
+        "output": "ONE-HUNDRED-TWENTY-FOUR"
+    },
+    {
+        "input": "* (three)",
+        "output": "THREE"
+    },
+    {
+        "input": "* (thirty)",
+        "output": "THIRTY"
+    },
+    {
+        "input": "* (seventy-three)",
+        "output": "SEVENTY-THREE"
+    },
+    {
+        "input": "* (thirty-one)",
+        "output": "THIRTY-ONE"
+    },
+    {
+        "input": "* (eighty)",
+        "output": "EIGHTY"
+    },
+    {
+        "input": "* (one-hundred-sixty-seven)",
+        "output": "ONE-HUNDRED-SIXTY-SEVEN"
+    },
+    {
+        "input": "* (ten)",
+        "output": "TEN"
+    },
+    {
+        "input": "* (one-hundred-sixty)",
+        "output": "ONE-HUNDRED-SIXTY"
+    },
+    {
+        "input": "* (eighteen)",
+        "output": "EIGHTEEN"
+    },
+    {
+        "input": "* (thirty-five)",
+        "output": "THIRTY-FIVE"
+    },
+    {
+        "input": "* (one-hundred-one hundred)",
+        "output": "ONE-HUNDRED-ONE HUNDRED"
+    },
+    {
+        "input": "* (forty)",
+        "output": "FORTY"
+    },
+    {
+        "input": "* (fifty-five)",
+        "output": "FIFTY-FIVE"
+    },
+    {
+        "input": "* (one-hundred-ten)",
+        "output": "ONE-HUNDRED-TEN"
+    },
+    {
+        "input": "* (twenty)",
+        "output": "TWENTY"
+    },
+    {
+        "input": "* (one-hundred-fifty-seven)",
+        "output": "ONE-HUNDRED-FIFTY-SEVEN"
+    },
+    {
+        "input": "* (one-hundred-five)",
+        "output": "ONE-HUNDRED-FIVE"
+    },
+    {
+        "input": "* (thirty-seven)",
+        "output": "THIRTY-SEVEN"
+    },
+    {
+        "input": "* (fifteen)",
+        "output": "FIFTEEN"
+    },
+    {
+        "input": "* (nine)",
+        "output": "NINE"
+    },
+    {
+        "input": "* (forty-five)",
+        "output": "FORTY-FIVE"
+    },
+    {
+        "input": "* (eighty-three)",
+        "output": "EIGHTY-THREE"
+    },
+    {
+        "input": "* (sixty-five)",
+        "output": "SIXTY-FIVE"
+    },
+    {
+        "input": "* (ninety-two)",
+        "output": "NINETY-TWO"
+    },
+    {
+        "input": "* (eighty-two)",
+        "output": "EIGHTY-TWO"
+    },
+    {
+        "input": "* (twenty-five)",
+        "output": "TWENTY-FIVE"
+    },
+    {
+        "input": "* (one-hundred-six)",
+        "output": "ONE-HUNDRED-SIX"
+    },
+    {
+        "input": "* (twenty-three)",
+        "output": "TWENTY-THREE"
+    },
+    {
+        "input": "* (one-hundred-ninety-three)",
+        "output": "ONE-HUNDRED-NINETY-THREE"
+    },
+    {
+        "input": "* (eighty-five)",
+        "output": "EIGHTY-FIVE"
+    },
+    {
+        "input": "* (one-hundred-sixty-six)",
+        "output": "ONE-HUNDRED-SIXTY-SIX"
+    },
+    {
+        "input": "* (one hundred)",
+        "output": "ONE HUNDRED"
+    },
+    {
+        "input": "* (one-hundred-thirty-six)",
+        "output": "ONE-HUNDRED-THIRTY-SIX"
+    },
+    {
+        "input": "* (one-hundred-thirty-eight)",
+        "output": "ONE-HUNDRED-THIRTY-EIGHT"
+    },
+    {
+        "input": "* (one-hundred-ninety-seven)",
+        "output": "ONE-HUNDRED-NINETY-SEVEN"
+    },
+    {
+        "input": "* (one-hundred-fifty-two)",
+        "output": "ONE-HUNDRED-FIFTY-TWO"
+    },
+    {
+        "input": "* (sixteen)",
+        "output": "SIXTEEN"
+    },
+    {
+        "input": "* (one-hundred-twenty-seven)",
+        "output": "ONE-HUNDRED-TWENTY-SEVEN"
+    },
+    {
+        "input": "* (ninety-six)",
+        "output": "NINETY-SIX"
+    },
+    {
+        "input": "* (fifty-four)",
+        "output": "FIFTY-FOUR"
+    },
+    {
+        "input": "* (ninety)",
+        "output": "NINETY"
+    },
+    {
+        "input": "* (one-hundred-seventy-nine)",
+        "output": "ONE-HUNDRED-SEVENTY-NINE"
+    },
+    {
+        "input": "* (five)",
+        "output": "FIVE"
+    },
+    {
+        "input": "* (sixty-four)",
+        "output": "SIXTY-FOUR"
+    },
+    {
+        "input": "* (one-hundred-twenty-eight)",
+        "output": "ONE-HUNDRED-TWENTY-EIGHT"
+    },
+    {
+        "input": "* (one-hundred-nine)",
+        "output": "ONE-HUNDRED-NINE"
+    },
+    {
+        "input": "* (seventy-six)",
+        "output": "SEVENTY-SIX"
+    },
+    {
+        "input": "* (one-hundred-fifty-one)",
+        "output": "ONE-HUNDRED-FIFTY-ONE"
+    },
+    {
+        "input": "* (one-hundred-ninety-nine)",
+        "output": "ONE-HUNDRED-NINETY-NINE"
+    },
+    {
+        "input": "* (ninety-nine)",
+        "output": "NINETY-NINE"
+    },
+    {
+        "input": "* (ninety-eight)",
+        "output": "NINETY-EIGHT"
+    },
+    {
+        "input": "* (one-hundred-seventy-three)",
+        "output": "ONE-HUNDRED-SEVENTY-THREE"
+    },
+    {
+        "input": "* (one-hundred-seventeen)",
+        "output": "ONE-HUNDRED-SEVENTEEN"
+    },
+    {
+        "input": "* (one-hundred-sixty-three)",
+        "output": "ONE-HUNDRED-SIXTY-THREE"
+    },
+    {
+        "input": "* (one-hundred-forty-one)",
+        "output": "ONE-HUNDRED-FORTY-ONE"
+    },
+    {
+        "input": "* (one-hundred-fifty-four)",
+        "output": "ONE-HUNDRED-FIFTY-FOUR"
+    },
+    {
+        "input": "* (one-hundred-thirty-two)",
+        "output": "ONE-HUNDRED-THIRTY-TWO"
+    },
+    {
+        "input": "* (eight)",
+        "output": "EIGHT"
+    },
+    {
+        "input": "* (seventy-four)",
+        "output": "SEVENTY-FOUR"
+    },
+    {
+        "input": "* (one-hundred-eighty-three)",
+        "output": "ONE-HUNDRED-EIGHTY-THREE"
+    },
+    {
+        "input": "* (one-hundred-ninety-five)",
+        "output": "ONE-HUNDRED-NINETY-FIVE"
+    },
+    {
+        "input": "* (forty-four)",
+        "output": "FORTY-FOUR"
+    },
+    {
+        "input": "* (forty-seven)",
+        "output": "FORTY-SEVEN"
+    },
+    {
+        "input": "* (two)",
+        "output": "TWO"
+    },
+    {
+        "input": "* (one-hundred-eighty-six)",
+        "output": "ONE-HUNDRED-EIGHTY-SIX"
+    },
+    {
+        "input": "* (thirty-six)",
+        "output": "THIRTY-SIX"
+    },
+    {
+        "input": "* (seven)",
+        "output": "SEVEN"
+    },
+    {
+        "input": "* (fifty-two)",
+        "output": "FIFTY-TWO"
+    },
+    {
+        "input": "* (one-hundred-twenty-one)",
+        "output": "ONE-HUNDRED-TWENTY-ONE"
+    },
+    {
+        "input": "* (one-hundred-twelve)",
+        "output": "ONE-HUNDRED-TWELVE"
+    },
+    {
+        "input": "* (fourteen)",
+        "output": "FOURTEEN"
+    },
+    {
+        "input": "* (one)",
+        "output": "ONE"
+    },
+    {
+        "input": "* (one-hundred-twenty-six)",
+        "output": "ONE-HUNDRED-TWENTY-SIX"
+    },
+    {
+        "input": "* (one-hundred-thirty-four)",
+        "output": "ONE-HUNDRED-THIRTY-FOUR"
+    },
+    {
+        "input": "* (one-hundred-eighty-five)",
+        "output": "ONE-HUNDRED-EIGHTY-FIVE"
+    },
+    {
+        "input": "* (one-hundred-forty-six)",
+        "output": "ONE-HUNDRED-FORTY-SIX"
+    },
+    {
+        "input": "* (one-hundred-eighteen)",
+        "output": "ONE-HUNDRED-EIGHTEEN"
+    },
+    {
+        "input": "* (one-hundred-ninety-eight)",
+        "output": "ONE-HUNDRED-NINETY-EIGHT"
+    },
+    {
+        "input": "* (fifty-nine)",
+        "output": "FIFTY-NINE"
+    },
+    {
+        "input": "* (fifty-seven)",
+        "output": "FIFTY-SEVEN"
+    },
+    {
+        "input": "* (twenty-six)",
+        "output": "TWENTY-SIX"
+    },
+    {
+        "input": "* (forty-three)",
+        "output": "FORTY-THREE"
+    },
+    {
+        "input": "* (one-hundred-eighty-one)",
+        "output": "ONE-HUNDRED-EIGHTY-ONE"
+    },
+    {
+        "input": "* (thirty-two)",
+        "output": "THIRTY-TWO"
+    },
+    {
+        "input": "* (one-hundred-sixty-nine)",
+        "output": "ONE-HUNDRED-SIXTY-NINE"
+    },
+    {
+        "input": "* (eighty-one)",
+        "output": "EIGHTY-ONE"
+    },
+    {
+        "input": "* (sixty-seven)",
+        "output": "SIXTY-SEVEN"
+    },
+    {
+        "input": "* (one-hundred-sixty-one)",
+        "output": "ONE-HUNDRED-SIXTY-ONE"
+    },
+    {
+        "input": "* (twenty-nine)",
+        "output": "TWENTY-NINE"
+    },
+    {
+        "input": "* (one-hundred-forty-seven)",
+        "output": "ONE-HUNDRED-FORTY-SEVEN"
+    }
+]

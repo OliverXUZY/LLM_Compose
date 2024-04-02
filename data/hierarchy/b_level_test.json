@@ -1,0 +1,674 @@
+[
+    {
+        "input": "Kefir",
+        "output": "Dairy"
+    },
+    {
+        "input": "Naked_Bike",
+        "output": "Motorcycle"
+    },
+    {
+        "input": "Freight_Tram",
+        "output": "Tram"
+    },
+    {
+        "input": "Yogurt",
+        "output": "Dairy"
+    },
+    {
+        "input": "Cod",
+        "output": "Fish"
+    },
+    {
+        "input": "Chia_Seed",
+        "output": "Nut_and_Seed"
+    },
+    {
+        "input": "Saffron",
+        "output": "Spice_and_Herb"
+    },
+    {
+        "input": "American_Robin",
+        "output": "Birds"
+    },
+    {
+        "input": "Tiger_Salamander",
+        "output": "Amphibians"
+    },
+    {
+        "input": "Steam_Tram",
+        "output": "Tram"
+    },
+    {
+        "input": "Zebra",
+        "output": "Mammals"
+    },
+    {
+        "input": "Weevil",
+        "output": "Insects"
+    },
+    {
+        "input": "Spelt",
+        "output": "Grain"
+    },
+    {
+        "input": "Black_Widow_Spider",
+        "output": "Arachnids"
+    },
+    {
+        "input": "Coconut",
+        "output": "Nut_and_Seed"
+    },
+    {
+        "input": "Peacock",
+        "output": "Birds"
+    },
+    {
+        "input": "Natterjack_Toad",
+        "output": "Amphibians"
+    },
+    {
+        "input": "Thelyphonida",
+        "output": "Arachnids"
+    },
+    {
+        "input": "Narrowboat",
+        "output": "Boat"
+    },
+    {
+        "input": "Fiddler_Crab",
+        "output": "Crustaceans"
+    },
+    {
+        "input": "Tomato",
+        "output": "Vegetable"
+    },
+    {
+        "input": "Grand_Prix_Motorcycle",
+        "output": "Motorcycle"
+    },
+    {
+        "input": "Wood_Frog",
+        "output": "Amphibians"
+    },
+    {
+        "input": "Triathlon_Bike",
+        "output": "Bicycle"
+    },
+    {
+        "input": "Barnacle",
+        "output": "Crustaceans"
+    },
+    {
+        "input": "Tuatara",
+        "output": "Reptiles"
+    },
+    {
+        "input": "Heron",
+        "output": "Birds"
+    },
+    {
+        "input": "Abalone",
+        "output": "Mollusks"
+    },
+    {
+        "input": "Cocktail",
+        "output": "Beverage"
+    },
+    {
+        "input": "Cod",
+        "output": "Seafood"
+    },
+    {
+        "input": "Jelly",
+        "output": "Confectionery"
+    },
+    {
+        "input": "Wine",
+        "output": "Beverage"
+    },
+    {
+        "input": "Trout",
+        "output": "Fish"
+    },
+    {
+        "input": "Sport_Bike",
+        "output": "Motorcycle"
+    },
+    {
+        "input": "Sardine",
+        "output": "Fish"
+    },
+    {
+        "input": "Peregrine_Falcon",
+        "output": "Birds"
+    },
+    {
+        "input": "Black_Tea",
+        "output": "Beverage"
+    },
+    {
+        "input": "Lemonade",
+        "output": "Beverage"
+    },
+    {
+        "input": "Microcar",
+        "output": "Car"
+    },
+    {
+        "input": "Milk",
+        "output": "Dairy"
+    },
+    {
+        "input": "American_Toad",
+        "output": "Amphibians"
+    },
+    {
+        "input": "Monorail",
+        "output": "Train"
+    },
+    {
+        "input": "Sports_Car",
+        "output": "Car"
+    },
+    {
+        "input": "Spinach",
+        "output": "Vegetable"
+    },
+    {
+        "input": "Paprika",
+        "output": "Spice_and_Herb"
+    },
+    {
+        "input": "Sand_Crab",
+        "output": "Crustaceans"
+    },
+    {
+        "input": "Squirrel",
+        "output": "Mammals"
+    },
+    {
+        "input": "Octopus",
+        "output": "Seafood"
+    },
+    {
+        "input": "Inter-city_Train",
+        "output": "Train"
+    },
+    {
+        "input": "Marshmallow",
+        "output": "Confectionery"
+    },
+    {
+        "input": "Chestnut",
+        "output": "Nut_and_Seed"
+    },
+    {
+        "input": "Zucchini",
+        "output": "Vegetable"
+    },
+    {
+        "input": "Copepod",
+        "output": "Crustaceans"
+    },
+    {
+        "input": "Grasshopper",
+        "output": "Insects"
+    },
+    {
+        "input": "Pumpkin",
+        "output": "Vegetable"
+    },
+    {
+        "input": "Lemon",
+        "output": "Fruit"
+    },
+    {
+        "input": "Jet_Boat",
+        "output": "Boat"
+    },
+    {
+        "input": "Pomegranate",
+        "output": "Fruit"
+    },
+    {
+        "input": "Surinam_Toad",
+        "output": "Amphibians"
+    },
+    {
+        "input": "Oatmeal",
+        "output": "Grain"
+    },
+    {
+        "input": "Salami",
+        "output": "Meat"
+    },
+    {
+        "input": "Barley",
+        "output": "Grain"
+    },
+    {
+        "input": "King_Cobra",
+        "output": "Reptiles"
+    },
+    {
+        "input": "Millet",
+        "output": "Grain"
+    },
+    {
+        "input": "Blackberry",
+        "output": "Fruit"
+    },
+    {
+        "input": "Flamingo",
+        "output": "Birds"
+    },
+    {
+        "input": "Tractor_Unit",
+        "output": "Truck"
+    },
+    {
+        "input": "Pontoon_Boat",
+        "output": "Boat"
+    },
+    {
+        "input": "Pine_Nut",
+        "output": "Nut_and_Seed"
+    },
+    {
+        "input": "Shuttle_Bus",
+        "output": "Bus"
+    },
+    {
+        "input": "Cheetah",
+        "output": "Mammals"
+    },
+    {
+        "input": "Electric_Locomotive",
+        "output": "Train"
+    },
+    {
+        "input": "Electric_Motorcycle",
+        "output": "Motorcycle"
+    },
+    {
+        "input": "Motorboat",
+        "output": "Boat"
+    },
+    {
+        "input": "Herbal_Tea",
+        "output": "Beverage"
+    },
+    {
+        "input": "Tea",
+        "output": "Beverage"
+    },
+    {
+        "input": "Sour_Cream",
+        "output": "Dairy"
+    },
+    {
+        "input": "Economy_Car",
+        "output": "Car"
+    },
+    {
+        "input": "Krill",
+        "output": "Crustaceans"
+    },
+    {
+        "input": "Cuttlefish",
+        "output": "Mollusks"
+    },
+    {
+        "input": "Horseshoe_Crab",
+        "output": "Crustaceans"
+    },
+    {
+        "input": "Guppy",
+        "output": "Fish"
+    },
+    {
+        "input": "Sole",
+        "output": "Fish"
+    },
+    {
+        "input": "Tiger",
+        "output": "Mammals"
+    },
+    {
+        "input": "Houseboat",
+        "output": "Boat"
+    },
+    {
+        "input": "Lobster",
+        "output": "Crustaceans"
+    },
+    {
+        "input": "Goldfinch",
+        "output": "Birds"
+    },
+    {
+        "input": "Cucumber",
+        "output": "Vegetable"
+    },
+    {
+        "input": "Garbage_Truck",
+        "output": "Truck"
+    },
+    {
+        "input": "Monitor_Lizard",
+        "output": "Reptiles"
+    },
+    {
+        "input": "Cat",
+        "output": "Mammals"
+    },
+    {
+        "input": "Cable_Car",
+        "output": "Tram"
+    },
+    {
+        "input": "Wild_Rice",
+        "output": "Grain"
+    },
+    {
+        "input": "Air_Ambulance",
+        "output": "Airplane"
+    },
+    {
+        "input": "Mango",
+        "output": "Fruit"
+    },
+    {
+        "input": "Mustard_Seed",
+        "output": "Nut_and_Seed"
+    },
+    {
+        "input": "King_Crab",
+        "output": "Crustaceans"
+    },
+    {
+        "input": "Bacon",
+        "output": "Meat"
+    },
+    {
+        "input": "Duck",
+        "output": "Meat"
+    },
+    {
+        "input": "Butterfly",
+        "output": "Insects"
+    },
+    {
+        "input": "Mussel",
+        "output": "Mollusks"
+    },
+    {
+        "input": "Speedboat",
+        "output": "Boat"
+    },
+    {
+        "input": "Scorpion",
+        "output": "Arachnids"
+    },
+    {
+        "input": "Milkshake",
+        "output": "Beverage"
+    },
+    {
+        "input": "Coffee",
+        "output": "Beverage"
+    },
+    {
+        "input": "Ice_Cream",
+        "output": "Dairy"
+    },
+    {
+        "input": "Sports_Drink",
+        "output": "Beverage"
+    },
+    {
+        "input": "Termite",
+        "output": "Insects"
+    },
+    {
+        "input": "Mussel",
+        "output": "Seafood"
+    },
+    {
+        "input": "Interurban",
+        "output": "Tram"
+    },
+    {
+        "input": "Supersonic_Aircraft",
+        "output": "Airplane"
+    },
+    {
+        "input": "Yacht",
+        "output": "Boat"
+    },
+    {
+        "input": "Pistachio",
+        "output": "Nut_and_Seed"
+    },
+    {
+        "input": "Whip_Scorpion",
+        "output": "Arachnids"
+    },
+    {
+        "input": "Off-road_Motorcycle",
+        "output": "Motorcycle"
+    },
+    {
+        "input": "Sardine",
+        "output": "Seafood"
+    },
+    {
+        "input": "Gecko",
+        "output": "Reptiles"
+    },
+    {
+        "input": "Pufferfish",
+        "output": "Fish"
+    },
+    {
+        "input": "Sesame_Seed",
+        "output": "Nut_and_Seed"
+    },
+    {
+        "input": "Locust",
+        "output": "Insects"
+    },
+    {
+        "input": "Mountain_Bike",
+        "output": "Bicycle"
+    },
+    {
+        "input": "Amphibious_Aircraft",
+        "output": "Airplane"
+    },
+    {
+        "input": "Gila_Monster",
+        "output": "Reptiles"
+    },
+    {
+        "input": "Kingfisher",
+        "output": "Birds"
+    },
+    {
+        "input": "Mint",
+        "output": "Spice_and_Herb"
+    },
+    {
+        "input": "Japanese_Giant_Salamander",
+        "output": "Amphibians"
+    },
+    {
+        "input": "Carrot",
+        "output": "Vegetable"
+    },
+    {
+        "input": "Folding_Bike",
+        "output": "Bicycle"
+    },
+    {
+        "input": "Sunflower_Seed",
+        "output": "Nut_and_Seed"
+    },
+    {
+        "input": "Pedal_Boat",
+        "output": "Boat"
+    },
+    {
+        "input": "Leatherback_Sea_Turtle",
+        "output": "Reptiles"
+    },
+    {
+        "input": "Salt",
+        "output": "Spice_and_Herb"
+    },
+    {
+        "input": "Clove",
+        "output": "Spice_and_Herb"
+    },
+    {
+        "input": "Energy_Drink",
+        "output": "Beverage"
+    },
+    {
+        "input": "SUV",
+        "output": "Car"
+    },
+    {
+        "input": "Gum",
+        "output": "Confectionery"
+    },
+    {
+        "input": "Goat",
+        "output": "Meat"
+    },
+    {
+        "input": "Raspberry",
+        "output": "Fruit"
+    },
+    {
+        "input": "Cappuccino",
+        "output": "Beverage"
+    },
+    {
+        "input": "Tour_Bus",
+        "output": "Bus"
+    },
+    {
+        "input": "Papaya",
+        "output": "Fruit"
+    },
+    {
+        "input": "Electric_Car",
+        "output": "Car"
+    },
+    {
+        "input": "High-floor_Bus",
+        "output": "Bus"
+    },
+    {
+        "input": "Plum",
+        "output": "Fruit"
+    },
+    {
+        "input": "Scooter",
+        "output": "Motorcycle"
+    },
+    {
+        "input": "Lollipop",
+        "output": "Confectionery"
+    },
+    {
+        "input": "Mozzarella",
+        "output": "Dairy"
+    },
+    {
+        "input": "Rhinoceros",
+        "output": "Mammals"
+    },
+    {
+        "input": "Cabin_Cruiser",
+        "output": "Boat"
+    },
+    {
+        "input": "Snail",
+        "output": "Mollusks"
+    },
+    {
+        "input": "Walnut",
+        "output": "Nut_and_Seed"
+    },
+    {
+        "input": "Agricultural_Plane",
+        "output": "Airplane"
+    },
+    {
+        "input": "Quad_Bike",
+        "output": "Motorcycle"
+    },
+    {
+        "input": "Light_Rail_Train",
+        "output": "Train"
+    },
+    {
+        "input": "Silverfish",
+        "output": "Insects"
+    },
+    {
+        "input": "Fixed_Gear_Bike",
+        "output": "Bicycle"
+    },
+    {
+        "input": "Pineapple",
+        "output": "Fruit"
+    },
+    {
+        "input": "School_Bus",
+        "output": "Bus"
+    },
+    {
+        "input": "Trolleybus",
+        "output": "Bus"
+    },
+    {
+        "input": "Moth",
+        "output": "Insects"
+    },
+    {
+        "input": "Chopper",
+        "output": "Motorcycle"
+    },
+    {
+        "input": "Low-floor_Tram",
+        "output": "Tram"
+    },
+    {
+        "input": "Feta",
+        "output": "Dairy"
+    },
+    {
+        "input": "Dual-sport_Motorcycle",
+        "output": "Motorcycle"
+    },
+    {
+        "input": "Dog",
+        "output": "Mammals"
+    },
+    {
+        "input": "Ginger",
+        "output": "Spice_and_Herb"
+    },
+    {
+        "input": "Potato",
+        "output": "Vegetable"
+    },
+    {
+        "input": "Electric_Bicycle",
+        "output": "Bicycle"
+    }
+]

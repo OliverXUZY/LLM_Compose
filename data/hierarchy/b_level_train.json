@@ -1,0 +1,1570 @@
+[
+    {
+        "input": "Elephant",
+        "output": "Mammals"
+    },
+    {
+        "input": "Giraffe",
+        "output": "Mammals"
+    },
+    {
+        "input": "Lion",
+        "output": "Mammals"
+    },
+    {
+        "input": "Bear",
+        "output": "Mammals"
+    },
+    {
+        "input": "Monkey",
+        "output": "Mammals"
+    },
+    {
+        "input": "Kangaroo",
+        "output": "Mammals"
+    },
+    {
+        "input": "Horse",
+        "output": "Mammals"
+    },
+    {
+        "input": "Deer",
+        "output": "Mammals"
+    },
+    {
+        "input": "Panda",
+        "output": "Mammals"
+    },
+    {
+        "input": "Leopard",
+        "output": "Mammals"
+    },
+    {
+        "input": "Hippopotamus",
+        "output": "Mammals"
+    },
+    {
+        "input": "Bat",
+        "output": "Mammals"
+    },
+    {
+        "input": "Dolphin",
+        "output": "Mammals"
+    },
+    {
+        "input": "Bald_Eagle",
+        "output": "Birds"
+    },
+    {
+        "input": "Blue_Jay",
+        "output": "Birds"
+    },
+    {
+        "input": "Cardinal",
+        "output": "Birds"
+    },
+    {
+        "input": "Sparrow",
+        "output": "Birds"
+    },
+    {
+        "input": "Blue_Tit",
+        "output": "Birds"
+    },
+    {
+        "input": "Blackbird",
+        "output": "Birds"
+    },
+    {
+        "input": "Starling",
+        "output": "Birds"
+    },
+    {
+        "input": "Albatross",
+        "output": "Birds"
+    },
+    {
+        "input": "Hummingbird",
+        "output": "Birds"
+    },
+    {
+        "input": "Ostrich",
+        "output": "Birds"
+    },
+    {
+        "input": "Penguin",
+        "output": "Birds"
+    },
+    {
+        "input": "Swan",
+        "output": "Birds"
+    },
+    {
+        "input": "Turkey",
+        "output": "Birds"
+    },
+    {
+        "input": "American_Alligator",
+        "output": "Reptiles"
+    },
+    {
+        "input": "Komodo_Dragon",
+        "output": "Reptiles"
+    },
+    {
+        "input": "Green_Iguana",
+        "output": "Reptiles"
+    },
+    {
+        "input": "Burmese_Python",
+        "output": "Reptiles"
+    },
+    {
+        "input": "Chameleon",
+        "output": "Reptiles"
+    },
+    {
+        "input": "Bearded_Dragon",
+        "output": "Reptiles"
+    },
+    {
+        "input": "Anaconda",
+        "output": "Reptiles"
+    },
+    {
+        "input": "Rattlesnake",
+        "output": "Reptiles"
+    },
+    {
+        "input": "Tortoise",
+        "output": "Reptiles"
+    },
+    {
+        "input": "Box_Turtle",
+        "output": "Reptiles"
+    },
+    {
+        "input": "Sidewinder",
+        "output": "Reptiles"
+    },
+    {
+        "input": "Skink",
+        "output": "Reptiles"
+    },
+    {
+        "input": "Crocodile",
+        "output": "Reptiles"
+    },
+    {
+        "input": "Water_Dragon",
+        "output": "Reptiles"
+    },
+    {
+        "input": "African_Bullfrog",
+        "output": "Amphibians"
+    },
+    {
+        "input": "Axolotl",
+        "output": "Amphibians"
+    },
+    {
+        "input": "Dart_Frog",
+        "output": "Amphibians"
+    },
+    {
+        "input": "Fire_Salamander",
+        "output": "Amphibians"
+    },
+    {
+        "input": "Glass_Frog",
+        "output": "Amphibians"
+    },
+    {
+        "input": "Horned_Frog",
+        "output": "Amphibians"
+    },
+    {
+        "input": "Olm",
+        "output": "Amphibians"
+    },
+    {
+        "input": "Red-eyed_Tree_Frog",
+        "output": "Amphibians"
+    },
+    {
+        "input": "Salamander",
+        "output": "Amphibians"
+    },
+    {
+        "input": "Spadefoot_Toad",
+        "output": "Amphibians"
+    },
+    {
+        "input": "Tree_Frog",
+        "output": "Amphibians"
+    },
+    {
+        "input": "Yellow-bellied_Toad",
+        "output": "Amphibians"
+    },
+    {
+        "input": "Hellbender",
+        "output": "Amphibians"
+    },
+    {
+        "input": "Common_Frog",
+        "output": "Amphibians"
+    },
+    {
+        "input": "Clownfish",
+        "output": "Fish"
+    },
+    {
+        "input": "Angelfish",
+        "output": "Fish"
+    },
+    {
+        "input": "Catfish",
+        "output": "Fish"
+    },
+    {
+        "input": "Carp",
+        "output": "Fish"
+    },
+    {
+        "input": "Eel",
+        "output": "Fish"
+    },
+    {
+        "input": "Mackerel",
+        "output": "Fish"
+    },
+    {
+        "input": "Marlin",
+        "output": "Fish"
+    },
+    {
+        "input": "Salmon",
+        "output": "Fish"
+    },
+    {
+        "input": "Shark",
+        "output": "Fish"
+    },
+    {
+        "input": "Sturgeon",
+        "output": "Fish"
+    },
+    {
+        "input": "Tilapia",
+        "output": "Fish"
+    },
+    {
+        "input": "Tuna",
+        "output": "Fish"
+    },
+    {
+        "input": "Walleye",
+        "output": "Fish"
+    },
+    {
+        "input": "Swordfish",
+        "output": "Fish"
+    },
+    {
+        "input": "Ant",
+        "output": "Insects"
+    },
+    {
+        "input": "Bee",
+        "output": "Insects"
+    },
+    {
+        "input": "Cicada",
+        "output": "Insects"
+    },
+    {
+        "input": "Cockroach",
+        "output": "Insects"
+    },
+    {
+        "input": "Dragonfly",
+        "output": "Insects"
+    },
+    {
+        "input": "Flea",
+        "output": "Insects"
+    },
+    {
+        "input": "Ladybug",
+        "output": "Insects"
+    },
+    {
+        "input": "Mosquito",
+        "output": "Insects"
+    },
+    {
+        "input": "Praying_Mantis",
+        "output": "Insects"
+    },
+    {
+        "input": "Scarab_Beetle",
+        "output": "Insects"
+    },
+    {
+        "input": "Stink_Bug",
+        "output": "Insects"
+    },
+    {
+        "input": "Wasp",
+        "output": "Insects"
+    },
+    {
+        "input": "Firefly",
+        "output": "Insects"
+    },
+    {
+        "input": "Brown_Recluse_Spider",
+        "output": "Arachnids"
+    },
+    {
+        "input": "Tarantula",
+        "output": "Arachnids"
+    },
+    {
+        "input": "Wolf_Spider",
+        "output": "Arachnids"
+    },
+    {
+        "input": "Tick",
+        "output": "Arachnids"
+    },
+    {
+        "input": "Mite",
+        "output": "Arachnids"
+    },
+    {
+        "input": "Harvestman",
+        "output": "Arachnids"
+    },
+    {
+        "input": "Funnel-web_Spider",
+        "output": "Arachnids"
+    },
+    {
+        "input": "Orb-weaver_Spider",
+        "output": "Arachnids"
+    },
+    {
+        "input": "Daddy_Longlegs",
+        "output": "Arachnids"
+    },
+    {
+        "input": "Camel_Spider",
+        "output": "Arachnids"
+    },
+    {
+        "input": "Trapdoor_Spider",
+        "output": "Arachnids"
+    },
+    {
+        "input": "Purseweb_Spider",
+        "output": "Arachnids"
+    },
+    {
+        "input": "Pseudoscorpion",
+        "output": "Arachnids"
+    },
+    {
+        "input": "Schizomida",
+        "output": "Arachnids"
+    },
+    {
+        "input": "Amblypygi",
+        "output": "Arachnids"
+    },
+    {
+        "input": "Solifugae",
+        "output": "Arachnids"
+    },
+    {
+        "input": "Dungeness_Crab",
+        "output": "Crustaceans"
+    },
+    {
+        "input": "Hermit_Crab",
+        "output": "Crustaceans"
+    },
+    {
+        "input": "Crayfish",
+        "output": "Crustaceans"
+    },
+    {
+        "input": "Shrimp",
+        "output": "Crustaceans"
+    },
+    {
+        "input": "Woodlouse",
+        "output": "Crustaceans"
+    },
+    {
+        "input": "Amphipod",
+        "output": "Crustaceans"
+    },
+    {
+        "input": "Isopod",
+        "output": "Crustaceans"
+    },
+    {
+        "input": "Mantis_Shrimp",
+        "output": "Crustaceans"
+    },
+    {
+        "input": "Snow_Crab",
+        "output": "Crustaceans"
+    },
+    {
+        "input": "Squat_Lobster",
+        "output": "Crustaceans"
+    },
+    {
+        "input": "Blue_Crab",
+        "output": "Crustaceans"
+    },
+    {
+        "input": "Ghost_Crab",
+        "output": "Crustaceans"
+    },
+    {
+        "input": "Giant_Squid",
+        "output": "Mollusks"
+    },
+    {
+        "input": "Octopus",
+        "output": "Mollusks"
+    },
+    {
+        "input": "Nautilus",
+        "output": "Mollusks"
+    },
+    {
+        "input": "Slug",
+        "output": "Mollusks"
+    },
+    {
+        "input": "Clam",
+        "output": "Mollusks"
+    },
+    {
+        "input": "Oyster",
+        "output": "Mollusks"
+    },
+    {
+        "input": "Scallop",
+        "output": "Mollusks"
+    },
+    {
+        "input": "Chiton",
+        "output": "Mollusks"
+    },
+    {
+        "input": "Cockle",
+        "output": "Mollusks"
+    },
+    {
+        "input": "Limpet",
+        "output": "Mollusks"
+    },
+    {
+        "input": "Whelk",
+        "output": "Mollusks"
+    },
+    {
+        "input": "Sea_Slug",
+        "output": "Mollusks"
+    },
+    {
+        "input": "Conch",
+        "output": "Mollusks"
+    },
+    {
+        "input": "Sea_Hare",
+        "output": "Mollusks"
+    },
+    {
+        "input": "Sea_Butterfly",
+        "output": "Mollusks"
+    },
+    {
+        "input": "Tusk_Shell",
+        "output": "Mollusks"
+    },
+    {
+        "input": "Apple",
+        "output": "Fruit"
+    },
+    {
+        "input": "Banana",
+        "output": "Fruit"
+    },
+    {
+        "input": "Orange",
+        "output": "Fruit"
+    },
+    {
+        "input": "Strawberry",
+        "output": "Fruit"
+    },
+    {
+        "input": "Blueberry",
+        "output": "Fruit"
+    },
+    {
+        "input": "Grape",
+        "output": "Fruit"
+    },
+    {
+        "input": "Watermelon",
+        "output": "Fruit"
+    },
+    {
+        "input": "Cherry",
+        "output": "Fruit"
+    },
+    {
+        "input": "Peach",
+        "output": "Fruit"
+    },
+    {
+        "input": "Pear",
+        "output": "Fruit"
+    },
+    {
+        "input": "Kiwi",
+        "output": "Fruit"
+    },
+    {
+        "input": "Lime",
+        "output": "Fruit"
+    },
+    {
+        "input": "Broccoli",
+        "output": "Vegetable"
+    },
+    {
+        "input": "Asparagus",
+        "output": "Vegetable"
+    },
+    {
+        "input": "Cauliflower",
+        "output": "Vegetable"
+    },
+    {
+        "input": "Corn",
+        "output": "Vegetable"
+    },
+    {
+        "input": "Eggplant",
+        "output": "Vegetable"
+    },
+    {
+        "input": "Green_Pepper",
+        "output": "Vegetable"
+    },
+    {
+        "input": "Lettuce",
+        "output": "Vegetable"
+    },
+    {
+        "input": "Mushrooms",
+        "output": "Vegetable"
+    },
+    {
+        "input": "Onion",
+        "output": "Vegetable"
+    },
+    {
+        "input": "Radish",
+        "output": "Vegetable"
+    },
+    {
+        "input": "Sweet_Potato",
+        "output": "Vegetable"
+    },
+    {
+        "input": "Bell_Pepper",
+        "output": "Vegetable"
+    },
+    {
+        "input": "Chili_Pepper",
+        "output": "Vegetable"
+    },
+    {
+        "input": "Beef",
+        "output": "Meat"
+    },
+    {
+        "input": "Chicken",
+        "output": "Meat"
+    },
+    {
+        "input": "Pork",
+        "output": "Meat"
+    },
+    {
+        "input": "Turkey",
+        "output": "Meat"
+    },
+    {
+        "input": "Lamb",
+        "output": "Meat"
+    },
+    {
+        "input": "Venison",
+        "output": "Meat"
+    },
+    {
+        "input": "Rabbit",
+        "output": "Meat"
+    },
+    {
+        "input": "Buffalo",
+        "output": "Meat"
+    },
+    {
+        "input": "Ham",
+        "output": "Meat"
+    },
+    {
+        "input": "Sausage",
+        "output": "Meat"
+    },
+    {
+        "input": "Pepperoni",
+        "output": "Meat"
+    },
+    {
+        "input": "Prosciutto",
+        "output": "Meat"
+    },
+    {
+        "input": "Pate",
+        "output": "Meat"
+    },
+    {
+        "input": "Corned_Beef",
+        "output": "Meat"
+    },
+    {
+        "input": "Pastrami",
+        "output": "Meat"
+    },
+    {
+        "input": "Bologna",
+        "output": "Meat"
+    },
+    {
+        "input": "Salmon",
+        "output": "Seafood"
+    },
+    {
+        "input": "Tuna",
+        "output": "Seafood"
+    },
+    {
+        "input": "Trout",
+        "output": "Seafood"
+    },
+    {
+        "input": "Halibut",
+        "output": "Seafood"
+    },
+    {
+        "input": "Mackerel",
+        "output": "Seafood"
+    },
+    {
+        "input": "Anchovy",
+        "output": "Seafood"
+    },
+    {
+        "input": "Shrimp",
+        "output": "Seafood"
+    },
+    {
+        "input": "Lobster",
+        "output": "Seafood"
+    },
+    {
+        "input": "Crab",
+        "output": "Seafood"
+    },
+    {
+        "input": "Clam",
+        "output": "Seafood"
+    },
+    {
+        "input": "Oyster",
+        "output": "Seafood"
+    },
+    {
+        "input": "Scallop",
+        "output": "Seafood"
+    },
+    {
+        "input": "Squid",
+        "output": "Seafood"
+    },
+    {
+        "input": "Caviar",
+        "output": "Seafood"
+    },
+    {
+        "input": "Haddock",
+        "output": "Seafood"
+    },
+    {
+        "input": "Catfish",
+        "output": "Seafood"
+    },
+    {
+        "input": "Cheese",
+        "output": "Dairy"
+    },
+    {
+        "input": "Butter",
+        "output": "Dairy"
+    },
+    {
+        "input": "Cream",
+        "output": "Dairy"
+    },
+    {
+        "input": "Cottage_Cheese",
+        "output": "Dairy"
+    },
+    {
+        "input": "Cream_Cheese",
+        "output": "Dairy"
+    },
+    {
+        "input": "Cheddar",
+        "output": "Dairy"
+    },
+    {
+        "input": "Parmesan",
+        "output": "Dairy"
+    },
+    {
+        "input": "Gouda",
+        "output": "Dairy"
+    },
+    {
+        "input": "Brie",
+        "output": "Dairy"
+    },
+    {
+        "input": "Camembert",
+        "output": "Dairy"
+    },
+    {
+        "input": "Ricotta",
+        "output": "Dairy"
+    },
+    {
+        "input": "Buttermilk",
+        "output": "Dairy"
+    },
+    {
+        "input": "Ghee",
+        "output": "Dairy"
+    },
+    {
+        "input": "Rice",
+        "output": "Grain"
+    },
+    {
+        "input": "Wheat",
+        "output": "Grain"
+    },
+    {
+        "input": "Oats",
+        "output": "Grain"
+    },
+    {
+        "input": "Corn",
+        "output": "Grain"
+    },
+    {
+        "input": "Rye",
+        "output": "Grain"
+    },
+    {
+        "input": "Quinoa",
+        "output": "Grain"
+    },
+    {
+        "input": "Sorghum",
+        "output": "Grain"
+    },
+    {
+        "input": "Buckwheat",
+        "output": "Grain"
+    },
+    {
+        "input": "Amaranth",
+        "output": "Grain"
+    },
+    {
+        "input": "Teff",
+        "output": "Grain"
+    },
+    {
+        "input": "Brown_Rice",
+        "output": "Grain"
+    },
+    {
+        "input": "Basmati_Rice",
+        "output": "Grain"
+    },
+    {
+        "input": "Jasmine_Rice",
+        "output": "Grain"
+    },
+    {
+        "input": "Pearl_Barley",
+        "output": "Grain"
+    },
+    {
+        "input": "Popcorn",
+        "output": "Grain"
+    },
+    {
+        "input": "Almond",
+        "output": "Nut_and_Seed"
+    },
+    {
+        "input": "Peanut",
+        "output": "Nut_and_Seed"
+    },
+    {
+        "input": "Cashew",
+        "output": "Nut_and_Seed"
+    },
+    {
+        "input": "Pecan",
+        "output": "Nut_and_Seed"
+    },
+    {
+        "input": "Hazelnut",
+        "output": "Nut_and_Seed"
+    },
+    {
+        "input": "Macadamia",
+        "output": "Nut_and_Seed"
+    },
+    {
+        "input": "Pumpkin_Seed",
+        "output": "Nut_and_Seed"
+    },
+    {
+        "input": "Flaxseed",
+        "output": "Nut_and_Seed"
+    },
+    {
+        "input": "Brazil_Nut",
+        "output": "Nut_and_Seed"
+    },
+    {
+        "input": "Hemp_Seed",
+        "output": "Nut_and_Seed"
+    },
+    {
+        "input": "Poppy_Seed",
+        "output": "Nut_and_Seed"
+    },
+    {
+        "input": "Water",
+        "output": "Beverage"
+    },
+    {
+        "input": "Soda",
+        "output": "Beverage"
+    },
+    {
+        "input": "Juice",
+        "output": "Beverage"
+    },
+    {
+        "input": "Beer",
+        "output": "Beverage"
+    },
+    {
+        "input": "Smoothie",
+        "output": "Beverage"
+    },
+    {
+        "input": "Hot_Chocolate",
+        "output": "Beverage"
+    },
+    {
+        "input": "Espresso",
+        "output": "Beverage"
+    },
+    {
+        "input": "Latte",
+        "output": "Beverage"
+    },
+    {
+        "input": "Green_Tea",
+        "output": "Beverage"
+    },
+    {
+        "input": "Pepper",
+        "output": "Spice_and_Herb"
+    },
+    {
+        "input": "Basil",
+        "output": "Spice_and_Herb"
+    },
+    {
+        "input": "Parsley",
+        "output": "Spice_and_Herb"
+    },
+    {
+        "input": "Oregano",
+        "output": "Spice_and_Herb"
+    },
+    {
+        "input": "Cinnamon",
+        "output": "Spice_and_Herb"
+    },
+    {
+        "input": "Turmeric",
+        "output": "Spice_and_Herb"
+    },
+    {
+        "input": "Garlic",
+        "output": "Spice_and_Herb"
+    },
+    {
+        "input": "Rosemary",
+        "output": "Spice_and_Herb"
+    },
+    {
+        "input": "Thyme",
+        "output": "Spice_and_Herb"
+    },
+    {
+        "input": "Cilantro",
+        "output": "Spice_and_Herb"
+    },
+    {
+        "input": "Dill",
+        "output": "Spice_and_Herb"
+    },
+    {
+        "input": "Cardamom",
+        "output": "Spice_and_Herb"
+    },
+    {
+        "input": "Nutmeg",
+        "output": "Spice_and_Herb"
+    },
+    {
+        "input": "Cumin",
+        "output": "Spice_and_Herb"
+    },
+    {
+        "input": "Chocolate",
+        "output": "Confectionery"
+    },
+    {
+        "input": "Candy",
+        "output": "Confectionery"
+    },
+    {
+        "input": "Toffee",
+        "output": "Confectionery"
+    },
+    {
+        "input": "Turkish_Delight",
+        "output": "Confectionery"
+    },
+    {
+        "input": "Fudge",
+        "output": "Confectionery"
+    },
+    {
+        "input": "Licorice",
+        "output": "Confectionery"
+    },
+    {
+        "input": "Caramel",
+        "output": "Confectionery"
+    },
+    {
+        "input": "Nougat",
+        "output": "Confectionery"
+    },
+    {
+        "input": "Mint_Candy",
+        "output": "Confectionery"
+    },
+    {
+        "input": "Hard_Candy",
+        "output": "Confectionery"
+    },
+    {
+        "input": "Gummy_Candy",
+        "output": "Confectionery"
+    },
+    {
+        "input": "Cotton_Candy",
+        "output": "Confectionery"
+    },
+    {
+        "input": "Chocolate_Bar",
+        "output": "Confectionery"
+    },
+    {
+        "input": "Truffle",
+        "output": "Confectionery"
+    },
+    {
+        "input": "Praline",
+        "output": "Confectionery"
+    },
+    {
+        "input": "Macaron",
+        "output": "Confectionery"
+    },
+    {
+        "input": "Sedan",
+        "output": "Car"
+    },
+    {
+        "input": "Coupe",
+        "output": "Car"
+    },
+    {
+        "input": "Station_Wagon",
+        "output": "Car"
+    },
+    {
+        "input": "Hatchback",
+        "output": "Car"
+    },
+    {
+        "input": "Convertible",
+        "output": "Car"
+    },
+    {
+        "input": "Minivan",
+        "output": "Car"
+    },
+    {
+        "input": "Pickup_Truck",
+        "output": "Car"
+    },
+    {
+        "input": "Luxury_Car",
+        "output": "Car"
+    },
+    {
+        "input": "Compact_Car",
+        "output": "Car"
+    },
+    {
+        "input": "Subcompact_Car",
+        "output": "Car"
+    },
+    {
+        "input": "Hybrid_Car",
+        "output": "Car"
+    },
+    {
+        "input": "Muscle_Car",
+        "output": "Car"
+    },
+    {
+        "input": "Off-road_Vehicle",
+        "output": "Car"
+    },
+    {
+        "input": "Limousine",
+        "output": "Car"
+    },
+    {
+        "input": "Roadster",
+        "output": "Car"
+    },
+    {
+        "input": "Road_Bike",
+        "output": "Bicycle"
+    },
+    {
+        "input": "Hybrid_Bike",
+        "output": "Bicycle"
+    },
+    {
+        "input": "Touring_Bike",
+        "output": "Bicycle"
+    },
+    {
+        "input": "Cyclocross_Bike",
+        "output": "Bicycle"
+    },
+    {
+        "input": "BMX_Bike",
+        "output": "Bicycle"
+    },
+    {
+        "input": "Recumbent_Bike",
+        "output": "Bicycle"
+    },
+    {
+        "input": "Tandem_Bike",
+        "output": "Bicycle"
+    },
+    {
+        "input": "Track_Bike",
+        "output": "Bicycle"
+    },
+    {
+        "input": "Freight_Bicycle",
+        "output": "Bicycle"
+    },
+    {
+        "input": "Cruiser_Bike",
+        "output": "Bicycle"
+    },
+    {
+        "input": "Fat_Bike",
+        "output": "Bicycle"
+    },
+    {
+        "input": "Children's_Bike",
+        "output": "Bicycle"
+    },
+    {
+        "input": "Balance_Bike",
+        "output": "Bicycle"
+    },
+    {
+        "input": "City_Bike",
+        "output": "Bicycle"
+    },
+    {
+        "input": "Cargo_Bike",
+        "output": "Bicycle"
+    },
+    {
+        "input": "Cruiser",
+        "output": "Motorcycle"
+    },
+    {
+        "input": "Touring_Motorcycle",
+        "output": "Motorcycle"
+    },
+    {
+        "input": "Standard_Motorcycle",
+        "output": "Motorcycle"
+    },
+    {
+        "input": "Dirt_Bike",
+        "output": "Motorcycle"
+    },
+    {
+        "input": "Enduro_Motorcycle",
+        "output": "Motorcycle"
+    },
+    {
+        "input": "Adventure_Motorcycle",
+        "output": "Motorcycle"
+    },
+    {
+        "input": "Cafe_Racer",
+        "output": "Motorcycle"
+    },
+    {
+        "input": "Moped",
+        "output": "Motorcycle"
+    },
+    {
+        "input": "Trike",
+        "output": "Motorcycle"
+    },
+    {
+        "input": "Superbike",
+        "output": "Motorcycle"
+    },
+    {
+        "input": "Minibike",
+        "output": "Motorcycle"
+    },
+    {
+        "input": "Pickup_Truck",
+        "output": "Truck"
+    },
+    {
+        "input": "Semi-trailer_Truck",
+        "output": "Truck"
+    },
+    {
+        "input": "Dump_Truck",
+        "output": "Truck"
+    },
+    {
+        "input": "Fire_Truck",
+        "output": "Truck"
+    },
+    {
+        "input": "Tank_Truck",
+        "output": "Truck"
+    },
+    {
+        "input": "Flatbed_Truck",
+        "output": "Truck"
+    },
+    {
+        "input": "Box_Truck",
+        "output": "Truck"
+    },
+    {
+        "input": "Tow_Truck",
+        "output": "Truck"
+    },
+    {
+        "input": "Concrete_Mixer_Truck",
+        "output": "Truck"
+    },
+    {
+        "input": "Refrigerator_Truck",
+        "output": "Truck"
+    },
+    {
+        "input": "Mobile_Crane",
+        "output": "Truck"
+    },
+    {
+        "input": "Log_Carrier",
+        "output": "Truck"
+    },
+    {
+        "input": "Chipper_Truck",
+        "output": "Truck"
+    },
+    {
+        "input": "Delivery_Truck",
+        "output": "Truck"
+    },
+    {
+        "input": "Panel_Truck",
+        "output": "Truck"
+    },
+    {
+        "input": "Vocational_Truck",
+        "output": "Truck"
+    },
+    {
+        "input": "Off-road_Truck",
+        "output": "Truck"
+    },
+    {
+        "input": "Armored_Truck",
+        "output": "Truck"
+    },
+    {
+        "input": "City_Bus",
+        "output": "Bus"
+    },
+    {
+        "input": "Double-decker_Bus",
+        "output": "Bus"
+    },
+    {
+        "input": "Minibus",
+        "output": "Bus"
+    },
+    {
+        "input": "Coach",
+        "output": "Bus"
+    },
+    {
+        "input": "Articulated_Bus",
+        "output": "Bus"
+    },
+    {
+        "input": "Intercity_Bus",
+        "output": "Bus"
+    },
+    {
+        "input": "Single-decker_Bus",
+        "output": "Bus"
+    },
+    {
+        "input": "Low-floor_Bus",
+        "output": "Bus"
+    },
+    {
+        "input": "Battery_Electric_Bus",
+        "output": "Bus"
+    },
+    {
+        "input": "Airport_Bus",
+        "output": "Bus"
+    },
+    {
+        "input": "Party_Bus",
+        "output": "Bus"
+    },
+    {
+        "input": "Sleeper_Bus",
+        "output": "Bus"
+    },
+    {
+        "input": "Training_Bus",
+        "output": "Bus"
+    },
+    {
+        "input": "Open-top_Bus",
+        "output": "Bus"
+    },
+    {
+        "input": "Low-entry_Bus",
+        "output": "Bus"
+    },
+    {
+        "input": "Streetcar",
+        "output": "Tram"
+    },
+    {
+        "input": "Light_Rail",
+        "output": "Tram"
+    },
+    {
+        "input": "Heritage_Tram",
+        "output": "Tram"
+    },
+    {
+        "input": "High-floor_Tram",
+        "output": "Tram"
+    },
+    {
+        "input": "Articulated_Tram",
+        "output": "Tram"
+    },
+    {
+        "input": "Double-decker_Tram",
+        "output": "Tram"
+    },
+    {
+        "input": "Rubber-tired_Tram",
+        "output": "Tram"
+    },
+    {
+        "input": "Tram-train",
+        "output": "Tram"
+    },
+    {
+        "input": "Rapid_Transit_Tram",
+        "output": "Tram"
+    },
+    {
+        "input": "Vintage_Tram",
+        "output": "Tram"
+    },
+    {
+        "input": "Modern_Tram",
+        "output": "Tram"
+    },
+    {
+        "input": "Horse-drawn_Tram",
+        "output": "Tram"
+    },
+    {
+        "input": "Air-powered_Tram",
+        "output": "Tram"
+    },
+    {
+        "input": "Battery_Tram",
+        "output": "Tram"
+    },
+    {
+        "input": "Tourist_Tram",
+        "output": "Tram"
+    },
+    {
+        "input": "Passenger_Train",
+        "output": "Train"
+    },
+    {
+        "input": "Freight_Train",
+        "output": "Train"
+    },
+    {
+        "input": "High-speed_Train",
+        "output": "Train"
+    },
+    {
+        "input": "Commuter_Train",
+        "output": "Train"
+    },
+    {
+        "input": "Subway_Train",
+        "output": "Train"
+    },
+    {
+        "input": "Steam_Locomotive",
+        "output": "Train"
+    },
+    {
+        "input": "Diesel_Locomotive",
+        "output": "Train"
+    },
+    {
+        "input": "Maglev_Train",
+        "output": "Train"
+    },
+    {
+        "input": "Regional_Train",
+        "output": "Train"
+    },
+    {
+        "input": "Automated_Train",
+        "output": "Train"
+    },
+    {
+        "input": "Narrow_Gauge_Train",
+        "output": "Train"
+    },
+    {
+        "input": "Double-decker_Train",
+        "output": "Train"
+    },
+    {
+        "input": "Sleeping_Car_Train",
+        "output": "Train"
+    },
+    {
+        "input": "Restaurant_Car_Train",
+        "output": "Train"
+    },
+    {
+        "input": "Caboose",
+        "output": "Train"
+    },
+    {
+        "input": "Tank_Car_Train",
+        "output": "Train"
+    },
+    {
+        "input": "Commercial_Airplane",
+        "output": "Airplane"
+    },
+    {
+        "input": "Private_Jet",
+        "output": "Airplane"
+    },
+    {
+        "input": "Cargo_Airplane",
+        "output": "Airplane"
+    },
+    {
+        "input": "Fighter_Jet",
+        "output": "Airplane"
+    },
+    {
+        "input": "Bomber",
+        "output": "Airplane"
+    },
+    {
+        "input": "Glider",
+        "output": "Airplane"
+    },
+    {
+        "input": "Seaplane",
+        "output": "Airplane"
+    },
+    {
+        "input": "Biplane",
+        "output": "Airplane"
+    },
+    {
+        "input": "Triplane",
+        "output": "Airplane"
+    },
+    {
+        "input": "Sports_Plane",
+        "output": "Airplane"
+    },
+    {
+        "input": "Trainer_Aircraft",
+        "output": "Airplane"
+    },
+    {
+        "input": "Regional_Airplane",
+        "output": "Airplane"
+    },
+    {
+        "input": "Utility_Aircraft",
+        "output": "Airplane"
+    },
+    {
+        "input": "Airliner",
+        "output": "Airplane"
+    },
+    {
+        "input": "Light_Aircraft",
+        "output": "Airplane"
+    },
+    {
+        "input": "Business_Jet",
+        "output": "Airplane"
+    },
+    {
+        "input": "Sailboat",
+        "output": "Boat"
+    },
+    {
+        "input": "Fishing_Boat",
+        "output": "Boat"
+    },
+    {
+        "input": "Inflatable_Boat",
+        "output": "Boat"
+    },
+    {
+        "input": "Canoe",
+        "output": "Boat"
+    },
+    {
+        "input": "Kayak",
+        "output": "Boat"
+    },
+    {
+        "input": "Catamaran",
+        "output": "Boat"
+    },
+    {
+        "input": "Trimaran",
+        "output": "Boat"
+    },
+    {
+        "input": "Rowboat",
+        "output": "Boat"
+    },
+    {
+        "input": "Dinghy",
+        "output": "Boat"
+    },
+    {
+        "input": "Banana_Boat",
+        "output": "Boat"
+    },
+    {
+        "input": "Skiff",
+        "output": "Boat"
+    }
+]

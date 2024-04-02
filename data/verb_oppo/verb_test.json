@@ -1,0 +1,1202 @@
+[
+    {
+        "input": "destroy hide",
+        "output": "destroyed hid"
+    },
+    {
+        "input": "finish strike",
+        "output": "finished struck"
+    },
+    {
+        "input": "hurt mix",
+        "output": "hurt mixed"
+    },
+    {
+        "input": "demand implement",
+        "output": "demanded implemented"
+    },
+    {
+        "input": "burn feel",
+        "output": "burned felt"
+    },
+    {
+        "input": "divide lay",
+        "output": "divided laid"
+    },
+    {
+        "input": "enable clear",
+        "output": "enabled cleared"
+    },
+    {
+        "input": "argue protect",
+        "output": "argued protected"
+    },
+    {
+        "input": "bring organize",
+        "output": "brought organized"
+    },
+    {
+        "input": "hope decide",
+        "output": "hoped decided"
+    },
+    {
+        "input": "advise shine",
+        "output": "advised shone"
+    },
+    {
+        "input": "change encourage",
+        "output": "changed encouraged"
+    },
+    {
+        "input": "die push",
+        "output": "died pushed"
+    },
+    {
+        "input": "read sit",
+        "output": "read sat"
+    },
+    {
+        "input": "charge buy",
+        "output": "charged bought"
+    },
+    {
+        "input": "throw protect",
+        "output": "threw protected"
+    },
+    {
+        "input": "draw reach",
+        "output": "drew reached"
+    },
+    {
+        "input": "sell handle",
+        "output": "sold handled"
+    },
+    {
+        "input": "play run",
+        "output": "played ran"
+    },
+    {
+        "input": "manage ask",
+        "output": "managed asked"
+    },
+    {
+        "input": "avoid catch",
+        "output": "avoided caught"
+    },
+    {
+        "input": "speak quit",
+        "output": "spoke quit"
+    },
+    {
+        "input": "like speak",
+        "output": "liked spoke"
+    },
+    {
+        "input": "borrow tell",
+        "output": "borrowed told"
+    },
+    {
+        "input": "clear like",
+        "output": "cleared liked"
+    },
+    {
+        "input": "write participate",
+        "output": "wrote participated"
+    },
+    {
+        "input": "put change",
+        "output": "put changed"
+    },
+    {
+        "input": "speak drop",
+        "output": "spoke dropped"
+    },
+    {
+        "input": "place consult",
+        "output": "placed consulted"
+    },
+    {
+        "input": "compare decide",
+        "output": "compared decided"
+    },
+    {
+        "input": "count correct",
+        "output": "counted corrected"
+    },
+    {
+        "input": "see become",
+        "output": "saw became"
+    },
+    {
+        "input": "present do",
+        "output": "presented did"
+    },
+    {
+        "input": "participate expand",
+        "output": "participated expanded"
+    },
+    {
+        "input": "follow disagree",
+        "output": "followed disagreed"
+    },
+    {
+        "input": "build complain",
+        "output": "built complained"
+    },
+    {
+        "input": "lend sit",
+        "output": "lent sat"
+    },
+    {
+        "input": "feel produce",
+        "output": "felt produced"
+    },
+    {
+        "input": "collect copy",
+        "output": "collected copied"
+    },
+    {
+        "input": "occur receive",
+        "output": "occurred received"
+    },
+    {
+        "input": "believe forbid",
+        "output": "believed forbade"
+    },
+    {
+        "input": "sweep develop",
+        "output": "swept developed"
+    },
+    {
+        "input": "attempt grow",
+        "output": "attempted grew"
+    },
+    {
+        "input": "concern promise",
+        "output": "concerned promised"
+    },
+    {
+        "input": "drive cry",
+        "output": "drove cried"
+    },
+    {
+        "input": "deliver listen",
+        "output": "delivered listened"
+    },
+    {
+        "input": "enhance sit",
+        "output": "enhanced sat"
+    },
+    {
+        "input": "promise sing",
+        "output": "promised sang"
+    },
+    {
+        "input": "pay hit",
+        "output": "paid hit"
+    },
+    {
+        "input": "drive compare",
+        "output": "drove compared"
+    },
+    {
+        "input": "can meet",
+        "output": "could met"
+    },
+    {
+        "input": "find act",
+        "output": "found acted"
+    },
+    {
+        "input": "call experience",
+        "output": "called experienced"
+    },
+    {
+        "input": "argue emphasize",
+        "output": "argued emphasized"
+    },
+    {
+        "input": "prefer lay",
+        "output": "preferred laid"
+    },
+    {
+        "input": "earn copy",
+        "output": "earned copied"
+    },
+    {
+        "input": "drink forget",
+        "output": "drank forgot"
+    },
+    {
+        "input": "provide begin",
+        "output": "provided began"
+    },
+    {
+        "input": "extend bake",
+        "output": "extended baked"
+    },
+    {
+        "input": "observe stand",
+        "output": "observed stood"
+    },
+    {
+        "input": "show care",
+        "output": "showed cared"
+    },
+    {
+        "input": "point attend",
+        "output": "pointed attended"
+    },
+    {
+        "input": "intend lose",
+        "output": "intended lost"
+    },
+    {
+        "input": "mean die",
+        "output": "meant died"
+    },
+    {
+        "input": "invest earn",
+        "output": "invested earned"
+    },
+    {
+        "input": "shoot break",
+        "output": "shot broke"
+    },
+    {
+        "input": "look check",
+        "output": "looked checked"
+    },
+    {
+        "input": "persuade realize",
+        "output": "persuaded realized"
+    },
+    {
+        "input": "like climb",
+        "output": "liked climbed"
+    },
+    {
+        "input": "realize fail",
+        "output": "realized failed"
+    },
+    {
+        "input": "offer attend",
+        "output": "offered attended"
+    },
+    {
+        "input": "love leave",
+        "output": "loved left"
+    },
+    {
+        "input": "deliver swear",
+        "output": "delivered swore"
+    },
+    {
+        "input": "lay compare",
+        "output": "laid compared"
+    },
+    {
+        "input": "mean reach",
+        "output": "meant reached"
+    },
+    {
+        "input": "believe move",
+        "output": "believed moved"
+    },
+    {
+        "input": "identify eat",
+        "output": "identified ate"
+    },
+    {
+        "input": "examine pull",
+        "output": "examined pulled"
+    },
+    {
+        "input": "count arrive",
+        "output": "counted arrived"
+    },
+    {
+        "input": "engage inform",
+        "output": "engaged informed"
+    },
+    {
+        "input": "compare recommend",
+        "output": "compared recommended"
+    },
+    {
+        "input": "listen kiss",
+        "output": "listened kissed"
+    },
+    {
+        "input": "publish cover",
+        "output": "published covered"
+    },
+    {
+        "input": "apply continue",
+        "output": "applied continued"
+    },
+    {
+        "input": "deliver encourage",
+        "output": "delivered encouraged"
+    },
+    {
+        "input": "implement go",
+        "output": "implemented went"
+    },
+    {
+        "input": "order buy",
+        "output": "ordered bought"
+    },
+    {
+        "input": "like plan",
+        "output": "liked planned"
+    },
+    {
+        "input": "fly pull",
+        "output": "flew pulled"
+    },
+    {
+        "input": "dislike enjoy",
+        "output": "disliked enjoyed"
+    },
+    {
+        "input": "speak say",
+        "output": "spoke said"
+    },
+    {
+        "input": "find perform",
+        "output": "found performed"
+    },
+    {
+        "input": "express count",
+        "output": "expressed counted"
+    },
+    {
+        "input": "ring meet",
+        "output": "rang met"
+    },
+    {
+        "input": "expect fly",
+        "output": "expected flew"
+    },
+    {
+        "input": "tear steal",
+        "output": "tore stole"
+    },
+    {
+        "input": "lack mean",
+        "output": "lacked meant"
+    },
+    {
+        "input": "handle hurt",
+        "output": "handled hurt"
+    },
+    {
+        "input": "justify handle",
+        "output": "justified handled"
+    },
+    {
+        "input": "buy occur",
+        "output": "bought occurred"
+    },
+    {
+        "input": "keep expect",
+        "output": "kept expected"
+    },
+    {
+        "input": "explain collect",
+        "output": "explained collected"
+    },
+    {
+        "input": "borrow answer",
+        "output": "borrowed answered"
+    },
+    {
+        "input": "incorporate hold",
+        "output": "incorporated held"
+    },
+    {
+        "input": "tell kick",
+        "output": "told kicked"
+    },
+    {
+        "input": "ask go",
+        "output": "asked went"
+    },
+    {
+        "input": "throw knock",
+        "output": "threw knocked"
+    },
+    {
+        "input": "set manage",
+        "output": "set managed"
+    },
+    {
+        "input": "investigate provide",
+        "output": "investigated provided"
+    },
+    {
+        "input": "matter publish",
+        "output": "mattered published"
+    },
+    {
+        "input": "live know",
+        "output": "lived knew"
+    },
+    {
+        "input": "install compare",
+        "output": "installed compared"
+    },
+    {
+        "input": "produce lean",
+        "output": "produced leaned"
+    },
+    {
+        "input": "discover climb",
+        "output": "discovered climbed"
+    },
+    {
+        "input": "drink knock",
+        "output": "drank knocked"
+    },
+    {
+        "input": "divide enhance",
+        "output": "divided enhanced"
+    },
+    {
+        "input": "concern extend",
+        "output": "concerned extended"
+    },
+    {
+        "input": "connect close",
+        "output": "connected closed"
+    },
+    {
+        "input": "advise question",
+        "output": "advised questioned"
+    },
+    {
+        "input": "like explain",
+        "output": "liked explained"
+    },
+    {
+        "input": "develop tear",
+        "output": "developed tore"
+    },
+    {
+        "input": "beat ring",
+        "output": "beat rang"
+    },
+    {
+        "input": "fall develop",
+        "output": "fell developed"
+    },
+    {
+        "input": "carry discuss",
+        "output": "carried discussed"
+    },
+    {
+        "input": "achieve realize",
+        "output": "achieved realized"
+    },
+    {
+        "input": "shoot implement",
+        "output": "shot implemented"
+    },
+    {
+        "input": "knock drop",
+        "output": "knocked dropped"
+    },
+    {
+        "input": "organize earn",
+        "output": "organized earned"
+    },
+    {
+        "input": "ensure argue",
+        "output": "ensured argued"
+    },
+    {
+        "input": "light shake",
+        "output": "lit shook"
+    },
+    {
+        "input": "develop sweep",
+        "output": "developed swept"
+    },
+    {
+        "input": "handle forbid",
+        "output": "handled forbade"
+    },
+    {
+        "input": "freeze organize",
+        "output": "froze organized"
+    },
+    {
+        "input": "cook cover",
+        "output": "cooked covered"
+    },
+    {
+        "input": "earn hold",
+        "output": "earned held"
+    },
+    {
+        "input": "destroy finish",
+        "output": "destroyed finished"
+    },
+    {
+        "input": "deal forget",
+        "output": "dealt forgot"
+    },
+    {
+        "input": "love obtain",
+        "output": "loved obtained"
+    },
+    {
+        "input": "live control",
+        "output": "lived controlled"
+    },
+    {
+        "input": "inform organize",
+        "output": "informed organized"
+    },
+    {
+        "input": "spend present",
+        "output": "spent presented"
+    },
+    {
+        "input": "cut connect",
+        "output": "cut connected"
+    },
+    {
+        "input": "ignore apply",
+        "output": "ignored applied"
+    },
+    {
+        "input": "arrive point",
+        "output": "arrived pointed"
+    },
+    {
+        "input": "come focus",
+        "output": "came focused"
+    },
+    {
+        "input": "arrange mix",
+        "output": "arranged mixed"
+    },
+    {
+        "input": "lead correct",
+        "output": "led corrected"
+    },
+    {
+        "input": "describe change",
+        "output": "described changed"
+    },
+    {
+        "input": "help hurt",
+        "output": "helped hurt"
+    },
+    {
+        "input": "care deliver",
+        "output": "cared delivered"
+    },
+    {
+        "input": "confirm agree",
+        "output": "confirmed agreed"
+    },
+    {
+        "input": "lend charge",
+        "output": "lent charged"
+    },
+    {
+        "input": "count forbid",
+        "output": "counted forbade"
+    },
+    {
+        "input": "provide develop",
+        "output": "provided developed"
+    },
+    {
+        "input": "borrow appear",
+        "output": "borrowed appeared"
+    },
+    {
+        "input": "can achieve",
+        "output": "could achieved"
+    },
+    {
+        "input": "borrow explain",
+        "output": "borrowed explained"
+    },
+    {
+        "input": "need shake",
+        "output": "needed shook"
+    },
+    {
+        "input": "claim swear",
+        "output": "claimed swore"
+    },
+    {
+        "input": "face push",
+        "output": "faced pushed"
+    },
+    {
+        "input": "push extend",
+        "output": "pushed extended"
+    },
+    {
+        "input": "learn connect",
+        "output": "learned connected"
+    },
+    {
+        "input": "complain forbid",
+        "output": "complained forbade"
+    },
+    {
+        "input": "burn finish",
+        "output": "burned finished"
+    },
+    {
+        "input": "measure build",
+        "output": "measured built"
+    },
+    {
+        "input": "negotiate find",
+        "output": "negotiated found"
+    },
+    {
+        "input": "stick experience",
+        "output": "stuck experienced"
+    },
+    {
+        "input": "prepare burn",
+        "output": "prepared burned"
+    },
+    {
+        "input": "operate do",
+        "output": "operated did"
+    },
+    {
+        "input": "go care",
+        "output": "went cared"
+    },
+    {
+        "input": "extend produce",
+        "output": "extended produced"
+    },
+    {
+        "input": "manage cost",
+        "output": "managed cost"
+    },
+    {
+        "input": "develop question",
+        "output": "developed questioned"
+    },
+    {
+        "input": "experience mix",
+        "output": "experienced mixed"
+    },
+    {
+        "input": "prevent imply",
+        "output": "prevented implied"
+    },
+    {
+        "input": "feed incorporate",
+        "output": "fed incorporated"
+    },
+    {
+        "input": "expand fall",
+        "output": "expanded fell"
+    },
+    {
+        "input": "complain correct",
+        "output": "complained corrected"
+    },
+    {
+        "input": "operate provide",
+        "output": "operated provided"
+    },
+    {
+        "input": "intend enable",
+        "output": "intended enabled"
+    },
+    {
+        "input": "ask sell",
+        "output": "asked sold"
+    },
+    {
+        "input": "bring listen",
+        "output": "brought listened"
+    },
+    {
+        "input": "take stand",
+        "output": "took stood"
+    },
+    {
+        "input": "laugh beat",
+        "output": "laughed beat"
+    },
+    {
+        "input": "love draw",
+        "output": "loved drew"
+    },
+    {
+        "input": "need make",
+        "output": "needed made"
+    },
+    {
+        "input": "shut help",
+        "output": "shut helped"
+    },
+    {
+        "input": "damage kick",
+        "output": "damaged kicked"
+    },
+    {
+        "input": "drive develop",
+        "output": "drove developed"
+    },
+    {
+        "input": "enter meet",
+        "output": "entered met"
+    },
+    {
+        "input": "freeze hurt",
+        "output": "froze hurt"
+    },
+    {
+        "input": "knock die",
+        "output": "knocked died"
+    },
+    {
+        "input": "count provide",
+        "output": "counted provided"
+    },
+    {
+        "input": "recommend matter",
+        "output": "recommended mattered"
+    },
+    {
+        "input": "insist lead",
+        "output": "insisted led"
+    },
+    {
+        "input": "investigate appear",
+        "output": "investigated appeared"
+    },
+    {
+        "input": "receive indicate",
+        "output": "received indicated"
+    },
+    {
+        "input": "accept win",
+        "output": "accepted won"
+    },
+    {
+        "input": "mix choose",
+        "output": "mixed chose"
+    },
+    {
+        "input": "find contain",
+        "output": "found contained"
+    },
+    {
+        "input": "question organize",
+        "output": "questioned organized"
+    },
+    {
+        "input": "attend give",
+        "output": "attended gave"
+    },
+    {
+        "input": "love cause",
+        "output": "loved caused"
+    },
+    {
+        "input": "hate control",
+        "output": "hated controlled"
+    },
+    {
+        "input": "manage find",
+        "output": "managed found"
+    },
+    {
+        "input": "lack run",
+        "output": "lacked ran"
+    },
+    {
+        "input": "measure shake",
+        "output": "measured shook"
+    },
+    {
+        "input": "tear answer",
+        "output": "tore answered"
+    },
+    {
+        "input": "damage dislike",
+        "output": "damaged disliked"
+    },
+    {
+        "input": "publish inform",
+        "output": "published informed"
+    },
+    {
+        "input": "cut put",
+        "output": "cut put"
+    },
+    {
+        "input": "rise point",
+        "output": "rose pointed"
+    },
+    {
+        "input": "strike borrow",
+        "output": "struck borrowed"
+    },
+    {
+        "input": "send control",
+        "output": "sent controlled"
+    },
+    {
+        "input": "buy fit",
+        "output": "bought fit/fitted"
+    },
+    {
+        "input": "like drop",
+        "output": "liked dropped"
+    },
+    {
+        "input": "examine like",
+        "output": "examined liked"
+    },
+    {
+        "input": "kill identify",
+        "output": "killed identified"
+    },
+    {
+        "input": "manage imply",
+        "output": "managed implied"
+    },
+    {
+        "input": "die compete",
+        "output": "died competed"
+    },
+    {
+        "input": "drink break",
+        "output": "drank broke"
+    },
+    {
+        "input": "go lose",
+        "output": "went lost"
+    },
+    {
+        "input": "quit live",
+        "output": "quit lived"
+    },
+    {
+        "input": "recommend negotiate",
+        "output": "recommended negotiated"
+    },
+    {
+        "input": "expect lay",
+        "output": "expected laid"
+    },
+    {
+        "input": "stand indicate",
+        "output": "stood indicated"
+    },
+    {
+        "input": "become measure",
+        "output": "became measured"
+    },
+    {
+        "input": "think feel",
+        "output": "thought felt"
+    },
+    {
+        "input": "feel like",
+        "output": "felt liked"
+    },
+    {
+        "input": "mean change",
+        "output": "meant changed"
+    },
+    {
+        "input": "happen disagree",
+        "output": "happened disagreed"
+    },
+    {
+        "input": "understand insist",
+        "output": "understood insisted"
+    },
+    {
+        "input": "read close",
+        "output": "read closed"
+    },
+    {
+        "input": "kick get",
+        "output": "kicked got"
+    },
+    {
+        "input": "be laugh",
+        "output": "was/were laughed"
+    },
+    {
+        "input": "shut hang",
+        "output": "shut hung"
+    },
+    {
+        "input": "deal point",
+        "output": "dealt pointed"
+    },
+    {
+        "input": "prepare prevent",
+        "output": "prepared prevented"
+    },
+    {
+        "input": "produce believe",
+        "output": "produced believed"
+    },
+    {
+        "input": "burn swim",
+        "output": "burned swam"
+    },
+    {
+        "input": "enter check",
+        "output": "entered checked"
+    },
+    {
+        "input": "recognize beat",
+        "output": "recognized beat"
+    },
+    {
+        "input": "deserve choose",
+        "output": "deserved chose"
+    },
+    {
+        "input": "win say",
+        "output": "won said"
+    },
+    {
+        "input": "show order",
+        "output": "showed ordered"
+    },
+    {
+        "input": "come cut",
+        "output": "came cut"
+    },
+    {
+        "input": "steal meet",
+        "output": "stole met"
+    },
+    {
+        "input": "earn concern",
+        "output": "earned concerned"
+    },
+    {
+        "input": "cover measure",
+        "output": "covered measured"
+    },
+    {
+        "input": "advise call",
+        "output": "advised called"
+    },
+    {
+        "input": "feel prepare",
+        "output": "felt prepared"
+    },
+    {
+        "input": "place care",
+        "output": "placed cared"
+    },
+    {
+        "input": "clean hide",
+        "output": "cleaned hid"
+    },
+    {
+        "input": "meet pay",
+        "output": "met paid"
+    },
+    {
+        "input": "throw intend",
+        "output": "threw intended"
+    },
+    {
+        "input": "laugh consider",
+        "output": "laughed considered"
+    },
+    {
+        "input": "lie confirm",
+        "output": "lay confirmed"
+    },
+    {
+        "input": "feel throw",
+        "output": "felt threw"
+    },
+    {
+        "input": "leave intend",
+        "output": "left intended"
+    },
+    {
+        "input": "know realize",
+        "output": "knew realized"
+    },
+    {
+        "input": "care provide",
+        "output": "cared provided"
+    },
+    {
+        "input": "prepare act",
+        "output": "prepared acted"
+    },
+    {
+        "input": "stick engage",
+        "output": "stuck engaged"
+    },
+    {
+        "input": "meet arrange",
+        "output": "met arranged"
+    },
+    {
+        "input": "throw happen",
+        "output": "threw happened"
+    },
+    {
+        "input": "speak lose",
+        "output": "spoke lost"
+    },
+    {
+        "input": "run happen",
+        "output": "ran happened"
+    },
+    {
+        "input": "recommend bake",
+        "output": "recommended baked"
+    },
+    {
+        "input": "wear decide",
+        "output": "wore decided"
+    },
+    {
+        "input": "claim send",
+        "output": "claimed sent"
+    },
+    {
+        "input": "mark cry",
+        "output": "marked cried"
+    },
+    {
+        "input": "understand manage",
+        "output": "understood managed"
+    },
+    {
+        "input": "wake call",
+        "output": "woke called"
+    },
+    {
+        "input": "steal dance",
+        "output": "stole danced"
+    },
+    {
+        "input": "meet enhance",
+        "output": "met enhanced"
+    },
+    {
+        "input": "place improve",
+        "output": "placed improved"
+    },
+    {
+        "input": "run cut",
+        "output": "ran cut"
+    },
+    {
+        "input": "collect look",
+        "output": "collected looked"
+    },
+    {
+        "input": "sit begin",
+        "output": "sat began"
+    },
+    {
+        "input": "keep stick",
+        "output": "kept stuck"
+    },
+    {
+        "input": "enable explain",
+        "output": "enabled explained"
+    },
+    {
+        "input": "fall care",
+        "output": "fell cared"
+    },
+    {
+        "input": "know enable",
+        "output": "knew enabled"
+    },
+    {
+        "input": "describe join",
+        "output": "described joined"
+    },
+    {
+        "input": "point apply",
+        "output": "pointed applied"
+    },
+    {
+        "input": "produce buy",
+        "output": "produced bought"
+    },
+    {
+        "input": "apply stick",
+        "output": "applied stuck"
+    },
+    {
+        "input": "cost hear",
+        "output": "cost heard"
+    },
+    {
+        "input": "charge spend",
+        "output": "charged spent"
+    },
+    {
+        "input": "care disagree",
+        "output": "cared disagreed"
+    },
+    {
+        "input": "provide knock",
+        "output": "provided knocked"
+    },
+    {
+        "input": "beat cause",
+        "output": "beat caused"
+    },
+    {
+        "input": "hurt swear",
+        "output": "hurt swore"
+    },
+    {
+        "input": "beat destroy",
+        "output": "beat destroyed"
+    },
+    {
+        "input": "let cut",
+        "output": "let cut"
+    },
+    {
+        "input": "sweep say",
+        "output": "swept said"
+    },
+    {
+        "input": "jump mind",
+        "output": "jumped minded"
+    },
+    {
+        "input": "enable enjoy",
+        "output": "enabled enjoyed"
+    },
+    {
+        "input": "earn join",
+        "output": "earned joined"
+    },
+    {
+        "input": "freeze ride",
+        "output": "froze rode"
+    }
+]

@@ -1,0 +1,43 @@
+{
+    "names_upper": "* is a function before words for swapping the position of 2 words, # is another function after words for capitalizing letters of words.",
+    "swap": "* is a function before words for swapping the position of 2 words, # is another function after words for capitalizing letters of words.",
+    "upper_swap": "* is a function before words for swapping the position of 2 words, # is another function after words for capitalizing letters of words.",
+    "upper_swap_compose_incontext": "* is a function before words for swapping the position of 2 words, # is another function after words for capitalizing letters of words.",
+    
+
+ 
+    "swap1": "* is a function followed by words for capitalizing letters of words, # is another function following words for swapping the position of 2 words.",
+    "upper_swap1": "* is a function followed by words for capitalizing letters of words, # is another function following words for swapping the position of 2 words.",
+    "upper_swap_compose_incontext1": "* is a function followed by words for capitalizing letters of words, # is another function following words for swapping the position of 2 words.",
+
+    "a_level": "Below you are given examples showing how items fit into categories. Use what you've learned to determine the category for any new item.",
+    "b_level": "Below you are given examples showing how items fit into categories. Use what you've learned to determine the category for any new item.",
+    "ab_level": "Below you are given examples showing how items fit into categories and larger groups. If an item is in a category that's part of a larger group, remember the connection. Use what you've learned to determine the larger group for any new item.",
+    "ab_level_compose_incontext": "Below you are given examples showing how items fit into categories. Use what you've learned to determine the category for any new item.",
+    "a_level_symbol": "Below you are given examples showing how items fit into categories. Use what you've learned to determine the category for any new item.",
+    "ab_level_symbol": "Below you are given examples showing how items fit into categories and larger groups. If an item is in a category that's part of a larger group, remember the connection. Use what you've learned to determine the larger group for any new item.",
+    "ab_level_compose_incontext_symbol": "Below you are given examples showing how items fit into categories. Use what you've learned to determine the category for any new item.",
+    
+
+    "oppopair": "* is a function before words for finding the opposite meaning of two words, # is another function after words for swapping the position of 2 words",
+    "oppopair_swap": "* is a function before words for finding the opposite meaning of two words, # is another function after words for swapping the position of 2 words",
+    "oppopair_swap_com": "* is a function before words for finding the opposite meaning of two words, # is another function after words for swapping the position of 2 words",
+    "oppopair_swap_com_incontext": "* is a function before words for finding the opposite meaning of two words, # is another function after words for swapping the position of 2 words",
+
+    "verbpair": "* is a function before words for finding the past tense of two verbs, # is another function after words for swapping the position of 2 verbs",
+    "verbpair_swap": "* is a function before words for finding the past tense of two verbs, # is another function after words for swapping the position of 2 verbs",
+    "verbpair_swap_com": "* is a function before words for finding the past tense of two verbs, # is another function after words for swapping the position of 2 verbs",
+    "verbpair_swap_com_incontext": "* is a function before words for finding the past tense of two verbs, # is another function after words for swapping the position of 2 verbs",
+
+    "verbsingle": "* is a function before word for finding the past tense of verb, # is another function after word for capitalizing the characters of verb",
+    "verbsingle_upper": "* is a function before word for finding the past tense of verb, # is another function after word for capitalizing the characters of verb",
+    "verbsingle_upper_com": "* is a function before word for finding the past tense of verb, # is another function after word for capitalizing the characters of verb",
+    "verbsingle_upper_com_incontext": "* is a function before word for finding the past tense of verb, # is another function after word for capitalizing the characters of verb",
+
+
+    "oppoverb_oppo": "* is a function before word for finding the opposite meaning of the word, # is another function before verb for finding the past tense of the verb",
+    "oppoverb_verb": "* is a function before word for finding the opposite meaning of the word, # is another function before verb for finding the past tense of the verb",
+    "oppoverb_com": "* is a function before word for finding the opposite meaning of the word, # is another function before verb for finding the past tense of the verb",
+    "oppoverb_com_incontext": "* is a function before word for finding the opposite meaning of the word, # is another function before verb for finding the past tense of the verb"
+
+}

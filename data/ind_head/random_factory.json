@@ -1,0 +1,2002 @@
+[
+    {
+        "input": "bicycle japanese butternut puck jacket chameleon basenji pie tile vending mop nail bib diaper convertible bicycle japanese butternut puck jacket",
+        "output": "chameleon basenji pie tile vending mop nail bib diaper convertible"
+    },
+    {
+        "input": "moving vaulted mosque heron dishwasher accordion ruddy cabbage pickelhaube boxer aircraft measuring school cauldron beagle moving vaulted mosque heron dishwasher",
+        "output": "accordion ruddy cabbage pickelhaube boxer aircraft measuring school cauldron beagle"
+    },
+    {
+        "input": "cap crab coffee artichoke lifeboat ring-tailed weasel slug italian sign barrel magpie newfoundland tank soccer cap crab coffee artichoke lifeboat",
+        "output": "ring-tailed weasel slug italian sign barrel magpie newfoundland tank soccer"
+    },
+    {
+        "input": "fungus tench vine maze amphibious porcupine suspension rose toilet sorrel tan recreational persian suit band-aid fungus tench vine maze amphibious",
+        "output": "porcupine suspension rose toilet sorrel tan recreational persian suit band-aid"
+    },
+    {
+        "input": "eel bullmastiff southern indri dragon motorboat moving turtle plunger breakwater shade plant water mousetrap apiary eel bullmastiff southern indri dragon",
+        "output": "motorboat moving turtle plunger breakwater shade plant water mousetrap apiary"
+    },
+    {
+        "input": "face wire cabinet pan analog opener ground projectile three-toed stethoscope blue lemon spray gyromitra tram face wire cabinet pan analog",
+        "output": "opener ground projectile three-toed stethoscope blue lemon spray gyromitra tram"
+    },
+    {
+        "input": "sock dust damselfly tile sarong pickup shield beaker alligator control sewing filing artichoke hummingbird opener sock dust damselfly tile sarong",
+        "output": "pickup shield beaker alligator control sewing filing artichoke hummingbird opener"
+    },
+    {
+        "input": "junco rose red abacus cheeseburger bolete sulphur otter cairn bullmastiff room airship tights pickelhaube breakwater junco rose red abacus cheeseburger",
+        "output": "bolete sulphur otter cairn bullmastiff room airship tights pickelhaube breakwater"
+    },
+    {
+        "input": "trench prison bald military infant skunk banjo velvet motorboat race ocarina axolotl dishwasher ray book trench prison bald military infant",
+        "output": "skunk banjo velvet motorboat race ocarina axolotl dishwasher ray book"
+    },
+    {
+        "input": "crash pen hammer bubble black t-shirt plant toaster malamute crock library platypus patas coffeemaker tie crash pen hammer bubble black",
+        "output": "t-shirt plant toaster malamute crock library platypus patas coffeemaker tie"
+    },
+    {
+        "input": "mower syringe clip dock woods plane rocking bobsleigh coot semi-trailer armadillo odometer scorpion screen magnetic mower syringe clip dock woods",
+        "output": "plane rocking bobsleigh coot semi-trailer armadillo odometer scorpion screen magnetic"
+    },
+    {
+        "input": "rig balaclava dial tank minivan switch swim umbrella corkscrew newfoundland steam centipede tree patio greater rig balaclava dial tank minivan",
+        "output": "switch swim umbrella corkscrew newfoundland steam centipede tree patio greater"
+    },
+    {
+        "input": "wallaby muzzle capuchin junco stove heater foxhound microwave iron porcupine beach steel bulbul flamingo store wallaby muzzle capuchin junco stove",
+        "output": "heater foxhound microwave iron porcupine beach steel bulbul flamingo store"
+    },
+    {
+        "input": "fly apple finch jay vine guenon bush meerkat bunting nautilus turtle tobacco construction tick coonhound fly apple finch jay vine",
+        "output": "guenon bush meerkat bunting nautilus turtle tobacco construction tick coonhound"
+    },
+    {
+        "input": "soda spoon porcupine balaclava hunting wheaten sorrel nail pomeranian great stethoscope coffee agaric spotted newfoundland soda spoon porcupine balaclava hunting",
+        "output": "wheaten sorrel nail pomeranian great stethoscope coffee agaric spotted newfoundland"
+    },
+    {
+        "input": "windsor clumber bicycle pad shetland paintbrush red-breasted measuring oystercatcher golden schooner net fig echidna pineapple windsor clumber bicycle pad shetland",
+        "output": "paintbrush red-breasted measuring oystercatcher golden schooner net fig echidna pineapple"
+    },
+    {
+        "input": "bobsleigh rack pestle steam italian dugong vacuum phone patas bowl lipstick clumber stinkhorn microwave binoculars bobsleigh rack pestle steam italian",
+        "output": "dugong vacuum phone patas bowl lipstick clumber stinkhorn microwave binoculars"
+    },
+    {
+        "input": "piggy bernese wire plastic lock chameleon shorts weasel miniskirt hatchet saxophone jacamar safe vespa warthog piggy bernese wire plastic lock",
+        "output": "chameleon shorts weasel miniskirt hatchet saxophone jacamar safe vespa warthog"
+    },
+    {
+        "input": "newt hog-nosed sennenhund stethoscope weevil king moving beer egret cob arched ridgeback squirrel conch small newt hog-nosed sennenhund stethoscope weevil",
+        "output": "king moving beer egret cob arched ridgeback squirrel conch small"
+    },
+    {
+        "input": "tie bay silver tower cowboy mirror peafowl gossamer-winged band-aid shoji stopwatch lens whiskey anemone meter tie bay silver tower cowboy",
+        "output": "mirror peafowl gossamer-winged band-aid shoji stopwatch lens whiskey anemone meter"
+    },
+    {
+        "input": "plane grille bolete horse langur door radio ox restaurant beach analog st. dispenser flat-coated beaver plane grille bolete horse langur",
+        "output": "door radio ox restaurant beach analog st. dispenser flat-coated beaver"
+    },
+    {
+        "input": "jeep teddy divider thermal finch macaw station siamang great ladybug tennis canoe ceiling saluki tray jeep teddy divider thermal finch",
+        "output": "macaw station siamang great ladybug tennis canoe ceiling saluki tray"
+    },
+    {
+        "input": "uniform kuvasz fireboat tan bottle poke promontory school chestnut bluetick wallaby roof rottweiler syringe overskirt uniform kuvasz fireboat tan bottle",
+        "output": "poke promontory school chestnut bluetick wallaby roof rottweiler syringe overskirt"
+    },
+    {
+        "input": "dandie sports control fire geoffroy's harvestman bars hen gar breakwater printer badger altar quail microwave dandie sports control fire geoffroy's",
+        "output": "harvestman bars hen gar breakwater printer badger altar quail microwave"
+    },
+    {
+        "input": "triceratops balloon bathing highland rottweiler library entertainment magnetic chihuahua ladybug minivan german swimming bag padlock triceratops balloon bathing highland rottweiler",
+        "output": "library entertainment magnetic chihuahua ladybug minivan german swimming bag padlock"
+    },
+    {
+        "input": "dam shovel greater race graduation sulphur rotary plow vase fabric player broom st. bay leafhopper dam shovel greater race graduation",
+        "output": "sulphur rotary plow vase fabric player broom st. bay leafhopper"
+    },
+    {
+        "input": "coucal slot chair coffee clownfish shepherd orange trunks apple sawmill tan lens pajamas giant plectrum coucal slot chair coffee clownfish",
+        "output": "shepherd orange trunks apple sawmill tan lens pajamas giant plectrum"
+    },
+    {
+        "input": "bed chain-link stupa cardigan zucchini minivan bullmastiff front pipe eastern rattlesnake coffee slipper cougar african bed chain-link stupa cardigan zucchini",
+        "output": "minivan bullmastiff front pipe eastern rattlesnake coffee slipper cougar african"
+    },
+    {
+        "input": "disc butcher monitor banded carved crock gong shako ring-tailed ford proboscis blue bison custard china disc butcher monitor banded carved",
+        "output": "crock gong shako ring-tailed ford proboscis blue bison custard china"
+    },
+    {
+        "input": "shield can control bath pacifier safety frying hare hammer robin neck cradle camera albatross lifeboat shield can control bath pacifier",
+        "output": "safety frying hare hammer robin neck cradle camera albatross lifeboat"
+    },
+    {
+        "input": "mixing power norfolk groenendael boa black-and-white triumphal bookcase chesapeake honeycomb lemon half-track cockroach uniform abaya mixing power norfolk groenendael boa",
+        "output": "black-and-white triumphal bookcase chesapeake honeycomb lemon half-track cockroach uniform abaya"
+    },
+    {
+        "input": "traffic ipod red-breasted typewriter partridge pekingese comic railroad bank leonberger of mastiff admiral oil strainer traffic ipod red-breasted typewriter partridge",
+        "output": "pekingese comic railroad bank leonberger of mastiff admiral oil strainer"
+    },
+    {
+        "input": "acoustic limpkin buffalo pickup electrical mink sarong centipede tibetan flatworm potatoes bra ferret frog oxygen acoustic limpkin buffalo pickup electrical",
+        "output": "mink sarong centipede tibetan flatworm potatoes bra ferret frog oxygen"
+    },
+    {
+        "input": "rickshaw snorkel lakeshore tundra trash dishcloth plant bagel impala baluster dinmont fig parachute electrical cat rickshaw snorkel lakeshore tundra trash",
+        "output": "dishcloth plant bagel impala baluster dinmont fig parachute electrical cat"
+    },
+    {
+        "input": "coral catamaran jigsaw clothes breakwater paddle bittern hound comic hornbill puzzle cap iguana tabby turnstone coral catamaran jigsaw clothes breakwater",
+        "output": "paddle bittern hound comic hornbill puzzle cap iguana tabby turnstone"
+    },
+    {
+        "input": "clip tie clogs monastery leafhopper mamba safety hammer african car chime cat salamander plastic oystercatcher clip tie clogs monastery leafhopper",
+        "output": "mamba safety hammer african car chime cat salamander plastic oystercatcher"
+    },
+    {
+        "input": "eater conch plant abacus racket garter harp affenpinscher rain combine bunting duck tights jackfruit redbone eater conch plant abacus racket",
+        "output": "garter harp affenpinscher rain combine bunting duck tights jackfruit redbone"
+    },
+    {
+        "input": "door player mail bookcase axolotl clownfish walker pole jacket wagon bike train european maraca marmoset door player mail bookcase axolotl",
+        "output": "clownfish walker pole jacket wagon bike train european maraca marmoset"
+    },
+    {
+        "input": "tricycle mud australian cream mamba langur folding rhodesian german staffordshire bear reel boot dandie dragon tricycle mud australian cream mamba",
+        "output": "langur folding rhodesian german staffordshire bear reel boot dandie dragon"
+    },
+    {
+        "input": "bed triumphal grand bolete schooner wheel fan power wall rooster tie papillon briard goblet camera bed triumphal grand bolete schooner",
+        "output": "wheel fan power wall rooster tie papillon briard goblet camera"
+    },
+    {
+        "input": "safe bay tie marmoset baluster gar barbershop des telephone carved bench python skunk pipe mosque safe bay tie marmoset baluster",
+        "output": "gar barbershop des telephone carved bench python skunk pipe mosque"
+    },
+    {
+        "input": "egret proboscis rifle cello butternut beagle goblet daisy coot wind lynx papillon suit red-breasted ipod egret proboscis rifle cello butternut",
+        "output": "beagle goblet daisy coot wind lynx papillon suit red-breasted ipod"
+    },
+    {
+        "input": "lakeshore puzzle electrical through terrier tripod cannon acorn whiskey crash table catamaran seat highland trombone lakeshore puzzle electrical through terrier",
+        "output": "tripod cannon acorn whiskey crash table catamaran seat highland trombone"
+    },
+    {
+        "input": "snake ball pembroke lipstick shorts penguin lampshade toilet vespa wok mug flatworm dough basset persian snake ball pembroke lipstick shorts",
+        "output": "penguin lampshade toilet vespa wok mug flatworm dough basset persian"
+    },
+    {
+        "input": "bicycle wing carrier spiny pen redbone dunlin centipede brass guinea web pinscher coot strainer cassette bicycle wing carrier spiny pen",
+        "output": "redbone dunlin centipede brass guinea web pinscher coot strainer cassette"
+    },
+    {
+        "input": "spaghetti telescope guinea telephone staffordshire mountain maze radio jaguar mower snorkel dungeness hammer cauliflower bighorn spaghetti telescope guinea telephone staffordshire",
+        "output": "mountain maze radio jaguar mower snorkel dungeness hammer cauliflower bighorn"
+    },
+    {
+        "input": "swing crash patio bassinet cougar croquet dog potatoes eagle urchin home stupa egyptian sorrel steam swing crash patio bassinet cougar",
+        "output": "croquet dog potatoes eagle urchin home stupa egyptian sorrel steam"
+    },
+    {
+        "input": "african silver des kite oil store ruler greater borzoi rhodesian skunk poncho menu bed ring african silver des kite oil",
+        "output": "store ruler greater borzoi rhodesian skunk poncho menu bed ring"
+    },
+    {
+        "input": "radio cabinet mixing sandal shoji angora chickadee baseball orange papillon meter hard trifle vending sloth radio cabinet mixing sandal shoji",
+        "output": "angora chickadee baseball orange papillon meter hard trifle vending sloth"
+    },
+    {
+        "input": "wooden nautilus hair banded elkhound coffeemaker schooner four-poster sidewinder rifle angora ocarina cockroach jeep overskirt wooden nautilus hair banded elkhound",
+        "output": "coffeemaker schooner four-poster sidewinder rifle angora ocarina cockroach jeep overskirt"
+    },
+    {
+        "input": "tram marimba brain norwegian front bed cleaner urchin colobus syringe alligator sorrel swimming red-breasted potter's tram marimba brain norwegian front",
+        "output": "bed cleaner urchin colobus syringe alligator sorrel swimming red-breasted potter's"
+    },
+    {
+        "input": "station book european electric ocean groenendael modem rack spaniel church pomeranian breakwater pacifier submarine petri station book european electric ocean",
+        "output": "groenendael modem rack spaniel church pomeranian breakwater pacifier submarine petri"
+    },
+    {
+        "input": "cauliflower fishing hunting camera clogs patas dugong farm bullfrog bookstore reef school ruffed schipperke bassinet cauliflower fishing hunting camera clogs",
+        "output": "patas dugong farm bullfrog bookstore reef school ruffed schipperke bassinet"
+    },
+    {
+        "input": "rack bernese carbonara locomotive street polar phone mop partridge odometer bolo mortar english clogs baguette rack bernese carbonara locomotive street",
+        "output": "polar phone mop partridge odometer bolo mortar english clogs baguette"
+    },
+    {
+        "input": "sarong pointer steam microphone banjo frilled-necked leafhopper meatloaf custard messenger skirt pad grey tick barbell sarong pointer steam microphone banjo",
+        "output": "frilled-necked leafhopper meatloaf custard messenger skirt pad grey tick barbell"
+    },
+    {
+        "input": "sink deerhound gallinule mongoose harvester slot urchin gown mashed dish flamingo shoji snowplow monitor scarf sink deerhound gallinule mongoose harvester",
+        "output": "slot urchin gown mashed dish flamingo shoji snowplow monitor scarf"
+    },
+    {
+        "input": "shoe jellyfish ruddy lighthouse buckle pole shovel carved microwave pineapple vizsla vestment theater combination gyromitra shoe jellyfish ruddy lighthouse buckle",
+        "output": "pole shovel carved microwave pineapple vizsla vestment theater combination gyromitra"
+    },
+    {
+        "input": "black dining radio sturgeon sandbar kelpie hammer lhasa dugong tailed handkerchief rain bullmastiff wild pitcher black dining radio sturgeon sandbar",
+        "output": "kelpie hammer lhasa dugong tailed handkerchief rain bullmastiff wild pitcher"
+    },
+    {
+        "input": "tricycle bolo patas shorts convertible door night wombat collie couch magnifying radiator dane dingo seed tricycle bolo patas shorts convertible",
+        "output": "door night wombat collie couch magnifying radiator dane dingo seed"
+    },
+    {
+        "input": "jay guitar fishing little fence wombat beetle manhole ferret schipperke badger echidna dial mortar dinmont jay guitar fishing little fence",
+        "output": "wombat beetle manhole ferret schipperke badger echidna dial mortar dinmont"
+    },
+    {
+        "input": "mirror basketball castle heater bath obelisk go-kart bunting duck shih rotisserie drink cardboard umbrella teapot mirror basketball castle heater bath",
+        "output": "obelisk go-kart bunting duck shih rotisserie drink cardboard umbrella teapot"
+    },
+    {
+        "input": "bench hand-held cauldron race des handkerchief male dragonfly scottish collector white-headed patio potter's australian space bench hand-held cauldron race des",
+        "output": "handkerchief male dragonfly scottish collector white-headed patio potter's australian space"
+    },
+    {
+        "input": "marimba room rock digital wall crash fig groenendael loggerhead salamander stork crock wolfhound flandres diamondback marimba room rock digital wall",
+        "output": "crash fig groenendael loggerhead salamander stork crock wolfhound flandres diamondback"
+    },
+    {
+        "input": "thatched doormat guitar star cliff cardboard macaque dunlin apiary product guillotine tub guinea rock brussels thatched doormat guitar star cliff",
+        "output": "cardboard macaque dunlin apiary product guillotine tub guinea rock brussels"
+    },
+    {
+        "input": "jay horn velvet lizard jacamar hamper custard french farm alaskan candle punching suspension macaque spaghetti jay horn velvet lizard jacamar",
+        "output": "hamper custard french farm alaskan candle punching suspension macaque spaghetti"
+    },
+    {
+        "input": "brace english shorthaired milk storage brake ruddy trash maraca carolina screen baboon cowboy isopod mosquito brace english shorthaired milk storage",
+        "output": "brake ruddy trash maraca carolina screen baboon cowboy isopod mosquito"
+    },
+    {
+        "input": "coil salamander siamang macaque christmas spray sneaker old pencil cockatoo guenon oystercatcher hound jaguar web coil salamander siamang macaque christmas",
+        "output": "spray sneaker old pencil cockatoo guenon oystercatcher hound jaguar web"
+    },
+    {
+        "input": "tench canoe ceiling alaskan notebook perfume scottish schipperke plant curly-coated dwelling hartebeest earth mop fungus tench canoe ceiling alaskan notebook",
+        "output": "perfume scottish schipperke plant curly-coated dwelling hartebeest earth mop fungus"
+    },
+    {
+        "input": "sea crash trilobite helmet rifle pembroke pickelhaube dining ibex water park pomegranate tick roof agama sea crash trilobite helmet rifle",
+        "output": "pembroke pickelhaube dining ibex water park pomegranate tick roof agama"
+    },
+    {
+        "input": "guillotine slip-on green grouse dane newt sarong meter adult shovel movie seed bikini handkerchief australian guillotine slip-on green grouse dane",
+        "output": "newt sarong meter adult shovel movie seed bikini handkerchief australian"
+    },
+    {
+        "input": "ice constrictor joystick egret spiral diaper hat theater cockroach drum kite prairie triceratops sliding bison ice constrictor joystick egret spiral",
+        "output": "diaper hat theater cockroach drum kite prairie triceratops sliding bison"
+    },
+    {
+        "input": "pillow vest ray ice minivan convertible bridegroom guitar rule lynx canoe park dome rain knot pillow vest ray ice minivan",
+        "output": "convertible bridegroom guitar rule lynx canoe park dome rain knot"
+    },
+    {
+        "input": "shaker train snow bassinet bird hare crt shop ridgeback ground cd syrup spotted bassoon penguin shaker train snow bassinet bird",
+        "output": "hare crt shop ridgeback ground cd syrup spotted bassoon penguin"
+    },
+    {
+        "input": "compass filing graduation arched border brambling sulphur tobacco stopwatch snoek toaster squirrel library ferret miniskirt compass filing graduation arched border",
+        "output": "brambling sulphur tobacco stopwatch snoek toaster squirrel library ferret miniskirt"
+    },
+    {
+        "input": "poke flute swiss gibbon fig barber switch finch locomotive kuvasz silver leafhopper corgi tool plow poke flute swiss gibbon fig",
+        "output": "barber switch finch locomotive kuvasz silver leafhopper corgi tool plow"
+    },
+    {
+        "input": "meter coffee hippopotamus dalmatian broom pen gymnastic papillon chainsaw rule bison armadillo peafowl vine bathing meter coffee hippopotamus dalmatian broom",
+        "output": "pen gymnastic papillon chainsaw rule bison armadillo peafowl vine bathing"
+    },
+    {
+        "input": "plow mushroom chainsaw drill fishing macaw python high-speed saluki wombat maraca fox wooden monitor ladle plow mushroom chainsaw drill fishing",
+        "output": "macaw python high-speed saluki wombat maraca fox wooden monitor ladle"
+    },
+    {
+        "input": "snow wind hound sombrero patio submarine window parking dial shaker st. teapot bookcase constrictor crate snow wind hound sombrero patio",
+        "output": "submarine window parking dial shaker st. teapot bookcase constrictor crate"
+    },
+    {
+        "input": "rotary bell pad polaroid spoonbill gecko garden model backpack garter grocery drill coil indri hippopotamus rotary bell pad polaroid spoonbill",
+        "output": "gecko garden model backpack garter grocery drill coil indri hippopotamus"
+    },
+    {
+        "input": "rotisserie corgi widow swan pineapple pickup farm agama bonnet zebra greyhound digital hip bikini standard rotisserie corgi widow swan pineapple",
+        "output": "pickup farm agama bonnet zebra greyhound digital hip bikini standard"
+    },
+    {
+        "input": "neck mower freight pointer pool vending bookcase toaster marimba pig echidna weimaraner refrigerator duck mixing neck mower freight pointer pool",
+        "output": "vending bookcase toaster marimba pig echidna weimaraner refrigerator duck mixing"
+    },
+    {
+        "input": "green ox tiger wind wild bars english rug neck shark cherimoya apso stage bittern prayer green ox tiger wind wild",
+        "output": "bars english rug neck shark cherimoya apso stage bittern prayer"
+    },
+    {
+        "input": "bolete dishwasher cardoon consomme mouse farm house hat fan highland salt automated barometer boxer strawberry bolete dishwasher cardoon consomme mouse",
+        "output": "farm house hat fan highland salt automated barometer boxer strawberry"
+    },
+    {
+        "input": "goldfish slug monarch tub corn dispenser stage snail whistle handrail chiton reel cheetah shield bonnet goldfish slug monarch tub corn",
+        "output": "dispenser stage snail whistle handrail chiton reel cheetah shield bonnet"
+    },
+    {
+        "input": "old brambling cradle screen window through guillotine tzu couch home granny heron disk bush jacamar old brambling cradle screen window",
+        "output": "through guillotine tzu couch home granny heron disk bush jacamar"
+    },
+    {
+        "input": "malamute cardigan hat hammer affenpinscher hunting pencil palace chocolate hare swan marmot anemone bolo kuvasz malamute cardigan hat hammer affenpinscher",
+        "output": "hunting pencil palace chocolate hare swan marmot anemone bolo kuvasz"
+    },
+    {
+        "input": "bucket tailed swiss poncho heron partridge mosquito shovel garden tzu ruffed sombrero basket breastplate binoculars bucket tailed swiss poncho heron",
+        "output": "partridge mosquito shovel garden tzu ruffed sombrero basket breastplate binoculars"
+    },
+    {
+        "input": "charles cat sleeping plow flamingo taxicab thatched alpine tripod freight notebook dalmatian combination volleyball dishwasher charles cat sleeping plow flamingo",
+        "output": "taxicab thatched alpine tripod freight notebook dalmatian combination volleyball dishwasher"
+    },
+    {
+        "input": "whippet macaque ice bolete scarf apso can kimono stethoscope brown indri puzzle shoe mug coat whippet macaque ice bolete scarf",
+        "output": "apso can kimono stethoscope brown indri puzzle shoe mug coat"
+    },
+    {
+        "input": "coffee shopping corn titi manhole through vehicle mink stage weighing lens dough flatworm great semi-trailer coffee shopping corn titi manhole",
+        "output": "through vehicle mink stage weighing lens dough flatworm great semi-trailer"
+    },
+    {
+        "input": "maypole brake car ski hog-nosed saxophone pomegranate half-track platypus manhole military tile through lacewing triumphal maypole brake car ski hog-nosed",
+        "output": "saxophone pomegranate half-track platypus manhole military tile through lacewing triumphal"
+    },
+    {
+        "input": "yorkshire trimaran arch tennis chameleon safe coil cottontail snoek rifle shield clothes killer couch hockey yorkshire trimaran arch tennis chameleon",
+        "output": "safe coil cottontail snoek rifle shield clothes killer couch hockey"
+    },
+    {
+        "input": "bush cassette window ladle mower corgi measuring rug lionfish bucket hip volleyball bikini teddy polaroid bush cassette window ladle mower",
+        "output": "corgi measuring rug lionfish bucket hip volleyball bikini teddy polaroid"
+    },
+    {
+        "input": "pekingese retriever barber indri grasshopper limpkin shih towel glasses shade brace garter golf doormat sunscreen pekingese retriever barber indri grasshopper",
+        "output": "limpkin shih towel glasses shade brace garter golf doormat sunscreen"
+    },
+    {
+        "input": "lorikeet computer matchstick elephant lakeshore bull printer overskirt hammerhead rapeseed schooner diamondback airliner leopard stone lorikeet computer matchstick elephant lakeshore",
+        "output": "bull printer overskirt hammerhead rapeseed schooner diamondback airliner leopard stone"
+    },
+    {
+        "input": "airliner graduation rule rottweiler drill lipstick mashed loggerhead birdhouse hamper salt greenhouse abacus basset paper airliner graduation rule rottweiler drill",
+        "output": "lipstick mashed loggerhead birdhouse hamper salt greenhouse abacus basset paper"
+    },
+    {
+        "input": "lighthouse crab reflex website book filter sheepdog door assault trunks crossword coat cream dutch turnstile lighthouse crab reflex website book",
+        "output": "filter sheepdog door assault trunks crossword coat cream dutch turnstile"
+    },
+    {
+        "input": "trifle tick t aircraft bloodhound can hatchet shorthaired snake teller sunglasses oystercatcher eggnog redshank soup trifle tick t aircraft bloodhound",
+        "output": "can hatchet shorthaired snake teller sunglasses oystercatcher eggnog redshank soup"
+    },
+    {
+        "input": "carbonara baby husky geyser pinscher net stopwatch welsh arabian tights eggnog drum folding light dutch carbonara baby husky geyser pinscher",
+        "output": "net stopwatch welsh arabian tights eggnog drum folding light dutch"
+    },
+    {
+        "input": "station arabian pretzel coucal matchstick st. toaster sheepdog lakeland coyote chiffonier greenhouse windsor skirt mink station arabian pretzel coucal matchstick",
+        "output": "st. toaster sheepdog lakeland coyote chiffonier greenhouse windsor skirt mink"
+    },
+    {
+        "input": "bridge frilled-necked pelican automated foxhound lizard station pug barbershop smith seat graduation fungus pillow clock bridge frilled-necked pelican automated foxhound",
+        "output": "lizard station pug barbershop smith seat graduation fungus pillow clock"
+    },
+    {
+        "input": "vulture truck photocopier norwegian cello farm flandres beaker goose telephone thermal forklift drumstick hyena quail vulture truck photocopier norwegian cello",
+        "output": "farm flandres beaker goose telephone thermal forklift drumstick hyena quail"
+    },
+    {
+        "input": "leaf eraser windsor ceiling african marmot valley impala rotisserie bulletproof angora missile pointer ptarmigan website leaf eraser windsor ceiling african",
+        "output": "marmot valley impala rotisserie bulletproof angora missile pointer ptarmigan website"
+    },
+    {
+        "input": "oboe wagon maraca siamang spotted plaque dalmatian echidna cap rock butternut palace fungus bikini african oboe wagon maraca siamang spotted",
+        "output": "plaque dalmatian echidna cap rock butternut palace fungus bikini african"
+    },
+    {
+        "input": "promontory drumstick cat graduation mantis parallel woods jacamar wardrobe disc mamba tights doormat tan slug promontory drumstick cat graduation mantis",
+        "output": "parallel woods jacamar wardrobe disc mamba tights doormat tan slug"
+    },
+    {
+        "input": "trimaran basketball lotion leatherback lamp platypus ball book toucan blue ox bush ice brake towel trimaran basketball lotion leatherback lamp",
+        "output": "platypus ball book toucan blue ox bush ice brake towel"
+    },
+    {
+        "input": "goldfish beach threshing stretcher sheepdog t beam coil lamp italian mouse trench racket keeshond eater goldfish beach threshing stretcher sheepdog",
+        "output": "t beam coil lamp italian mouse trench racket keeshond eater"
+    },
+    {
+        "input": "urchin farm glasses wheaten sharpener purse high-speed arch dough jigsaw racket starfish bicycle mud langur urchin farm glasses wheaten sharpener",
+        "output": "purse high-speed arch dough jigsaw racket starfish bicycle mud langur"
+    },
+    {
+        "input": "table banana flandres snorkel control parachute otterhound pekingese miniature triumphal panda beaver chow wing dwelling table banana flandres snorkel control",
+        "output": "parachute otterhound pekingese miniature triumphal panda beaver chow wing dwelling"
+    },
+    {
+        "input": "missile hot feather sunscreen motorboat honeycomb skunk laptop toucan vehicle warthog greater miniature spoonbill oboe missile hot feather sunscreen motorboat",
+        "output": "honeycomb skunk laptop toucan vehicle warthog greater miniature spoonbill oboe"
+    },
+    {
+        "input": "respirator otterhound spotlight spaniel bison wire catamaran pie turtle cougar threshing library sports bow killer respirator otterhound spotlight spaniel bison",
+        "output": "wire catamaran pie turtle cougar threshing library sports bow killer"
+    },
+    {
+        "input": "leafhopper cleaner cockatoo dust spotlight owl crate paddle bow glass oven brown rug chest rock leafhopper cleaner cockatoo dust spotlight",
+        "output": "owl crate paddle bow glass oven brown rug chest rock"
+    },
+    {
+        "input": "binder safety dryer swimming hare blue gibbon taxicab digital earth beauty affenpinscher triceratops desktop cliff binder safety dryer swimming hare",
+        "output": "blue gibbon taxicab digital earth beauty affenpinscher triceratops desktop cliff"
+    },
+    {
+        "input": "high-speed mud barometer toaster hammer smooth pill nile elephant microwave bedlington coucal rig hamster t-shirt high-speed mud barometer toaster hammer",
+        "output": "smooth pill nile elephant microwave bedlington coucal rig hamster t-shirt"
+    },
+    {
+        "input": "cobra kelpie bookcase tights boston apron trombone cairn old dane safe teapot punching seed binder cobra kelpie bookcase tights boston",
+        "output": "apron trombone cairn old dane safe teapot punching seed binder"
+    },
+    {
+        "input": "bicycle grocery boot dobermann apron platypus face garden syringe bullfrog lipstick binder power siberian torch bicycle grocery boot dobermann apron",
+        "output": "platypus face garden syringe bullfrog lipstick binder power siberian torch"
+    },
+    {
+        "input": "sheep soda marmot canoe consomme red-breasted sombrero half-track chestnut remote old stick fox piggy mitten sheep soda marmot canoe consomme",
+        "output": "red-breasted sombrero half-track chestnut remote old stick fox piggy mitten"
+    },
+    {
+        "input": "or construction organ cauliflower boathouse pillow bullmastiff shower t-shirt junco tobacco pen meerkat spindle viper or construction organ cauliflower boathouse",
+        "output": "pillow bullmastiff shower t-shirt junco tobacco pen meerkat spindle viper"
+    },
+    {
+        "input": "brittany turtle newfoundland ballpoint elephant racket promontory petri scottish taxicab ladybug mamba pembroke submarine sock brittany turtle newfoundland ballpoint elephant",
+        "output": "racket promontory petri scottish taxicab ladybug mamba pembroke submarine sock"
+    },
+    {
+        "input": "greenhouse wheaten sign mousetrap piano bull kit maypole handkerchief four-poster brittany geoffroy's trunks neck weevil greenhouse wheaten sign mousetrap piano",
+        "output": "bull kit maypole handkerchief four-poster brittany geoffroy's trunks neck weevil"
+    },
+    {
+        "input": "rhodesian baseball smith elephant schnauzer mop boathouse admiral sea beaver maltese car popsicle swiss coot rhodesian baseball smith elephant schnauzer",
+        "output": "mop boathouse admiral sea beaver maltese car popsicle swiss coot"
+    },
+    {
+        "input": "missile elephant lab control center daisy vulture brace packaging monitor swing fiddler pie sports maned missile elephant lab control center",
+        "output": "daisy vulture brace packaging monitor swing fiddler pie sports maned"
+    },
+    {
+        "input": "geyser titi bustard light ice cougar pestle junco wheel beer carousel coat grasshopper shop bighorn geyser titi bustard light ice",
+        "output": "cougar pestle junco wheel beer carousel coat grasshopper shop bighorn"
+    },
+    {
+        "input": "guenon colobus pier bookcase metal ridgeback cicada leopard bikini ambulance tricycle finch drum nematode vase guenon colobus pier bookcase metal",
+        "output": "ridgeback cicada leopard bikini ambulance tricycle finch drum nematode vase"
+    },
+    {
+        "input": "junco penguin oven wheel mushroom redbone shovel jaguar t bowl apron refrigerator little bell ford junco penguin oven wheel mushroom",
+        "output": "redbone shovel jaguar t bowl apron refrigerator little bell ford"
+    },
+    {
+        "input": "horse redbone diaper music nematode piano conch coucal dragonfly muzzle manhole farm quilt scoreboard tent horse redbone diaper music nematode",
+        "output": "piano conch coucal dragonfly muzzle manhole farm quilt scoreboard tent"
+    },
+    {
+        "input": "hound tzu traffic swiss owl parking theater harvestman bicycle perfume apron duck sewing beagle cucumber hound tzu traffic swiss owl",
+        "output": "parking theater harvestman bicycle perfume apron duck sewing beagle cucumber"
+    },
+    {
+        "input": "ballpoint bottle cockroach front grasshopper semi-trailer dingo cardigan guitar tights storage bassoon ant switch comic ballpoint bottle cockroach front grasshopper",
+        "output": "semi-trailer dingo cardigan guitar tights storage bassoon ant switch comic"
+    },
+    {
+        "input": "drilling chickadee pole yurt graduation flandres squirrel english barn breastplate slipper peafowl harvester car vestment drilling chickadee pole yurt graduation",
+        "output": "flandres squirrel english barn breastplate slipper peafowl harvester car vestment"
+    },
+    {
+        "input": "pillow railroad park mousetrap bars bloodhound apron street koala vespa titi snowplow jackfruit barber small pillow railroad park mousetrap bars",
+        "output": "bloodhound apron street koala vespa titi snowplow jackfruit barber small"
+    },
+    {
+        "input": "three-toed mixing pin apso meatloaf pan hartebeest screwdriver impala truck parrot coffee baluster pumpkin armadillo three-toed mixing pin apso meatloaf",
+        "output": "pan hartebeest screwdriver impala truck parrot coffee baluster pumpkin armadillo"
+    },
+    {
+        "input": "dryer sandbar alaskan sloth setter suspension dispenser red-breasted polaroid woods parallel slip-on through pajamas motorboat dryer sandbar alaskan sloth setter",
+        "output": "suspension dispenser red-breasted polaroid woods parallel slip-on through pajamas motorboat"
+    },
+    {
+        "input": "pencil limpkin tennis minibus tray merganser tape kimono pill flamingo vestment diamondback ball english menu pencil limpkin tennis minibus tray",
+        "output": "merganser tape kimono pill flamingo vestment diamondback ball english menu"
+    },
+    {
+        "input": "cart slug keyboard bulletproof lock microwave web ceiling indri dial titi kuvasz oxygen afghan slipper cart slug keyboard bulletproof lock",
+        "output": "microwave web ceiling indri dial titi kuvasz oxygen afghan slipper"
+    },
+    {
+        "input": "ibizan book truck oscilloscope crayfish pump birdhouse basketball radio butcher tent kelpie disc control weasel ibizan book truck oscilloscope crayfish",
+        "output": "pump birdhouse basketball radio butcher tent kelpie disc control weasel"
+    },
+    {
+        "input": "foxhound horse slip-on bullock ox apple acoustic sled miniskirt spider chest wind scale glasses harp foxhound horse slip-on bullock ox",
+        "output": "apple acoustic sled miniskirt spider chest wind scale glasses harp"
+    },
+    {
+        "input": "model boxer lifeboat rose punching ground irish dungeness catamaran pen stingray jacamar killer lamp greenhouse model boxer lifeboat rose punching",
+        "output": "ground irish dungeness catamaran pen stingray jacamar killer lamp greenhouse"
+    },
+    {
+        "input": "memorial bustard construction soccer carved lorikeet crate bison wind prayer bucket speaker cart hip sink memorial bustard construction soccer carved",
+        "output": "lorikeet crate bison wind prayer bucket speaker cart hip sink"
+    },
+    {
+        "input": "pestle breakwater brambling farm waffle lighter obelisk prey bra trifle four-poster pillow shetland sorrel whistle pestle breakwater brambling farm waffle",
+        "output": "lighter obelisk prey bra trifle four-poster pillow shetland sorrel whistle"
+    },
+    {
+        "input": "spotlight gorilla rhinoceros pan rottweiler smooth briard polaroid snorkel library goose cocktail saharan stinkhorn siberian spotlight gorilla rhinoceros pan rottweiler",
+        "output": "smooth briard polaroid snorkel library goose cocktail saharan stinkhorn siberian"
+    },
+    {
+        "input": "tabby squash locomotive agaric sharpener thermal swan lemon spaghetti volleyball chesapeake mosque piano bra zebra tabby squash locomotive agaric sharpener",
+        "output": "thermal swan lemon spaghetti volleyball chesapeake mosque piano bra zebra"
+    },
+    {
+        "input": "indian barrel bernard axolotl chest maned hen four-poster threshing castle crock stopwatch binder foxhound shoe indian barrel bernard axolotl chest",
+        "output": "maned hen four-poster threshing castle crock stopwatch binder foxhound shoe"
+    },
+    {
+        "input": "butcher shetland meter chesapeake cleaner peafowl sailboat drumstick bridge gyromitra barber mud dragonfly african jeep butcher shetland meter chesapeake cleaner",
+        "output": "peafowl sailboat drumstick bridge gyromitra barber mud dragonfly african jeep"
+    },
+    {
+        "input": "church fiddler matchstick brain limousine staffordshire capuchin chameleon glasses motorboat pomeranian shoe rottweiler flute bullfrog church fiddler matchstick brain limousine",
+        "output": "staffordshire capuchin chameleon glasses motorboat pomeranian shoe rottweiler flute bullfrog"
+    },
+    {
+        "input": "lionfish china handkerchief griffon lampshade bridegroom cougar bathing reflex pestle respirator cup rotary leatherback pembroke lionfish china handkerchief griffon lampshade",
+        "output": "bridegroom cougar bathing reflex pestle respirator cup rotary leatherback pembroke"
+    },
+    {
+        "input": "power music wing front sports elkhound shepherd ibizan plane mau mosque black-and-white plunger pen zebra power music wing front sports",
+        "output": "elkhound shepherd ibizan plane mau mosque black-and-white plunger pen zebra"
+    },
+    {
+        "input": "keeshond ibex poodle submarine dipper high-speed church plaque bear cornet tibetan hog-nosed door smooth nail keeshond ibex poodle submarine dipper",
+        "output": "high-speed church plaque bear cornet tibetan hog-nosed door smooth nail"
+    },
+    {
+        "input": "yellow grille soap muzzle insect st. komodo green school moving sleeping windsor center jackfruit clogs yellow grille soap muzzle insect",
+        "output": "st. komodo green school moving sleeping windsor center jackfruit clogs"
+    },
+    {
+        "input": "weasel grey television hammer beetle whiptail eater guacamole grouse redshank briard snorkel amphibious waffle totem weasel grey television hammer beetle",
+        "output": "whiptail eater guacamole grouse redshank briard snorkel amphibious waffle totem"
+    },
+    {
+        "input": "tobacco scottish mixing coucal hummingbird trash bell model organ heron miniature abaya quail kit persian tobacco scottish mixing coucal hummingbird",
+        "output": "trash bell model organ heron miniature abaya quail kit persian"
+    },
+    {
+        "input": "goldfinch st. beam wheaten knot crash crab hot cicada chesapeake retriever soccer theater triumphal matchstick goldfinch st. beam wheaten knot",
+        "output": "crash crab hot cicada chesapeake retriever soccer theater triumphal matchstick"
+    },
+    {
+        "input": "diver high-speed vest grille sliding anemone wheelbarrow amphibious goldfish white revolver sealyham norwegian bald dandie diver high-speed vest grille sliding",
+        "output": "anemone wheelbarrow amphibious goldfish white revolver sealyham norwegian bald dandie"
+    },
+    {
+        "input": "salt bridge lock computer vaulted triceratops miniskirt pyrenees high-speed rain cradle joystick cello albatross mexican salt bridge lock computer vaulted",
+        "output": "triceratops miniskirt pyrenees high-speed rain cradle joystick cello albatross mexican"
+    },
+    {
+        "input": "theater bottle boa sled horse anemone bolo butcher dumbbell porcupine dinmont powder jeans entertainment tibetan theater bottle boa sled horse",
+        "output": "anemone bolo butcher dumbbell porcupine dinmont powder jeans entertainment tibetan"
+    },
+    {
+        "input": "paintbrush blue microwave tool lampshade ambulance cottontail pelican american rifle goose leopard common bolete pinscher paintbrush blue microwave tool lampshade",
+        "output": "ambulance cottontail pelican american rifle goose leopard common bolete pinscher"
+    },
+    {
+        "input": "ostrich geyser corn fungus switch pinscher turnstone bank volleyball mousetrap beagle ring cicada speaker albatross ostrich geyser corn fungus switch",
+        "output": "pinscher turnstone bank volleyball mousetrap beagle ring cicada speaker albatross"
+    },
+    {
+        "input": "gossamer-winged player turtle green cardigan lacewing sarong labrador egret yorkshire horse-drawn mink kimono dipper ice gossamer-winged player turtle green cardigan",
+        "output": "lacewing sarong labrador egret yorkshire horse-drawn mink kimono dipper ice"
+    },
+    {
+        "input": "guitar asian shoji cardboard frilled-necked slide cardigan bakery malinois telephone mortar robin fiddler entlebucher van guitar asian shoji cardboard frilled-necked",
+        "output": "slide cardigan bakery malinois telephone mortar robin fiddler entlebucher van"
+    },
+    {
+        "input": "bearskin control gown spindle dhole automated sweatshirt comic french greenhouse window model hammer hip brittany bearskin control gown spindle dhole",
+        "output": "automated sweatshirt comic french greenhouse window model hammer hip brittany"
+    },
+    {
+        "input": "sundial letter bench barber goblet snake chime lighter bakery cucumber italian door greater school redbone sundial letter bench barber goblet",
+        "output": "snake chime lighter bakery cucumber italian door greater school redbone"
+    },
+    {
+        "input": "snorkel giant train cart baluster snowplow pedestal wheel pinwheel charles beam horned sunglasses swimming airliner snorkel giant train cart baluster",
+        "output": "snowplow pedestal wheel pinwheel charles beam horned sunglasses swimming airliner"
+    },
+    {
+        "input": "punching eggnog hairless hen whiptail des cliff stocking cucumber purse yurt limpkin notebook brown clock punching eggnog hairless hen whiptail",
+        "output": "des cliff stocking cucumber purse yurt limpkin notebook brown clock"
+    },
+    {
+        "input": "watch movie seed carved gibbon lemon messenger dock compass xoloitzcuintli clogs walker langur scale frying watch movie seed carved gibbon",
+        "output": "lemon messenger dock compass xoloitzcuintli clogs walker langur scale frying"
+    },
+    {
+        "input": "ring-necked terrier australian camera saluki common crane tram pool snorkel boston shoji armadillo scoreboard bloodhound ring-necked terrier australian camera saluki",
+        "output": "common crane tram pool snorkel boston shoji armadillo scoreboard bloodhound"
+    },
+    {
+        "input": "goose cobra prison black-and-white vehicle italian bouvier harp stork dragonfly cuirass xoloitzcuintli sleeping computer vestment goose cobra prison black-and-white vehicle",
+        "output": "italian bouvier harp stork dragonfly cuirass xoloitzcuintli sleeping computer vestment"
+    },
+    {
+        "input": "tailed pug garter construction grasshopper meter handkerchief python suit lizard wolf washing corkscrew apso dumbbell tailed pug garter construction grasshopper",
+        "output": "meter handkerchief python suit lizard wolf washing corkscrew apso dumbbell"
+    },
+    {
+        "input": "cardoon french gibbon custard bulldog broom bicycle schipperke divider stinkhorn cardboard pump goldfinch spoon filter cardoon french gibbon custard bulldog",
+        "output": "broom bicycle schipperke divider stinkhorn cardboard pump goldfinch spoon filter"
+    },
+    {
+        "input": "toilet rattlesnake boar bee balloon brittany pekingese pacifier stage corkscrew diamondback electric pirate bike tray toilet rattlesnake boar bee balloon",
+        "output": "brittany pekingese pacifier stage corkscrew diamondback electric pirate bike tray"
+    },
+    {
+        "input": "maze fence tusker dandie sawmill proboscis nile persian american case syrup stinkhorn stone trimaran trash maze fence tusker dandie sawmill",
+        "output": "proboscis nile persian american case syrup stinkhorn stone trimaran trash"
+    },
+    {
+        "input": "hard picket lizard maltese croquet poncho neck black-footed geoffroy's mashed longhorn minivan triceratops soda afghan hard picket lizard maltese croquet",
+        "output": "poncho neck black-footed geoffroy's mashed longhorn minivan triceratops soda afghan"
+    },
+    {
+        "input": "bank bars wallaby bell cheetah pill teapot parrot bunting whippet corn tabby brittany cricket mortar bank bars wallaby bell cheetah",
+        "output": "pill teapot parrot bunting whippet corn tabby brittany cricket mortar"
+    },
+    {
+        "input": "norwich bell langur goblet silky granny whistle lion ruler airplane sharpener small springer german bolo norwich bell langur goblet silky",
+        "output": "granny whistle lion ruler airplane sharpener small springer german bolo"
+    },
+    {
+        "input": "cover prairie catamaran wagon des joystick or candy tent pyrenees koala recreational clumber kerry stopwatch cover prairie catamaran wagon des",
+        "output": "joystick or candy tent pyrenees koala recreational clumber kerry stopwatch"
+    },
+    {
+        "input": "printer elkhound custard sled reflex suspension capuchin basketball magpie ray pinwheel spatula pill memorial sheep printer elkhound custard sled reflex",
+        "output": "suspension capuchin basketball magpie ray pinwheel spatula pill memorial sheep"
+    },
+    {
+        "input": "messenger pretzel dome swing hairless fish baby bobsleigh football bernese prairie small oystercatcher purse panda messenger pretzel dome swing hairless",
+        "output": "fish baby bobsleigh football bernese prairie small oystercatcher purse panda"
+    },
+    {
+        "input": "japanese potatoes teapot threshing male affenpinscher half-track cucumber dome cockroach wallet schnauzer vase afghan banded japanese potatoes teapot threshing male",
+        "output": "affenpinscher half-track cucumber dome cockroach wallet schnauzer vase afghan banded"
+    },
+    {
+        "input": "custard magnetic toilet potatoes marmoset cabinet anemone hamster turnstone steel pen scuba cleaner tractor quail custard magnetic toilet potatoes marmoset",
+        "output": "cabinet anemone hamster turnstone steel pen scuba cleaner tractor quail"
+    },
+    {
+        "input": "racket jellyfish suspension swing burrito beauty papillon flagpole springer bedlington sulphur pembroke baluster komondor box racket jellyfish suspension swing burrito",
+        "output": "beauty papillon flagpole springer bedlington sulphur pembroke baluster komondor box"
+    },
+    {
+        "input": "pump couch capuchin reflex muzzle cello cockroach scarf kimono rugby ant magnetic shepherd marmoset spotted pump couch capuchin reflex muzzle",
+        "output": "cello cockroach scarf kimono rugby ant magnetic shepherd marmoset spotted"
+    },
+    {
+        "input": "wolfhound briard admiral syringe dough chambered bakery goose pajamas butcher male power great go-kart popsicle wolfhound briard admiral syringe dough",
+        "output": "chambered bakery goose pajamas butcher male power great go-kart popsicle"
+    },
+    {
+        "input": "cart cleaner saluki microphone chestnut rifle fish salmon fountain disk stove dipper dane cassette pineapple cart cleaner saluki microphone chestnut",
+        "output": "rifle fish salmon fountain disk stove dipper dane cassette pineapple"
+    },
+    {
+        "input": "asian unicycle hairless buckle ibizan bars chocolate coffee lifeboat gondola graduation malamute toy locomotive trash asian unicycle hairless buckle ibizan",
+        "output": "bars chocolate coffee lifeboat gondola graduation malamute toy locomotive trash"
+    },
+    {
+        "input": "liner african dinmont swan tusker padlock green garter lacewing racket bars shorts toaster maraca uniform liner african dinmont swan tusker",
+        "output": "padlock green garter lacewing racket bars shorts toaster maraca uniform"
+    },
+    {
+        "input": "boot armadillo whiskey mosque hoop plant arched bouvier cicada lady's room bulldog elephant pillow electric boot armadillo whiskey mosque hoop",
+        "output": "plant arched bouvier cicada lady's room bulldog elephant pillow electric"
+    },
+    {
+        "input": "bakery armadillo bib squash clip jellyfish japanese antelope shark arch slide samoyed projectile pig ant bakery armadillo bib squash clip",
+        "output": "jellyfish japanese antelope shark arch slide samoyed projectile pig ant"
+    },
+    {
+        "input": "rifle fireboat candle restaurant ladybug dandie submarine menu miniskirt hand-held motorboat lorikeet cricket polar mongoose rifle fireboat candle restaurant ladybug",
+        "output": "dandie submarine menu miniskirt hand-held motorboat lorikeet cricket polar mongoose"
+    },
+    {
+        "input": "corkscrew beam brake apiary quill groenendael vulture anemone tree carton potatoes baboon puzzle dispenser tick corkscrew beam brake apiary quill",
+        "output": "groenendael vulture anemone tree carton potatoes baboon puzzle dispenser tick"
+    },
+    {
+        "input": "plastic bison sidewinder chin gordon artichoke chocolate piano ant guitar harmonica irish prayer isopod mosquito plastic bison sidewinder chin gordon",
+        "output": "artichoke chocolate piano ant guitar harmonica irish prayer isopod mosquito"
+    },
+    {
+        "input": "shorts tree granny tennis potter's redbone pumpkin petri shipwreck scottish airliner dial plastic drum axolotl shorts tree granny tennis potter's",
+        "output": "redbone pumpkin petri shipwreck scottish airliner dial plastic drum axolotl"
+    },
+    {
+        "input": "japanese seat catamaran white-headed hummingbird jeans zebra widow baguette bear freight cicada grand cd milk japanese seat catamaran white-headed hummingbird",
+        "output": "jeans zebra widow baguette bear freight cicada grand cd milk"
+    },
+    {
+        "input": "ocean farm hockey sorrel impala car spotted heater rack violin chameleon spatula dowitcher home dust ocean farm hockey sorrel impala",
+        "output": "car spotted heater rack violin chameleon spatula dowitcher home dust"
+    },
+    {
+        "input": "baseball hip fan puck python vine shorts camera ferret welsh pin trolleybus japanese spoonbill bluetick baseball hip fan puck python",
+        "output": "vine shorts camera ferret welsh pin trolleybus japanese spoonbill bluetick"
+    },
+    {
+        "input": "parking thimble starfish dragonfly lemur shorthaired menu cucumber coffee wheel anole snorkel limpkin siberian japanese parking thimble starfish dragonfly lemur",
+        "output": "shorthaired menu cucumber coffee wheel anole snorkel limpkin siberian japanese"
+    },
+    {
+        "input": "langur sheepdog shetland basketball barometer gymnastic train boston flandres japanese dryer packaging pumpkin lionfish curly-coated langur sheepdog shetland basketball barometer",
+        "output": "gymnastic train boston flandres japanese dryer packaging pumpkin lionfish curly-coated"
+    },
+    {
+        "input": "tram academic military malinois telescope packaging cowboy bicycle mouse rabbit lotion shorthaired komondor stage carved tram academic military malinois telescope",
+        "output": "packaging cowboy bicycle mouse rabbit lotion shorthaired komondor stage carved"
+    },
+    {
+        "input": "dutch lacewing coffee corn book packaging jellyfish nematode elkhound bay platypus pug meatloaf cairn geyser dutch lacewing coffee corn book",
+        "output": "packaging jellyfish nematode elkhound bay platypus pug meatloaf cairn geyser"
+    },
+    {
+        "input": "fountain football peafowl light cricket gallinule bull stocking chain coot dung ping-pong camel soft-coated dock fountain football peafowl light cricket",
+        "output": "gallinule bull stocking chain coot dung ping-pong camel soft-coated dock"
+    },
+    {
+        "input": "school cabbage wheel remote lemon block scabbard bear tzu station finch lionfish husky hummingbird wing school cabbage wheel remote lemon",
+        "output": "block scabbard bear tzu station finch lionfish husky hummingbird wing"
+    },
+    {
+        "input": "urchin football sled maraca brambling dingo ship frilled-necked school organ deerhound microwave pillow kingsnake patio urchin football sled maraca brambling",
+        "output": "dingo ship frilled-necked school organ deerhound microwave pillow kingsnake patio"
+    },
+    {
+        "input": "drink toucan magpie ray brake shorthaired lighter ceiling lady's mosquito breastplate eater manhole beagle lamp drink toucan magpie ray brake",
+        "output": "shorthaired lighter ceiling lady's mosquito breastplate eater manhole beagle lamp"
+    },
+    {
+        "input": "promontory hamper whippet woods measuring tabby chickadee dane tea greenhouse elkhound bonnet cleaver pickup garden promontory hamper whippet woods measuring",
+        "output": "tabby chickadee dane tea greenhouse elkhound bonnet cleaver pickup garden"
+    },
+    {
+        "input": "pug dog chocolate baseball rhinoceros dung drink neck clock pin shih carved poodle bonnet rapeseed pug dog chocolate baseball rhinoceros",
+        "output": "dung drink neck clock pin shih carved poodle bonnet rapeseed"
+    },
+    {
+        "input": "leonberger shepherd house sorrel fireboat sink organ acoustic towel bassoon tile trombone church maraca antelope leonberger shepherd house sorrel fireboat",
+        "output": "sink organ acoustic towel bassoon tile trombone church maraca antelope"
+    },
+    {
+        "input": "apiary wool thimble drink griffon light weasel tzu ocean whippet seed baseball viaduct jellyfish standard apiary wool thimble drink griffon",
+        "output": "light weasel tzu ocean whippet seed baseball viaduct jellyfish standard"
+    },
+    {
+        "input": "remote acorn stove schooner lamp garden wool sandbar briard vacuum american seat spindle monitor blue remote acorn stove schooner lamp",
+        "output": "garden wool sandbar briard vacuum american seat spindle monitor blue"
+    },
+    {
+        "input": "face brittany farm spiral and barber mud maze pen sheepdog triumphal koala gordon hornbill gecko face brittany farm spiral and",
+        "output": "barber mud maze pen sheepdog triumphal koala gordon hornbill gecko"
+    },
+    {
+        "input": "pig wire shop candy filing cricket stupa music plate brace pirate wheelbarrow nematode jaguar hammerhead pig wire shop candy filing",
+        "output": "cricket stupa music plate brace pirate wheelbarrow nematode jaguar hammerhead"
+    },
+    {
+        "input": "dust male photocopier teddy earth snail bell pajamas tennis slip-on sheep analog rig belt anole dust male photocopier teddy earth",
+        "output": "snail bell pajamas tennis slip-on sheep analog rig belt anole"
+    },
+    {
+        "input": "squash rig brake highland automated langur chow gar quail barrel belt bustard foxhound measuring briard squash rig brake highland automated",
+        "output": "langur chow gar quail barrel belt bustard foxhound measuring briard"
+    },
+    {
+        "input": "thermal bernese sneaker vizsla loupe frog moving seed thatched picket chimpanzee turtle harp patio vespa thermal bernese sneaker vizsla loupe",
+        "output": "frog moving seed thatched picket chimpanzee turtle harp patio vespa"
+    },
+    {
+        "input": "water stove admiral apiary echidna rugby giant egret urchin dog breastplate of afghan wallet jackfruit water stove admiral apiary echidna",
+        "output": "rugby giant egret urchin dog breastplate of afghan wallet jackfruit"
+    },
+    {
+        "input": "ford adult cup lighter baboon spotlight husky boar garden vacuum appenzeller scarf newfoundland bookstore cauliflower ford adult cup lighter baboon",
+        "output": "spotlight husky boar garden vacuum appenzeller scarf newfoundland bookstore cauliflower"
+    },
+    {
+        "input": "recreational alpine spoon tibetan jigsaw boot chocolate fishing center mouse tow lifeboat wombat fiddler truck recreational alpine spoon tibetan jigsaw",
+        "output": "boot chocolate fishing center mouse tow lifeboat wombat fiddler truck"
+    },
+    {
+        "input": "guitar gondola gar lighter chain cart guacamole tobacco fountain torch slide roof warthog cauldron bassinet guitar gondola gar lighter chain",
+        "output": "cart guacamole tobacco fountain torch slide roof warthog cauldron bassinet"
+    },
+    {
+        "input": "store fence toy analog diver rule thatched ant photocopier harp samoyed border chain squirrel safe store fence toy analog diver",
+        "output": "rule thatched ant photocopier harp samoyed border chain squirrel safe"
+    },
+    {
+        "input": "whale titi dryer collector pier oscilloscope organ apso limpkin mower infant carton vaulted clumber spindle whale titi dryer collector pier",
+        "output": "oscilloscope organ apso limpkin mower infant carton vaulted clumber spindle"
+    },
+    {
+        "input": "springer cockatoo sled trolleybus american bullmastiff modem komodo oystercatcher standard rhodesian st. gas electrical maze springer cockatoo sled trolleybus american",
+        "output": "bullmastiff modem komodo oystercatcher standard rhodesian st. gas electrical maze"
+    },
+    {
+        "input": "doormat sandbar castle drilling liner handrail desert hat screw go-kart redbone maltese chiton husky goldfinch doormat sandbar castle drilling liner",
+        "output": "handrail desert hat screw go-kart redbone maltese chiton husky goldfinch"
+    },
+    {
+        "input": "iguana hot siamang trench dial boa walker schipperke mailbox stove mop kite ram cricket container iguana hot siamang trench dial",
+        "output": "boa walker schipperke mailbox stove mop kite ram cricket container"
+    },
+    {
+        "input": "shoe retriever doormat macaw velvet persian baboon pin spiny whiptail vestment bulletproof toilet insect barn shoe retriever doormat macaw velvet",
+        "output": "persian baboon pin spiny whiptail vestment bulletproof toilet insect barn"
+    },
+    {
+        "input": "limpkin envelope scottish crayfish black-footed consomme nautilus cicada control indigo croquet skirt crutch panda toilet limpkin envelope scottish crayfish black-footed",
+        "output": "consomme nautilus cicada control indigo croquet skirt crutch panda toilet"
+    },
+    {
+        "input": "shetland thermal springer medicine cannon beagle airliner pembroke eggnog spoonbill sandbar sharpener ballpoint cat photocopier shetland thermal springer medicine cannon",
+        "output": "beagle airliner pembroke eggnog spoonbill sandbar sharpener ballpoint cat photocopier"
+    },
+    {
+        "input": "hip starfish mixing roof street wig bakery rifle split-rail magnifying the measuring shoji quail book hip starfish mixing roof street",
+        "output": "wig bakery rifle split-rail magnifying the measuring shoji quail book"
+    },
+    {
+        "input": "turnstile memorial magnetic saluki eastern tennis crab castle tea toaster lipstick jellyfish ostrich messenger pufferfish turnstile memorial magnetic saluki eastern",
+        "output": "tennis crab castle tea toaster lipstick jellyfish ostrich messenger pufferfish"
+    },
+    {
+        "input": "broom slip-on tricycle norfolk australian spiral dunlin loupe ruler player castle bra otterhound beaker fan broom slip-on tricycle norfolk australian",
+        "output": "spiral dunlin loupe ruler player castle bra otterhound beaker fan"
+    },
+    {
+        "input": "turnstile sarong power ray pin baby toy sunglasses coffee chambered crane desk platypus shower small turnstile sarong power ray pin",
+        "output": "baby toy sunglasses coffee chambered crane desk platypus shower small"
+    },
+    {
+        "input": "schipperke spiral pufferfish sign tow cart bike limpkin vase through hare handkerchief goldfish mobile salamander schipperke spiral pufferfish sign tow",
+        "output": "cart bike limpkin vase through hare handkerchief goldfish mobile salamander"
+    },
+    {
+        "input": "pinscher hound totem leafhopper sheep analog persian scale bullock basenji marmot projectile street pickup reflex pinscher hound totem leafhopper sheep",
+        "output": "analog persian scale bullock basenji marmot projectile street pickup reflex"
+    },
+    {
+        "input": "beaver gymnastic west mirror block pineapple walker monkey trash radio ibex goose lakeland dhole disc beaver gymnastic west mirror block",
+        "output": "pineapple walker monkey trash radio ibex goose lakeland dhole disc"
+    },
+    {
+        "input": "tundra assault combination magnetic bonnet flute common balaclava praying killer cockroach kite hand-held chair dane tundra assault combination magnetic bonnet",
+        "output": "flute common balaclava praying killer cockroach kite hand-held chair dane"
+    },
+    {
+        "input": "pinwheel rug hippopotamus bulletproof daisy ibizan table vespa hummingbird wine bullfrog alaskan rain wombat jay pinwheel rug hippopotamus bulletproof daisy",
+        "output": "ibizan table vespa hummingbird wine bullfrog alaskan rain wombat jay"
+    },
+    {
+        "input": "pufferfish broccoli bobsleigh damselfly butterfly chameleon hartebeest wooden spindle leafhopper wagon hip corgi house butternut pufferfish broccoli bobsleigh damselfly butterfly",
+        "output": "chameleon hartebeest wooden spindle leafhopper wagon hip corgi house butternut"
+    },
+    {
+        "input": "dam dungeness barbershop egyptian orange cap chihuahua carton telescope construction persian dhole threshing disk oxygen dam dungeness barbershop egyptian orange",
+        "output": "cap chihuahua carton telescope construction persian dhole threshing disk oxygen"
+    },
+    {
+        "input": "australian trilobite plaque monster rabbit coucal giant chest gown scoreboard crash reflex parrot case sawmill australian trilobite plaque monster rabbit",
+        "output": "coucal giant chest gown scoreboard crash reflex parrot case sawmill"
+    },
+    {
+        "input": "shuttle chain front finch crock beam ping-pong unicycle rug hamster restaurant pig heater pirate shade shuttle chain front finch crock",
+        "output": "beam ping-pong unicycle rug hamster restaurant pig heater pirate shade"
+    },
+    {
+        "input": "power remote hog-nosed dam fly gas paddle alpine cheeseburger orangutan bookcase bag rocking padlock eastern power remote hog-nosed dam fly",
+        "output": "gas paddle alpine cheeseburger orangutan bookcase bag rocking padlock eastern"
+    },
+    {
+        "input": "groenendael shorthaired redbone urchin freight triumphal storage unicycle sulphur-crested carton shop slipper japanese carolina airplane groenendael shorthaired redbone urchin freight",
+        "output": "triumphal storage unicycle sulphur-crested carton shop slipper japanese carolina airplane"
+    },
+    {
+        "input": "odometer iron ibex whale greater croquet antelope male perfume maltese carton teddy baguette grassland partridge odometer iron ibex whale greater",
+        "output": "croquet antelope male perfume maltese carton teddy baguette grassland partridge"
+    },
+    {
+        "input": "ridgeback wheel threshing mortar mixing buffalo the velvet rule pug mug tie banjo gibbon ceiling ridgeback wheel threshing mortar mixing",
+        "output": "buffalo the velvet rule pug mug tie banjo gibbon ceiling"
+    },
+    {
+        "input": "store wallet high-speed cover clip bull bra malinois pier rhodesian arabian lamp indian patio white-headed store wallet high-speed cover clip",
+        "output": "bull bra malinois pier rhodesian arabian lamp indian patio white-headed"
+    },
+    {
+        "input": "cheetah filter pole ford english persian rotary tzu snowmobile saxophone swan nematode street ski plow cheetah filter pole ford english",
+        "output": "persian rotary tzu snowmobile saxophone swan nematode street ski plow"
+    },
+    {
+        "input": "scuba packet prey reel lighter telescope miniature pan lens syringe german shih colobus arched cougar scuba packet prey reel lighter",
+        "output": "telescope miniature pan lens syringe german shih colobus arched cougar"
+    },
+    {
+        "input": "golf snorkel guacamole toy pekingese hot combination rhinoceros carved miniature cardigan rule vaulted lamp plaque golf snorkel guacamole toy pekingese",
+        "output": "hot combination rhinoceros carved miniature cardigan rule vaulted lamp plaque"
+    },
+    {
+        "input": "mamba rose barbershop leopard spotted gallinule consomme infant fireboat window mushroom matchstick skunk norwegian mower mamba rose barbershop leopard spotted",
+        "output": "gallinule consomme infant fireboat window mushroom matchstick skunk norwegian mower"
+    },
+    {
+        "input": "combination weevil clumber buffalo geyser basenji warthog ceiling feather bedlington centipede library skirt blue brussels combination weevil clumber buffalo geyser",
+        "output": "basenji warthog ceiling feather bedlington centipede library skirt blue brussels"
+    },
+    {
+        "input": "angora harvester payphone coral rule cockroach pool bonnet beauty brambling abaya trimaran saxophone mousetrap lamp angora harvester payphone coral rule",
+        "output": "cockroach pool bonnet beauty brambling abaya trimaran saxophone mousetrap lamp"
+    },
+    {
+        "input": "wallaby catamaran mirror mamba monster turnstone standard dowitcher lemur snail candle baguette torch horned valley wallaby catamaran mirror mamba monster",
+        "output": "turnstone standard dowitcher lemur snail candle baguette torch horned valley"
+    },
+    {
+        "input": "maraca sloth binoculars dugong agama horizontal case turnstone pill cliff trombone plaque goldfinch treeing gown maraca sloth binoculars dugong agama",
+        "output": "horizontal case turnstone pill cliff trombone plaque goldfinch treeing gown"
+    },
+    {
+        "input": "coffeemaker telescope leopard siberian cauliflower dwelling vine rose bank porcupine tram sliding petri ladybug white-headed coffeemaker telescope leopard siberian cauliflower",
+        "output": "dwelling vine rose bank porcupine tram sliding petri ladybug white-headed"
+    },
+    {
+        "input": "yellow saxophone schipperke ant tent whale lawn convertible axolotl bottle gorilla stupa rhinoceros hip hoop yellow saxophone schipperke ant tent",
+        "output": "whale lawn convertible axolotl bottle gorilla stupa rhinoceros hip hoop"
+    },
+    {
+        "input": "roof guillotine block dishcloth hartebeest shuttle yellow howler pool siamang lacewing shoji plastic bath german roof guillotine block dishcloth hartebeest",
+        "output": "shuttle yellow howler pool siamang lacewing shoji plastic bath german"
+    },
+    {
+        "input": "tabby oboe jackfruit wardrobe whiptail prison dust golden letter european box titi automated rugby model tabby oboe jackfruit wardrobe whiptail",
+        "output": "prison dust golden letter european box titi automated rugby model"
+    },
+    {
+        "input": "bird dung bernard analog cockroach harvester thimble shark microphone jigsaw jacket pomegranate dunlin miniature bench bird dung bernard analog cockroach",
+        "output": "harvester thimble shark microphone jigsaw jacket pomegranate dunlin miniature bench"
+    },
+    {
+        "input": "drumstick casting des scottish dung television admiral remote pug music library cricket tub albatross alligator drumstick casting des scottish dung",
+        "output": "television admiral remote pug music library cricket tub albatross alligator"
+    },
+    {
+        "input": "black pedestal eastern mop rattlesnake gar stove sharpener brussels ringlet marmoset ring disc taxicab pad black pedestal eastern mop rattlesnake",
+        "output": "gar stove sharpener brussels ringlet marmoset ring disc taxicab pad"
+    },
+    {
+        "input": "dishcloth band-aid pineapple stove pointer brambling box green schnauzer schooner abacus maltese frying memorial pajamas dishcloth band-aid pineapple stove pointer",
+        "output": "brambling box green schnauzer schooner abacus maltese frying memorial pajamas"
+    },
+    {
+        "input": "mousetrap triumphal salmon envelope ferret platypus indri hammerhead sennenhund common organ ballpoint web lynx finch mousetrap triumphal salmon envelope ferret",
+        "output": "platypus indri hammerhead sennenhund common organ ballpoint web lynx finch"
+    },
+    {
+        "input": "vacuum dungeness jigsaw theater magnetic chain notebook nautilus drum polaroid cassette diaper hammer oxygen beetle vacuum dungeness jigsaw theater magnetic",
+        "output": "chain notebook nautilus drum polaroid cassette diaper hammer oxygen beetle"
+    },
+    {
+        "input": "steel tie letter brussels lighthouse chestnut lacewing carolina phone measuring ground bluetick belt malinois cliff steel tie letter brussels lighthouse",
+        "output": "chestnut lacewing carolina phone measuring ground bluetick belt malinois cliff"
+    },
+    {
+        "input": "cauldron grille squash suspension silky freight station jay safe horse admiral drumstick bus drilling brain cauldron grille squash suspension silky",
+        "output": "freight station jay safe horse admiral drumstick bus drilling brain"
+    },
+    {
+        "input": "music soup modem newt toaster accordion basset railroad guinea ice rattlesnake assault folding worm adult music soup modem newt toaster",
+        "output": "accordion basset railroad guinea ice rattlesnake assault folding worm adult"
+    },
+    {
+        "input": "ibex goldfish combination cockatoo dishcloth australian plate hot owl hand-held weevil goblet nematode station turnstile ibex goldfish combination cockatoo dishcloth",
+        "output": "australian plate hot owl hand-held weevil goblet nematode station turnstile"
+    },
+    {
+        "input": "chameleon acorn pretzel abaya obelisk turtle pen cover hammerhead lotion feather opener trench echidna hamper chameleon acorn pretzel abaya obelisk",
+        "output": "turtle pen cover hammerhead lotion feather opener trench echidna hamper"
+    },
+    {
+        "input": "belt pole amphibious smooth junco typewriter speaker cloak spotted plow wooden grasshopper flat-coated brittany zebra belt pole amphibious smooth junco",
+        "output": "typewriter speaker cloak spotted plow wooden grasshopper flat-coated brittany zebra"
+    },
+    {
+        "input": "scottish chest catamaran cannon jeep meerkat modem impala baseball spindle capuchin desk curly-coated buffalo black-and-white scottish chest catamaran cannon jeep",
+        "output": "meerkat modem impala baseball spindle capuchin desk curly-coated buffalo black-and-white"
+    },
+    {
+        "input": "nautilus polecat scuba maze bulldog railroad perfume notebook japanese crocodile agaric goldfinch silver tow lighthouse nautilus polecat scuba maze bulldog",
+        "output": "railroad perfume notebook japanese crocodile agaric goldfinch silver tow lighthouse"
+    },
+    {
+        "input": "indigo indri polar hamster rabbit brittany beagle packaging baboon hair mail star cabinet control nautilus indigo indri polar hamster rabbit",
+        "output": "brittany beagle packaging baboon hair mail star cabinet control nautilus"
+    },
+    {
+        "input": "desert chameleon badger daisy valley anole box laptop artichoke pot go-kart grille eagle cobra koala desert chameleon badger daisy valley",
+        "output": "anole box laptop artichoke pot go-kart grille eagle cobra koala"
+    },
+    {
+        "input": "steam basket dial lady's church starfish armadillo holster tank dark barometer boxer boot pomeranian lemur steam basket dial lady's church",
+        "output": "starfish armadillo holster tank dark barometer boxer boot pomeranian lemur"
+    },
+    {
+        "input": "ladybug feather shepherd wheel wolf nematode cream crate pelican megalith english stove harvestman greater coffee ladybug feather shepherd wheel wolf",
+        "output": "nematode cream crate pelican megalith english stove harvestman greater coffee"
+    },
+    {
+        "input": "shipwreck cougar owl bottle mortar arched impala split-rail axolotl plant hook elkhound goldfish border pot shipwreck cougar owl bottle mortar",
+        "output": "arched impala split-rail axolotl plant hook elkhound goldfish border pot"
+    },
+    {
+        "input": "otter gas parrot combine volcano pen dark mau magnetic drum unicycle heater longhorn potter's pan otter gas parrot combine volcano",
+        "output": "pen dark mau magnetic drum unicycle heater longhorn potter's pan"
+    },
+    {
+        "input": "soda lampshade crash salamander necklace polar dragonfly banana boxer laptop king urchin dung toilet keeshond soda lampshade crash salamander necklace",
+        "output": "polar dragonfly banana boxer laptop king urchin dung toilet keeshond"
+    },
+    {
+        "input": "totem shorthaired airliner golden skirt couch black-and-white sandbar mastiff maypole piano cicada wheelbarrow poke espresso totem shorthaired airliner golden skirt",
+        "output": "couch black-and-white sandbar mastiff maypole piano cicada wheelbarrow poke espresso"
+    },
+    {
+        "input": "racket carbonara pacifier brake dalmatian stocking hatchet chambered swiss bikini speaker leaf gibbon mosque lens racket carbonara pacifier brake dalmatian",
+        "output": "stocking hatchet chambered swiss bikini speaker leaf gibbon mosque lens"
+    },
+    {
+        "input": "oystercatcher miniature muzzle norwegian sharpener crocodile picket siberian horse samoyed spiny guinea spaniel snowplow wig oystercatcher miniature muzzle norwegian sharpener",
+        "output": "crocodile picket siberian horse samoyed spiny guinea spaniel snowplow wig"
+    },
+    {
+        "input": "cleaver phone mamba cleaner yurt beam barn binoculars prairie longhorn owl small great siamang toilet cleaver phone mamba cleaner yurt",
+        "output": "beam barn binoculars prairie longhorn owl small great siamang toilet"
+    },
+    {
+        "input": "divider spiral afghan fountain diver orangutan trifle sarong dowitcher semi-trailer horned filing sennenhund pizza salamander divider spiral afghan fountain diver",
+        "output": "orangutan trifle sarong dowitcher semi-trailer horned filing sennenhund pizza salamander"
+    },
+    {
+        "input": "roof croquet go-kart langur horizontal griffon opener split-rail daisy cowboy wheel mower paintbrush teddy screw roof croquet go-kart langur horizontal",
+        "output": "griffon opener split-rail daisy cowboy wheel mower paintbrush teddy screw"
+    },
+    {
+        "input": "warthog heater planetarium maraca urchin impala tank king snail frilled-necked waffle groenendael swiss admiral malamute warthog heater planetarium maraca urchin",
+        "output": "impala tank king snail frilled-necked waffle groenendael swiss admiral malamute"
+    },
+    {
+        "input": "titi banded lion bridegroom three-toed baseball dragonfly forklift cabbage dugong wooden magnifying pier bar plane titi banded lion bridegroom three-toed",
+        "output": "baseball dragonfly forklift cabbage dugong wooden magnifying pier bar plane"
+    },
+    {
+        "input": "volcano slide buffalo titi welsh room fig earth safe semi-trailer rhodesian greyhound southern wing t-shirt volcano slide buffalo titi welsh",
+        "output": "room fig earth safe semi-trailer rhodesian greyhound southern wing t-shirt"
+    },
+    {
+        "input": "pedestal quilt ipod indian butternut mastiff bathing shorts trifle fan banana monarch spray car diver pedestal quilt ipod indian butternut",
+        "output": "mastiff bathing shorts trifle fan banana monarch spray car diver"
+    },
+    {
+        "input": "bloodhound comic cassette vine matchstick bear bucket altar sailboat jackfruit reef poodle cleaver bank chocolate bloodhound comic cassette vine matchstick",
+        "output": "bear bucket altar sailboat jackfruit reef poodle cleaver bank chocolate"
+    },
+    {
+        "input": "movie diamondback whippet crocodile border male face tow kelpie shade solar peafowl des cart pineapple movie diamondback whippet crocodile border",
+        "output": "male face tow kelpie shade solar peafowl des cart pineapple"
+    },
+    {
+        "input": "parking pipe scuba cherimoya dam eastern chow fountain rugby quail hoop basketball macaque pier tick parking pipe scuba cherimoya dam",
+        "output": "eastern chow fountain rugby quail hoop basketball macaque pier tick"
+    },
+    {
+        "input": "sign oystercatcher labrador ibex t plow gossamer-winged swing binder highland freight drill shih setter gas sign oystercatcher labrador ibex t",
+        "output": "plow gossamer-winged swing binder highland freight drill shih setter gas"
+    },
+    {
+        "input": "wire junco shield lemur swimming swing geyser cockroach hard toy mirror wool old carolina flatworm wire junco shield lemur swimming",
+        "output": "swing geyser cockroach hard toy mirror wool old carolina flatworm"
+    },
+    {
+        "input": "palace balance totem academic keeshond corn wheel sunglasses antelope compass bars bed upright chameleon ski palace balance totem academic keeshond",
+        "output": "corn wheel sunglasses antelope compass bars bed upright chameleon ski"
+    },
+    {
+        "input": "shorthaired ptarmigan monarch wild space male bedlington saxophone pekingese fig whale unicycle viper baboon walker shorthaired ptarmigan monarch wild space",
+        "output": "male bedlington saxophone pekingese fig whale unicycle viper baboon walker"
+    },
+    {
+        "input": "lacewing geyser wardrobe schipperke metal jug collie sulphur-crested chest electric palace tower border sawmill ambulance lacewing geyser wardrobe schipperke metal",
+        "output": "jug collie sulphur-crested chest electric palace tower border sawmill ambulance"
+    },
+    {
+        "input": "shower saxophone airliner dowitcher praying cardoon pembroke dish liner scale knee vaulted cleaner newfoundland plectrum shower saxophone airliner dowitcher praying",
+        "output": "cardoon pembroke dish liner scale knee vaulted cleaner newfoundland plectrum"
+    },
+    {
+        "input": "axolotl promontory slipper tree shower mop dark roof volleyball macaque bull golden trench limousine gila axolotl promontory slipper tree shower",
+        "output": "mop dark roof volleyball macaque bull golden trench limousine gila"
+    },
+    {
+        "input": "construction divider knot projectile acoustic stupa restaurant moped yellow cabinet black whale goblet trunks nematode construction divider knot projectile acoustic",
+        "output": "stupa restaurant moped yellow cabinet black whale goblet trunks nematode"
+    },
+    {
+        "input": "hen ring-necked brake wallet odometer dishcloth skunk potatoes photocopier farm pembroke staffordshire ladybug oystercatcher wooden hen ring-necked brake wallet odometer",
+        "output": "dishcloth skunk potatoes photocopier farm pembroke staffordshire ladybug oystercatcher wooden"
+    },
+    {
+        "input": "small cover cobra dandie cannon cart combine hammerhead axolotl picket bank lock guitar cocker tea small cover cobra dandie cannon",
+        "output": "cart combine hammerhead axolotl picket bank lock guitar cocker tea"
+    },
+    {
+        "input": "charles dipper brace bra pen sulphur-crested ring-tailed house komondor computer megalith messenger chimpanzee military alpine charles dipper brace bra pen",
+        "output": "sulphur-crested ring-tailed house komondor computer megalith messenger chimpanzee military alpine"
+    },
+    {
+        "input": "maltese payphone trunks china dryer fish silver wing spatula reef chiffonier crate eastern analog oystercatcher maltese payphone trunks china dryer",
+        "output": "fish silver wing spatula reef chiffonier crate eastern analog oystercatcher"
+    },
+    {
+        "input": "stick volcano cottontail ceiling t-shirt black-and-white dane flagpole kuvasz bullmastiff snoek graduation stage apron thermal stick volcano cottontail ceiling t-shirt",
+        "output": "black-and-white dane flagpole kuvasz bullmastiff snoek graduation stage apron thermal"
+    },
+    {
+        "input": "hornbill aircraft lock shepherd pineapple cauliflower dust ox umbrella smooth amphibious bittern four-poster greater reef hornbill aircraft lock shepherd pineapple",
+        "output": "cauliflower dust ox umbrella smooth amphibious bittern four-poster greater reef"
+    },
+    {
+        "input": "disc dishwasher pickelhaube bib maltese spaniel whistle cockroach ballpoint bird keyboard band-aid soda titi lipstick disc dishwasher pickelhaube bib maltese",
+        "output": "spaniel whistle cockroach ballpoint bird keyboard band-aid soda titi lipstick"
+    },
+    {
+        "input": "snail muzzle missile accordion mower dining dinmont tobacco leopard door shako des magpie lhasa boston snail muzzle missile accordion mower",
+        "output": "dining dinmont tobacco leopard door shako des magpie lhasa boston"
+    },
+    {
+        "input": "guenon hat quail barbershop bow shower lobster snail deerhound gong gar mink vehicle semi-trailer wok guenon hat quail barbershop bow",
+        "output": "shower lobster snail deerhound gong gar mink vehicle semi-trailer wok"
+    },
+    {
+        "input": "cockroach flandres slide flute geoffroy's screen pointer grassland bulldog norwich carousel wheel desk water yurt cockroach flandres slide flute geoffroy's",
+        "output": "screen pointer grassland bulldog norwich carousel wheel desk water yurt"
+    },
+    {
+        "input": "backpack odometer vending echidna watch mau oxygen shako heater disk volcano kuvasz anemone male brown backpack odometer vending echidna watch",
+        "output": "mau oxygen shako heater disk volcano kuvasz anemone male brown"
+    },
+    {
+        "input": "rapeseed slipper bed puck dugong plate chameleon electric pot flamingo oven eraser typewriter ground lifeboat rapeseed slipper bed puck dugong",
+        "output": "plate chameleon electric pot flamingo oven eraser typewriter ground lifeboat"
+    },
+    {
+        "input": "prison beaker football stretcher cabinet shield memorial crate borzoi fire hip frilled-necked vaulted boar locomotive prison beaker football stretcher cabinet",
+        "output": "shield memorial crate borzoi fire hip frilled-necked vaulted boar locomotive"
+    },
+    {
+        "input": "sharpener crayfish padlock artichoke pointer mixing rabbit rotisserie brass diaper washing rottweiler slide clock keeshond sharpener crayfish padlock artichoke pointer",
+        "output": "mixing rabbit rotisserie brass diaper washing rottweiler slide clock keeshond"
+    },
+    {
+        "input": "swan meatloaf chin semi-trailer spaniel watch spider switch starfish merganser refrigerator eraser sturgeon wire kite swan meatloaf chin semi-trailer spaniel",
+        "output": "watch spider switch starfish merganser refrigerator eraser sturgeon wire kite"
+    },
+    {
+        "input": "zucchini pan goblet comic pig robin cloak plow gallinule torch microwave semi-trailer snoek boxer spindle zucchini pan goblet comic pig",
+        "output": "robin cloak plow gallinule torch microwave semi-trailer snoek boxer spindle"
+    },
+    {
+        "input": "box fur entlebucher badger marmot shark diamondback projector woods fig flandres egret common cornet vespa box fur entlebucher badger marmot",
+        "output": "shark diamondback projector woods fig flandres egret common cornet vespa"
+    },
+    {
+        "input": "boxer pelican dugong velvet scottish star crab chihuahua owl greyhound turtle car norwich chesapeake phone boxer pelican dugong velvet scottish",
+        "output": "star crab chihuahua owl greyhound turtle car norwich chesapeake phone"
+    },
+    {
+        "input": "bobsleigh pin through towel rattlesnake monster buffalo apiary sleeping peafowl spaghetti smooth rottweiler catamaran alpine bobsleigh pin through towel rattlesnake",
+        "output": "monster buffalo apiary sleeping peafowl spaghetti smooth rottweiler catamaran alpine"
+    },
+    {
+        "input": "desert joystick apron airedale nematode granny spoon strawberry trolleybus wooden pool spaniel anole isopod beam desert joystick apron airedale nematode",
+        "output": "granny spoon strawberry trolleybus wooden pool spaniel anole isopod beam"
+    },
+    {
+        "input": "macaw planetarium magnifying stupa chesapeake bassoon xoloitzcuintli wolfhound submarine porcupine little slipper packet snowmobile mantis macaw planetarium magnifying stupa chesapeake",
+        "output": "bassoon xoloitzcuintli wolfhound submarine porcupine little slipper packet snowmobile mantis"
+    },
+    {
+        "input": "rotary bison strainer stage sloth hoop wardrobe parachute centipede mailbox street bucket speaker thatched balloon rotary bison strainer stage sloth",
+        "output": "hoop wardrobe parachute centipede mailbox street bucket speaker thatched balloon"
+    },
+    {
+        "input": "golf hand-held french leatherback dock harp bathing payphone sea rapeseed lacewing sunscreen swing macaque boxer golf hand-held french leatherback dock",
+        "output": "harp bathing payphone sea rapeseed lacewing sunscreen swing macaque boxer"
+    },
+    {
+        "input": "sock conch eggnog swim bear grouse one-piece mud sunscreen barn teapot sweatshirt volleyball cheetah armadillo sock conch eggnog swim bear",
+        "output": "grouse one-piece mud sunscreen barn teapot sweatshirt volleyball cheetah armadillo"
+    },
+    {
+        "input": "submarine limpkin case bib ballpoint tan football clogs newt junco gorilla book keyboard mastiff bars submarine limpkin case bib ballpoint",
+        "output": "tan football clogs newt junco gorilla book keyboard mastiff bars"
+    },
+    {
+        "input": "paddle lynx dryer combine custard plectrum dung pad barber tank basketball abaya water room chiton paddle lynx dryer combine custard",
+        "output": "plectrum dung pad barber tank basketball abaya water room chiton"
+    },
+    {
+        "input": "projector oxygen beetle norwegian spindle coot african lampshade boathouse tower rack poncho snowmobile fungus newfoundland projector oxygen beetle norwegian spindle",
+        "output": "coot african lampshade boathouse tower rack poncho snowmobile fungus newfoundland"
+    },
+    {
+        "input": "spindle fishing yellow pedestal afghan cauliflower eater poke viaduct car collie airship bell grand helmet spindle fishing yellow pedestal afghan",
+        "output": "cauliflower eater poke viaduct car collie airship bell grand helmet"
+    },
+    {
+        "input": "desktop polaroid electric ibex bicycle chow bench jeans vacuum knee bulbul construction hockey badger barber desktop polaroid electric ibex bicycle",
+        "output": "chow bench jeans vacuum knee bulbul construction hockey badger barber"
+    },
+    {
+        "input": "beaver tie unicycle cloak spiral newfoundland upright teddy lynx balance arabian coral butterfly sign waffle beaver tie unicycle cloak spiral",
+        "output": "newfoundland upright teddy lynx balance arabian coral butterfly sign waffle"
+    },
+    {
+        "input": "thatched hornbill banded the shoe suit giant corgi pie organ tank hoop limpkin weimaraner couch thatched hornbill banded the shoe",
+        "output": "suit giant corgi pie organ tank hoop limpkin weimaraner couch"
+    },
+    {
+        "input": "syrup otterhound wind common heater keeshond piano llama indri sarong cleaner store vacuum vending stove syrup otterhound wind common heater",
+        "output": "keeshond piano llama indri sarong cleaner store vacuum vending stove"
+    },
+    {
+        "input": "tusker syrup cowboy wall powder pot sock steam fungus wok dobermann shaker machine armadillo slip-on tusker syrup cowboy wall powder",
+        "output": "pot sock steam fungus wok dobermann shaker machine armadillo slip-on"
+    },
+    {
+        "input": "paper labrador shopping limpkin megalith street coyote shower airship chiton viaduct chocolate fountain soccer coral paper labrador shopping limpkin megalith",
+        "output": "street coyote shower airship chiton viaduct chocolate fountain soccer coral"
+    },
+    {
+        "input": "lawn axolotl bee pepper catamaran dandie telephone diver room hunting entertainment metal american divider cockatoo lawn axolotl bee pepper catamaran",
+        "output": "dandie telephone diver room hunting entertainment metal american divider cockatoo"
+    },
+    {
+        "input": "electric pelican pacifier vest cliff soup hermit staffordshire spaniel cairn indri desk nile backpack sled electric pelican pacifier vest cliff",
+        "output": "soup hermit staffordshire spaniel cairn indri desk nile backpack sled"
+    },
+    {
+        "input": "carton net croquet acoustic hound paddle st. desert train miniskirt sunglasses sliding vespa dungeness hair carton net croquet acoustic hound",
+        "output": "paddle st. desert train miniskirt sunglasses sliding vespa dungeness hair"
+    },
+    {
+        "input": "maltese front kite hand-held carousel cheeseburger cornet swim iron spotlight carolina viaduct lemon bridegroom macaque maltese front kite hand-held carousel",
+        "output": "cheeseburger cornet swim iron spotlight carolina viaduct lemon bridegroom macaque"
+    },
+    {
+        "input": "bulletproof rule spider mushroom hourglass gar admiral cheeseburger rickshaw triumphal packet drill shop ipod mitten bulletproof rule spider mushroom hourglass",
+        "output": "gar admiral cheeseburger rickshaw triumphal packet drill shop ipod mitten"
+    },
+    {
+        "input": "sled bag casting bison tabby chickadee hook bulbul sandbar slot male angora giant automated grand sled bag casting bison tabby",
+        "output": "chickadee hook bulbul sandbar slot male angora giant automated grand"
+    },
+    {
+        "input": "ridgeback camera snow geyser pinscher hockey impala jug restaurant arched cauldron mouse boxer bullock pie ridgeback camera snow geyser pinscher",
+        "output": "hockey impala jug restaurant arched cauldron mouse boxer bullock pie"
+    },
+    {
+        "input": "safe digital dung corgi vending knee football yellow submarine candy patas charles dome elkhound crocodile safe digital dung corgi vending",
+        "output": "knee football yellow submarine candy patas charles dome elkhound crocodile"
+    },
+    {
+        "input": "eagle panda robin tea store petri pacifier binder wolf european gossamer-winged ant wig theater slipper eagle panda robin tea store",
+        "output": "petri pacifier binder wolf european gossamer-winged ant wig theater slipper"
+    },
+    {
+        "input": "asian respirator traffic barbershop plow park cover howler pie norwich lady's elkhound helmet minibus sailboat asian respirator traffic barbershop plow",
+        "output": "park cover howler pie norwich lady's elkhound helmet minibus sailboat"
+    },
+    {
+        "input": "common hamper english dispenser bagel hatchet gibbon cover australian bullock slide yurt smith apiary briard common hamper english dispenser bagel",
+        "output": "hatchet gibbon cover australian bullock slide yurt smith apiary briard"
+    },
+    {
+        "input": "grasshopper ice gila beach titi cottontail bathtub coil dish crab rattlesnake rain golf reel setter grasshopper ice gila beach titi",
+        "output": "cottontail bathtub coil dish crab rattlesnake rain golf reel setter"
+    },
+    {
+        "input": "cocker chest binoculars fabric wardrobe flamingo plane container assault tea watch soft-coated cover langur welsh cocker chest binoculars fabric wardrobe",
+        "output": "flamingo plane container assault tea watch soft-coated cover langur welsh"
+    },
+    {
+        "input": "violin front monkey packet parachute neck eggnog chainsaw ruddy puck bicycle wall desk spaniel airship violin front monkey packet parachute",
+        "output": "neck eggnog chainsaw ruddy puck bicycle wall desk spaniel airship"
+    },
+    {
+        "input": "badger arctic bullmastiff spaniel cobra brass mower pole pointer medicine high-speed cuirass male computer graduation badger arctic bullmastiff spaniel cobra",
+        "output": "brass mower pole pointer medicine high-speed cuirass male computer graduation"
+    },
+    {
+        "input": "little poke candy crate moving carton store jacamar insect bucket mouse appenzeller wheelbarrow parrot projector little poke candy crate moving",
+        "output": "carton store jacamar insect bucket mouse appenzeller wheelbarrow parrot projector"
+    },
+    {
+        "input": "cuirass pan boa pointer casting dingo artichoke vulture mug station apron boot sneaker necklace towel cuirass pan boa pointer casting",
+        "output": "dingo artichoke vulture mug station apron boot sneaker necklace towel"
+    },
+    {
+        "input": "black-and-white harvestman wild frog church japanese frilled-necked hoop mud polecat revolver snowplow terrapin packaging spray black-and-white harvestman wild frog church",
+        "output": "japanese frilled-necked hoop mud polecat revolver snowplow terrapin packaging spray"
+    },
+    {
+        "input": "dome southern wheelbarrow cleaver pacifier owl hamper thimble cello pan lighter music pipe zebra sock dome southern wheelbarrow cleaver pacifier",
+        "output": "owl hamper thimble cello pan lighter music pipe zebra sock"
+    },
+    {
+        "input": "stocking menu acorn modem setter teapot snoek apple dark analog harmonica reel hammer t frying stocking menu acorn modem setter",
+        "output": "teapot snoek apple dark analog harmonica reel hammer t frying"
+    },
+    {
+        "input": "bottle reef thermal library cleaver angora dam frilled-necked bed jacket medicine poncho radiator maraca trunks bottle reef thermal library cleaver",
+        "output": "angora dam frilled-necked bed jacket medicine poncho radiator maraca trunks"
+    },
+    {
+        "input": "alligator sink kite pinscher quill plastic fungus black-and-white bluetick chain panda barrel snowmobile harp hunting alligator sink kite pinscher quill",
+        "output": "plastic fungus black-and-white bluetick chain panda barrel snowmobile harp hunting"
+    },
+    {
+        "input": "junco tram high-speed salt african persian prairie ballpoint padlock silver geoffroy's three-toed stingray kit ship junco tram high-speed salt african",
+        "output": "persian prairie ballpoint padlock silver geoffroy's three-toed stingray kit ship"
+    },
+    {
+        "input": "fan leafhopper mouse telescope viper walker syringe macaque hermit schooner folding hamper snake geoffroy's dispenser fan leafhopper mouse telescope viper",
+        "output": "walker syringe macaque hermit schooner folding hamper snake geoffroy's dispenser"
+    },
+    {
+        "input": "butternut lizard rhodesian honeycomb alaskan aircraft brown mosquito spoon dalmatian crocodile tan wombat monitor ox butternut lizard rhodesian honeycomb alaskan",
+        "output": "aircraft brown mosquito spoon dalmatian crocodile tan wombat monitor ox"
+    },
+    {
+        "input": "cabbage cardoon squirrel ping-pong planetarium pole brain slug weasel bath red necklace dunlin breakwater harmonica cabbage cardoon squirrel ping-pong planetarium",
+        "output": "pole brain slug weasel bath red necklace dunlin breakwater harmonica"
+    },
+    {
+        "input": "ruler bars bar station stingray star black-footed shovel oxygen wheel mushroom balaclava shuttle helmet sturgeon ruler bars bar station stingray",
+        "output": "star black-footed shovel oxygen wheel mushroom balaclava shuttle helmet sturgeon"
+    },
+    {
+        "input": "damselfly racket buckle chiton gallinule curly-coated kite mortar banded highland dalmatian bolete moving beaker tiger damselfly racket buckle chiton gallinule",
+        "output": "curly-coated kite mortar banded highland dalmatian bolete moving beaker tiger"
+    },
+    {
+        "input": "folding scuba tea band-aid consomme southern hunting sombrero lock ski ladybug ruffed sign jay white-headed folding scuba tea band-aid consomme",
+        "output": "southern hunting sombrero lock ski ladybug ruffed sign jay white-headed"
+    },
+    {
+        "input": "alligator guenon lhasa dam clock treeing vending gordon hermit garbage rain beer chihuahua grey soup alligator guenon lhasa dam clock",
+        "output": "treeing vending gordon hermit garbage rain beer chihuahua grey soup"
+    },
+    {
+        "input": "power ruddy tape revolver ipod clothes frilled-necked brambling umbrella ballpoint tray poke pickelhaube bottle horned power ruddy tape revolver ipod",
+        "output": "clothes frilled-necked brambling umbrella ballpoint tray poke pickelhaube bottle horned"
+    },
+    {
+        "input": "diver swimming valley orange coffeemaker cuirass norfolk tram wool dobermann mashed lady's saharan green pointer diver swimming valley orange coffeemaker",
+        "output": "cuirass norfolk tram wool dobermann mashed lady's saharan green pointer"
+    },
+    {
+        "input": "knot sussex hamper mashed desk spindle perfume whale xoloitzcuintli bullmastiff speaker diaper bathing pufferfish clip knot sussex hamper mashed desk",
+        "output": "spindle perfume whale xoloitzcuintli bullmastiff speaker diaper bathing pufferfish clip"
+    },
+    {
+        "input": "beagle laptop bee deerhound gazelle mau baseball fish totem breakwater pug gyromitra boxer center chain beagle laptop bee deerhound gazelle",
+        "output": "mau baseball fish totem breakwater pug gyromitra boxer center chain"
+    },
+    {
+        "input": "silky hair python cobra crock mixing piggy mau consomme the papillon husky patas guillotine ship silky hair python cobra crock",
+        "output": "mixing piggy mau consomme the papillon husky patas guillotine ship"
+    },
+    {
+        "input": "soda pillow broccoli binoculars gorilla merganser ferret cobra beam groenendael dane miniature face wooden volleyball soda pillow broccoli binoculars gorilla",
+        "output": "merganser ferret cobra beam groenendael dane miniature face wooden volleyball"
+    },
+    {
+        "input": "common macaque agaric gallinule teapot corgi echidna window drink mirror bald polar airedale plate poke common macaque agaric gallinule teapot",
+        "output": "corgi echidna window drink mirror bald polar airedale plate poke"
+    },
+    {
+        "input": "leafhopper groenendael guenon cardigan book squash mastiff coonhound night gila sulphur-crested bee rotary silver bakery leafhopper groenendael guenon cardigan book",
+        "output": "squash mastiff coonhound night gila sulphur-crested bee rotary silver bakery"
+    },
+    {
+        "input": "paddle helmet border artichoke buckle tiger hog-nosed hyena threshing fungus storage oscilloscope common abaya walker paddle helmet border artichoke buckle",
+        "output": "tiger hog-nosed hyena threshing fungus storage oscilloscope common abaya walker"
+    },
+    {
+        "input": "croquet constrictor sealyham scabbard cobra brown overskirt abacus ambulance lizard bald traffic hunting hatchet vizsla croquet constrictor sealyham scabbard cobra",
+        "output": "brown overskirt abacus ambulance lizard bald traffic hunting hatchet vizsla"
+    },
+    {
+        "input": "academic parking necklace lighthouse gong stethoscope rhinoceros sweatshirt tandem frying ibizan dock crash chimpanzee kite academic parking necklace lighthouse gong",
+        "output": "stethoscope rhinoceros sweatshirt tandem frying ibizan dock crash chimpanzee kite"
+    },
+    {
+        "input": "shuttle deerhound screw shoji fur guenon sheepdog viaduct welsh window zucchini jug boa desert hockey shuttle deerhound screw shoji fur",
+        "output": "guenon sheepdog viaduct welsh window zucchini jug boa desert hockey"
+    },
+    {
+        "input": "dinmont bars tricycle hare greater steel marmot coyote sheepdog lhasa peafowl tick rottweiler airedale arched dinmont bars tricycle hare greater",
+        "output": "steel marmot coyote sheepdog lhasa peafowl tick rottweiler airedale arched"
+    },
+    {
+        "input": "limousine pickup shovel frying vest little paintbrush wine kimono west elkhound jellyfish acoustic saharan fur limousine pickup shovel frying vest",
+        "output": "little paintbrush wine kimono west elkhound jellyfish acoustic saharan fur"
+    },
+    {
+        "input": "cockatoo carolina vest cassette switch vacuum crutch dowitcher dryer baby english bridegroom park gyromitra hairless cockatoo carolina vest cassette switch",
+        "output": "vacuum crutch dowitcher dryer baby english bridegroom park gyromitra hairless"
+    },
+    {
+        "input": "kit schnauzer geyser snail cloak urchin dunlin airedale spaghetti mixing thimble blue lion tie greenhouse kit schnauzer geyser snail cloak",
+        "output": "urchin dunlin airedale spaghetti mixing thimble blue lion tie greenhouse"
+    },
+    {
+        "input": "dispenser payphone yorkshire sulphur-crested siamese mop diamondback custard longhorn gas impala jeep police shower breastplate dispenser payphone yorkshire sulphur-crested siamese",
+        "output": "mop diamondback custard longhorn gas impala jeep police shower breastplate"
+    },
+    {
+        "input": "thimble split-rail setter chair wire yellow boston farm white-headed telephone three-toed toaster vacuum mail suit thimble split-rail setter chair wire",
+        "output": "yellow boston farm white-headed telephone three-toed toaster vacuum mail suit"
+    },
+    {
+        "input": "wallaby convertible carbonara soap table jacamar weimaraner wing spaghetti bush hatchet vine acorn manhole heater wallaby convertible carbonara soap table",
+        "output": "jacamar weimaraner wing spaghetti bush hatchet vine acorn manhole heater"
+    },
+    {
+        "input": "swimming eel book appenzeller rain lotion orangutan artichoke butcher adult teapot weasel hound rotary lab swimming eel book appenzeller rain",
+        "output": "lotion orangutan artichoke butcher adult teapot weasel hound rotary lab"
+    },
+    {
+        "input": "slipper monster velvet broccoli meter indian ground leopard railroad brittany sailboat baluster water damselfly giant slipper monster velvet broccoli meter",
+        "output": "indian ground leopard railroad brittany sailboat baluster water damselfly giant"
+    },
+    {
+        "input": "popsicle basket sink padlock west accordion porcupine revolver web mail mastiff dane admiral academic koala popsicle basket sink padlock west",
+        "output": "accordion porcupine revolver web mail mastiff dane admiral academic koala"
+    },
+    {
+        "input": "bernard smith sheep maraca mixing otterhound soft-coated tench bra spaniel shako labrador stick miniature hay bernard smith sheep maraca mixing",
+        "output": "otterhound soft-coated tench bra spaniel shako labrador stick miniature hay"
+    },
+    {
+        "input": "megalith goldfinch lock bath rotisserie web elephant mink toilet wallet wind bus stupa beauty sidewinder megalith goldfinch lock bath rotisserie",
+        "output": "web elephant mink toilet wallet wind bus stupa beauty sidewinder"
+    },
+    {
+        "input": "lawn balaclava lakeshore maze or hook street clock spindle thatched geoffroy's three-toed longhorn dishwasher watch lawn balaclava lakeshore maze or",
+        "output": "hook street clock spindle thatched geoffroy's three-toed longhorn dishwasher watch"
+    },
+    {
+        "input": "flatworm wheelbarrow couch hairless hourglass gallinule racket suspension warthog hatchet butterfly fur mosquito mitten gecko flatworm wheelbarrow couch hairless hourglass",
+        "output": "gallinule racket suspension warthog hatchet butterfly fur mosquito mitten gecko"
+    },
+    {
+        "input": "strawberry kuvasz printer watch cloak reflex greyhound moped samoyed grasshopper hook apron fungus sulphur-crested disc strawberry kuvasz printer watch cloak",
+        "output": "reflex greyhound moped samoyed grasshopper hook apron fungus sulphur-crested disc"
+    },
+    {
+        "input": "necklace ambulance st. coral wheel pillow guacamole deerhound fountain komodo frog scuba mosquito dowitcher wolf necklace ambulance st. coral wheel",
+        "output": "pillow guacamole deerhound fountain komodo frog scuba mosquito dowitcher wolf"
+    },
+    {
+        "input": "valley oxygen shih shop shorthaired beaver wheelbarrow japanese griffon radiator clock zebra insect truck fungus valley oxygen shih shop shorthaired",
+        "output": "beaver wheelbarrow japanese griffon radiator clock zebra insect truck fungus"
+    },
+    {
+        "input": "speaker lion radio railroad bathtub trilobite laptop bighorn butternut ice oscilloscope coyote acoustic store triceratops speaker lion radio railroad bathtub",
+        "output": "trilobite laptop bighorn butternut ice oscilloscope coyote acoustic store triceratops"
+    },
+    {
+        "input": "radio bouvier corn maze afghan airliner tape coral ambulance grouse stick perfume weimaraner ski catamaran radio bouvier corn maze afghan",
+        "output": "airliner tape coral ambulance grouse stick perfume weimaraner ski catamaran"
+    },
+    {
+        "input": "moped acoustic hound drink clownfish lobster folding pineapple fungus pirate muzzle dinmont dam crossword face moped acoustic hound drink clownfish",
+        "output": "lobster folding pineapple fungus pirate muzzle dinmont dam crossword face"
+    },
+    {
+        "input": "band-aid shield missile snoek pekingese sink potatoes baguette gas solar cauliflower house limousine dock knot band-aid shield missile snoek pekingese",
+        "output": "sink potatoes baguette gas solar cauliflower house limousine dock knot"
+    },
+    {
+        "input": "nautilus medicine pot planetarium spiral jacket brace snail eel beach samoyed oven safe shade comic nautilus medicine pot planetarium spiral",
+        "output": "jacket brace snail eel beach samoyed oven safe shade comic"
+    },
+    {
+        "input": "border paper punching chow sled memorial eggnog convertible trifle one-piece lamp torch cherimoya butcher beauty border paper punching chow sled",
+        "output": "memorial eggnog convertible trifle one-piece lamp torch cherimoya butcher beauty"
+    },
+    {
+        "input": "coil guacamole mower packaging trolleybus soft-coated breastplate frying maypole zucchini gila butcher stethoscope briard west coil guacamole mower packaging trolleybus",
+        "output": "soft-coated breastplate frying maypole zucchini gila butcher stethoscope briard west"
+    },
+    {
+        "input": "consomme boar arch admiral envelope abaya miniskirt remote vehicle espresso poncho mail weighing yurt christmas consomme boar arch admiral envelope",
+        "output": "abaya miniskirt remote vehicle espresso poncho mail weighing yurt christmas"
+    },
+    {
+        "input": "bell weasel prison soap monster bunting buffalo scoreboard mitten frilled-necked movie guinea gordon silver belt bell weasel prison soap monster",
+        "output": "bunting buffalo scoreboard mitten frilled-necked movie guinea gordon silver belt"
+    },
+    {
+        "input": "dowitcher pencil microphone fireboat langur matchstick ambulance band-aid camera saxophone book tripod hornbill cheeseburger samoyed dowitcher pencil microphone fireboat langur",
+        "output": "matchstick ambulance band-aid camera saxophone book tripod hornbill cheeseburger samoyed"
+    },
+    {
+        "input": "black-and-white piano fire car chainsaw home sussex purse stethoscope snowmobile standard valley cherimoya cheeseburger tow black-and-white piano fire car chainsaw",
+        "output": "home sussex purse stethoscope snowmobile standard valley cherimoya cheeseburger tow"
+    },
+    {
+        "input": "grasshopper thatched chestnut pig lady's automated pirate rug website padlock typewriter hair earth theater pipe grasshopper thatched chestnut pig lady's",
+        "output": "automated pirate rug website padlock typewriter hair earth theater pipe"
+    },
+    {
+        "input": "burrito safe toy slip-on birdhouse harp hermit lamp bus book marmoset shoji mitten chiffonier stocking burrito safe toy slip-on birdhouse",
+        "output": "harp hermit lamp bus book marmoset shoji mitten chiffonier stocking"
+    },
+    {
+        "input": "bathtub plow mud bighorn watch treeing projectile egyptian train lakeshore drive vest weimaraner borzoi dumbbell bathtub plow mud bighorn watch",
+        "output": "treeing projectile egyptian train lakeshore drive vest weimaraner borzoi dumbbell"
+    },
+    {
+        "input": "holster promontory ring bib hairless otter totem mastiff pufferfish toilet wind torch schnauzer brussels eraser holster promontory ring bib hairless",
+        "output": "otter totem mastiff pufferfish toilet wind torch schnauzer brussels eraser"
+    },
+    {
+        "input": "lotion asian viper dial phone beaker bustard mousetrap praying vizsla mountain schooner hound st. american lotion asian viper dial phone",
+        "output": "beaker bustard mousetrap praying vizsla mountain schooner hound st. american"
+    },
+    {
+        "input": "hyena bridegroom koala park salmon admiral cauldron guitar butcher dam throne hornbill malinois coonhound spray hyena bridegroom koala park salmon",
+        "output": "admiral cauldron guitar butcher dam throne hornbill malinois coonhound spray"
+    },
+    {
+        "input": "bikini poncho phone rotisserie snowplow siamang conch pole bassoon steam couch bloodhound cradle brown coot bikini poncho phone rotisserie snowplow",
+        "output": "siamang conch pole bassoon steam couch bloodhound cradle brown coot"
+    },
+    {
+        "input": "egret woods plate crate marmot chest wind cabinet malinois indian fly basketball memorial little english egret woods plate crate marmot",
+        "output": "chest wind cabinet malinois indian fly basketball memorial little english"
+    },
+    {
+        "input": "hound monkey chain-link dugong cardigan bulletproof power elephant oven volleyball isopod ptarmigan space shop potter's hound monkey chain-link dugong cardigan",
+        "output": "bulletproof power elephant oven volleyball isopod ptarmigan space shop potter's"
+    },
+    {
+        "input": "bicycle slot of proboscis beach barbershop dinmont glass egret ring-tailed whippet brake entertainment malinois llama bicycle slot of proboscis beach",
+        "output": "barbershop dinmont glass egret ring-tailed whippet brake entertainment malinois llama"
+    },
+    {
+        "input": "shuttle cd siberian monitor wombat pot shepherd hot case african adult heater bassinet upright croquet shuttle cd siberian monitor wombat",
+        "output": "pot shepherd hot case african adult heater bassinet upright croquet"
+    },
+    {
+        "input": "bus four-poster whiptail indigo sleeping limpkin petri farm fireboat greater rotary arch shoji wolf schnauzer bus four-poster whiptail indigo sleeping",
+        "output": "limpkin petri farm fireboat greater rotary arch shoji wolf schnauzer"
+    },
+    {
+        "input": "pan organ prison container shoji teapot pinscher porcupine manhole crt zucchini pretzel cottontail mug salamander pan organ prison container shoji",
+        "output": "teapot pinscher porcupine manhole crt zucchini pretzel cottontail mug salamander"
+    },
+    {
+        "input": "meatloaf plate wagon academic laptop beach dunlin crocodile product pitcher stick desktop wallaby bonnet weimaraner meatloaf plate wagon academic laptop",
+        "output": "beach dunlin crocodile product pitcher stick desktop wallaby bonnet weimaraner"
+    },
+    {
+        "input": "arch cockatoo ridgeback bakery power cannon crt zucchini whiskey plunger ping-pong ballpoint goldfish admiral teddy arch cockatoo ridgeback bakery power",
+        "output": "cannon crt zucchini whiskey plunger ping-pong ballpoint goldfish admiral teddy"
+    },
+    {
+        "input": "tailed bolete car bookcase curtain tan odometer siamese ostrich sunscreen bikini diamondback stingray brace plate tailed bolete car bookcase curtain",
+        "output": "tan odometer siamese ostrich sunscreen bikini diamondback stingray brace plate"
+    },
+    {
+        "input": "cup mountain mouse picket china howler casting infant ballpoint lifeboat turnstile sheepdog fox ceiling shoji cup mountain mouse picket china",
+        "output": "howler casting infant ballpoint lifeboat turnstile sheepdog fox ceiling shoji"
+    },
+    {
+        "input": "loupe sulphur-crested pole taxicab jug schooner measuring mop angora pekingese meter half-track balloon knot bulletproof loupe sulphur-crested pole taxicab jug",
+        "output": "schooner measuring mop angora pekingese meter half-track balloon knot bulletproof"
+    },
+    {
+        "input": "overskirt opener shark bridegroom tram tailed green bubble convertible setter bernese wolf jeep thermal toucan overskirt opener shark bridegroom tram",
+        "output": "tailed green bubble convertible setter bernese wolf jeep thermal toucan"
+    },
+    {
+        "input": "des hare gar motorboat notebook mountain boar velvet missile ram border beaker lock hog-nosed submarine des hare gar motorboat notebook",
+        "output": "mountain boar velvet missile ram border beaker lock hog-nosed submarine"
+    },
+    {
+        "input": "gorilla block horned vaulted shield brambling clumber centipede leaf shoji shoe carbonara binder tripod spotted gorilla block horned vaulted shield",
+        "output": "brambling clumber centipede leaf shoji shoe carbonara binder tripod spotted"
+    },
+    {
+        "input": "broccoli monitor albatross hoop standard folding beer vizsla cd ice corgi loupe lock petri tie broccoli monitor albatross hoop standard",
+        "output": "folding beer vizsla cd ice corgi loupe lock petri tie"
+    },
+    {
+        "input": "cat acorn purse cassette jellyfish jackfruit cocktail glasses wardrobe robin norwich fence paintbrush anole cicada cat acorn purse cassette jellyfish",
+        "output": "jackfruit cocktail glasses wardrobe robin norwich fence paintbrush anole cicada"
+    },
+    {
+        "input": "sliding theater ladle balloon tub colobus bonnet desert oxygen magnetic impala purse fire squash menu sliding theater ladle balloon tub",
+        "output": "colobus bonnet desert oxygen magnetic impala purse fire squash menu"
+    },
+    {
+        "input": "chocolate jacamar goblet welsh bustard cairn casting paddle sock telescope poodle stethoscope hoop hook merganser chocolate jacamar goblet welsh bustard",
+        "output": "cairn casting paddle sock telescope poodle stethoscope hoop hook merganser"
+    },
+    {
+        "input": "printer rugby hand-held hot affenpinscher balaclava hammer turtle tie soda sea milk tent combine albatross printer rugby hand-held hot affenpinscher",
+        "output": "balaclava hammer turtle tie soda sea milk tent combine albatross"
+    },
+    {
+        "input": "clip male coot van maned wagon python cello plate snowplow prison tench soap komodo padlock clip male coot van maned",
+        "output": "wagon python cello plate snowplow prison tench soap komodo padlock"
+    },
+    {
+        "input": "rock conch squash sheepdog lighter lock washing disk gibbon ray stingray steel baguette agama slipper rock conch squash sheepdog lighter",
+        "output": "lock washing disk gibbon ray stingray steel baguette agama slipper"
+    },
+    {
+        "input": "muzzle wolf wire cap payphone vest chow suspension measuring pin weevil arched filter bighorn affenpinscher muzzle wolf wire cap payphone",
+        "output": "vest chow suspension measuring pin weevil arched filter bighorn affenpinscher"
+    },
+    {
+        "input": "oscilloscope lakeland horned siamang dipper flat-coated semi-trailer dugong control apso accordion hen bottle geoffroy's egyptian oscilloscope lakeland horned siamang dipper",
+        "output": "flat-coated semi-trailer dugong control apso accordion hen bottle geoffroy's egyptian"
+    },
+    {
+        "input": "fireboat wallet jacket frying acoustic angora parallel ceiling smith night bookstore hat toy urchin strawberry fireboat wallet jacket frying acoustic",
+        "output": "angora parallel ceiling smith night bookstore hat toy urchin strawberry"
+    },
+    {
+        "input": "lemon hot scarf xoloitzcuintli skirt weasel borzoi medicine ram west kingsnake syringe yellow blue puzzle lemon hot scarf xoloitzcuintli skirt",
+        "output": "weasel borzoi medicine ram west kingsnake syringe yellow blue puzzle"
+    },
+    {
+        "input": "infant bobsleigh mailbox bullock coral cockatoo hand-held afghan kimono smith sandbar bernard sawmill backpack safety infant bobsleigh mailbox bullock coral",
+        "output": "cockatoo hand-held afghan kimono smith sandbar bernard sawmill backpack safety"
+    },
+    {
+        "input": "joystick stingray coonhound bookcase mask shop xoloitzcuintli mastiff harvester sarong bighorn crossword shaker grassland schipperke joystick stingray coonhound bookcase mask",
+        "output": "shop xoloitzcuintli mastiff harvester sarong bighorn crossword shaker grassland schipperke"
+    },
+    {
+        "input": "isopod microwave night tusker scabbard sloth pointer leafhopper combine printer pyrenees shih wallaby opener cairn isopod microwave night tusker scabbard",
+        "output": "sloth pointer leafhopper combine printer pyrenees shih wallaby opener cairn"
+    },
+    {
+        "input": "lacewing crutch des bike tennis waffle tandem vespa wool carbonara hornbill acorn miniskirt tarantula jacket lacewing crutch des bike tennis",
+        "output": "waffle tandem vespa wool carbonara hornbill acorn miniskirt tarantula jacket"
+    },
+    {
+        "input": "spaghetti wheelbarrow bathtub gila airplane mink vest tree woods cornet uniform mouse dog digital greyhound spaghetti wheelbarrow bathtub gila airplane",
+        "output": "mink vest tree woods cornet uniform mouse dog digital greyhound"
+    },
+    {
+        "input": "puzzle shoji antelope mongoose axolotl night power hamster sheepdog miniature airliner seat rotary lotion airedale puzzle shoji antelope mongoose axolotl",
+        "output": "night power hamster sheepdog miniature airliner seat rotary lotion airedale"
+    },
+    {
+        "input": "keyboard spaghetti lipstick stick pepper station airliner cardigan widow bolete jay chameleon horse-drawn racket hamster keyboard spaghetti lipstick stick pepper",
+        "output": "station airliner cardigan widow bolete jay chameleon horse-drawn racket hamster"
+    },
+    {
+        "input": "highland chainsaw norfolk vine angora vizsla garbage airplane cauliflower analog wallaby tench remote anemone corkscrew highland chainsaw norfolk vine angora",
+        "output": "vizsla garbage airplane cauliflower analog wallaby tench remote anemone corkscrew"
+    },
+    {
+        "input": "police wheel hartebeest soft-coated barrel cat promontory st. sharpener turnstile dwelling wallet blue block lemon police wheel hartebeest soft-coated barrel",
+        "output": "cat promontory st. sharpener turnstile dwelling wallet blue block lemon"
+    },
+    {
+        "input": "marmot telephone pump pestle insect croquet staffordshire norwegian castle newt hound cat king helmet waffle marmot telephone pump pestle insect",
+        "output": "croquet staffordshire norwegian castle newt hound cat king helmet waffle"
+    },
+    {
+        "input": "gorilla weasel white diver leaf impala zucchini seat basset gar four-poster leatherback ostrich tiger beam gorilla weasel white diver leaf",
+        "output": "impala zucchini seat basset gar four-poster leatherback ostrich tiger beam"
+    },
+    {
+        "input": "rattlesnake can dragonfly strawberry french terrapin plant garter volleyball rickshaw brown desktop bookstore paper the rattlesnake can dragonfly strawberry french",
+        "output": "terrapin plant garter volleyball rickshaw brown desktop bookstore paper the"
+    },
+    {
+        "input": "slipper nematode sundial sports one-piece scale player coat zebra football praying t cannon door consomme slipper nematode sundial sports one-piece",
+        "output": "scale player coat zebra football praying t cannon door consomme"
+    },
+    {
+        "input": "leonberger minivan aircraft swim container joystick boathouse combine miniskirt beetle cardoon swing dinmont tandem terrapin leonberger minivan aircraft swim container",
+        "output": "joystick boathouse combine miniskirt beetle cardoon swing dinmont tandem terrapin"
+    },
+    {
+        "input": "steam turtle leonberger bike goldfinch polaroid solar malinois night ant guacamole capuchin fence machine park steam turtle leonberger bike goldfinch",
+        "output": "polaroid solar malinois night ant guacamole capuchin fence machine park"
+    },
+    {
+        "input": "acorn china crash barber hand-held longhorn grasshopper automated throne rhodesian salmon grouse high-speed pan truck acorn china crash barber hand-held",
+        "output": "longhorn grasshopper automated throne rhodesian salmon grouse high-speed pan truck"
+    },
+    {
+        "input": "hunting windsor brittany tzu pier nautilus bulbul t-shirt opener knee assault book pelican ruddy vine hunting windsor brittany tzu pier",
+        "output": "nautilus bulbul t-shirt opener knee assault book pelican ruddy vine"
+    },
+    {
+        "input": "jacamar ruffed husky parachute high-speed dispenser barrel kimono bicycle vulture agaric envelope angora cucumber snake jacamar ruffed husky parachute high-speed",
+        "output": "dispenser barrel kimono bicycle vulture agaric envelope angora cucumber snake"
+    },
+    {
+        "input": "divider howler egret brittany green killer gown cup spaghetti cairn bullmastiff mitten great ram chime divider howler egret brittany green",
+        "output": "killer gown cup spaghetti cairn bullmastiff mitten great ram chime"
+    },
+    {
+        "input": "tower syringe handrail rickshaw potatoes highland ocean coot dunlin refrigerator smooth missile taxicab poodle pedestal tower syringe handrail rickshaw potatoes",
+        "output": "highland ocean coot dunlin refrigerator smooth missile taxicab poodle pedestal"
+    },
+    {
+        "input": "ford indri basset washing zucchini through strawberry planetarium carolina cloak vine meter yellow appenzeller dough ford indri basset washing zucchini",
+        "output": "through strawberry planetarium carolina cloak vine meter yellow appenzeller dough"
+    },
+    {
+        "input": "elkhound crutch monitor iguana breastplate projectile entlebucher maned peafowl backpack coffeemaker fig tarantula sheepdog store elkhound crutch monitor iguana breastplate",
+        "output": "projectile entlebucher maned peafowl backpack coffeemaker fig tarantula sheepdog store"
+    },
+    {
+        "input": "bank screw porcupine bridegroom hook thimble vestment loggerhead old vulture brussels yorkshire box infant wheel bank screw porcupine bridegroom hook",
+        "output": "thimble vestment loggerhead old vulture brussels yorkshire box infant wheel"
+    },
+    {
+        "input": "hourglass drill vaulted cleaner gorilla analog dishwasher microwave pretzel christmas magpie orange shower bike ruffed hourglass drill vaulted cleaner gorilla",
+        "output": "analog dishwasher microwave pretzel christmas magpie orange shower bike ruffed"
+    },
+    {
+        "input": "hot wheel pinscher ferret guacamole traffic vending horse-drawn pie snorkel sleeping malinois hammerhead harp redshank hot wheel pinscher ferret guacamole",
+        "output": "traffic vending horse-drawn pie snorkel sleeping malinois hammerhead harp redshank"
+    },
+    {
+        "input": "treeing tundra harp leatherback construction monastery brace violin ring spiny lighter bank marmot reflex limpkin treeing tundra harp leatherback construction",
+        "output": "monastery brace violin ring spiny lighter bank marmot reflex limpkin"
+    },
+    {
+        "input": "poncho wallaby cardigan soft-coated banjo bathtub window phone mirror cocker oscilloscope harvestman lab cat racket poncho wallaby cardigan soft-coated banjo",
+        "output": "bathtub window phone mirror cocker oscilloscope harvestman lab cat racket"
+    },
+    {
+        "input": "dobermann pekingese spoon rapeseed punching tank cauliflower starfish slip-on triumphal cart wooden cuirass small schooner dobermann pekingese spoon rapeseed punching",
+        "output": "tank cauliflower starfish slip-on triumphal cart wooden cuirass small schooner"
+    },
+    {
+        "input": "ringlet spiny bell sports necklace monarch granny towel otter hair truck screw lemur liner corgi ringlet spiny bell sports necklace",
+        "output": "monarch granny towel otter hair truck screw lemur liner corgi"
+    },
+    {
+        "input": "turnstile smith submarine hatchet highland loggerhead corgi mousetrap flute grille disk penguin affenpinscher schnauzer tent turnstile smith submarine hatchet highland",
+        "output": "loggerhead corgi mousetrap flute grille disk penguin affenpinscher schnauzer tent"
+    },
+    {
+        "input": "bulbul folding python shepherd dome shark gorilla italian ibex ray dowitcher birdhouse plastic pyrenees sarong bulbul folding python shepherd dome",
+        "output": "shark gorilla italian ibex ray dowitcher birdhouse plastic pyrenees sarong"
+    },
+    {
+        "input": "sulphur moving ball gila filing christmas cherimoya chambered salmon kerry chestnut dam jug spotted nail sulphur moving ball gila filing",
+        "output": "christmas cherimoya chambered salmon kerry chestnut dam jug spotted nail"
+    },
+    {
+        "input": "overskirt swing maltese snowplow shih teddy letter ray apple trilobite school dhole wig filing armadillo overskirt swing maltese snowplow shih",
+        "output": "teddy letter ray apple trilobite school dhole wig filing armadillo"
+    },
+    {
+        "input": "valley dane aircraft rock apiary toucan handrail pole bowl desk candy mastiff grand front teller valley dane aircraft rock apiary",
+        "output": "toucan handrail pole bowl desk candy mastiff grand front teller"
+    },
+    {
+        "input": "polar baguette toucan panda spindle scarf fire rose birdhouse tea marmoset lionfish ambulance monkey west polar baguette toucan panda spindle",
+        "output": "scarf fire rose birdhouse tea marmoset lionfish ambulance monkey west"
+    },
+    {
+        "input": "basset storage sock cassette television trolleybus chiton vulture weighing filter cover iguana dandie vase coat basset storage sock cassette television",
+        "output": "trolleybus chiton vulture weighing filter cover iguana dandie vase coat"
+    },
+    {
+        "input": "shuttle ladle saluki longhorn bolo proboscis lighthouse fabric ring-necked tailed meatloaf tiger whistle petri bulbul shuttle ladle saluki longhorn bolo",
+        "output": "proboscis lighthouse fabric ring-necked tailed meatloaf tiger whistle petri bulbul"
+    },
+    {
+        "input": "griffon tights mexican macaw wolf velvet cobra saharan beam altar face triumphal net steel analog griffon tights mexican macaw wolf",
+        "output": "velvet cobra saharan beam altar face triumphal net steel analog"
+    },
+    {
+        "input": "dowitcher binder crash tarantula chocolate traffic packet waffle cardboard monastery holster knee sliding house chesapeake dowitcher binder crash tarantula chocolate",
+        "output": "traffic packet waffle cardboard monastery holster knee sliding house chesapeake"
+    },
+    {
+        "input": "frilled-necked breastplate spindle aircraft mushroom spider whistle cauliflower minibus ocarina towel bear wallet barbershop cob frilled-necked breastplate spindle aircraft mushroom",
+        "output": "spider whistle cauliflower minibus ocarina towel bear wallet barbershop cob"
+    },
+    {
+        "input": "owl ferret jacamar borzoi stork limousine red-breasted chainsaw crock balloon bassinet amphibious mortar gordon dough owl ferret jacamar borzoi stork",
+        "output": "limousine red-breasted chainsaw crock balloon bassinet amphibious mortar gordon dough"
+    },
+    {
+        "input": "shower book aircraft chain-link grassland beam basset siamang tree dutch pump ipod mug ridgeback bolete shower book aircraft chain-link grassland",
+        "output": "beam basset siamang tree dutch pump ipod mug ridgeback bolete"
+    },
+    {
+        "input": "mosquito porcupine mud pomeranian cabinet cheetah parallel electric website ox poncho sign giant smooth pizza mosquito porcupine mud pomeranian cabinet",
+        "output": "cheetah parallel electric website ox poncho sign giant smooth pizza"
+    },
+    {
+        "input": "pie minivan cabinet broccoli frying tower woods hippopotamus silky vest waffle nematode overskirt cover graduation pie minivan cabinet broccoli frying",
+        "output": "tower woods hippopotamus silky vest waffle nematode overskirt cover graduation"
+    },
+    {
+        "input": "perfume armadillo basket beer spoon table carton aircraft brass horned syrup grouse cassette clock punching perfume armadillo basket beer spoon",
+        "output": "table carton aircraft brass horned syrup grouse cassette clock punching"
+    },
+    {
+        "input": "bunting rifle divider crocodile pizza dryer welsh compass platypus reel little piano dungeness moped plate bunting rifle divider crocodile pizza",
+        "output": "dryer welsh compass platypus reel little piano dungeness moped plate"
+    },
+    {
+        "input": "partridge toucan jug drive trench miniature wig finch sweatshirt truck slide night tile triumphal gong partridge toucan jug drive trench",
+        "output": "miniature wig finch sweatshirt truck slide night tile triumphal gong"
+    },
+    {
+        "input": "cover wooden assault reef truck guenon baseball boxer fish ocarina railroad siamese soccer military control cover wooden assault reef truck",
+        "output": "guenon baseball boxer fish ocarina railroad siamese soccer military control"
+    },
+    {
+        "input": "xoloitzcuintli finch go-kart boot frog west dane snowplow banjo lakeshore throne papillon shako solar loggerhead xoloitzcuintli finch go-kart boot frog",
+        "output": "west dane snowplow banjo lakeshore throne papillon shako solar loggerhead"
+    },
+    {
+        "input": "gossamer-winged mousetrap cardigan bull southern whistle geoffroy's camera reflex greyhound wooden cockatoo papillon sea block gossamer-winged mousetrap cardigan bull southern",
+        "output": "whistle geoffroy's camera reflex greyhound wooden cockatoo papillon sea block"
+    },
+    {
+        "input": "hockey anole stage grouse sussex beaker leopard memorial italian rhinoceros bars ruffed thatched poodle collie hockey anole stage grouse sussex",
+        "output": "beaker leopard memorial italian rhinoceros bars ruffed thatched poodle collie"
+    },
+    {
+        "input": "barbershop messenger acorn hay and pot soap fire compass minibus sports guillotine bench bra ferret barbershop messenger acorn hay and",
+        "output": "pot soap fire compass minibus sports guillotine bench bra ferret"
+    },
+    {
+        "input": "custard memorial butternut fan meter lionfish st. monastery siamang baguette salt acoustic hot weighing chin custard memorial butternut fan meter",
+        "output": "lionfish st. monastery siamang baguette salt acoustic hot weighing chin"
+    },
+    {
+        "input": "loupe cassette solar dandie ipod junco promontory teddy colobus telescope revolver ruler bridge tile carton loupe cassette solar dandie ipod",
+        "output": "junco promontory teddy colobus telescope revolver ruler bridge tile carton"
+    },
+    {
+        "input": "bearskin maltese soup roof bikini dipper lacewing mashed marmoset python flatworm mink syringe marmot bolo bearskin maltese soup roof bikini",
+        "output": "dipper lacewing mashed marmoset python flatworm mink syringe marmot bolo"
+    },
+    {
+        "input": "gondola cauliflower snail bars welsh light sailboat ray grasshopper stove mailbox silver scale mexican spaniel gondola cauliflower snail bars welsh",
+        "output": "light sailboat ray grasshopper stove mailbox silver scale mexican spaniel"
+    },
+    {
+        "input": "lotion train norfolk baluster gallinule bulbul giant wild langur hamper vase submarine memorial eastern handkerchief lotion train norfolk baluster gallinule",
+        "output": "bulbul giant wild langur hamper vase submarine memorial eastern handkerchief"
+    },
+    {
+        "input": "band-aid rock leopard screwdriver star horizontal snail shovel pestle ship iguana fountain iron windsor greyhound band-aid rock leopard screwdriver star",
+        "output": "horizontal snail shovel pestle ship iguana fountain iron windsor greyhound"
+    },
+    {
+        "input": "mitten aircraft umbrella lion lemon waffle drink bee gossamer-winged snowplow gar opener dumbbell border snail mitten aircraft umbrella lion lemon",
+        "output": "waffle drink bee gossamer-winged snowplow gar opener dumbbell border snail"
+    },
+    {
+        "input": "lemon french eastern hunting scorpion milk rhodesian spaghetti dipper vaulted chihuahua cicada vestment tent pineapple lemon french eastern hunting scorpion",
+        "output": "milk rhodesian spaghetti dipper vaulted chihuahua cicada vestment tent pineapple"
+    },
+    {
+        "input": "gong chiffonier sunscreen fabric fountain airship hairless tights plaque komondor divider hatchet monarch turnstile poke gong chiffonier sunscreen fabric fountain",
+        "output": "airship hairless tights plaque komondor divider hatchet monarch turnstile poke"
+    },
+    {
+        "input": "praying packet hoop sleeping scoreboard terrier threshing divider tent prison warthog beaker ruler ram basketball praying packet hoop sleeping scoreboard",
+        "output": "terrier threshing divider tent prison warthog beaker ruler ram basketball"
+    },
+    {
+        "input": "weevil packet overskirt norfolk feather pinscher volleyball hay beam baby gazelle armadillo castle tundra fur weevil packet overskirt norfolk feather",
+        "output": "pinscher volleyball hay beam baby gazelle armadillo castle tundra fur"
+    },
+    {
+        "input": "duck sarong siamang boathouse bush anemone chocolate neck block beam tiger labrador ladle sharpener cabbage duck sarong siamang boathouse bush",
+        "output": "anemone chocolate neck block beam tiger labrador ladle sharpener cabbage"
+    },
+    {
+        "input": "wind cup jug planetarium dowitcher siamese bay matchstick shade turnstile beagle seat television lighter graduation wind cup jug planetarium dowitcher",
+        "output": "siamese bay matchstick shade turnstile beagle seat television lighter graduation"
+    },
+    {
+        "input": "french volleyball llama fireboat setter yorkshire black-and-white brass isopod sundial harvester analog sharpener scale miniature french volleyball llama fireboat setter",
+        "output": "yorkshire black-and-white brass isopod sundial harvester analog sharpener scale miniature"
+    },
+    {
+        "input": "chocolate snowmobile barn jellyfish sports desktop mosquito vespa wind taxicab terrapin gazelle ox dishcloth pumpkin chocolate snowmobile barn jellyfish sports",
+        "output": "desktop mosquito vespa wind taxicab terrapin gazelle ox dishcloth pumpkin"
+    },
+    {
+        "input": "cricket pug paddle carolina electric rotisserie rabbit hoop chambered lemur platypus basenji male bag drumstick cricket pug paddle carolina electric",
+        "output": "rotisserie rabbit hoop chambered lemur platypus basenji male bag drumstick"
+    },
+    {
+        "input": "player safe siamese night hammer setter angora basket vending ladle lipstick quail chest jackfruit flandres player safe siamese night hammer",
+        "output": "setter angora basket vending ladle lipstick quail chest jackfruit flandres"
+    },
+    {
+        "input": "crayfish camel husky persian spotlight paddle entertainment hartebeest ostrich insect electrical horned bridge minibus tree crayfish camel husky persian spotlight",
+        "output": "paddle entertainment hartebeest ostrich insect electrical horned bridge minibus tree"
+    }
+]

@@ -1,0 +1,5942 @@
+[
+    {
+        "input": "*(sixteen@fifty-one)",
+        "output": "vlawb-vhyhq"
+    },
+    {
+        "input": "*(eighteen@sixty-five)",
+        "output": "hljkwb-wkuhh"
+    },
+    {
+        "input": "*(eighty-one@eight)",
+        "output": "hljkwb-qlqh"
+    },
+    {
+        "input": "*(thirty@thirty-five)",
+        "output": "vlawb-ilyh"
+    },
+    {
+        "input": "*(four@thirty-three)",
+        "output": "wkluwb-vhyhq"
+    },
+    {
+        "input": "*(sixty-eight@two)",
+        "output": "vhyhqwb"
+    },
+    {
+        "input": "*(seventy-three@one)",
+        "output": "vhyhqwb-irxu"
+    },
+    {
+        "input": "*(five@fourteen)",
+        "output": "qlqhwhhq"
+    },
+    {
+        "input": "*(thirty-one@three)",
+        "output": "wkluwb-irxu"
+    },
+    {
+        "input": "*(fifty-one@thirty-eight)",
+        "output": "hljkwb-qlqh"
+    },
+    {
+        "input": "*(twelve@one)",
+        "output": "wkluwhhq"
+    },
+    {
+        "input": "*(thirty-seven@six)",
+        "output": "iruwb-wkuhh"
+    },
+    {
+        "input": "*(forty-seven@twenty-one)",
+        "output": "vlawb-hljkw"
+    },
+    {
+        "input": "*(eighteen@twenty-six)",
+        "output": "iruwb-irxu"
+    },
+    {
+        "input": "*(sixty-three@eight)",
+        "output": "vhyhqwb-rqh"
+    },
+    {
+        "input": "*(sixteen@eight)",
+        "output": "wzhqwb-irxu"
+    },
+    {
+        "input": "*(seventeen@sixteen)",
+        "output": "wkluwb-wkuhh"
+    },
+    {
+        "input": "*(twenty-five@twenty-two)",
+        "output": "iruwb-vhyhq"
+    },
+    {
+        "input": "*(thirteen@fifty-four)",
+        "output": "vlawb-vhyhq"
+    },
+    {
+        "input": "*(thirty-seven@thirteen)",
+        "output": "iliwb"
+    },
+    {
+        "input": "*(seventeen@forty-two)",
+        "output": "iliwb-qlqh"
+    },
+    {
+        "input": "*(twenty-three@sixty-one)",
+        "output": "hljkwb-irxu"
+    },
+    {
+        "input": "*(nineteen@sixteen)",
+        "output": "wkluwb-ilyh"
+    },
+    {
+        "input": "*(twenty-two@sixty)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(forty-one@seven)",
+        "output": "iruwb-hljkw"
+    },
+    {
+        "input": "*(three@twenty-eight)",
+        "output": "wkluwb-rqh"
+    },
+    {
+        "input": "*(ten@thirteen)",
+        "output": "wzhqwb-wkuhh"
+    },
+    {
+        "input": "*(thirty-two@twenty-one)",
+        "output": "iliwb-wkuhh"
+    },
+    {
+        "input": "*(seventy@two)",
+        "output": "vhyhqwb-wzr"
+    },
+    {
+        "input": "*(forty-seven@seventeen)",
+        "output": "vlawb-irxu"
+    },
+    {
+        "input": "*(seventy@six)",
+        "output": "vhyhqwb-vla"
+    },
+    {
+        "input": "*(sixty-five@seven)",
+        "output": "vhyhqwb-wzr"
+    },
+    {
+        "input": "*(twenty-seven@twelve)",
+        "output": "wkluwb-qlqh"
+    },
+    {
+        "input": "*(forty-nine@thirty-three)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(thirty-two@six)",
+        "output": "wkluwb-hljkw"
+    },
+    {
+        "input": "*(two@seventeen)",
+        "output": "qlqhwhhq"
+    },
+    {
+        "input": "*(sixty-three@ten)",
+        "output": "vhyhqwb-wkuhh"
+    },
+    {
+        "input": "*(forty@thirty-two)",
+        "output": "vhyhqwb-wzr"
+    },
+    {
+        "input": "*(eight@seventy-two)",
+        "output": "hljkwb"
+    },
+    {
+        "input": "*(sixty-nine@twenty-four)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(twenty-seven@sixty-seven)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(three@sixty-two)",
+        "output": "vlawb-ilyh"
+    },
+    {
+        "input": "*(eight@ninety-one)",
+        "output": "qlqhwb-qlqh"
+    },
+    {
+        "input": "*(twenty-five@six)",
+        "output": "wkluwb-rqh"
+    },
+    {
+        "input": "*(thirty-one@fifty-nine)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(fifty-eight@twenty)",
+        "output": "vhyhqwb-hljkw"
+    },
+    {
+        "input": "*(six@fifty-three)",
+        "output": "iliwb-qlqh"
+    },
+    {
+        "input": "*(twenty-eight@forty-eight)",
+        "output": "vhyhqwb-vla"
+    },
+    {
+        "input": "*(two@forty-nine)",
+        "output": "iliwb-rqh"
+    },
+    {
+        "input": "*(two@fifteen)",
+        "output": "vhyhqwhhq"
+    },
+    {
+        "input": "*(twenty-nine@thirty-five)",
+        "output": "vlawb-irxu"
+    },
+    {
+        "input": "*(zero@ninety-one)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(seventy@thirteen)",
+        "output": "hljkwb-wkuhh"
+    },
+    {
+        "input": "*(sixty@nine)",
+        "output": "vlawb-qlqh"
+    },
+    {
+        "input": "*(eight@fifty-one)",
+        "output": "iliwb-qlqh"
+    },
+    {
+        "input": "*(seventy-four@eight)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(seventy-four@five)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(thirty-two@forty-seven)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(forty-seven@one)",
+        "output": "iruwb-hljkw"
+    },
+    {
+        "input": "*(thirty-four@sixty-four)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(seventy-six@ten)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(seventy-six@nineteen)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(four@thirty-four)",
+        "output": "wkluwb-hljkw"
+    },
+    {
+        "input": "*(twenty-eight@sixty-eight)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(sixty-eight@eleven)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(ten@twenty-two)",
+        "output": "wkluwb-wzr"
+    },
+    {
+        "input": "*(thirty-four@fifty-eight)",
+        "output": "qlqhwb-wzr"
+    },
+    {
+        "input": "*(six@sixteen)",
+        "output": "wzhqwb-wzr"
+    },
+    {
+        "input": "*(seventy-nine@fifteen)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(seventy-eight@fourteen)",
+        "output": "qlqhwb-wzr"
+    },
+    {
+        "input": "*(seventeen@fifty-two)",
+        "output": "vlawb-qlqh"
+    },
+    {
+        "input": "*(fifty-one@twenty-one)",
+        "output": "vhyhqwb-wzr"
+    },
+    {
+        "input": "*(forty-nine@twenty-one)",
+        "output": "vhyhqwb"
+    },
+    {
+        "input": "*(fifty-one@one)",
+        "output": "iliwb-wzr"
+    },
+    {
+        "input": "*(thirteen@forty-two)",
+        "output": "iliwb-ilyh"
+    },
+    {
+        "input": "*(four@nine)",
+        "output": "wkluwhhq"
+    },
+    {
+        "input": "*(eleven@fifty-seven)",
+        "output": "vlawb-hljkw"
+    },
+    {
+        "input": "*(one@twenty-eight)",
+        "output": "wzhqwb-qlqh"
+    },
+    {
+        "input": "*(forty-six@thirty-five)",
+        "output": "hljkwb-rqh"
+    },
+    {
+        "input": "*(twenty-one@twenty)",
+        "output": "iruwb-rqh"
+    },
+    {
+        "input": "*(three@four)",
+        "output": "vhyhq"
+    },
+    {
+        "input": "*(sixty-one@thirty-six)",
+        "output": "qlqhwb-vhyhq"
+    },
+    {
+        "input": "*(forty-one@thirty-six)",
+        "output": "vhyhqwb-vhyhq"
+    },
+    {
+        "input": "*(two@sixty-six)",
+        "output": "vlawb-hljkw"
+    },
+    {
+        "input": "*(seventy-one@fifteen)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(twenty-seven@fifty-eight)",
+        "output": "hljkwb-ilyh"
+    },
+    {
+        "input": "*(forty-six@eleven)",
+        "output": "iliwb-vhyhq"
+    },
+    {
+        "input": "*(seventy@three)",
+        "output": "vhyhqwb-wkuhh"
+    },
+    {
+        "input": "*(six@sixty-one)",
+        "output": "vlawb-vhyhq"
+    },
+    {
+        "input": "*(thirty-two@thirty-one)",
+        "output": "vlawb-wkuhh"
+    },
+    {
+        "input": "*(sixty-two@thirty)",
+        "output": "qlqhwb-wzr"
+    },
+    {
+        "input": "*(thirteen@forty-eight)",
+        "output": "vlawb-rqh"
+    },
+    {
+        "input": "*(forty@fifty)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(sixteen@five)",
+        "output": "wzhqwb-rqh"
+    },
+    {
+        "input": "*(forty-one@eight)",
+        "output": "iruwb-qlqh"
+    },
+    {
+        "input": "*(fourteen@five)",
+        "output": "qlqhwhhq"
+    },
+    {
+        "input": "*(six@sixty)",
+        "output": "vlawb-vla"
+    },
+    {
+        "input": "*(twelve@seventy-seven)",
+        "output": "hljkwb-qlqh"
+    },
+    {
+        "input": "*(thirty-seven@two)",
+        "output": "wkluwb-qlqh"
+    },
+    {
+        "input": "*(one@fifty-three)",
+        "output": "iliwb-irxu"
+    },
+    {
+        "input": "*(forty-five@fourteen)",
+        "output": "iliwb-qlqh"
+    },
+    {
+        "input": "*(twenty@twelve)",
+        "output": "wkluwb-wzr"
+    },
+    {
+        "input": "*(nine@thirty)",
+        "output": "wkluwb-qlqh"
+    },
+    {
+        "input": "*(one@thirty-two)",
+        "output": "wkluwb-wkuhh"
+    },
+    {
+        "input": "*(two@forty-five)",
+        "output": "iruwb-vhyhq"
+    },
+    {
+        "input": "*(fifty-three@twenty-seven)",
+        "output": "hljkwb"
+    },
+    {
+        "input": "*(fourteen@thirty-eight)",
+        "output": "iliwb-wzr"
+    },
+    {
+        "input": "*(eleven@twenty-six)",
+        "output": "wkluwb-vhyhq"
+    },
+    {
+        "input": "*(five@eighty-one)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(twenty-five@fifty-five)",
+        "output": "hljkwb"
+    },
+    {
+        "input": "*(sixty-one@six)",
+        "output": "vlawb-vhyhq"
+    },
+    {
+        "input": "*(forty-nine@thirty)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(fifty-five@twenty-six)",
+        "output": "hljkwb-rqh"
+    },
+    {
+        "input": "*(eight@seventy-one)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(eight@forty-four)",
+        "output": "iliwb-wzr"
+    },
+    {
+        "input": "*(twenty-seven@sixty-six)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(fifteen@seven)",
+        "output": "wzhqwb-wzr"
+    },
+    {
+        "input": "*(thirty@four)",
+        "output": "wkluwb-irxu"
+    },
+    {
+        "input": "*(two@seventy-one)",
+        "output": "vhyhqwb-wkuhh"
+    },
+    {
+        "input": "*(seventy-seven@five)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(twenty-six@thirty-six)",
+        "output": "vlawb-wzr"
+    },
+    {
+        "input": "*(four@sixty-nine)",
+        "output": "vhyhqwb-wkuhh"
+    },
+    {
+        "input": "*(fifty-nine@eighteen)",
+        "output": "vhyhqwb-vhyhq"
+    },
+    {
+        "input": "*(seventeen@sixty-eight)",
+        "output": "hljkwb-ilyh"
+    },
+    {
+        "input": "*(fifty-two@forty-five)",
+        "output": "qlqhwb-vhyhq"
+    },
+    {
+        "input": "*(fifty-six@three)",
+        "output": "iliwb-qlqh"
+    },
+    {
+        "input": "*(forty-nine@thirty-one)",
+        "output": "hljkwb"
+    },
+    {
+        "input": "*(seventy-six@sixteen)",
+        "output": "qlqhwb-wzr"
+    },
+    {
+        "input": "*(forty-two@fifty-two)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(two@two)",
+        "output": "irxu"
+    },
+    {
+        "input": "*(fifty-nine@twenty-three)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(twenty@three)",
+        "output": "wzhqwb-wkuhh"
+    },
+    {
+        "input": "*(eighty-five@two)",
+        "output": "hljkwb-vhyhq"
+    },
+    {
+        "input": "*(sixty-two@thirty-six)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(twenty-nine@one)",
+        "output": "wkluwb"
+    },
+    {
+        "input": "*(seventeen@forty-five)",
+        "output": "vlawb-wzr"
+    },
+    {
+        "input": "*(fifty@forty-seven)",
+        "output": "qlqhwb-vhyhq"
+    },
+    {
+        "input": "*(forty-seven@fourteen)",
+        "output": "vlawb-rqh"
+    },
+    {
+        "input": "*(seventeen@forty-four)",
+        "output": "vlawb-rqh"
+    },
+    {
+        "input": "*(thirty-three@sixty-six)",
+        "output": "qlqhwb-qlqh"
+    },
+    {
+        "input": "*(twenty-five@three)",
+        "output": "wzhqwb-hljkw"
+    },
+    {
+        "input": "*(thirty-three@four)",
+        "output": "wkluwb-vhyhq"
+    },
+    {
+        "input": "*(thirty@forty-eight)",
+        "output": "vhyhqwb-hljkw"
+    },
+    {
+        "input": "*(fourteen@eighty-three)",
+        "output": "qlqhwb-vhyhq"
+    },
+    {
+        "input": "*(thirty-three@thirty-five)",
+        "output": "vlawb-hljkw"
+    },
+    {
+        "input": "*(twenty-one@fifty-one)",
+        "output": "vhyhqwb-wzr"
+    },
+    {
+        "input": "*(thirty-two@fifty-four)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(thirty-three@sixty)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(forty@thirty-nine)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(zero@thirty)",
+        "output": "wkluwb"
+    },
+    {
+        "input": "*(seventy-two@nine)",
+        "output": "hljkwb-rqh"
+    },
+    {
+        "input": "*(fifty-one@thirty-six)",
+        "output": "hljkwb-vhyhq"
+    },
+    {
+        "input": "*(fourteen@sixty-five)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(seventy-four@twenty-two)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(five@twenty-two)",
+        "output": "wzhqwb-vhyhq"
+    },
+    {
+        "input": "*(seventy-five@four)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(sixty-two@one)",
+        "output": "vlawb-wkuhh"
+    },
+    {
+        "input": "*(forty-three@thirty-six)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(fourteen@eighteen)",
+        "output": "wkluwb-wzr"
+    },
+    {
+        "input": "*(sixteen@twenty-one)",
+        "output": "wkluwb-vhyhq"
+    },
+    {
+        "input": "*(forty-four@thirty-three)",
+        "output": "vhyhqwb-vhyhq"
+    },
+    {
+        "input": "*(thirty-three@thirty-three)",
+        "output": "vlawb-vla"
+    },
+    {
+        "input": "*(three@thirty-four)",
+        "output": "wkluwb-vhyhq"
+    },
+    {
+        "input": "*(seventy-one@twenty-four)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(thirty-four@fifteen)",
+        "output": "iruwb-qlqh"
+    },
+    {
+        "input": "*(twenty-four@fifty-six)",
+        "output": "hljkwb"
+    },
+    {
+        "input": "*(fifty-seven@sixteen)",
+        "output": "vhyhqwb-wkuhh"
+    },
+    {
+        "input": "*(thirty-three@twenty-seven)",
+        "output": "vlawb"
+    },
+    {
+        "input": "*(four@eight)",
+        "output": "wzhoyh"
+    },
+    {
+        "input": "*(seven@seventy-five)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(fifty-nine@fourteen)",
+        "output": "vhyhqwb-wkuhh"
+    },
+    {
+        "input": "*(fourteen@thirty-three)",
+        "output": "iruwb-vhyhq"
+    },
+    {
+        "input": "*(nineteen@fourteen)",
+        "output": "wkluwb-wkuhh"
+    },
+    {
+        "input": "*(thirty-two@fifty)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(one@ninety-seven)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(thirty-four@six)",
+        "output": "iruwb"
+    },
+    {
+        "input": "*(twenty-five@sixty-nine)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(twenty-seven@twenty)",
+        "output": "iruwb-vhyhq"
+    },
+    {
+        "input": "*(thirty-five@twenty-eight)",
+        "output": "vlawb-wkuhh"
+    },
+    {
+        "input": "*(eight@twenty-nine)",
+        "output": "wkluwb-vhyhq"
+    },
+    {
+        "input": "*(zero@fourteen)",
+        "output": "irxuwhhq"
+    },
+    {
+        "input": "*(forty-three@three)",
+        "output": "iruwb-vla"
+    },
+    {
+        "input": "*(sixty-one@ten)",
+        "output": "vhyhqwb-rqh"
+    },
+    {
+        "input": "*(sixty-four@three)",
+        "output": "vlawb-vhyhq"
+    },
+    {
+        "input": "*(seventy-three@twenty-two)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(eighteen@thirty-one)",
+        "output": "iruwb-qlqh"
+    },
+    {
+        "input": "*(sixty-nine@twenty-seven)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(nine@sixty-six)",
+        "output": "vhyhqwb-ilyh"
+    },
+    {
+        "input": "*(thirty-two@forty-nine)",
+        "output": "hljkwb-rqh"
+    },
+    {
+        "input": "*(sixty-five@thirty-two)",
+        "output": "qlqhwb-vhyhq"
+    },
+    {
+        "input": "*(twenty-five@forty-one)",
+        "output": "vlawb-vla"
+    },
+    {
+        "input": "*(forty-five@thirty-four)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(sixteen@forty-five)",
+        "output": "vlawb-rqh"
+    },
+    {
+        "input": "*(six@twelve)",
+        "output": "hljkwhhq"
+    },
+    {
+        "input": "*(fifty-seven@one)",
+        "output": "iliwb-hljkw"
+    },
+    {
+        "input": "*(nine@thirty-six)",
+        "output": "iruwb-ilyh"
+    },
+    {
+        "input": "*(eleven@twenty-nine)",
+        "output": "iruwb"
+    },
+    {
+        "input": "*(forty@fifty-four)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(zero@twenty-eight)",
+        "output": "wzhqwb-hljkw"
+    },
+    {
+        "input": "*(zero@ninety)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(twenty-one@seven)",
+        "output": "wzhqwb-hljkw"
+    },
+    {
+        "input": "*(fifty-two@thirty)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(sixty-five@thirty)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(one@seventy-four)",
+        "output": "vhyhqwb-ilyh"
+    },
+    {
+        "input": "*(three@seventy-one)",
+        "output": "vhyhqwb-irxu"
+    },
+    {
+        "input": "*(forty-five@forty)",
+        "output": "hljkwb-ilyh"
+    },
+    {
+        "input": "*(twenty-three@sixty-eight)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(twenty-four@forty-two)",
+        "output": "vlawb-vla"
+    },
+    {
+        "input": "*(eighty@nineteen)",
+        "output": "qlqhwb-qlqh"
+    },
+    {
+        "input": "*(nineteen@forty-eight)",
+        "output": "vlawb-vhyhq"
+    },
+    {
+        "input": "*(five@nine)",
+        "output": "irxuwhhq"
+    },
+    {
+        "input": "*(seventy-one@eleven)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(thirty-three@forty-four)",
+        "output": "vhyhqwb-vhyhq"
+    },
+    {
+        "input": "*(forty@five)",
+        "output": "iruwb-ilyh"
+    },
+    {
+        "input": "*(forty-seven@forty-two)",
+        "output": "hljkwb-qlqh"
+    },
+    {
+        "input": "*(eleven@eighty-three)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(thirty-nine@twenty-nine)",
+        "output": "vlawb-hljkw"
+    },
+    {
+        "input": "*(forty-three@nineteen)",
+        "output": "vlawb-wzr"
+    },
+    {
+        "input": "*(zero@ninety-eight)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(one@fifty-two)",
+        "output": "iliwb-wkuhh"
+    },
+    {
+        "input": "*(eighty-three@three)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(sixty-four@twenty-nine)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(seventy-four@thirteen)",
+        "output": "hljkwb-vhyhq"
+    },
+    {
+        "input": "*(nineteen@twenty-three)",
+        "output": "iruwb-wzr"
+    },
+    {
+        "input": "*(thirty-two@four)",
+        "output": "wkluwb-vla"
+    },
+    {
+        "input": "*(fifty-seven@thirty-four)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(twenty-two@sixty-one)",
+        "output": "hljkwb-wkuhh"
+    },
+    {
+        "input": "*(seventy-four@one)",
+        "output": "vhyhqwb-ilyh"
+    },
+    {
+        "input": "*(forty-seven@nine)",
+        "output": "iliwb-vla"
+    },
+    {
+        "input": "*(seventy-five@seventeen)",
+        "output": "qlqhwb-wzr"
+    },
+    {
+        "input": "*(fifty-seven@seventeen)",
+        "output": "vhyhqwb-irxu"
+    },
+    {
+        "input": "*(twenty-seven@twenty-one)",
+        "output": "iruwb-hljkw"
+    },
+    {
+        "input": "*(fifty-five@twenty-seven)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(thirty-two@twelve)",
+        "output": "iruwb-irxu"
+    },
+    {
+        "input": "*(nine@eighty-four)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(twenty-seven@sixty-three)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(thirty-two@eighteen)",
+        "output": "iliwb"
+    },
+    {
+        "input": "*(sixty-six@thirty-two)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(eighteen@thirty-eight)",
+        "output": "iliwb-vla"
+    },
+    {
+        "input": "*(seventy-one@nine)",
+        "output": "hljkwb"
+    },
+    {
+        "input": "*(twenty-two@thirty-two)",
+        "output": "iliwb-irxu"
+    },
+    {
+        "input": "*(twelve@fifty-three)",
+        "output": "vlawb-ilyh"
+    },
+    {
+        "input": "*(sixteen@three)",
+        "output": "qlqhwhhq"
+    },
+    {
+        "input": "*(fifty@twenty-six)",
+        "output": "vhyhqwb-vla"
+    },
+    {
+        "input": "*(twelve@thirteen)",
+        "output": "wzhqwb-ilyh"
+    },
+    {
+        "input": "*(eighteen@twenty-three)",
+        "output": "iruwb-rqh"
+    },
+    {
+        "input": "*(thirty-eight@twenty-four)",
+        "output": "vlawb-wzr"
+    },
+    {
+        "input": "*(eighty-seven@three)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(sixteen@seventy-seven)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(fifty-three@thirty-two)",
+        "output": "hljkwb-ilyh"
+    },
+    {
+        "input": "*(sixty-eight@seven)",
+        "output": "vhyhqwb-ilyh"
+    },
+    {
+        "input": "*(sixteen@thirty-one)",
+        "output": "iruwb-vhyhq"
+    },
+    {
+        "input": "*(seventy-two@five)",
+        "output": "vhyhqwb-vhyhq"
+    },
+    {
+        "input": "*(forty-two@fifty-six)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(twenty-eight@forty-seven)",
+        "output": "vhyhqwb-ilyh"
+    },
+    {
+        "input": "*(forty-five@fifty-four)",
+        "output": "qlqhwb-qlqh"
+    },
+    {
+        "input": "*(three@fifty-three)",
+        "output": "iliwb-vla"
+    },
+    {
+        "input": "*(twenty-four@twenty-seven)",
+        "output": "iliwb-rqh"
+    },
+    {
+        "input": "*(one@ninety-four)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(fifty@twenty)",
+        "output": "vhyhqwb"
+    },
+    {
+        "input": "*(twenty-one@five)",
+        "output": "wzhqwb-vla"
+    },
+    {
+        "input": "*(fifty-eight@ten)",
+        "output": "vlawb-hljkw"
+    },
+    {
+        "input": "*(sixty-four@twenty-four)",
+        "output": "hljkwb-hljkw"
+    },
+    {
+        "input": "*(forty-one@fifty-one)",
+        "output": "qlqhwb-wzr"
+    },
+    {
+        "input": "*(seventy-nine@fourteen)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(forty-three@ten)",
+        "output": "iliwb-wkuhh"
+    },
+    {
+        "input": "*(sixty-four@ten)",
+        "output": "vhyhqwb-irxu"
+    },
+    {
+        "input": "*(twelve@fifty-seven)",
+        "output": "vlawb-qlqh"
+    },
+    {
+        "input": "*(fifty-four@twenty-nine)",
+        "output": "hljkwb-wkuhh"
+    },
+    {
+        "input": "*(twenty-three@seventeen)",
+        "output": "iruwb"
+    },
+    {
+        "input": "*(forty-nine@four)",
+        "output": "iliwb-wkuhh"
+    },
+    {
+        "input": "*(one@fifty-one)",
+        "output": "iliwb-wzr"
+    },
+    {
+        "input": "*(thirteen@twenty-nine)",
+        "output": "iruwb-wzr"
+    },
+    {
+        "input": "*(sixty-one@nineteen)",
+        "output": "hljkwb"
+    },
+    {
+        "input": "*(seventy@eight)",
+        "output": "vhyhqwb-hljkw"
+    },
+    {
+        "input": "*(three@sixty-five)",
+        "output": "vlawb-hljkw"
+    },
+    {
+        "input": "*(fifty-two@sixteen)",
+        "output": "vlawb-hljkw"
+    },
+    {
+        "input": "*(twelve@twenty-nine)",
+        "output": "iruwb-rqh"
+    },
+    {
+        "input": "*(thirty-two@twenty-two)",
+        "output": "iliwb-irxu"
+    },
+    {
+        "input": "*(eleven@seventy-two)",
+        "output": "hljkwb-wkuhh"
+    },
+    {
+        "input": "*(seventeen@sixty-one)",
+        "output": "vhyhqwb-hljkw"
+    },
+    {
+        "input": "*(seventy-four@twenty-five)",
+        "output": "qlqhwb-qlqh"
+    },
+    {
+        "input": "*(one@eighty-five)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(fifty-eight@twenty-seven)",
+        "output": "hljkwb-ilyh"
+    },
+    {
+        "input": "*(forty-eight@fifty)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(four@eighty-eight)",
+        "output": "qlqhwb-wzr"
+    },
+    {
+        "input": "*(five@ninety-three)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(zero@forty-nine)",
+        "output": "iruwb-qlqh"
+    },
+    {
+        "input": "*(forty-seven@forty-three)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(thirty-five@four)",
+        "output": "wkluwb-qlqh"
+    },
+    {
+        "input": "*(eight@sixty)",
+        "output": "vlawb-hljkw"
+    },
+    {
+        "input": "*(forty@four)",
+        "output": "iruwb-irxu"
+    },
+    {
+        "input": "*(forty-three@twenty-three)",
+        "output": "vlawb-vla"
+    },
+    {
+        "input": "*(one@thirty-eight)",
+        "output": "wkluwb-qlqh"
+    },
+    {
+        "input": "*(twenty-one@forty-nine)",
+        "output": "vhyhqwb"
+    },
+    {
+        "input": "*(thirty-five@sixty-three)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(seven@twenty-eight)",
+        "output": "wkluwb-ilyh"
+    },
+    {
+        "input": "*(eight@forty-two)",
+        "output": "iliwb"
+    },
+    {
+        "input": "*(ten@nine)",
+        "output": "qlqhwhhq"
+    },
+    {
+        "input": "*(eighty-five@eight)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(seven@forty-eight)",
+        "output": "iliwb-ilyh"
+    },
+    {
+        "input": "*(forty-eight@twenty)",
+        "output": "vlawb-hljkw"
+    },
+    {
+        "input": "*(five@thirteen)",
+        "output": "hljkwhhq"
+    },
+    {
+        "input": "*(forty-nine@forty-eight)",
+        "output": "qlqhwb-vhyhq"
+    },
+    {
+        "input": "*(six@thirty-one)",
+        "output": "wkluwb-vhyhq"
+    },
+    {
+        "input": "*(sixty-seven@thirty-one)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(seventy-four@ten)",
+        "output": "hljkwb-irxu"
+    },
+    {
+        "input": "*(one@sixty-two)",
+        "output": "vlawb-wkuhh"
+    },
+    {
+        "input": "*(eighteen@sixty-eight)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(forty-seven@thirty-five)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(forty-eight@seven)",
+        "output": "iliwb-ilyh"
+    },
+    {
+        "input": "*(thirteen@seventy-eight)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(twenty-five@sixty-six)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(sixty-three@four)",
+        "output": "vlawb-vhyhq"
+    },
+    {
+        "input": "*(seventy-five@one)",
+        "output": "vhyhqwb-vla"
+    },
+    {
+        "input": "*(forty-eight@forty-two)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(twenty-eight@two)",
+        "output": "wkluwb"
+    },
+    {
+        "input": "*(fifty-five@fifteen)",
+        "output": "vhyhqwb"
+    },
+    {
+        "input": "*(fifty-four@one)",
+        "output": "iliwb-ilyh"
+    },
+    {
+        "input": "*(thirty@fifty-three)",
+        "output": "hljkwb-wkuhh"
+    },
+    {
+        "input": "*(fourteen@seventy-three)",
+        "output": "hljkwb-vhyhq"
+    },
+    {
+        "input": "*(six@ninety-three)",
+        "output": "qlqhwb-qlqh"
+    },
+    {
+        "input": "*(ninety-two@one)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(seven@thirty-six)",
+        "output": "iruwb-wkuhh"
+    },
+    {
+        "input": "*(twenty-one@thirty-two)",
+        "output": "iliwb-wkuhh"
+    },
+    {
+        "input": "*(seventy-two@fifteen)",
+        "output": "hljkwb-vhyhq"
+    },
+    {
+        "input": "*(twelve@sixty-three)",
+        "output": "vhyhqwb-ilyh"
+    },
+    {
+        "input": "*(fifteen@sixty-one)",
+        "output": "vhyhqwb-vla"
+    },
+    {
+        "input": "*(sixty-eight@ten)",
+        "output": "vhyhqwb-hljkw"
+    },
+    {
+        "input": "*(fifty@six)",
+        "output": "iliwb-vla"
+    },
+    {
+        "input": "*(thirty-two@forty-three)",
+        "output": "vhyhqwb-ilyh"
+    },
+    {
+        "input": "*(seventy-nine@one)",
+        "output": "hljkwb"
+    },
+    {
+        "input": "*(nineteen@thirty-seven)",
+        "output": "iliwb-vla"
+    },
+    {
+        "input": "*(thirty-five@thirty-three)",
+        "output": "vlawb-hljkw"
+    },
+    {
+        "input": "*(thirty-one@twenty-nine)",
+        "output": "vlawb"
+    },
+    {
+        "input": "*(thirty-three@fourteen)",
+        "output": "iruwb-vhyhq"
+    },
+    {
+        "input": "*(seventeen@twenty-nine)",
+        "output": "iruwb-vla"
+    },
+    {
+        "input": "*(three@three)",
+        "output": "vla"
+    },
+    {
+        "input": "*(ten@thirty-eight)",
+        "output": "iruwb-hljkw"
+    },
+    {
+        "input": "*(eighty@five)",
+        "output": "hljkwb-ilyh"
+    },
+    {
+        "input": "*(one@sixty-six)",
+        "output": "vlawb-vhyhq"
+    },
+    {
+        "input": "*(forty-seven@forty-one)",
+        "output": "hljkwb-hljkw"
+    },
+    {
+        "input": "*(thirty-two@sixty-two)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(forty-one@thirty-five)",
+        "output": "vhyhqwb-vla"
+    },
+    {
+        "input": "*(thirty-three@thirty-four)",
+        "output": "vlawb-vhyhq"
+    },
+    {
+        "input": "*(twenty-one@seventy-six)",
+        "output": "qlqhwb-vhyhq"
+    },
+    {
+        "input": "*(thirty-five@two)",
+        "output": "wkluwb-vhyhq"
+    },
+    {
+        "input": "*(fifteen@eighty-one)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(seventy-one@twenty-seven)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(forty-seven@thirty-one)",
+        "output": "vhyhqwb-hljkw"
+    },
+    {
+        "input": "*(thirty-three@forty-one)",
+        "output": "vhyhqwb-irxu"
+    },
+    {
+        "input": "*(sixteen@seventy)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(twenty-six@thirty-nine)",
+        "output": "vlawb-ilyh"
+    },
+    {
+        "input": "*(thirty-four@twenty-eight)",
+        "output": "vlawb-wzr"
+    },
+    {
+        "input": "*(forty-nine@six)",
+        "output": "iliwb-ilyh"
+    },
+    {
+        "input": "*(forty-five@thirty-nine)",
+        "output": "hljkwb-irxu"
+    },
+    {
+        "input": "*(six@fifty-five)",
+        "output": "vlawb-rqh"
+    },
+    {
+        "input": "*(twenty-eight@fifty-six)",
+        "output": "hljkwb-irxu"
+    },
+    {
+        "input": "*(eighty-eight@three)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(thirty-eight@eighteen)",
+        "output": "iliwb-vla"
+    },
+    {
+        "input": "*(thirty-one@fifteen)",
+        "output": "iruwb-vla"
+    },
+    {
+        "input": "*(sixty-seven@four)",
+        "output": "vhyhqwb-rqh"
+    },
+    {
+        "input": "*(forty-five@nineteen)",
+        "output": "vlawb-irxu"
+    },
+    {
+        "input": "*(ninety-five@one)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(eleven@sixty-seven)",
+        "output": "vhyhqwb-hljkw"
+    },
+    {
+        "input": "*(five@six)",
+        "output": "hohyhq"
+    },
+    {
+        "input": "*(sixty-eight@twenty-two)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(thirty@sixty-seven)",
+        "output": "qlqhwb-vhyhq"
+    },
+    {
+        "input": "*(eight@nine)",
+        "output": "vhyhqwhhq"
+    },
+    {
+        "input": "*(thirty-seven@sixteen)",
+        "output": "iliwb-wkuhh"
+    },
+    {
+        "input": "*(eighty@seven)",
+        "output": "hljkwb-vhyhq"
+    },
+    {
+        "input": "*(thirty-two@fifty-nine)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(two@twenty)",
+        "output": "wzhqwb-wzr"
+    },
+    {
+        "input": "*(twenty-two@fifty-three)",
+        "output": "vhyhqwb-ilyh"
+    },
+    {
+        "input": "*(twenty-one@thirty-seven)",
+        "output": "iliwb-hljkw"
+    },
+    {
+        "input": "*(sixteen@fifty-nine)",
+        "output": "vhyhqwb-ilyh"
+    },
+    {
+        "input": "*(ninety@one)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(fifty-seven@eight)",
+        "output": "vlawb-ilyh"
+    },
+    {
+        "input": "*(thirty@eight)",
+        "output": "wkluwb-hljkw"
+    },
+    {
+        "input": "*(twenty-seven@thirty-four)",
+        "output": "vlawb-rqh"
+    },
+    {
+        "input": "*(seventy-four@fifteen)",
+        "output": "hljkwb-qlqh"
+    },
+    {
+        "input": "*(thirty-four@twenty-five)",
+        "output": "iliwb-qlqh"
+    },
+    {
+        "input": "*(seven@eighty)",
+        "output": "hljkwb-vhyhq"
+    },
+    {
+        "input": "*(twenty-eight@thirty-three)",
+        "output": "vlawb-rqh"
+    },
+    {
+        "input": "*(four@sixty-seven)",
+        "output": "vhyhqwb-rqh"
+    },
+    {
+        "input": "*(fifty-one@forty-three)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(forty-two@eleven)",
+        "output": "iliwb-wkuhh"
+    },
+    {
+        "input": "*(fifty-five@five)",
+        "output": "vlawb"
+    },
+    {
+        "input": "*(thirty-five@sixteen)",
+        "output": "iliwb-rqh"
+    },
+    {
+        "input": "*(twenty-nine@twenty-three)",
+        "output": "iliwb-wzr"
+    },
+    {
+        "input": "*(eighty-four@six)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(forty-six@one)",
+        "output": "iruwb-vhyhq"
+    },
+    {
+        "input": "*(zero@sixty-two)",
+        "output": "vlawb-wzr"
+    },
+    {
+        "input": "*(sixty-seven@one)",
+        "output": "vlawb-hljkw"
+    },
+    {
+        "input": "*(sixty-seven@twenty-one)",
+        "output": "hljkwb-hljkw"
+    },
+    {
+        "input": "*(fifty@thirty-nine)",
+        "output": "hljkwb-qlqh"
+    },
+    {
+        "input": "*(fifty-four@thirty-two)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(eleven@sixty-eight)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(five@sixty-six)",
+        "output": "vhyhqwb-rqh"
+    },
+    {
+        "input": "*(seventy-seven@nineteen)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(sixty-nine@thirteen)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(fifty-four@thirty)",
+        "output": "hljkwb-irxu"
+    },
+    {
+        "input": "*(fifty-five@six)",
+        "output": "vlawb-rqh"
+    },
+    {
+        "input": "*(forty-two@thirty-seven)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(two@sixty-four)",
+        "output": "vlawb-vla"
+    },
+    {
+        "input": "*(zero@nine)",
+        "output": "qlqh"
+    },
+    {
+        "input": "*(seventy@fifteen)",
+        "output": "hljkwb-ilyh"
+    },
+    {
+        "input": "*(eighty-five@nine)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(eighty@thirteen)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(seventy-two@sixteen)",
+        "output": "hljkwb-hljkw"
+    },
+    {
+        "input": "*(twenty@ten)",
+        "output": "wkluwb"
+    },
+    {
+        "input": "*(seven@eighty-three)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(thirty-eight@twenty-five)",
+        "output": "vlawb-wkuhh"
+    },
+    {
+        "input": "*(forty-seven@twenty-five)",
+        "output": "vhyhqwb-wzr"
+    },
+    {
+        "input": "*(thirteen@eighty)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(eighteen@seventy-five)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(thirty-three@fifty-seven)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(thirty-four@forty-nine)",
+        "output": "hljkwb-wkuhh"
+    },
+    {
+        "input": "*(twenty-four@seventy-five)",
+        "output": "qlqhwb-qlqh"
+    },
+    {
+        "input": "*(forty-nine@twenty-six)",
+        "output": "vhyhqwb-ilyh"
+    },
+    {
+        "input": "*(forty-eight@thirty-six)",
+        "output": "hljkwb-irxu"
+    },
+    {
+        "input": "*(fifty-nine@fifteen)",
+        "output": "vhyhqwb-irxu"
+    },
+    {
+        "input": "*(eighty-two@thirteen)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(twenty-one@one)",
+        "output": "wzhqwb-wzr"
+    },
+    {
+        "input": "*(six@seventy-seven)",
+        "output": "hljkwb-wkuhh"
+    },
+    {
+        "input": "*(fifty-five@forty-one)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(fifty-four@twenty-seven)",
+        "output": "hljkwb-rqh"
+    },
+    {
+        "input": "*(nineteen@eighty)",
+        "output": "qlqhwb-qlqh"
+    },
+    {
+        "input": "*(eighty-two@ten)",
+        "output": "qlqhwb-wzr"
+    },
+    {
+        "input": "*(eighteen@three)",
+        "output": "wzhqwb-rqh"
+    },
+    {
+        "input": "*(fifteen@forty-one)",
+        "output": "iliwb-vla"
+    },
+    {
+        "input": "*(thirty-six@twenty-eight)",
+        "output": "vlawb-irxu"
+    },
+    {
+        "input": "*(thirty-one@forty-eight)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(thirty-four@forty-two)",
+        "output": "vhyhqwb-vla"
+    },
+    {
+        "input": "*(fifty-two@thirty-three)",
+        "output": "hljkwb-ilyh"
+    },
+    {
+        "input": "*(eleven@fifty-one)",
+        "output": "vlawb-wzr"
+    },
+    {
+        "input": "*(eighty-six@thirteen)",
+        "output": "qlqhwb-qlqh"
+    },
+    {
+        "input": "*(four@eighty-seven)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(nineteen@sixty-nine)",
+        "output": "hljkwb-hljkw"
+    },
+    {
+        "input": "*(forty-six@twenty-one)",
+        "output": "vlawb-vhyhq"
+    },
+    {
+        "input": "*(forty-four@fifteen)",
+        "output": "iliwb-qlqh"
+    },
+    {
+        "input": "*(twenty-six@twenty-two)",
+        "output": "iruwb-hljkw"
+    },
+    {
+        "input": "*(eleven@sixty-five)",
+        "output": "vhyhqwb-vla"
+    },
+    {
+        "input": "*(seven@fifty-four)",
+        "output": "vlawb-rqh"
+    },
+    {
+        "input": "*(seven@thirty-seven)",
+        "output": "iruwb-irxu"
+    },
+    {
+        "input": "*(twenty-four@forty-one)",
+        "output": "vlawb-ilyh"
+    },
+    {
+        "input": "*(forty-nine@twenty-three)",
+        "output": "vhyhqwb-wzr"
+    },
+    {
+        "input": "*(twenty-eight@forty-five)",
+        "output": "vhyhqwb-wkuhh"
+    },
+    {
+        "input": "*(three@eighteen)",
+        "output": "wzhqwb-rqh"
+    },
+    {
+        "input": "*(sixty@thirty-four)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(thirty-three@thirteen)",
+        "output": "iruwb-vla"
+    },
+    {
+        "input": "*(thirty-four@fifty-three)",
+        "output": "hljkwb-vhyhq"
+    },
+    {
+        "input": "*(fifty-six@twelve)",
+        "output": "vlawb-hljkw"
+    },
+    {
+        "input": "*(two@forty-four)",
+        "output": "iruwb-vla"
+    },
+    {
+        "input": "*(three@forty-one)",
+        "output": "iruwb-irxu"
+    },
+    {
+        "input": "*(twelve@seventy-five)",
+        "output": "hljkwb-vhyhq"
+    },
+    {
+        "input": "*(nine@eighty-one)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(thirty-eight@two)",
+        "output": "iruwb"
+    },
+    {
+        "input": "*(fifty-six@ten)",
+        "output": "vlawb-vla"
+    },
+    {
+        "input": "*(seventy-three@twenty-one)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(nineteen@forty-four)",
+        "output": "vlawb-wkuhh"
+    },
+    {
+        "input": "*(five@three)",
+        "output": "hljkw"
+    },
+    {
+        "input": "*(fifty-six@eighteen)",
+        "output": "vhyhqwb-irxu"
+    },
+    {
+        "input": "*(zero@sixty-three)",
+        "output": "vlawb-wkuhh"
+    },
+    {
+        "input": "*(twenty-two@eleven)",
+        "output": "wkluwb-wkuhh"
+    },
+    {
+        "input": "*(forty-nine@one)",
+        "output": "iliwb"
+    },
+    {
+        "input": "*(four@twenty-four)",
+        "output": "wzhqwb-hljkw"
+    },
+    {
+        "input": "*(thirty@fifty)",
+        "output": "hljkwb"
+    },
+    {
+        "input": "*(seventy-two@three)",
+        "output": "vhyhqwb-ilyh"
+    },
+    {
+        "input": "*(seventeen@thirty)",
+        "output": "iruwb-vhyhq"
+    },
+    {
+        "input": "*(thirty-four@thirteen)",
+        "output": "iruwb-vhyhq"
+    },
+    {
+        "input": "*(forty-five@thirty-five)",
+        "output": "hljkwb"
+    },
+    {
+        "input": "*(fourteen@twenty)",
+        "output": "wkluwb-irxu"
+    },
+    {
+        "input": "*(fifty-one@two)",
+        "output": "iliwb-wkuhh"
+    },
+    {
+        "input": "*(thirty-nine@fifty-nine)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(thirty-two@five)",
+        "output": "wkluwb-vhyhq"
+    },
+    {
+        "input": "*(eight@forty-six)",
+        "output": "iliwb-irxu"
+    },
+    {
+        "input": "*(seventeen@seventy)",
+        "output": "hljkwb-vhyhq"
+    },
+    {
+        "input": "*(forty-six@twenty-seven)",
+        "output": "vhyhqwb-wkuhh"
+    },
+    {
+        "input": "*(fifty-seven@twenty-one)",
+        "output": "vhyhqwb-hljkw"
+    },
+    {
+        "input": "*(thirteen@seventy-five)",
+        "output": "hljkwb-hljkw"
+    },
+    {
+        "input": "*(thirty-seven@forty-three)",
+        "output": "hljkwb"
+    },
+    {
+        "input": "*(forty-four@eight)",
+        "output": "iliwb-wzr"
+    },
+    {
+        "input": "*(sixty-six@eight)",
+        "output": "vhyhqwb-irxu"
+    },
+    {
+        "input": "*(forty-seven@eight)",
+        "output": "iliwb-ilyh"
+    },
+    {
+        "input": "*(seventy-nine@twelve)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(twenty-six@forty-one)",
+        "output": "vlawb-vhyhq"
+    },
+    {
+        "input": "*(twelve@two)",
+        "output": "irxuwhhq"
+    },
+    {
+        "input": "*(thirty-one@twenty-one)",
+        "output": "iliwb-wzr"
+    },
+    {
+        "input": "*(forty-seven@forty-four)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(ninety-one@three)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(seventy-one@nineteen)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(fifty-three@forty-one)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(seventy-seven@eighteen)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(thirty-eight@fifteen)",
+        "output": "iliwb-wkuhh"
+    },
+    {
+        "input": "*(eighty-four@eight)",
+        "output": "qlqhwb-wzr"
+    },
+    {
+        "input": "*(one@ninety-two)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(forty-four@fifty)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(sixty-two@eight)",
+        "output": "vhyhqwb"
+    },
+    {
+        "input": "*(ninety-two@three)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(six@eighty-eight)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(thirty-seven@thirty-six)",
+        "output": "vhyhqwb-wkuhh"
+    },
+    {
+        "input": "*(nineteen@thirty-eight)",
+        "output": "iliwb-vhyhq"
+    },
+    {
+        "input": "*(five@ten)",
+        "output": "iliwhhq"
+    },
+    {
+        "input": "*(fifty-eight@twenty-nine)",
+        "output": "hljkwb-vhyhq"
+    },
+    {
+        "input": "*(ten@eighteen)",
+        "output": "wzhqwb-hljkw"
+    },
+    {
+        "input": "*(forty-three@forty-three)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(sixty-four@thirteen)",
+        "output": "vhyhqwb-vhyhq"
+    },
+    {
+        "input": "*(seven@eleven)",
+        "output": "hljkwhhq"
+    },
+    {
+        "input": "*(zero@forty-five)",
+        "output": "iruwb-ilyh"
+    },
+    {
+        "input": "*(forty-four@twenty-four)",
+        "output": "vlawb-hljkw"
+    },
+    {
+        "input": "*(seven@fifty)",
+        "output": "iliwb-vhyhq"
+    },
+    {
+        "input": "*(twenty-nine@forty-four)",
+        "output": "vhyhqwb-wkuhh"
+    },
+    {
+        "input": "*(fourteen@sixty-one)",
+        "output": "vhyhqwb-ilyh"
+    },
+    {
+        "input": "*(forty-five@thirty-one)",
+        "output": "vhyhqwb-vla"
+    },
+    {
+        "input": "*(forty-nine@seventeen)",
+        "output": "vlawb-vla"
+    },
+    {
+        "input": "*(seven@seventy-two)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(eighteen@forty)",
+        "output": "iliwb-hljkw"
+    },
+    {
+        "input": "*(three@twenty-two)",
+        "output": "wzhqwb-ilyh"
+    },
+    {
+        "input": "*(eighty-two@six)",
+        "output": "hljkwb-hljkw"
+    },
+    {
+        "input": "*(seven@ten)",
+        "output": "vhyhqwhhq"
+    },
+    {
+        "input": "*(forty-four@fifty-one)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(fourteen@eighty-two)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(twenty-five@one)",
+        "output": "wzhqwb-vla"
+    },
+    {
+        "input": "*(twenty-one@nineteen)",
+        "output": "iruwb"
+    },
+    {
+        "input": "*(thirty-nine@twenty-one)",
+        "output": "vlawb"
+    },
+    {
+        "input": "*(ten@seventy-six)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(ten@nineteen)",
+        "output": "wzhqwb-qlqh"
+    },
+    {
+        "input": "*(five@forty-five)",
+        "output": "iliwb"
+    },
+    {
+        "input": "*(zero@ninety-four)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(fifty-two@eight)",
+        "output": "vlawb"
+    },
+    {
+        "input": "*(thirty-eight@seven)",
+        "output": "iruwb-ilyh"
+    },
+    {
+        "input": "*(thirty@forty-three)",
+        "output": "vhyhqwb-wkuhh"
+    },
+    {
+        "input": "*(ninety-two@five)",
+        "output": "qlqhwb-vhyhq"
+    },
+    {
+        "input": "*(nineteen@eighteen)",
+        "output": "wkluwb-vhyhq"
+    },
+    {
+        "input": "*(thirty-nine@eight)",
+        "output": "iruwb-vhyhq"
+    },
+    {
+        "input": "*(fifty-seven@six)",
+        "output": "vlawb-wkuhh"
+    },
+    {
+        "input": "*(fifty-five@twenty-two)",
+        "output": "vhyhqwb-vhyhq"
+    },
+    {
+        "input": "*(sixteen@fifty-seven)",
+        "output": "vhyhqwb-wkuhh"
+    },
+    {
+        "input": "*(sixty-four@twenty-eight)",
+        "output": "qlqhwb-wzr"
+    },
+    {
+        "input": "*(thirty-one@eleven)",
+        "output": "iruwb-wzr"
+    },
+    {
+        "input": "*(thirty-nine@fifteen)",
+        "output": "iliwb-irxu"
+    },
+    {
+        "input": "*(eighty-three@ten)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(forty-nine@forty-four)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(sixty@twenty-eight)",
+        "output": "hljkwb-hljkw"
+    },
+    {
+        "input": "*(four@fifty-three)",
+        "output": "iliwb-vhyhq"
+    },
+    {
+        "input": "*(thirty-four@twenty)",
+        "output": "iliwb-irxu"
+    },
+    {
+        "input": "*(forty-five@fifty-three)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(fifty-four@seven)",
+        "output": "vlawb-rqh"
+    },
+    {
+        "input": "*(forty@eight)",
+        "output": "iruwb-hljkw"
+    },
+    {
+        "input": "*(forty-two@fourteen)",
+        "output": "iliwb-vla"
+    },
+    {
+        "input": "*(nineteen@eleven)",
+        "output": "wkluwb"
+    },
+    {
+        "input": "*(five@sixty-nine)",
+        "output": "vhyhqwb-irxu"
+    },
+    {
+        "input": "*(seventy-two@twenty-one)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(four@seventy-six)",
+        "output": "hljkwb"
+    },
+    {
+        "input": "*(sixty-nine@twenty)",
+        "output": "hljkwb-qlqh"
+    },
+    {
+        "input": "*(forty-nine@two)",
+        "output": "iliwb-rqh"
+    },
+    {
+        "input": "*(twenty-nine@thirty-eight)",
+        "output": "vlawb-vhyhq"
+    },
+    {
+        "input": "*(twenty-three@sixty-seven)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(forty-five@two)",
+        "output": "iruwb-vhyhq"
+    },
+    {
+        "input": "*(eighteen@seventy)",
+        "output": "hljkwb-hljkw"
+    },
+    {
+        "input": "*(fifty-nine@thirty-one)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(eighty-one@four)",
+        "output": "hljkwb-ilyh"
+    },
+    {
+        "input": "*(fifty@forty-five)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(three@forty-seven)",
+        "output": "iliwb"
+    },
+    {
+        "input": "*(sixty-nine@twenty-six)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(nineteen@sixty-seven)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(forty-eight@fifteen)",
+        "output": "vlawb-wkuhh"
+    },
+    {
+        "input": "*(twenty-seven@thirty-eight)",
+        "output": "vlawb-ilyh"
+    },
+    {
+        "input": "*(six@fifty-nine)",
+        "output": "vlawb-ilyh"
+    },
+    {
+        "input": "*(twenty-three@forty-two)",
+        "output": "vlawb-ilyh"
+    },
+    {
+        "input": "*(thirteen@thirty-five)",
+        "output": "iruwb-hljkw"
+    },
+    {
+        "input": "*(fifty-seven@thirty-eight)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(twenty-four@fifty-seven)",
+        "output": "hljkwb-rqh"
+    },
+    {
+        "input": "*(sixty@thirty-seven)",
+        "output": "qlqhwb-vhyhq"
+    },
+    {
+        "input": "*(twenty-two@sixty-three)",
+        "output": "hljkwb-ilyh"
+    },
+    {
+        "input": "*(eleven@thirteen)",
+        "output": "wzhqwb-irxu"
+    },
+    {
+        "input": "*(five@seventy-seven)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(fifteen@twelve)",
+        "output": "wzhqwb-vhyhq"
+    },
+    {
+        "input": "*(nineteen@thirteen)",
+        "output": "wkluwb-wzr"
+    },
+    {
+        "input": "*(thirty-eight@sixty)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(fifty@thirteen)",
+        "output": "vlawb-wkuhh"
+    },
+    {
+        "input": "*(eleven@seven)",
+        "output": "hljkwhhq"
+    },
+    {
+        "input": "*(ninety-one@five)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(twenty-three@thirty-nine)",
+        "output": "vlawb-wzr"
+    },
+    {
+        "input": "*(fifty-five@thirty-two)",
+        "output": "hljkwb-vhyhq"
+    },
+    {
+        "input": "*(thirty-three@fifty-eight)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(eleven@twenty-one)",
+        "output": "wkluwb-wzr"
+    },
+    {
+        "input": "*(twenty-two@thirty-five)",
+        "output": "iliwb-vhyhq"
+    },
+    {
+        "input": "*(thirty-five@twenty-six)",
+        "output": "vlawb-rqh"
+    },
+    {
+        "input": "*(four@three)",
+        "output": "vhyhq"
+    },
+    {
+        "input": "*(nine@sixty-seven)",
+        "output": "vhyhqwb-vla"
+    },
+    {
+        "input": "*(fifty-eight@eleven)",
+        "output": "vlawb-qlqh"
+    },
+    {
+        "input": "*(fourteen@six)",
+        "output": "wzhqwb"
+    },
+    {
+        "input": "*(one@sixty)",
+        "output": "vlawb-rqh"
+    },
+    {
+        "input": "*(thirty-two@thirty-five)",
+        "output": "vlawb-vhyhq"
+    },
+    {
+        "input": "*(sixty-six@fifteen)",
+        "output": "hljkwb-rqh"
+    },
+    {
+        "input": "*(forty@eleven)",
+        "output": "iliwb-rqh"
+    },
+    {
+        "input": "*(ten@forty-three)",
+        "output": "iliwb-wkuhh"
+    },
+    {
+        "input": "*(forty-eight@nine)",
+        "output": "iliwb-vhyhq"
+    },
+    {
+        "input": "*(thirty-four@fifty-nine)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(three@eighty-three)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(ten@sixty-nine)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(three@one)",
+        "output": "irxu"
+    },
+    {
+        "input": "*(forty-five@five)",
+        "output": "iliwb"
+    },
+    {
+        "input": "*(fifty-eight@three)",
+        "output": "vlawb-rqh"
+    },
+    {
+        "input": "*(sixty-one@four)",
+        "output": "vlawb-ilyh"
+    },
+    {
+        "input": "*(thirty-five@fifty-two)",
+        "output": "hljkwb-vhyhq"
+    },
+    {
+        "input": "*(thirty-eight@fifty-three)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(sixty-six@ten)",
+        "output": "vhyhqwb-vla"
+    },
+    {
+        "input": "*(twenty-eight@seven)",
+        "output": "wkluwb-ilyh"
+    },
+    {
+        "input": "*(ten@seventy-nine)",
+        "output": "hljkwb-qlqh"
+    },
+    {
+        "input": "*(twenty-four@nine)",
+        "output": "wkluwb-wkuhh"
+    },
+    {
+        "input": "*(sixteen@ten)",
+        "output": "wzhqwb-vla"
+    },
+    {
+        "input": "*(fifty-seven@forty-two)",
+        "output": "qlqhwb-qlqh"
+    },
+    {
+        "input": "*(twelve@thirty-eight)",
+        "output": "iliwb"
+    },
+    {
+        "input": "*(zero@fifty-eight)",
+        "output": "iliwb-hljkw"
+    },
+    {
+        "input": "*(twelve@fifteen)",
+        "output": "wzhqwb-vhyhq"
+    },
+    {
+        "input": "*(sixty-nine@ten)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(thirty-eight@forty-five)",
+        "output": "hljkwb-wkuhh"
+    },
+    {
+        "input": "*(three@thirty-seven)",
+        "output": "iruwb"
+    },
+    {
+        "input": "*(twelve@eighty-four)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(twelve@forty-eight)",
+        "output": "vlawb"
+    },
+    {
+        "input": "*(twenty@five)",
+        "output": "wzhqwb-ilyh"
+    },
+    {
+        "input": "*(fourteen@forty-six)",
+        "output": "vlawb"
+    },
+    {
+        "input": "*(forty-six@forty)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(forty-seven@twenty-seven)",
+        "output": "vhyhqwb-irxu"
+    },
+    {
+        "input": "*(seventeen@forty-six)",
+        "output": "vlawb-wkuhh"
+    },
+    {
+        "input": "*(thirty-eight@twenty-one)",
+        "output": "iliwb-qlqh"
+    },
+    {
+        "input": "*(forty-nine@thirty-two)",
+        "output": "hljkwb-rqh"
+    },
+    {
+        "input": "*(twenty-six@sixty-eight)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(twenty-nine@fifty-three)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(sixty-five@twenty-two)",
+        "output": "hljkwb-vhyhq"
+    },
+    {
+        "input": "*(twenty-seven@twenty-five)",
+        "output": "iliwb-wzr"
+    },
+    {
+        "input": "*(eighty-one@one)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(twenty-four@fourteen)",
+        "output": "wkluwb-hljkw"
+    },
+    {
+        "input": "*(forty-five@six)",
+        "output": "iliwb-rqh"
+    },
+    {
+        "input": "*(sixty@three)",
+        "output": "vlawb-wkuhh"
+    },
+    {
+        "input": "*(forty-five@forty-nine)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(eighteen@nineteen)",
+        "output": "wkluwb-vhyhq"
+    },
+    {
+        "input": "*(nine@twenty-four)",
+        "output": "wkluwb-wkuhh"
+    },
+    {
+        "input": "*(ninety-one@six)",
+        "output": "qlqhwb-vhyhq"
+    },
+    {
+        "input": "*(seven@six)",
+        "output": "wkluwhhq"
+    },
+    {
+        "input": "*(twenty-nine@forty-seven)",
+        "output": "vhyhqwb-vla"
+    },
+    {
+        "input": "*(six@forty-nine)",
+        "output": "iliwb-ilyh"
+    },
+    {
+        "input": "*(five@fifty-two)",
+        "output": "iliwb-vhyhq"
+    },
+    {
+        "input": "*(seventy-two@twenty-four)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(twenty-one@seventy-three)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(forty-nine@seven)",
+        "output": "iliwb-vla"
+    },
+    {
+        "input": "*(sixteen@seventeen)",
+        "output": "wkluwb-wkuhh"
+    },
+    {
+        "input": "*(twenty-two@seventy-four)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(eleven@nineteen)",
+        "output": "wkluwb"
+    },
+    {
+        "input": "*(seven@twenty)",
+        "output": "wzhqwb-vhyhq"
+    },
+    {
+        "input": "*(fifty-eight@six)",
+        "output": "vlawb-irxu"
+    },
+    {
+        "input": "*(forty-six@fifty)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(twenty-nine@twenty-one)",
+        "output": "iliwb"
+    },
+    {
+        "input": "*(seventy-eight@sixteen)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(thirty@twenty-two)",
+        "output": "iliwb-wzr"
+    },
+    {
+        "input": "*(nine@fifty-one)",
+        "output": "vlawb"
+    },
+    {
+        "input": "*(twenty-eight@twenty-three)",
+        "output": "iliwb-rqh"
+    },
+    {
+        "input": "*(eight@seven)",
+        "output": "iliwhhq"
+    },
+    {
+        "input": "*(seven@seventy-eight)",
+        "output": "hljkwb-ilyh"
+    },
+    {
+        "input": "*(seven@twenty-three)",
+        "output": "wkluwb"
+    },
+    {
+        "input": "*(thirty-seven@twenty-three)",
+        "output": "vlawb"
+    },
+    {
+        "input": "*(two@ninety-six)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(eighteen@forty-five)",
+        "output": "vlawb-wkuhh"
+    },
+    {
+        "input": "*(fifteen@twenty-two)",
+        "output": "wkluwb-vhyhq"
+    },
+    {
+        "input": "*(nine@forty-eight)",
+        "output": "iliwb-vhyhq"
+    },
+    {
+        "input": "*(seventy-six@twenty-one)",
+        "output": "qlqhwb-vhyhq"
+    },
+    {
+        "input": "*(thirty-nine@forty-three)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(fourteen@fifty-eight)",
+        "output": "vhyhqwb-wzr"
+    },
+    {
+        "input": "*(thirty@twenty-five)",
+        "output": "iliwb-ilyh"
+    },
+    {
+        "input": "*(twenty-one@fifty-nine)",
+        "output": "hljkwb"
+    },
+    {
+        "input": "*(forty-two@two)",
+        "output": "iruwb-irxu"
+    },
+    {
+        "input": "*(thirty-six@thirty)",
+        "output": "vlawb-vla"
+    },
+    {
+        "input": "*(six@thirty-nine)",
+        "output": "iruwb-ilyh"
+    },
+    {
+        "input": "*(seven@sixty)",
+        "output": "vlawb-vhyhq"
+    },
+    {
+        "input": "*(fifty-five@thirty-nine)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(fifty@one)",
+        "output": "iliwb-rqh"
+    },
+    {
+        "input": "*(forty-four@twenty-six)",
+        "output": "vhyhqwb"
+    },
+    {
+        "input": "*(twelve@eighty)",
+        "output": "qlqhwb-wzr"
+    },
+    {
+        "input": "*(forty-seven@twenty-eight)",
+        "output": "vhyhqwb-ilyh"
+    },
+    {
+        "input": "*(fifty-three@twenty-nine)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(sixty@thirty-one)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(fifty-six@thirty-six)",
+        "output": "qlqhwb-wzr"
+    },
+    {
+        "input": "*(thirty-five@six)",
+        "output": "iruwb-rqh"
+    },
+    {
+        "input": "*(sixteen@twenty-nine)",
+        "output": "iruwb-ilyh"
+    },
+    {
+        "input": "*(eighty-one@fifteen)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(sixty-five@nine)",
+        "output": "vhyhqwb-irxu"
+    },
+    {
+        "input": "*(twenty-eight@twenty-nine)",
+        "output": "iliwb-vhyhq"
+    },
+    {
+        "input": "*(three@fifty-five)",
+        "output": "iliwb-hljkw"
+    },
+    {
+        "input": "*(eighty-seven@four)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(seventeen@thirty-nine)",
+        "output": "iliwb-vla"
+    },
+    {
+        "input": "*(fifteen@sixty-four)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(forty-three@twenty-eight)",
+        "output": "vhyhqwb-rqh"
+    },
+    {
+        "input": "*(twenty-three@forty-five)",
+        "output": "vlawb-hljkw"
+    },
+    {
+        "input": "*(eighty-seven@nine)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(thirty@fifty-one)",
+        "output": "hljkwb-rqh"
+    },
+    {
+        "input": "*(fifty-seven@two)",
+        "output": "iliwb-qlqh"
+    },
+    {
+        "input": "*(fifty-one@twenty-seven)",
+        "output": "vhyhqwb-hljkw"
+    },
+    {
+        "input": "*(seventeen@forty-seven)",
+        "output": "vlawb-irxu"
+    },
+    {
+        "input": "*(eight@seventy-five)",
+        "output": "hljkwb-wkuhh"
+    },
+    {
+        "input": "*(thirty-three@nine)",
+        "output": "iruwb-wzr"
+    },
+    {
+        "input": "*(sixteen@eighty-two)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(fifteen@thirty-one)",
+        "output": "iruwb-vla"
+    },
+    {
+        "input": "*(eighteen@sixty-seven)",
+        "output": "hljkwb-ilyh"
+    },
+    {
+        "input": "*(twelve@four)",
+        "output": "vlawhhq"
+    },
+    {
+        "input": "*(twenty-nine@fifty-four)",
+        "output": "hljkwb-wkuhh"
+    },
+    {
+        "input": "*(forty-seven@twenty-nine)",
+        "output": "vhyhqwb-vla"
+    },
+    {
+        "input": "*(eighty-five@six)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(eighteen@two)",
+        "output": "wzhqwb"
+    },
+    {
+        "input": "*(thirty-three@fifty-one)",
+        "output": "hljkwb-irxu"
+    },
+    {
+        "input": "*(fifty-nine@seventeen)",
+        "output": "vhyhqwb-vla"
+    },
+    {
+        "input": "*(fifty-nine@twelve)",
+        "output": "vhyhqwb-rqh"
+    },
+    {
+        "input": "*(sixteen@thirty-two)",
+        "output": "iruwb-hljkw"
+    },
+    {
+        "input": "*(two@ten)",
+        "output": "wzhoyh"
+    },
+    {
+        "input": "*(thirty-six@fifty-four)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(thirty-one@thirteen)",
+        "output": "iruwb-irxu"
+    },
+    {
+        "input": "*(forty-three@fifty-two)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(thirty-nine@nineteen)",
+        "output": "iliwb-hljkw"
+    },
+    {
+        "input": "*(sixteen@forty-three)",
+        "output": "iliwb-qlqh"
+    },
+    {
+        "input": "*(four@one)",
+        "output": "ilyh"
+    },
+    {
+        "input": "*(six@eighty-two)",
+        "output": "hljkwb-hljkw"
+    },
+    {
+        "input": "*(ninety-one@two)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(sixty-two@twenty-one)",
+        "output": "hljkwb-wkuhh"
+    },
+    {
+        "input": "*(forty-one@forty-seven)",
+        "output": "hljkwb-hljkw"
+    },
+    {
+        "input": "*(thirty-three@sixty-one)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(three@thirty-six)",
+        "output": "wkluwb-qlqh"
+    },
+    {
+        "input": "*(twenty-three@forty-three)",
+        "output": "vlawb-vla"
+    },
+    {
+        "input": "*(forty-eight@thirty-nine)",
+        "output": "hljkwb-vhyhq"
+    },
+    {
+        "input": "*(thirty-one@thirty)",
+        "output": "vlawb-rqh"
+    },
+    {
+        "input": "*(twenty-two@fourteen)",
+        "output": "wkluwb-vla"
+    },
+    {
+        "input": "*(twenty@thirteen)",
+        "output": "wkluwb-wkuhh"
+    },
+    {
+        "input": "*(fifty-four@nine)",
+        "output": "vlawb-wkuhh"
+    },
+    {
+        "input": "*(fifty-six@thirty-three)",
+        "output": "hljkwb-qlqh"
+    },
+    {
+        "input": "*(fifty@forty-six)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(four@thirty-eight)",
+        "output": "iruwb-wzr"
+    },
+    {
+        "input": "*(twenty-five@nineteen)",
+        "output": "iruwb-irxu"
+    },
+    {
+        "input": "*(twenty-seven@sixty-four)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(sixty@thirty-six)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(six@sixty-three)",
+        "output": "vlawb-qlqh"
+    },
+    {
+        "input": "*(twenty-nine@twenty-eight)",
+        "output": "iliwb-vhyhq"
+    },
+    {
+        "input": "*(twenty@seventy)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(twenty@sixty-five)",
+        "output": "hljkwb-ilyh"
+    },
+    {
+        "input": "*(six@eighty-nine)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(thirty-four@fourteen)",
+        "output": "iruwb-hljkw"
+    },
+    {
+        "input": "*(ninety-three@four)",
+        "output": "qlqhwb-vhyhq"
+    },
+    {
+        "input": "*(sixty-one@thirty)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(twenty@sixteen)",
+        "output": "wkluwb-vla"
+    },
+    {
+        "input": "*(four@fifty-six)",
+        "output": "vlawb"
+    },
+    {
+        "input": "*(fifty-one@thirty)",
+        "output": "hljkwb-rqh"
+    },
+    {
+        "input": "*(twenty-six@ten)",
+        "output": "wkluwb-vla"
+    },
+    {
+        "input": "*(twenty@fifty-eight)",
+        "output": "vhyhqwb-hljkw"
+    },
+    {
+        "input": "*(nine@twenty-one)",
+        "output": "wkluwb"
+    },
+    {
+        "input": "*(thirty-six@twenty-three)",
+        "output": "iliwb-qlqh"
+    },
+    {
+        "input": "*(twenty-three@thirty-two)",
+        "output": "iliwb-ilyh"
+    },
+    {
+        "input": "*(sixty-four@six)",
+        "output": "vhyhqwb"
+    },
+    {
+        "input": "*(forty-two@twenty-two)",
+        "output": "vlawb-irxu"
+    },
+    {
+        "input": "*(twelve@twenty-three)",
+        "output": "wkluwb-ilyh"
+    },
+    {
+        "input": "*(thirty@seventeen)",
+        "output": "iruwb-vhyhq"
+    },
+    {
+        "input": "*(seventy-seven@eight)",
+        "output": "hljkwb-ilyh"
+    },
+    {
+        "input": "*(forty-eight@forty-six)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(twenty-two@fifty)",
+        "output": "vhyhqwb-wzr"
+    },
+    {
+        "input": "*(thirty-seven@seventeen)",
+        "output": "iliwb-irxu"
+    },
+    {
+        "input": "*(forty@thirty-eight)",
+        "output": "vhyhqwb-hljkw"
+    },
+    {
+        "input": "*(eighty-four@fourteen)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(eighty-four@ten)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(seventy-three@seventeen)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(sixty-six@twenty-eight)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(thirty-nine@twenty-seven)",
+        "output": "vlawb-vla"
+    },
+    {
+        "input": "*(eleven@forty-eight)",
+        "output": "iliwb-qlqh"
+    },
+    {
+        "input": "*(twenty-five@sixty-eight)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(thirty-five@seven)",
+        "output": "iruwb-wzr"
+    },
+    {
+        "input": "*(forty-five@fifty-one)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(five@seventy-two)",
+        "output": "vhyhqwb-vhyhq"
+    },
+    {
+        "input": "*(thirteen@five)",
+        "output": "hljkwhhq"
+    },
+    {
+        "input": "*(fifty-eight@nine)",
+        "output": "vlawb-vhyhq"
+    },
+    {
+        "input": "*(forty-three@twenty-one)",
+        "output": "vlawb-irxu"
+    },
+    {
+        "input": "*(eleven@forty-two)",
+        "output": "iliwb-wkuhh"
+    },
+    {
+        "input": "*(three@ninety)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(five@seventy-four)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(eighteen@sixteen)",
+        "output": "wkluwb-irxu"
+    },
+    {
+        "input": "*(twenty-six@sixty-seven)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(three@sixty)",
+        "output": "vlawb-wkuhh"
+    },
+    {
+        "input": "*(forty-seven@twelve)",
+        "output": "iliwb-qlqh"
+    },
+    {
+        "input": "*(thirty-six@thirty-two)",
+        "output": "vlawb-hljkw"
+    },
+    {
+        "input": "*(three@fifty-four)",
+        "output": "iliwb-vhyhq"
+    },
+    {
+        "input": "*(thirty-one@fifty-one)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(twenty@eight)",
+        "output": "wzhqwb-hljkw"
+    },
+    {
+        "input": "*(eighty-nine@five)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(four@eighty-one)",
+        "output": "hljkwb-ilyh"
+    },
+    {
+        "input": "*(fifty-two@seven)",
+        "output": "iliwb-qlqh"
+    },
+    {
+        "input": "*(eighty-eight@four)",
+        "output": "qlqhwb-wzr"
+    },
+    {
+        "input": "*(eighty-four@seven)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(six@twenty-one)",
+        "output": "wzhqwb-vhyhq"
+    },
+    {
+        "input": "*(twenty-six@sixty-four)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(sixty-five@thirty-one)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(forty-nine@twenty-nine)",
+        "output": "vhyhqwb-hljkw"
+    },
+    {
+        "input": "*(fifty-one@forty-eight)",
+        "output": "qlqhwb-qlqh"
+    },
+    {
+        "input": "*(three@fifty-seven)",
+        "output": "vlawb"
+    },
+    {
+        "input": "*(forty@forty-six)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(eleven@eighty-seven)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(twenty-one@fourteen)",
+        "output": "wkluwb-ilyh"
+    },
+    {
+        "input": "*(thirty-two@thirty-six)",
+        "output": "vlawb-hljkw"
+    },
+    {
+        "input": "*(fifty-nine@twenty-four)",
+        "output": "hljkwb-wkuhh"
+    },
+    {
+        "input": "*(four@eighty-five)",
+        "output": "hljkwb-qlqh"
+    },
+    {
+        "input": "*(twenty-three@twenty-three)",
+        "output": "iruwb-vla"
+    },
+    {
+        "input": "*(eighteen@fifteen)",
+        "output": "wkluwb-wkuhh"
+    },
+    {
+        "input": "*(forty-eight@forty-seven)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(one@seventy-six)",
+        "output": "vhyhqwb-vhyhq"
+    },
+    {
+        "input": "*(thirty-five@thirty-eight)",
+        "output": "vhyhqwb-wkuhh"
+    },
+    {
+        "input": "*(seventy@sixteen)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(eight@five)",
+        "output": "wkluwhhq"
+    },
+    {
+        "input": "*(one@eighty-seven)",
+        "output": "hljkwb-hljkw"
+    },
+    {
+        "input": "*(ten@forty-six)",
+        "output": "iliwb-vla"
+    },
+    {
+        "input": "*(two@sixty-eight)",
+        "output": "vhyhqwb"
+    },
+    {
+        "input": "*(four@seventy-nine)",
+        "output": "hljkwb-wkuhh"
+    },
+    {
+        "input": "*(forty-eight@twenty-three)",
+        "output": "vhyhqwb-rqh"
+    },
+    {
+        "input": "*(twenty-six@seventeen)",
+        "output": "iruwb-wkuhh"
+    },
+    {
+        "input": "*(fifty-nine@thirty-four)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(sixteen@twenty-four)",
+        "output": "iruwb"
+    },
+    {
+        "input": "*(fifty-eight@forty)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(twenty@seventy-six)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(ninety-two@seven)",
+        "output": "qlqhwb-qlqh"
+    },
+    {
+        "input": "*(eighteen@twenty-four)",
+        "output": "iruwb-wzr"
+    },
+    {
+        "input": "*(nineteen@five)",
+        "output": "wzhqwb-irxu"
+    },
+    {
+        "input": "*(twelve@eighty-one)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(thirty-six@thirty-eight)",
+        "output": "vhyhqwb-irxu"
+    },
+    {
+        "input": "*(fourteen@sixteen)",
+        "output": "wkluwb"
+    },
+    {
+        "input": "*(sixty-nine@seventeen)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(thirty-five@five)",
+        "output": "iruwb"
+    },
+    {
+        "input": "*(twenty-one@twenty-eight)",
+        "output": "iruwb-qlqh"
+    },
+    {
+        "input": "*(four@seventy-four)",
+        "output": "vhyhqwb-hljkw"
+    },
+    {
+        "input": "*(eleven@twenty-three)",
+        "output": "wkluwb-irxu"
+    },
+    {
+        "input": "*(thirty-five@forty-seven)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(twenty@forty-two)",
+        "output": "vlawb-wzr"
+    },
+    {
+        "input": "*(six@forty-eight)",
+        "output": "iliwb-irxu"
+    },
+    {
+        "input": "*(forty-eight@forty-four)",
+        "output": "qlqhwb-wzr"
+    },
+    {
+        "input": "*(three@eighty-one)",
+        "output": "hljkwb-irxu"
+    },
+    {
+        "input": "*(two@ninety-two)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(eighty-one@five)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(twelve@fifty-nine)",
+        "output": "vhyhqwb-rqh"
+    },
+    {
+        "input": "*(sixty-nine@two)",
+        "output": "vhyhqwb-rqh"
+    },
+    {
+        "input": "*(seventy-four@sixteen)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(forty-nine@eighteen)",
+        "output": "vlawb-vhyhq"
+    },
+    {
+        "input": "*(four@twenty-one)",
+        "output": "wzhqwb-ilyh"
+    },
+    {
+        "input": "*(twenty-seven@sixty-two)",
+        "output": "hljkwb-qlqh"
+    },
+    {
+        "input": "*(fifty-nine@thirty)",
+        "output": "hljkwb-qlqh"
+    },
+    {
+        "input": "*(thirty-eight@forty-six)",
+        "output": "hljkwb-irxu"
+    },
+    {
+        "input": "*(eighteen@eighty-one)",
+        "output": "qlqhwb-qlqh"
+    },
+    {
+        "input": "*(sixty-four@twenty)",
+        "output": "hljkwb-irxu"
+    },
+    {
+        "input": "*(nine@forty-three)",
+        "output": "iliwb-wzr"
+    },
+    {
+        "input": "*(sixty@twenty-nine)",
+        "output": "hljkwb-qlqh"
+    },
+    {
+        "input": "*(twenty-nine@five)",
+        "output": "wkluwb-irxu"
+    },
+    {
+        "input": "*(fifty@three)",
+        "output": "iliwb-wkuhh"
+    },
+    {
+        "input": "*(twelve@seventy-four)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(nine@two)",
+        "output": "hohyhq"
+    },
+    {
+        "input": "*(one@sixty-four)",
+        "output": "vlawb-ilyh"
+    },
+    {
+        "input": "*(four@forty-three)",
+        "output": "iruwb-vhyhq"
+    },
+    {
+        "input": "*(twenty-seven@thirty-nine)",
+        "output": "vlawb-vla"
+    },
+    {
+        "input": "*(twenty-eight@four)",
+        "output": "wkluwb-wzr"
+    },
+    {
+        "input": "*(forty-one@eleven)",
+        "output": "iliwb-wzr"
+    },
+    {
+        "input": "*(fifteen@eighty-four)",
+        "output": "qlqhwb-qlqh"
+    },
+    {
+        "input": "*(sixty-one@thirty-two)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(ten@twenty-eight)",
+        "output": "wkluwb-hljkw"
+    },
+    {
+        "input": "*(thirty-two@three)",
+        "output": "wkluwb-ilyh"
+    },
+    {
+        "input": "*(four@five)",
+        "output": "qlqh"
+    },
+    {
+        "input": "*(twenty-two@fifteen)",
+        "output": "wkluwb-vhyhq"
+    },
+    {
+        "input": "*(forty-one@forty)",
+        "output": "hljkwb-rqh"
+    },
+    {
+        "input": "*(seventy-two@one)",
+        "output": "vhyhqwb-wkuhh"
+    },
+    {
+        "input": "*(fifty-six@forty-three)",
+        "output": "qlqhwb-qlqh"
+    },
+    {
+        "input": "*(four@thirty-six)",
+        "output": "iruwb"
+    },
+    {
+        "input": "*(seven@forty-two)",
+        "output": "iruwb-qlqh"
+    },
+    {
+        "input": "*(sixty-one@fourteen)",
+        "output": "vhyhqwb-ilyh"
+    },
+    {
+        "input": "*(fifty-seven@thirty-one)",
+        "output": "hljkwb-hljkw"
+    },
+    {
+        "input": "*(sixty-five@seventeen)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(eleven@twelve)",
+        "output": "wzhqwb-wkuhh"
+    },
+    {
+        "input": "*(twenty-one@seventy-four)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(seventy-one@seven)",
+        "output": "vhyhqwb-hljkw"
+    },
+    {
+        "input": "*(twenty-five@four)",
+        "output": "wzhqwb-qlqh"
+    },
+    {
+        "input": "*(sixty-three@fourteen)",
+        "output": "vhyhqwb-vhyhq"
+    },
+    {
+        "input": "*(seven@sixty-four)",
+        "output": "vhyhqwb-rqh"
+    },
+    {
+        "input": "*(twenty-two@sixty-four)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(four@seventy-eight)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(fifty-nine@twenty-six)",
+        "output": "hljkwb-ilyh"
+    },
+    {
+        "input": "*(forty-two@twenty-six)",
+        "output": "vlawb-hljkw"
+    },
+    {
+        "input": "*(thirty-six@fifty-five)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(eleven@eighty-five)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(thirty-two@fifty-one)",
+        "output": "hljkwb-wkuhh"
+    },
+    {
+        "input": "*(twenty@seventy-nine)",
+        "output": "qlqhwb-qlqh"
+    },
+    {
+        "input": "*(seventy-five@nine)",
+        "output": "hljkwb-irxu"
+    },
+    {
+        "input": "*(thirteen@twenty-five)",
+        "output": "wkluwb-hljkw"
+    },
+    {
+        "input": "*(four@thirty-nine)",
+        "output": "iruwb-wkuhh"
+    },
+    {
+        "input": "*(forty-three@thirty-one)",
+        "output": "vhyhqwb-irxu"
+    },
+    {
+        "input": "*(forty-two@fifty-four)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(sixty-three@one)",
+        "output": "vlawb-irxu"
+    },
+    {
+        "input": "*(forty-one@fifteen)",
+        "output": "iliwb-vla"
+    },
+    {
+        "input": "*(three@fifty)",
+        "output": "iliwb-wkuhh"
+    },
+    {
+        "input": "*(eleven@eighty-four)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(twenty-seven@ten)",
+        "output": "wkluwb-vhyhq"
+    },
+    {
+        "input": "*(thirty-four@three)",
+        "output": "wkluwb-vhyhq"
+    },
+    {
+        "input": "*(fifty-eight@four)",
+        "output": "vlawb-wzr"
+    },
+    {
+        "input": "*(seventy-eight@seven)",
+        "output": "hljkwb-ilyh"
+    },
+    {
+        "input": "*(thirty-six@eleven)",
+        "output": "iruwb-vhyhq"
+    },
+    {
+        "input": "*(thirty-seven@twenty-one)",
+        "output": "iliwb-hljkw"
+    },
+    {
+        "input": "*(twelve@thirty)",
+        "output": "iruwb-wzr"
+    },
+    {
+        "input": "*(twenty-seven@seven)",
+        "output": "wkluwb-irxu"
+    },
+    {
+        "input": "*(sixty-nine@nineteen)",
+        "output": "hljkwb-hljkw"
+    },
+    {
+        "input": "*(forty-nine@forty-five)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(five@seventy-one)",
+        "output": "vhyhqwb-vla"
+    },
+    {
+        "input": "*(twenty-three@thirteen)",
+        "output": "wkluwb-vla"
+    },
+    {
+        "input": "*(nine@fourteen)",
+        "output": "wzhqwb-wkuhh"
+    },
+    {
+        "input": "*(sixteen@seventy-five)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(zero@ninety-nine)",
+        "output": "qlqhwb-qlqh"
+    },
+    {
+        "input": "*(twenty-nine@forty-nine)",
+        "output": "vhyhqwb-hljkw"
+    },
+    {
+        "input": "*(two@twenty-two)",
+        "output": "wzhqwb-irxu"
+    },
+    {
+        "input": "*(ten@seventy-four)",
+        "output": "hljkwb-irxu"
+    },
+    {
+        "input": "*(three@nine)",
+        "output": "wzhoyh"
+    },
+    {
+        "input": "*(eight@fifty-nine)",
+        "output": "vlawb-vhyhq"
+    },
+    {
+        "input": "*(zero@twenty-three)",
+        "output": "wzhqwb-wkuhh"
+    },
+    {
+        "input": "*(thirty-one@fifty-seven)",
+        "output": "hljkwb-hljkw"
+    },
+    {
+        "input": "*(forty-eight@fourteen)",
+        "output": "vlawb-wzr"
+    },
+    {
+        "input": "*(fifty-one@nineteen)",
+        "output": "vhyhqwb"
+    },
+    {
+        "input": "*(twenty@one)",
+        "output": "wzhqwb-rqh"
+    },
+    {
+        "input": "*(twenty-two@thirty)",
+        "output": "iliwb-wzr"
+    },
+    {
+        "input": "*(twenty-nine@twelve)",
+        "output": "iruwb-rqh"
+    },
+    {
+        "input": "*(ninety-five@four)",
+        "output": "qlqhwb-qlqh"
+    },
+    {
+        "input": "*(seven@nineteen)",
+        "output": "wzhqwb-vla"
+    },
+    {
+        "input": "*(eight@forty-seven)",
+        "output": "iliwb-ilyh"
+    },
+    {
+        "input": "*(thirteen@twenty-seven)",
+        "output": "iruwb"
+    },
+    {
+        "input": "*(eleven@thirty-four)",
+        "output": "iruwb-ilyh"
+    },
+    {
+        "input": "*(forty-three@eleven)",
+        "output": "iliwb-irxu"
+    },
+    {
+        "input": "*(fifty-two@twelve)",
+        "output": "vlawb-irxu"
+    },
+    {
+        "input": "*(four@eighty-four)",
+        "output": "hljkwb-hljkw"
+    },
+    {
+        "input": "*(sixty-one@nine)",
+        "output": "vhyhqwb"
+    },
+    {
+        "input": "*(one@ninety-one)",
+        "output": "qlqhwb-wzr"
+    },
+    {
+        "input": "*(eighty-eight@six)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(sixty-two@six)",
+        "output": "vlawb-hljkw"
+    },
+    {
+        "input": "*(ten@seventy-two)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(forty-two@fifty-one)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(zero@twenty-four)",
+        "output": "wzhqwb-irxu"
+    },
+    {
+        "input": "*(twenty-four@twenty-six)",
+        "output": "iliwb"
+    },
+    {
+        "input": "*(twenty-nine@thirty-seven)",
+        "output": "vlawb-vla"
+    },
+    {
+        "input": "*(thirty-eight@thirty-two)",
+        "output": "vhyhqwb"
+    },
+    {
+        "input": "*(six@twenty-three)",
+        "output": "wzhqwb-qlqh"
+    },
+    {
+        "input": "*(twenty-eight@thirty-six)",
+        "output": "vlawb-irxu"
+    },
+    {
+        "input": "*(eighty-six@eight)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(thirty@sixty-five)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(forty-five@fifty)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(ten@forty-seven)",
+        "output": "iliwb-vhyhq"
+    },
+    {
+        "input": "*(eighteen@fifty-seven)",
+        "output": "vhyhqwb-ilyh"
+    },
+    {
+        "input": "*(forty-one@fifty-three)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(thirty-four@twenty-three)",
+        "output": "iliwb-vhyhq"
+    },
+    {
+        "input": "*(thirty-eight@fifty-one)",
+        "output": "hljkwb-qlqh"
+    },
+    {
+        "input": "*(fifty-two@forty-three)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(twenty@seventy-two)",
+        "output": "qlqhwb-wzr"
+    },
+    {
+        "input": "*(thirty-seven@thirty-two)",
+        "output": "vlawb-qlqh"
+    },
+    {
+        "input": "*(nine@thirty-nine)",
+        "output": "iruwb-hljkw"
+    },
+    {
+        "input": "*(one@eighty-eight)",
+        "output": "hljkwb-qlqh"
+    },
+    {
+        "input": "*(eleven@ten)",
+        "output": "wzhqwb-rqh"
+    },
+    {
+        "input": "*(sixty-five@thirty-three)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(fifty-five@eleven)",
+        "output": "vlawb-vla"
+    },
+    {
+        "input": "*(sixty-seven@twenty)",
+        "output": "hljkwb-vhyhq"
+    },
+    {
+        "input": "*(five@forty-three)",
+        "output": "iruwb-hljkw"
+    },
+    {
+        "input": "*(sixty-seven@twenty-nine)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(forty@fifty-two)",
+        "output": "qlqhwb-wzr"
+    },
+    {
+        "input": "*(two@ninety-one)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(twelve@thirty-five)",
+        "output": "iruwb-vhyhq"
+    },
+    {
+        "input": "*(forty-six@thirty)",
+        "output": "vhyhqwb-vla"
+    },
+    {
+        "input": "*(eleven@thirty-three)",
+        "output": "iruwb-irxu"
+    },
+    {
+        "input": "*(eighteen@fourteen)",
+        "output": "wkluwb-wzr"
+    },
+    {
+        "input": "*(thirty-three@forty-eight)",
+        "output": "hljkwb-rqh"
+    },
+    {
+        "input": "*(thirty-nine@twenty-four)",
+        "output": "vlawb-wkuhh"
+    },
+    {
+        "input": "*(eighty@fifteen)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(seventy-one@eight)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(sixty-two@twenty-seven)",
+        "output": "hljkwb-qlqh"
+    },
+    {
+        "input": "*(six@eighty-one)",
+        "output": "hljkwb-vhyhq"
+    },
+    {
+        "input": "*(fifteen@forty-eight)",
+        "output": "vlawb-wkuhh"
+    },
+    {
+        "input": "*(thirty-six@twenty-four)",
+        "output": "vlawb"
+    },
+    {
+        "input": "*(seventeen@eighty-two)",
+        "output": "qlqhwb-qlqh"
+    },
+    {
+        "input": "*(twenty-one@sixty-seven)",
+        "output": "hljkwb-hljkw"
+    },
+    {
+        "input": "*(fifty-two@three)",
+        "output": "iliwb-ilyh"
+    },
+    {
+        "input": "*(fifty-five@two)",
+        "output": "iliwb-vhyhq"
+    },
+    {
+        "input": "*(forty@forty-two)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(eleven@sixty)",
+        "output": "vhyhqwb-rqh"
+    },
+    {
+        "input": "*(one@thirty-seven)",
+        "output": "wkluwb-hljkw"
+    },
+    {
+        "input": "*(six@forty-seven)",
+        "output": "iliwb-wkuhh"
+    },
+    {
+        "input": "*(thirteen@forty-seven)",
+        "output": "vlawb"
+    },
+    {
+        "input": "*(one@forty-four)",
+        "output": "iruwb-ilyh"
+    },
+    {
+        "input": "*(eighty-seven@six)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(thirty-six@five)",
+        "output": "iruwb-rqh"
+    },
+    {
+        "input": "*(twelve@sixty)",
+        "output": "vhyhqwb-wzr"
+    },
+    {
+        "input": "*(zero@forty-seven)",
+        "output": "iruwb-vhyhq"
+    },
+    {
+        "input": "*(sixty-five@eight)",
+        "output": "vhyhqwb-wkuhh"
+    },
+    {
+        "input": "*(forty-six@forty-one)",
+        "output": "hljkwb-vhyhq"
+    },
+    {
+        "input": "*(six@sixty-six)",
+        "output": "vhyhqwb-wzr"
+    },
+    {
+        "input": "*(twenty-four@twenty-two)",
+        "output": "iruwb-vla"
+    },
+    {
+        "input": "*(fourteen@sixty)",
+        "output": "vhyhqwb-irxu"
+    },
+    {
+        "input": "*(thirty-one@sixty-eight)",
+        "output": "qlqhwb-qlqh"
+    },
+    {
+        "input": "*(four@twenty-three)",
+        "output": "wzhqwb-vhyhq"
+    },
+    {
+        "input": "*(eighty@nine)",
+        "output": "hljkwb-qlqh"
+    },
+    {
+        "input": "*(sixty-two@twenty-eight)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(thirty-three@fifty)",
+        "output": "hljkwb-wkuhh"
+    },
+    {
+        "input": "*(fifteen@fifty-nine)",
+        "output": "vhyhqwb-irxu"
+    },
+    {
+        "input": "*(forty-nine@thirty-four)",
+        "output": "hljkwb-wkuhh"
+    },
+    {
+        "input": "*(twelve@forty)",
+        "output": "iliwb-wzr"
+    },
+    {
+        "input": "*(eleven@thirty-eight)",
+        "output": "iruwb-qlqh"
+    },
+    {
+        "input": "*(zero@eighty-one)",
+        "output": "hljkwb-rqh"
+    },
+    {
+        "input": "*(seven@four)",
+        "output": "hohyhq"
+    },
+    {
+        "input": "*(ten@forty-two)",
+        "output": "iliwb-wzr"
+    },
+    {
+        "input": "*(thirty-one@forty-seven)",
+        "output": "vhyhqwb-hljkw"
+    },
+    {
+        "input": "*(sixty-two@four)",
+        "output": "vlawb-vla"
+    },
+    {
+        "input": "*(twelve@eighty-two)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(seventeen@forty)",
+        "output": "iliwb-vhyhq"
+    },
+    {
+        "input": "*(twenty-seven@sixty-eight)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(thirty-seven@thirty-five)",
+        "output": "vhyhqwb-wzr"
+    },
+    {
+        "input": "*(ten@twenty)",
+        "output": "wkluwb"
+    },
+    {
+        "input": "*(nine@sixty)",
+        "output": "vlawb-qlqh"
+    },
+    {
+        "input": "*(twenty-three@forty-six)",
+        "output": "vlawb-qlqh"
+    },
+    {
+        "input": "*(seventy-seven@two)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(sixty-six@seventeen)",
+        "output": "hljkwb-wkuhh"
+    },
+    {
+        "input": "*(fifty-six@six)",
+        "output": "vlawb-wzr"
+    },
+    {
+        "input": "*(twenty-three@thirty-seven)",
+        "output": "vlawb"
+    },
+    {
+        "input": "*(thirty-eight@thirty-three)",
+        "output": "vhyhqwb-rqh"
+    },
+    {
+        "input": "*(twenty-five@forty-nine)",
+        "output": "vhyhqwb-irxu"
+    },
+    {
+        "input": "*(thirty-five@thirty-five)",
+        "output": "vhyhqwb"
+    },
+    {
+        "input": "*(fifty-nine@thirty-nine)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(two@seventy-four)",
+        "output": "vhyhqwb-vla"
+    },
+    {
+        "input": "*(sixty-eight@one)",
+        "output": "vlawb-qlqh"
+    },
+    {
+        "input": "*(forty-six@forty-four)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(forty-six@fifteen)",
+        "output": "vlawb-rqh"
+    },
+    {
+        "input": "*(seventy-four@seven)",
+        "output": "hljkwb-rqh"
+    },
+    {
+        "input": "*(forty-three@sixteen)",
+        "output": "iliwb-qlqh"
+    },
+    {
+        "input": "*(sixty-four@nine)",
+        "output": "vhyhqwb-wkuhh"
+    },
+    {
+        "input": "*(eighteen@thirty-seven)",
+        "output": "iliwb-ilyh"
+    },
+    {
+        "input": "*(thirty-eight@thirty-eight)",
+        "output": "vhyhqwb-vla"
+    },
+    {
+        "input": "*(four@thirty-two)",
+        "output": "wkluwb-vla"
+    },
+    {
+        "input": "*(sixty-eight@twenty-six)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(seventy-nine@eleven)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(twenty-five@thirty-four)",
+        "output": "iliwb-qlqh"
+    },
+    {
+        "input": "*(twenty-four@nineteen)",
+        "output": "iruwb-wkuhh"
+    },
+    {
+        "input": "*(forty-four@four)",
+        "output": "iruwb-hljkw"
+    },
+    {
+        "input": "*(forty-four@forty-eight)",
+        "output": "qlqhwb-wzr"
+    },
+    {
+        "input": "*(thirty-four@forty-one)",
+        "output": "vhyhqwb-ilyh"
+    },
+    {
+        "input": "*(thirteen@seventy-seven)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(four@thirteen)",
+        "output": "vhyhqwhhq"
+    },
+    {
+        "input": "*(zero@seven)",
+        "output": "vhyhq"
+    },
+    {
+        "input": "*(fifteen@eighty)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(fifty@fifteen)",
+        "output": "vlawb-ilyh"
+    },
+    {
+        "input": "*(five@twenty-six)",
+        "output": "wkluwb-rqh"
+    },
+    {
+        "input": "*(fourteen@three)",
+        "output": "vhyhqwhhq"
+    },
+    {
+        "input": "*(forty-five@twenty-seven)",
+        "output": "vhyhqwb-wzr"
+    },
+    {
+        "input": "*(forty-four@forty-four)",
+        "output": "hljkwb-hljkw"
+    },
+    {
+        "input": "*(forty-four@fifty-three)",
+        "output": "qlqhwb-vhyhq"
+    },
+    {
+        "input": "*(twenty-five@sixteen)",
+        "output": "iruwb-rqh"
+    },
+    {
+        "input": "*(thirty-nine@three)",
+        "output": "iruwb-wzr"
+    },
+    {
+        "input": "*(five@forty-two)",
+        "output": "iruwb-vhyhq"
+    },
+    {
+        "input": "*(forty-three@fifty-four)",
+        "output": "qlqhwb-vhyhq"
+    },
+    {
+        "input": "*(forty@fifty-three)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(forty-five@nine)",
+        "output": "iliwb-irxu"
+    },
+    {
+        "input": "*(forty-six@five)",
+        "output": "iliwb-rqh"
+    },
+    {
+        "input": "*(twenty-one@forty-eight)",
+        "output": "vlawb-qlqh"
+    },
+    {
+        "input": "*(eight@eighty-three)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(four@twelve)",
+        "output": "vlawhhq"
+    },
+    {
+        "input": "*(fifty-nine@three)",
+        "output": "vlawb-wzr"
+    },
+    {
+        "input": "*(thirty-three@thirty)",
+        "output": "vlawb-wkuhh"
+    },
+    {
+        "input": "*(ninety@three)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(fourteen@eighty-one)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(sixty-three@twenty-three)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(twenty@forty-nine)",
+        "output": "vlawb-qlqh"
+    },
+    {
+        "input": "*(thirty-two@seven)",
+        "output": "wkluwb-qlqh"
+    },
+    {
+        "input": "*(fifty-six@thirty-seven)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(sixty-seven@thirty-two)",
+        "output": "qlqhwb-qlqh"
+    },
+    {
+        "input": "*(fifteen@five)",
+        "output": "wzhqwb"
+    },
+    {
+        "input": "*(three@ninety-five)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(fifty-six@thirty-two)",
+        "output": "hljkwb-hljkw"
+    },
+    {
+        "input": "*(sixty-two@seventeen)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(forty-four@fifty-four)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(twelve@sixty-two)",
+        "output": "vhyhqwb-irxu"
+    },
+    {
+        "input": "*(sixty-six@three)",
+        "output": "vlawb-qlqh"
+    },
+    {
+        "input": "*(zero@thirteen)",
+        "output": "wkluwhhq"
+    },
+    {
+        "input": "*(nine@five)",
+        "output": "irxuwhhq"
+    },
+    {
+        "input": "*(eleven@fifty-six)",
+        "output": "vlawb-vhyhq"
+    },
+    {
+        "input": "*(twenty-one@twenty-four)",
+        "output": "iruwb-ilyh"
+    },
+    {
+        "input": "*(sixty-four@twenty-five)",
+        "output": "hljkwb-qlqh"
+    },
+    {
+        "input": "*(twenty-one@thirty-three)",
+        "output": "iliwb-irxu"
+    },
+    {
+        "input": "*(thirty-two@forty-eight)",
+        "output": "hljkwb"
+    },
+    {
+        "input": "*(twenty-six@thirty-eight)",
+        "output": "vlawb-irxu"
+    },
+    {
+        "input": "*(thirty-four@forty-eight)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(six@thirty)",
+        "output": "wkluwb-vla"
+    },
+    {
+        "input": "*(thirty@fifty-four)",
+        "output": "hljkwb-irxu"
+    },
+    {
+        "input": "*(eighteen@twenty)",
+        "output": "wkluwb-hljkw"
+    },
+    {
+        "input": "*(eighty-one@eighteen)",
+        "output": "qlqhwb-qlqh"
+    },
+    {
+        "input": "*(twenty-one@twenty-six)",
+        "output": "iruwb-vhyhq"
+    },
+    {
+        "input": "*(thirty-three@thirty-one)",
+        "output": "vlawb-irxu"
+    },
+    {
+        "input": "*(forty-seven@six)",
+        "output": "iliwb-wkuhh"
+    },
+    {
+        "input": "*(forty-two@seven)",
+        "output": "iruwb-qlqh"
+    },
+    {
+        "input": "*(eighty-two@three)",
+        "output": "hljkwb-ilyh"
+    },
+    {
+        "input": "*(fifty-two@thirteen)",
+        "output": "vlawb-ilyh"
+    },
+    {
+        "input": "*(sixty-one@twenty-three)",
+        "output": "hljkwb-irxu"
+    },
+    {
+        "input": "*(forty-six@twenty-nine)",
+        "output": "vhyhqwb-ilyh"
+    },
+    {
+        "input": "*(thirty-six@sixty-three)",
+        "output": "qlqhwb-qlqh"
+    },
+    {
+        "input": "*(twenty-four@one)",
+        "output": "wzhqwb-ilyh"
+    },
+    {
+        "input": "*(sixty@two)",
+        "output": "vlawb-wzr"
+    },
+    {
+        "input": "*(six@eighty-seven)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(nine@forty-seven)",
+        "output": "iliwb-vla"
+    },
+    {
+        "input": "*(forty-seven@thirty-seven)",
+        "output": "hljkwb-irxu"
+    },
+    {
+        "input": "*(two@seventy-two)",
+        "output": "vhyhqwb-irxu"
+    },
+    {
+        "input": "*(twenty-three@forty)",
+        "output": "vlawb-wkuhh"
+    },
+    {
+        "input": "*(three@eighty-seven)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(ten@fourteen)",
+        "output": "wzhqwb-irxu"
+    },
+    {
+        "input": "*(forty-three@forty-seven)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(fifty@eight)",
+        "output": "iliwb-hljkw"
+    },
+    {
+        "input": "*(five@fifty-five)",
+        "output": "vlawb"
+    },
+    {
+        "input": "*(fifteen@fifteen)",
+        "output": "wkluwb"
+    },
+    {
+        "input": "*(fifteen@two)",
+        "output": "vhyhqwhhq"
+    },
+    {
+        "input": "*(thirty-nine@fifty-eight)",
+        "output": "qlqhwb-vhyhq"
+    },
+    {
+        "input": "*(twenty-nine@seven)",
+        "output": "wkluwb-vla"
+    },
+    {
+        "input": "*(seventeen@thirty-three)",
+        "output": "iliwb"
+    },
+    {
+        "input": "*(seventy@nine)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(sixty-eight@four)",
+        "output": "vhyhqwb-wzr"
+    },
+    {
+        "input": "*(twenty-three@sixty-three)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(twenty-seven@sixty-nine)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(six@eight)",
+        "output": "irxuwhhq"
+    },
+    {
+        "input": "*(thirty-seven@one)",
+        "output": "wkluwb-hljkw"
+    },
+    {
+        "input": "*(two@fifty-five)",
+        "output": "iliwb-vhyhq"
+    },
+    {
+        "input": "*(thirty-four@thirty-two)",
+        "output": "vlawb-vla"
+    },
+    {
+        "input": "*(one@eight)",
+        "output": "qlqh"
+    },
+    {
+        "input": "*(twelve@seventy-one)",
+        "output": "hljkwb-wkuhh"
+    },
+    {
+        "input": "*(fifty-nine@ten)",
+        "output": "vlawb-qlqh"
+    },
+    {
+        "input": "*(thirty-four@eighteen)",
+        "output": "iliwb-wzr"
+    },
+    {
+        "input": "*(seventeen@seventy-three)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(sixty-three@three)",
+        "output": "vlawb-vla"
+    },
+    {
+        "input": "*(fifty-eight@seven)",
+        "output": "vlawb-ilyh"
+    },
+    {
+        "input": "*(seventeen@fifty-nine)",
+        "output": "vhyhqwb-vla"
+    },
+    {
+        "input": "*(sixty@thirteen)",
+        "output": "vhyhqwb-wkuhh"
+    },
+    {
+        "input": "*(thirteen@seventy-two)",
+        "output": "hljkwb-ilyh"
+    },
+    {
+        "input": "*(nine@seventy-three)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(five@thirty-six)",
+        "output": "iruwb-rqh"
+    },
+    {
+        "input": "*(eight@sixty-six)",
+        "output": "vhyhqwb-irxu"
+    },
+    {
+        "input": "*(forty@nineteen)",
+        "output": "iliwb-qlqh"
+    },
+    {
+        "input": "*(thirty-two@thirty-two)",
+        "output": "vlawb-irxu"
+    },
+    {
+        "input": "*(eighty-one@three)",
+        "output": "hljkwb-irxu"
+    },
+    {
+        "input": "*(eighty-nine@two)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(two@thirty-four)",
+        "output": "wkluwb-vla"
+    },
+    {
+        "input": "*(eighty-two@nine)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(eleven@sixty-nine)",
+        "output": "hljkwb"
+    },
+    {
+        "input": "*(seventeen@twenty-seven)",
+        "output": "iruwb-irxu"
+    },
+    {
+        "input": "*(thirty-three@six)",
+        "output": "wkluwb-qlqh"
+    },
+    {
+        "input": "*(thirty-two@two)",
+        "output": "wkluwb-irxu"
+    },
+    {
+        "input": "*(thirty-three@twenty-four)",
+        "output": "iliwb-vhyhq"
+    },
+    {
+        "input": "*(fifteen@fifty-five)",
+        "output": "vhyhqwb"
+    },
+    {
+        "input": "*(sixty-five@twenty-six)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(twenty-six@sixteen)",
+        "output": "iruwb-wzr"
+    },
+    {
+        "input": "*(twenty-three@seventy-four)",
+        "output": "qlqhwb-vhyhq"
+    },
+    {
+        "input": "*(sixty-two@seven)",
+        "output": "vlawb-qlqh"
+    },
+    {
+        "input": "*(thirty-one@fifty-six)",
+        "output": "hljkwb-vhyhq"
+    },
+    {
+        "input": "*(twenty-eight@sixty-one)",
+        "output": "hljkwb-qlqh"
+    },
+    {
+        "input": "*(six@ninety-one)",
+        "output": "qlqhwb-vhyhq"
+    },
+    {
+        "input": "*(thirty-two@nineteen)",
+        "output": "iliwb-rqh"
+    },
+    {
+        "input": "*(twenty-seven@sixteen)",
+        "output": "iruwb-wkuhh"
+    },
+    {
+        "input": "*(forty-five@twenty-one)",
+        "output": "vlawb-vla"
+    },
+    {
+        "input": "*(twenty-two@sixty-six)",
+        "output": "hljkwb-hljkw"
+    },
+    {
+        "input": "*(sixty-two@sixteen)",
+        "output": "vhyhqwb-hljkw"
+    },
+    {
+        "input": "*(sixty-seven@three)",
+        "output": "vhyhqwb"
+    },
+    {
+        "input": "*(seventy-eight@eleven)",
+        "output": "hljkwb-qlqh"
+    },
+    {
+        "input": "*(seven@seventy-seven)",
+        "output": "hljkwb-irxu"
+    },
+    {
+        "input": "*(forty-two@forty-four)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(twenty-eight@sixteen)",
+        "output": "iruwb-irxu"
+    },
+    {
+        "input": "*(nine@sixty-nine)",
+        "output": "vhyhqwb-hljkw"
+    },
+    {
+        "input": "*(twenty-four@twenty-eight)",
+        "output": "iliwb-wzr"
+    },
+    {
+        "input": "*(fifty@twelve)",
+        "output": "vlawb-wzr"
+    },
+    {
+        "input": "*(thirty-seven@twelve)",
+        "output": "iruwb-qlqh"
+    },
+    {
+        "input": "*(eighty@six)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(forty-eight@thirty-one)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(fifty-four@fourteen)",
+        "output": "vlawb-hljkw"
+    },
+    {
+        "input": "*(ninety-five@two)",
+        "output": "qlqhwb-vhyhq"
+    },
+    {
+        "input": "*(thirty-nine@fifty-two)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(nine@twenty-three)",
+        "output": "wkluwb-wzr"
+    },
+    {
+        "input": "*(seventy@twenty-eight)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(fifteen@fifty)",
+        "output": "vlawb-ilyh"
+    },
+    {
+        "input": "*(fifty-six@fourteen)",
+        "output": "vhyhqwb"
+    },
+    {
+        "input": "*(sixty-three@nine)",
+        "output": "vhyhqwb-wzr"
+    },
+    {
+        "input": "*(forty-three@forty-nine)",
+        "output": "qlqhwb-wzr"
+    },
+    {
+        "input": "*(zero@four)",
+        "output": "irxu"
+    },
+    {
+        "input": "*(fifteen@nineteen)",
+        "output": "wkluwb-irxu"
+    },
+    {
+        "input": "*(thirty-eight@thirty-seven)",
+        "output": "vhyhqwb-ilyh"
+    },
+    {
+        "input": "*(one@sixteen)",
+        "output": "vhyhqwhhq"
+    },
+    {
+        "input": "*(twelve@twenty)",
+        "output": "wkluwb-wzr"
+    },
+    {
+        "input": "*(seven@forty)",
+        "output": "iruwb-vhyhq"
+    },
+    {
+        "input": "*(twenty-six@thirteen)",
+        "output": "wkluwb-qlqh"
+    },
+    {
+        "input": "*(fifty-four@five)",
+        "output": "iliwb-qlqh"
+    },
+    {
+        "input": "*(ten@twenty-seven)",
+        "output": "wkluwb-vhyhq"
+    },
+    {
+        "input": "*(sixty-nine@five)",
+        "output": "vhyhqwb-irxu"
+    },
+    {
+        "input": "*(twenty-one@sixty-six)",
+        "output": "hljkwb-vhyhq"
+    },
+    {
+        "input": "*(twenty-eight@fifty-five)",
+        "output": "hljkwb-wkuhh"
+    },
+    {
+        "input": "*(twenty-nine@fifty-eight)",
+        "output": "hljkwb-vhyhq"
+    },
+    {
+        "input": "*(six@seventy-eight)",
+        "output": "hljkwb-irxu"
+    },
+    {
+        "input": "*(seventy-three@nineteen)",
+        "output": "qlqhwb-wzr"
+    },
+    {
+        "input": "*(sixty-two@twenty-five)",
+        "output": "hljkwb-vhyhq"
+    },
+    {
+        "input": "*(sixteen@six)",
+        "output": "wzhqwb-wzr"
+    },
+    {
+        "input": "*(twenty-four@forty-three)",
+        "output": "vlawb-vhyhq"
+    },
+    {
+        "input": "*(two@thirty-eight)",
+        "output": "iruwb"
+    },
+    {
+        "input": "*(seven@thirty-nine)",
+        "output": "iruwb-vla"
+    },
+    {
+        "input": "*(twenty-two@sixty-eight)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(sixty-two@thirty-two)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(fourteen@twenty-eight)",
+        "output": "iruwb-wzr"
+    },
+    {
+        "input": "*(thirty-eight@twenty-seven)",
+        "output": "vlawb-ilyh"
+    },
+    {
+        "input": "*(forty-eight@thirty-eight)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(ten@six)",
+        "output": "vlawhhq"
+    },
+    {
+        "input": "*(sixty-seven@fifteen)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(thirty@fifty-five)",
+        "output": "hljkwb-ilyh"
+    },
+    {
+        "input": "*(eighteen@thirty-six)",
+        "output": "iliwb-irxu"
+    },
+    {
+        "input": "*(twenty-four@thirty-six)",
+        "output": "vlawb"
+    },
+    {
+        "input": "*(five@eighty-seven)",
+        "output": "qlqhwb-wzr"
+    },
+    {
+        "input": "*(forty-two@thirty-nine)",
+        "output": "hljkwb-rqh"
+    },
+    {
+        "input": "*(ten@thirty-two)",
+        "output": "iruwb-wzr"
+    },
+    {
+        "input": "*(twenty-two@twenty-two)",
+        "output": "iruwb-irxu"
+    },
+    {
+        "input": "*(twenty-seven@forty-nine)",
+        "output": "vhyhqwb-vla"
+    },
+    {
+        "input": "*(two@eighty-four)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(sixty-four@thirty-four)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(twenty-nine@twenty-six)",
+        "output": "iliwb-ilyh"
+    },
+    {
+        "input": "*(ninety@four)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(twenty-seven@forty-four)",
+        "output": "vhyhqwb-rqh"
+    },
+    {
+        "input": "*(seven@twenty-two)",
+        "output": "wzhqwb-qlqh"
+    },
+    {
+        "input": "*(thirty-three@forty-seven)",
+        "output": "hljkwb"
+    },
+    {
+        "input": "*(forty-six@ten)",
+        "output": "iliwb-vla"
+    },
+    {
+        "input": "*(forty@seven)",
+        "output": "iruwb-vhyhq"
+    },
+    {
+        "input": "*(fifty-eight@thirty-one)",
+        "output": "hljkwb-qlqh"
+    },
+    {
+        "input": "*(sixty-five@twenty-five)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(sixty-seven@thirty)",
+        "output": "qlqhwb-vhyhq"
+    },
+    {
+        "input": "*(one@thirteen)",
+        "output": "irxuwhhq"
+    },
+    {
+        "input": "*(four@seven)",
+        "output": "hohyhq"
+    },
+    {
+        "input": "*(forty-five@twenty-six)",
+        "output": "vhyhqwb-rqh"
+    },
+    {
+        "input": "*(nineteen@twenty-two)",
+        "output": "iruwb-rqh"
+    },
+    {
+        "input": "*(eight@ten)",
+        "output": "hljkwhhq"
+    },
+    {
+        "input": "*(nine@twenty-six)",
+        "output": "wkluwb-ilyh"
+    },
+    {
+        "input": "*(ninety@five)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(sixteen@sixty-two)",
+        "output": "vhyhqwb-hljkw"
+    },
+    {
+        "input": "*(sixty-nine@three)",
+        "output": "vhyhqwb-wzr"
+    },
+    {
+        "input": "*(sixty-three@twenty-six)",
+        "output": "hljkwb-qlqh"
+    },
+    {
+        "input": "*(thirty-seven@sixty)",
+        "output": "qlqhwb-vhyhq"
+    },
+    {
+        "input": "*(six@eighteen)",
+        "output": "wzhqwb-irxu"
+    },
+    {
+        "input": "*(eleven@seventy-five)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(fifty-three@forty-two)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(sixty-four@twenty-seven)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(six@fourteen)",
+        "output": "wzhqwb"
+    },
+    {
+        "input": "*(twenty-eight@thirty-nine)",
+        "output": "vlawb-vhyhq"
+    },
+    {
+        "input": "*(two@ninety-three)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(twenty-nine@eighteen)",
+        "output": "iruwb-vhyhq"
+    },
+    {
+        "input": "*(four@twenty-six)",
+        "output": "wkluwb"
+    },
+    {
+        "input": "*(twenty-three@fifty)",
+        "output": "vhyhqwb-wkuhh"
+    },
+    {
+        "input": "*(twenty@sixty-four)",
+        "output": "hljkwb-irxu"
+    },
+    {
+        "input": "*(forty-one@twenty)",
+        "output": "vlawb-rqh"
+    },
+    {
+        "input": "*(seventy-eight@nine)",
+        "output": "hljkwb-vhyhq"
+    },
+    {
+        "input": "*(thirty-one@sixty-four)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(thirty-five@fourteen)",
+        "output": "iruwb-qlqh"
+    },
+    {
+        "input": "*(twenty-three@seventy)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(fifty-seven@twenty-eight)",
+        "output": "hljkwb-ilyh"
+    },
+    {
+        "input": "*(nine@fifty-seven)",
+        "output": "vlawb-vla"
+    },
+    {
+        "input": "*(fifty-six@twenty-two)",
+        "output": "vhyhqwb-hljkw"
+    },
+    {
+        "input": "*(sixty-seven@fourteen)",
+        "output": "hljkwb-rqh"
+    },
+    {
+        "input": "*(thirteen@eighty-one)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(fifty-three@forty)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(thirty-one@sixty-five)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(four@ninety)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(thirty-nine@thirty-nine)",
+        "output": "vhyhqwb-hljkw"
+    },
+    {
+        "input": "*(twenty-two@nineteen)",
+        "output": "iruwb-rqh"
+    },
+    {
+        "input": "*(eleven@fifty-five)",
+        "output": "vlawb-vla"
+    },
+    {
+        "input": "*(thirty-seven@twenty-eight)",
+        "output": "vlawb-ilyh"
+    },
+    {
+        "input": "*(twenty-six@thirty-two)",
+        "output": "iliwb-hljkw"
+    },
+    {
+        "input": "*(ten@eighty-two)",
+        "output": "qlqhwb-wzr"
+    },
+    {
+        "input": "*(twelve@fifty)",
+        "output": "vlawb-wzr"
+    },
+    {
+        "input": "*(forty-two@six)",
+        "output": "iruwb-hljkw"
+    },
+    {
+        "input": "*(thirty-four@eight)",
+        "output": "iruwb-wzr"
+    },
+    {
+        "input": "*(thirty-one@five)",
+        "output": "wkluwb-vla"
+    },
+    {
+        "input": "*(five@seventy-nine)",
+        "output": "hljkwb-irxu"
+    },
+    {
+        "input": "*(sixty-five@nineteen)",
+        "output": "hljkwb-irxu"
+    },
+    {
+        "input": "*(three@seventy-five)",
+        "output": "vhyhqwb-hljkw"
+    },
+    {
+        "input": "*(seven@fifty-seven)",
+        "output": "vlawb-irxu"
+    },
+    {
+        "input": "*(one@twenty-seven)",
+        "output": "wzhqwb-hljkw"
+    },
+    {
+        "input": "*(seventeen@three)",
+        "output": "wzhqwb"
+    },
+    {
+        "input": "*(thirty@ten)",
+        "output": "iruwb"
+    },
+    {
+        "input": "*(four@forty-seven)",
+        "output": "iliwb-rqh"
+    },
+    {
+        "input": "*(three@seventy)",
+        "output": "vhyhqwb-wkuhh"
+    },
+    {
+        "input": "*(six@fifteen)",
+        "output": "wzhqwb-rqh"
+    },
+    {
+        "input": "*(sixty-five@one)",
+        "output": "vlawb-vla"
+    },
+    {
+        "input": "*(forty-six@four)",
+        "output": "iliwb"
+    },
+    {
+        "input": "*(thirty-seven@fifty-three)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(forty-eight@five)",
+        "output": "iliwb-wkuhh"
+    },
+    {
+        "input": "*(seventeen@four)",
+        "output": "wzhqwb-rqh"
+    },
+    {
+        "input": "*(thirty-one@twenty-six)",
+        "output": "iliwb-vhyhq"
+    },
+    {
+        "input": "*(twenty-nine@twenty-two)",
+        "output": "iliwb-rqh"
+    },
+    {
+        "input": "*(thirty-two@forty-six)",
+        "output": "vhyhqwb-hljkw"
+    },
+    {
+        "input": "*(five@seven)",
+        "output": "wzhoyh"
+    },
+    {
+        "input": "*(fifty-six@eleven)",
+        "output": "vlawb-vhyhq"
+    },
+    {
+        "input": "*(twenty-seven@forty)",
+        "output": "vlawb-vhyhq"
+    },
+    {
+        "input": "*(twenty@forty-five)",
+        "output": "vlawb-ilyh"
+    },
+    {
+        "input": "*(eighty-one@seventeen)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(sixty-four@fifteen)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(zero@ten)",
+        "output": "whq"
+    },
+    {
+        "input": "*(twenty@fifty-four)",
+        "output": "vhyhqwb-irxu"
+    },
+    {
+        "input": "*(forty@twenty-four)",
+        "output": "vlawb-irxu"
+    },
+    {
+        "input": "*(eighty-one@fourteen)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(ninety@two)",
+        "output": "qlqhwb-wzr"
+    },
+    {
+        "input": "*(sixty-three@twelve)",
+        "output": "vhyhqwb-ilyh"
+    },
+    {
+        "input": "*(nine@seventy-one)",
+        "output": "hljkwb"
+    },
+    {
+        "input": "*(thirty@nine)",
+        "output": "wkluwb-qlqh"
+    },
+    {
+        "input": "*(twenty-nine@sixty-three)",
+        "output": "qlqhwb-wzr"
+    },
+    {
+        "input": "*(forty-six@six)",
+        "output": "iliwb-wzr"
+    },
+    {
+        "input": "*(three@ninety-six)",
+        "output": "qlqhwb-qlqh"
+    },
+    {
+        "input": "*(sixteen@seventy-one)",
+        "output": "hljkwb-vhyhq"
+    },
+    {
+        "input": "*(twelve@sixty-one)",
+        "output": "vhyhqwb-wkuhh"
+    },
+    {
+        "input": "*(ten@forty)",
+        "output": "iliwb"
+    },
+    {
+        "input": "*(three@twenty-seven)",
+        "output": "wkluwb"
+    },
+    {
+        "input": "*(thirty-one@sixty-three)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(forty-eight@seventeen)",
+        "output": "vlawb-ilyh"
+    },
+    {
+        "input": "*(seventy-four@twenty-one)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(twenty-three@three)",
+        "output": "wzhqwb-vla"
+    },
+    {
+        "input": "*(zero@eighty-five)",
+        "output": "hljkwb-ilyh"
+    },
+    {
+        "input": "*(three@eighty-five)",
+        "output": "hljkwb-hljkw"
+    },
+    {
+        "input": "*(four@eighty-two)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(twenty-three@seventy-one)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(thirty-eight@twenty-two)",
+        "output": "vlawb"
+    },
+    {
+        "input": "*(seventy-nine@five)",
+        "output": "hljkwb-irxu"
+    },
+    {
+        "input": "*(ten@seventeen)",
+        "output": "wzhqwb-vhyhq"
+    },
+    {
+        "input": "*(twelve@twenty-eight)",
+        "output": "iruwb"
+    },
+    {
+        "input": "*(ten@sixty-two)",
+        "output": "vhyhqwb-wzr"
+    },
+    {
+        "input": "*(eighty-three@eight)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(fifty-nine@seven)",
+        "output": "vlawb-vla"
+    },
+    {
+        "input": "*(sixty-five@two)",
+        "output": "vlawb-vhyhq"
+    },
+    {
+        "input": "*(twenty-five@twenty-seven)",
+        "output": "iliwb-wzr"
+    },
+    {
+        "input": "*(forty-one@fourteen)",
+        "output": "iliwb-ilyh"
+    },
+    {
+        "input": "*(thirteen@sixty-three)",
+        "output": "vhyhqwb-vla"
+    },
+    {
+        "input": "*(twenty-eight@fifty-nine)",
+        "output": "hljkwb-vhyhq"
+    },
+    {
+        "input": "*(forty-eight@twenty-nine)",
+        "output": "vhyhqwb-vhyhq"
+    },
+    {
+        "input": "*(eighteen@one)",
+        "output": "qlqhwhhq"
+    },
+    {
+        "input": "*(five@two)",
+        "output": "vhyhq"
+    },
+    {
+        "input": "*(fourteen@twenty-one)",
+        "output": "wkluwb-ilyh"
+    },
+    {
+        "input": "*(four@seventy)",
+        "output": "vhyhqwb-irxu"
+    },
+    {
+        "input": "*(two@fifty-eight)",
+        "output": "vlawb"
+    },
+    {
+        "input": "*(seventy-one@seventeen)",
+        "output": "hljkwb-hljkw"
+    },
+    {
+        "input": "*(fifty-five@twenty-four)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(thirty-seven@forty-five)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(thirty-three@fifty-five)",
+        "output": "hljkwb-hljkw"
+    },
+    {
+        "input": "*(fifty@thirty-six)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(twenty-two@forty-seven)",
+        "output": "vlawb-qlqh"
+    },
+    {
+        "input": "*(nine@eighteen)",
+        "output": "wzhqwb-vhyhq"
+    },
+    {
+        "input": "*(sixty-three@twenty-one)",
+        "output": "hljkwb-irxu"
+    },
+    {
+        "input": "*(nine@sixty-eight)",
+        "output": "vhyhqwb-vhyhq"
+    },
+    {
+        "input": "*(twenty-nine@fifty-five)",
+        "output": "hljkwb-irxu"
+    },
+    {
+        "input": "*(fifty-four@forty-two)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(fifty-nine@nineteen)",
+        "output": "vhyhqwb-hljkw"
+    },
+    {
+        "input": "*(forty-four@thirty-two)",
+        "output": "vhyhqwb-vla"
+    },
+    {
+        "input": "*(eight@nineteen)",
+        "output": "wzhqwb-vhyhq"
+    },
+    {
+        "input": "*(six@nine)",
+        "output": "iliwhhq"
+    },
+    {
+        "input": "*(twenty@fourteen)",
+        "output": "wkluwb-irxu"
+    },
+    {
+        "input": "*(nine@forty-four)",
+        "output": "iliwb-wkuhh"
+    },
+    {
+        "input": "*(thirty-six@thirty-one)",
+        "output": "vlawb-vhyhq"
+    },
+    {
+        "input": "*(twelve@eight)",
+        "output": "wzhqwb"
+    },
+    {
+        "input": "*(three@fifteen)",
+        "output": "hljkwhhq"
+    },
+    {
+        "input": "*(twenty-two@thirteen)",
+        "output": "wkluwb-ilyh"
+    },
+    {
+        "input": "*(twenty-two@sixty-two)",
+        "output": "hljkwb-irxu"
+    },
+    {
+        "input": "*(forty-one@twenty-four)",
+        "output": "vlawb-ilyh"
+    },
+    {
+        "input": "*(thirty-seven@twenty-six)",
+        "output": "vlawb-wkuhh"
+    },
+    {
+        "input": "*(eleven@sixty-one)",
+        "output": "vhyhqwb-wzr"
+    },
+    {
+        "input": "*(sixty-three@twenty)",
+        "output": "hljkwb-wkuhh"
+    },
+    {
+        "input": "*(sixteen@forty-four)",
+        "output": "vlawb"
+    },
+    {
+        "input": "*(eight@ninety)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(thirteen@forty)",
+        "output": "iliwb-wkuhh"
+    },
+    {
+        "input": "*(zero@ninety-three)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(forty-four@six)",
+        "output": "iliwb"
+    },
+    {
+        "input": "*(thirty-one@fifty-two)",
+        "output": "hljkwb-wkuhh"
+    },
+    {
+        "input": "*(thirty-one@one)",
+        "output": "wkluwb-wzr"
+    },
+    {
+        "input": "*(twelve@twenty-five)",
+        "output": "wkluwb-vhyhq"
+    },
+    {
+        "input": "*(twenty-nine@forty-two)",
+        "output": "vhyhqwb-rqh"
+    },
+    {
+        "input": "*(nineteen@sixty-four)",
+        "output": "hljkwb-wkuhh"
+    },
+    {
+        "input": "*(thirty-five@thirty-nine)",
+        "output": "vhyhqwb-irxu"
+    },
+    {
+        "input": "*(twenty-seven@nine)",
+        "output": "wkluwb-vla"
+    },
+    {
+        "input": "*(three@six)",
+        "output": "qlqh"
+    },
+    {
+        "input": "*(thirteen@fifty-two)",
+        "output": "vlawb-ilyh"
+    },
+    {
+        "input": "*(twenty-four@thirty-nine)",
+        "output": "vlawb-wkuhh"
+    },
+    {
+        "input": "*(sixty-nine@eleven)",
+        "output": "hljkwb"
+    },
+    {
+        "input": "*(nine@sixteen)",
+        "output": "wzhqwb-ilyh"
+    },
+    {
+        "input": "*(twenty-five@eight)",
+        "output": "wkluwb-wkuhh"
+    },
+    {
+        "input": "*(five@thirty-five)",
+        "output": "iruwb"
+    },
+    {
+        "input": "*(nine@eighty-six)",
+        "output": "qlqhwb-ilyh"
+    },
+    {
+        "input": "*(fifty-six@twenty-nine)",
+        "output": "hljkwb-ilyh"
+    },
+    {
+        "input": "*(ten@twenty-nine)",
+        "output": "wkluwb-qlqh"
+    },
+    {
+        "input": "*(forty-two@twenty-four)",
+        "output": "vlawb-vla"
+    },
+    {
+        "input": "*(three@thirty-two)",
+        "output": "wkluwb-ilyh"
+    },
+    {
+        "input": "*(nineteen@fifty-one)",
+        "output": "vhyhqwb"
+    },
+    {
+        "input": "*(fifty@twenty-two)",
+        "output": "vhyhqwb-wzr"
+    },
+    {
+        "input": "*(five@fifteen)",
+        "output": "wzhqwb"
+    },
+    {
+        "input": "*(twenty-one@four)",
+        "output": "wzhqwb-ilyh"
+    },
+    {
+        "input": "*(ten@thirty-five)",
+        "output": "iruwb-ilyh"
+    },
+    {
+        "input": "*(twenty-nine@fifty-nine)",
+        "output": "hljkwb-hljkw"
+    },
+    {
+        "input": "*(twenty-four@seventeen)",
+        "output": "iruwb-rqh"
+    },
+    {
+        "input": "*(twenty-seven@nineteen)",
+        "output": "iruwb-vla"
+    },
+    {
+        "input": "*(twenty-two@one)",
+        "output": "wzhqwb-wkuhh"
+    },
+    {
+        "input": "*(thirty-one@fifty)",
+        "output": "hljkwb-rqh"
+    },
+    {
+        "input": "*(sixty-six@twenty-five)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(one@fifty-six)",
+        "output": "iliwb-vhyhq"
+    },
+    {
+        "input": "*(seventy-two@twenty-two)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(eleven@eighty-six)",
+        "output": "qlqhwb-vhyhq"
+    },
+    {
+        "input": "*(ten@thirty-seven)",
+        "output": "iruwb-vhyhq"
+    },
+    {
+        "input": "*(twenty-five@seven)",
+        "output": "wkluwb-wzr"
+    },
+    {
+        "input": "*(forty-three@thirteen)",
+        "output": "iliwb-vla"
+    },
+    {
+        "input": "*(fifty-four@ten)",
+        "output": "vlawb-irxu"
+    },
+    {
+        "input": "*(fifty-seven@thirteen)",
+        "output": "vhyhqwb"
+    },
+    {
+        "input": "*(sixty-seven@sixteen)",
+        "output": "hljkwb-wkuhh"
+    },
+    {
+        "input": "*(twenty-nine@fourteen)",
+        "output": "iruwb-wkuhh"
+    },
+    {
+        "input": "*(thirty-seven@four)",
+        "output": "iruwb-rqh"
+    },
+    {
+        "input": "*(forty-four@two)",
+        "output": "iruwb-vla"
+    },
+    {
+        "input": "*(eight@eighty-six)",
+        "output": "qlqhwb-irxu"
+    },
+    {
+        "input": "*(nine@forty-six)",
+        "output": "iliwb-ilyh"
+    },
+    {
+        "input": "*(twenty-six@sixty)",
+        "output": "hljkwb-vla"
+    },
+    {
+        "input": "*(nine@four)",
+        "output": "wkluwhhq"
+    },
+    {
+        "input": "*(eleven@fifty)",
+        "output": "vlawb-rqh"
+    },
+    {
+        "input": "*(fifty-four@two)",
+        "output": "iliwb-vla"
+    },
+    {
+        "input": "*(seven@fifteen)",
+        "output": "wzhqwb-wzr"
+    },
+    {
+        "input": "*(ten@fifty-five)",
+        "output": "vlawb-ilyh"
+    },
+    {
+        "input": "*(sixty-seven@twenty-five)",
+        "output": "qlqhwb-wzr"
+    },
+    {
+        "input": "*(twenty-seven@one)",
+        "output": "wzhqwb-hljkw"
+    },
+    {
+        "input": "*(ten@twelve)",
+        "output": "wzhqwb-wzr"
+    },
+    {
+        "input": "*(eighteen@thirty-nine)",
+        "output": "iliwb-vhyhq"
+    },
+    {
+        "input": "*(forty-seven@forty)",
+        "output": "hljkwb-vhyhq"
+    },
+    {
+        "input": "*(eleven@eighteen)",
+        "output": "wzhqwb-qlqh"
+    },
+    {
+        "input": "*(eighty@sixteen)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(thirty-nine@two)",
+        "output": "iruwb-rqh"
+    },
+    {
+        "input": "*(eleven@seventy-three)",
+        "output": "hljkwb-irxu"
+    },
+    {
+        "input": "*(fifty@fourteen)",
+        "output": "vlawb-irxu"
+    },
+    {
+        "input": "*(sixty-six@thirty-one)",
+        "output": "qlqhwb-vhyhq"
+    },
+    {
+        "input": "*(twenty-seven@thirty-six)",
+        "output": "vlawb-wkuhh"
+    },
+    {
+        "input": "*(thirty-eight@thirty-one)",
+        "output": "vlawb-qlqh"
+    },
+    {
+        "input": "*(ten@eighty-six)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(three@twenty-five)",
+        "output": "wzhqwb-hljkw"
+    },
+    {
+        "input": "*(fourteen@fifty-nine)",
+        "output": "vhyhqwb-wkuhh"
+    },
+    {
+        "input": "*(one@ninety)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(thirty-eight@forty-one)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(thirty-two@sixty-one)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(eight@twenty-seven)",
+        "output": "wkluwb-ilyh"
+    },
+    {
+        "input": "*(one@seventy-eight)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(sixty-two@twenty-six)",
+        "output": "hljkwb-hljkw"
+    },
+    {
+        "input": "*(seventy-two@eighteen)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(seventy-eight@twenty-one)",
+        "output": "qlqhwb-qlqh"
+    },
+    {
+        "input": "*(seventy-six@five)",
+        "output": "hljkwb-rqh"
+    },
+    {
+        "input": "*(six@eighty-five)",
+        "output": "qlqhwb-rqh"
+    },
+    {
+        "input": "*(two@eighty-one)",
+        "output": "hljkwb-wkuhh"
+    },
+    {
+        "input": "*(fifty-four@sixteen)",
+        "output": "vhyhqwb"
+    },
+    {
+        "input": "*(eleven@eighty-one)",
+        "output": "qlqhwb-wzr"
+    },
+    {
+        "input": "*(eighty-two@fourteen)",
+        "output": "qlqhwb-vla"
+    },
+    {
+        "input": "*(fifty-six@forty-two)",
+        "output": "qlqhwb-hljkw"
+    },
+    {
+        "input": "*(eighty-eight@nine)",
+        "output": "qlqhwb-vhyhq"
+    },
+    {
+        "input": "*(forty-seven@two)",
+        "output": "iruwb-qlqh"
+    },
+    {
+        "input": "*(fifty-three@four)",
+        "output": "iliwb-vhyhq"
+    },
+    {
+        "input": "*(zero@ninety-seven)",
+        "output": "qlqhwb-vhyhq"
+    },
+    {
+        "input": "*(eight@sixty-three)",
+        "output": "vhyhqwb-rqh"
+    },
+    {
+        "input": "*(thirty-one@thirty-six)",
+        "output": "vlawb-vhyhq"
+    },
+    {
+        "input": "*(seventy-five@fifteen)",
+        "output": "qlqhwb"
+    },
+    {
+        "input": "*(sixty-nine@nine)",
+        "output": "vhyhqwb-hljkw"
+    },
+    {
+        "input": "*(forty-four@forty-three)",
+        "output": "hljkwb-vhyhq"
+    },
+    {
+        "input": "*(fifty@thirty-three)",
+        "output": "hljkwb-wkuhh"
+    },
+    {
+        "input": "*(thirty-six@forty-six)",
+        "output": "hljkwb-wzr"
+    },
+    {
+        "input": "*(forty-six@seventeen)",
+        "output": "vlawb-wkuhh"
+    },
+    {
+        "input": "*(fifty-two@twenty-seven)",
+        "output": "vhyhqwb-qlqh"
+    },
+    {
+        "input": "*(thirty-seven@eleven)",
+        "output": "iruwb-hljkw"
+    },
+    {
+        "input": "*(fifty-one@forty-two)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(forty-three@fifty)",
+        "output": "qlqhwb-wkuhh"
+    },
+    {
+        "input": "*(forty-one@thirteen)",
+        "output": "iliwb-irxu"
+    },
+    {
+        "input": "*(fifteen@seventy)",
+        "output": "hljkwb-ilyh"
+    },
+    {
+        "input": "*(eight@seventy-seven)",
+        "output": "hljkwb-ilyh"
+    },
+    {
+        "input": "*(thirty-three@eleven)",
+        "output": "iruwb-irxu"
+    },
+    {
+        "input": "*(twenty-three@thirty-six)",
+        "output": "iliwb-qlqh"
+    },
+    {
+        "input": "*(twenty-seven@twenty-four)",
+        "output": "iliwb-rqh"
+    },
+    {
+        "input": "*(fifty-nine@sixteen)",
+        "output": "vhyhqwb-ilyh"
+    },
+    {
+        "input": "*(twenty-three@sixty-two)",
+        "output": "hljkwb-ilyh"
+    },
+    {
+        "input": "*(thirteen@fifty-seven)",
+        "output": "vhyhqwb"
+    },
+    {
+        "input": "*(thirteen@twenty-one)",
+        "output": "wkluwb-irxu"
+    },
+    {
+        "input": "*(twenty-nine@seventy)",
+        "output": "qlqhwb-qlqh"
+    },
+    {
+        "input": "*(thirteen@four)",
+        "output": "vhyhqwhhq"
+    },
+    {
+        "input": "*(fifty-one@twenty-nine)",
+        "output": "hljkwb"
+    },
+    {
+        "input": "*(twenty-seven@fifty)",
+        "output": "vhyhqwb-vhyhq"
+    },
+    {
+        "input": "*(nine@forty)",
+        "output": "iruwb-qlqh"
+    },
+    {
+        "input": "*(fifty-eight@twenty-six)",
+        "output": "hljkwb-irxu"
+    }
+]

@@ -1,0 +1,730 @@
+[
+    {
+        "input": "Above accept",
+        "output": "Below accepted"
+    },
+    {
+        "input": "Accept achieve",
+        "output": "Reject achieved"
+    },
+    {
+        "input": "Alive advise",
+        "output": "Dead advised"
+    },
+    {
+        "input": "Ancient agree",
+        "output": "Modern agreed"
+    },
+    {
+        "input": "Ascend appear",
+        "output": "Descend appeared"
+    },
+    {
+        "input": "Attack apply",
+        "output": "Defend applied"
+    },
+    {
+        "input": "Birth arrive",
+        "output": "Death arrived"
+    },
+    {
+        "input": "Bitter ask",
+        "output": "Sweet asked"
+    },
+    {
+        "input": "Black attach",
+        "output": "White attached"
+    },
+    {
+        "input": "Borrow attempt",
+        "output": "Lend attempted"
+    },
+    {
+        "input": "Break bake",
+        "output": "Fix baked"
+    },
+    {
+        "input": "Clean begin",
+        "output": "Dirty began"
+    },
+    {
+        "input": "Clear believe",
+        "output": "Cloudy believed"
+    },
+    {
+        "input": "Close break",
+        "output": "Far broke"
+    },
+    {
+        "input": "Comedy bring",
+        "output": "Tragedy brought"
+    },
+    {
+        "input": "Complicated build",
+        "output": "Simple built"
+    },
+    {
+        "input": "Cool burn",
+        "output": "Warm burned"
+    },
+    {
+        "input": "Correct buy",
+        "output": "Incorrect bought"
+    },
+    {
+        "input": "Cruel can",
+        "output": "Kind could"
+    },
+    {
+        "input": "Day care",
+        "output": "Night cared"
+    },
+    {
+        "input": "Decrease carry",
+        "output": "Increase carried"
+    },
+    {
+        "input": "Defeat cause",
+        "output": "Victory caused"
+    },
+    {
+        "input": "Descend charge",
+        "output": "Ascend charged"
+    },
+    {
+        "input": "Destroy check",
+        "output": "Build checked"
+    },
+    {
+        "input": "Difficult claim",
+        "output": "Easy claimed"
+    },
+    {
+        "input": "Disappear clear",
+        "output": "Appear cleared"
+    },
+    {
+        "input": "Divide climb",
+        "output": "Unite climbed"
+    },
+    {
+        "input": "Dull collect",
+        "output": "Interesting collected"
+    },
+    {
+        "input": "Eager come",
+        "output": "Reluctant came"
+    },
+    {
+        "input": "Early compare",
+        "output": "Late compared"
+    },
+    {
+        "input": "East compete",
+        "output": "West competed"
+    },
+    {
+        "input": "Empty complain",
+        "output": "Full complained"
+    },
+    {
+        "input": "End complete",
+        "output": "Begin completed"
+    },
+    {
+        "input": "Enemy concern",
+        "output": "Friend concerned"
+    },
+    {
+        "input": "Enter confirm",
+        "output": "Exit confirmed"
+    },
+    {
+        "input": "Excited consult",
+        "output": "Bored consulted"
+    },
+    {
+        "input": "Expensive contain",
+        "output": "Cheap contained"
+    },
+    {
+        "input": "Fail continue",
+        "output": "Succeed continued"
+    },
+    {
+        "input": "False contribute",
+        "output": "True contributed"
+    },
+    {
+        "input": "Famous control",
+        "output": "Unknown controlled"
+    },
+    {
+        "input": "Far cook",
+        "output": "Near cooked"
+    },
+    {
+        "input": "Fast copy",
+        "output": "Slow copied"
+    },
+    {
+        "input": "Fat correct",
+        "output": "Skinny corrected"
+    },
+    {
+        "input": "Few cost",
+        "output": "Many cost"
+    },
+    {
+        "input": "First create",
+        "output": "Last created"
+    },
+    {
+        "input": "Fixed cry",
+        "output": "Broken cried"
+    },
+    {
+        "input": "Flat cut",
+        "output": "Hilly cut"
+    },
+    {
+        "input": "Foolish dance",
+        "output": "Wise danced"
+    },
+    {
+        "input": "Forget deal",
+        "output": "Remember dealt"
+    },
+    {
+        "input": "Free deliver",
+        "output": "Expensive delivered"
+    },
+    {
+        "input": "Freeze demand",
+        "output": "Melt demanded"
+    },
+    {
+        "input": "Fresh deny",
+        "output": "Stale denied"
+    },
+    {
+        "input": "Friend depend",
+        "output": "Enemy depended"
+    },
+    {
+        "input": "Full deserve",
+        "output": "Empty deserved"
+    },
+    {
+        "input": "Gentle determine",
+        "output": "Rough determined"
+    },
+    {
+        "input": "Glad disagree",
+        "output": "Sad disagreed"
+    },
+    {
+        "input": "Good discuss",
+        "output": "Bad discussed"
+    },
+    {
+        "input": "Grant divide",
+        "output": "Refuse divided"
+    },
+    {
+        "input": "Great do",
+        "output": "Terrible did"
+    },
+    {
+        "input": "Guilty dream",
+        "output": "Innocent dreamed"
+    },
+    {
+        "input": "Hard drive",
+        "output": "Soft drove"
+    },
+    {
+        "input": "Harsh drop",
+        "output": "Mild dropped"
+    },
+    {
+        "input": "Hate earn",
+        "output": "Love earned"
+    },
+    {
+        "input": "Heavy emphasize",
+        "output": "Light emphasized"
+    },
+    {
+        "input": "Help enable",
+        "output": "Hinder enabled"
+    },
+    {
+        "input": "High encourage",
+        "output": "Low encouraged"
+    },
+    {
+        "input": "Hit enhance",
+        "output": "Miss enhanced"
+    },
+    {
+        "input": "Hold enjoy",
+        "output": "Release enjoyed"
+    },
+    {
+        "input": "Hot ensure",
+        "output": "Cold ensured"
+    },
+    {
+        "input": "Humble enter",
+        "output": "Proud entered"
+    },
+    {
+        "input": "Hurt exist",
+        "output": "Heal existed"
+    },
+    {
+        "input": "Ignore expand",
+        "output": "Notice expanded"
+    },
+    {
+        "input": "Illegal expect",
+        "output": "Legal expected"
+    },
+    {
+        "input": "In explain",
+        "output": "Out explained"
+    },
+    {
+        "input": "Increase explore",
+        "output": "Decrease explored"
+    },
+    {
+        "input": "Inferior express",
+        "output": "Superior expressed"
+    },
+    {
+        "input": "Inflate extend",
+        "output": "Deflate extended"
+    },
+    {
+        "input": "Innocent face",
+        "output": "Guilty faced"
+    },
+    {
+        "input": "Inside fail",
+        "output": "Outside failed"
+    },
+    {
+        "input": "Insult fall",
+        "output": "Compliment fell"
+    },
+    {
+        "input": "Intelligent feed",
+        "output": "Unintelligent fed"
+    },
+    {
+        "input": "Intentional feel",
+        "output": "Accidental felt"
+    },
+    {
+        "input": "Interest fight",
+        "output": "Disinterest fought"
+    },
+    {
+        "input": "Join find",
+        "output": "Separate found"
+    },
+    {
+        "input": "Joy finish",
+        "output": "Sorrow finished"
+    },
+    {
+        "input": "Junior fit",
+        "output": "Senior fit/fitted"
+    },
+    {
+        "input": "Knowledge focus",
+        "output": "Ignorance focused"
+    },
+    {
+        "input": "Land follow",
+        "output": "Sea followed"
+    },
+    {
+        "input": "Last forget",
+        "output": "First forgot"
+    },
+    {
+        "input": "Laugh forgive",
+        "output": "Cry forgave"
+    },
+    {
+        "input": "Lead freeze",
+        "output": "Follow froze"
+    },
+    {
+        "input": "Leader get",
+        "output": "Follower got"
+    },
+    {
+        "input": "Learn go",
+        "output": "Forget went"
+    },
+    {
+        "input": "Least grow",
+        "output": "Most grew"
+    },
+    {
+        "input": "Leave handle",
+        "output": "Arrive handled"
+    },
+    {
+        "input": "Legal happen",
+        "output": "Illegal happened"
+    },
+    {
+        "input": "Less have",
+        "output": "More had"
+    },
+    {
+        "input": "Light help",
+        "output": "Dark helped"
+    },
+    {
+        "input": "Light hide",
+        "output": "Heavy hid"
+    },
+    {
+        "input": "Like hit",
+        "output": "Dislike hit"
+    },
+    {
+        "input": "Liquid hold",
+        "output": "Solid held"
+    },
+    {
+        "input": "Little hope",
+        "output": "Big hoped"
+    },
+    {
+        "input": "Live hurt",
+        "output": "Die hurt"
+    },
+    {
+        "input": "Long identify",
+        "output": "Short identified"
+    },
+    {
+        "input": "Lose ignore",
+        "output": "Win ignored"
+    },
+    {
+        "input": "Loud imagine",
+        "output": "Quiet imagined"
+    },
+    {
+        "input": "Love implement",
+        "output": "Hate implemented"
+    },
+    {
+        "input": "Low imply",
+        "output": "High implied"
+    },
+    {
+        "input": "Male include",
+        "output": "Female included"
+    },
+    {
+        "input": "Manual incorporate",
+        "output": "Automatic incorporated"
+    },
+    {
+        "input": "Married indicate",
+        "output": "Single indicated"
+    },
+    {
+        "input": "Mature inform",
+        "output": "Immature informed"
+    },
+    {
+        "input": "Mean install",
+        "output": "Generous installed"
+    },
+    {
+        "input": "Moist involve",
+        "output": "Dry involved"
+    },
+    {
+        "input": "Moon join",
+        "output": "Sun joined"
+    },
+    {
+        "input": "Narrow justify",
+        "output": "Wide justified"
+    },
+    {
+        "input": "Natural kick",
+        "output": "Artificial kicked"
+    },
+    {
+        "input": "Near kill",
+        "output": "Far killed"
+    },
+    {
+        "input": "New knock",
+        "output": "Old knocked"
+    },
+    {
+        "input": "Night know",
+        "output": "Day knew"
+    },
+    {
+        "input": "Noisy lack",
+        "output": "Silent lacked"
+    },
+    {
+        "input": "Normal laugh",
+        "output": "Strange laughed"
+    },
+    {
+        "input": "North lay",
+        "output": "South laid"
+    },
+    {
+        "input": "Nothing lead",
+        "output": "Everything led"
+    },
+    {
+        "input": "Notice lean",
+        "output": "Ignore leaned"
+    },
+    {
+        "input": "Now learn",
+        "output": "Then learned"
+    },
+    {
+        "input": "Open let",
+        "output": "Closed let"
+    },
+    {
+        "input": "Optimist lie",
+        "output": "Pessimist lay"
+    },
+    {
+        "input": "Order light",
+        "output": "Chaos lit"
+    },
+    {
+        "input": "Organized listen",
+        "output": "Disorganized listened"
+    },
+    {
+        "input": "Out look",
+        "output": "In looked"
+    },
+    {
+        "input": "Part make",
+        "output": "Whole made"
+    },
+    {
+        "input": "Past mark",
+        "output": "Future marked"
+    },
+    {
+        "input": "Peace mean",
+        "output": "War meant"
+    },
+    {
+        "input": "Permit meet",
+        "output": "Forbid met"
+    },
+    {
+        "input": "Pleasant mention",
+        "output": "Unpleasant mentioned"
+    },
+    {
+        "input": "Plenty mind",
+        "output": "Lack minded"
+    },
+    {
+        "input": "Poor mix",
+        "output": "Wealthy mixed"
+    },
+    {
+        "input": "Powerful need",
+        "output": "Weak needed"
+    },
+    {
+        "input": "Praise negotiate",
+        "output": "Criticize negotiated"
+    },
+    {
+        "input": "Pretty obtain",
+        "output": "Ugly obtained"
+    },
+    {
+        "input": "Private occur",
+        "output": "Public occurred"
+    },
+    {
+        "input": "Profit open",
+        "output": "Loss opened"
+    },
+    {
+        "input": "Progress operate",
+        "output": "Regres operated"
+    },
+    {
+        "input": "Proud order",
+        "output": "Humble ordered"
+    },
+    {
+        "input": "Public organize",
+        "output": "Private organized"
+    },
+    {
+        "input": "Pure participate",
+        "output": "Impure participated"
+    },
+    {
+        "input": "Raise perform",
+        "output": "Lower performed"
+    },
+    {
+        "input": "Random persuade",
+        "output": "Specific persuaded"
+    },
+    {
+        "input": "Rare place",
+        "output": "Common placed"
+    },
+    {
+        "input": "Reduce point",
+        "output": "Increase pointed"
+    },
+    {
+        "input": "Regret prepare",
+        "output": "Delight prepared"
+    },
+    {
+        "input": "Regular present",
+        "output": "Irregular presented"
+    },
+    {
+        "input": "Related prevent",
+        "output": "Unrelated prevented"
+    },
+    {
+        "input": "Remember produce",
+        "output": "Forget produced"
+    },
+    {
+        "input": "Repair promise",
+        "output": "Damage promised"
+    },
+    {
+        "input": "Reply promote",
+        "output": "Question promoted"
+    },
+    {
+        "input": "Respect protect",
+        "output": "Disrespect protected"
+    },
+    {
+        "input": "Responsible prove",
+        "output": "Irresponsible proved"
+    },
+    {
+        "input": "Rigid pull",
+        "output": "Flexible pulled"
+    },
+    {
+        "input": "Rise push",
+        "output": "Fall pushed"
+    },
+    {
+        "input": "Rough put",
+        "output": "Smooth put"
+    },
+    {
+        "input": "Round question",
+        "output": "Square questioned"
+    },
+    {
+        "input": "Rude quit",
+        "output": "Polite quit"
+    },
+    {
+        "input": "Rural reach",
+        "output": "Urban reached"
+    },
+    {
+        "input": "Sad read",
+        "output": "Happy read"
+    },
+    {
+        "input": "Same receive",
+        "output": "Different received"
+    },
+    {
+        "input": "Satisfy recognize",
+        "output": "Dissatisfy recognized"
+    },
+    {
+        "input": "Scarce record",
+        "output": "Abundant recorded"
+    },
+    {
+        "input": "Scatter ride",
+        "output": "Gather rode"
+    },
+    {
+        "input": "Scream rise",
+        "output": "Whisper rose"
+    },
+    {
+        "input": "Secure run",
+        "output": "Attack ran"
+    },
+    {
+        "input": "Sharp say",
+        "output": "Dull said"
+    },
+    {
+        "input": "Smooth see",
+        "output": "Rough saw"
+    },
+    {
+        "input": "Start send",
+        "output": "Stop sent"
+    },
+    {
+        "input": "Strong set",
+        "output": "Weak set"
+    },
+    {
+        "input": "Thick shine",
+        "output": "Thin shone"
+    },
+    {
+        "input": "True shoot",
+        "output": "False shot"
+    },
+    {
+        "input": "Up show",
+        "output": "Down showed"
+    },
+    {
+        "input": "Wide shut",
+        "output": "Narrow shut"
+    },
+    {
+        "input": "Win sing",
+        "output": "Lose sang"
+    },
+    {
+        "input": "Young sleep",
+        "output": "Old slept"
+    }
+]

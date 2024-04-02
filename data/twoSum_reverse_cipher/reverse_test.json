@@ -1,0 +1,402 @@
+[
+    {
+        "input": "*(zero)",
+        "output": "orez"
+    },
+    {
+        "input": "*(one)",
+        "output": "eno"
+    },
+    {
+        "input": "*(two)",
+        "output": "owt"
+    },
+    {
+        "input": "*(three)",
+        "output": "eerht"
+    },
+    {
+        "input": "*(four)",
+        "output": "ruof"
+    },
+    {
+        "input": "*(five)",
+        "output": "evif"
+    },
+    {
+        "input": "*(six)",
+        "output": "xis"
+    },
+    {
+        "input": "*(seven)",
+        "output": "neves"
+    },
+    {
+        "input": "*(eight)",
+        "output": "thgie"
+    },
+    {
+        "input": "*(nine)",
+        "output": "enin"
+    },
+    {
+        "input": "*(ten)",
+        "output": "net"
+    },
+    {
+        "input": "*(eleven)",
+        "output": "nevele"
+    },
+    {
+        "input": "*(twelve)",
+        "output": "evlewt"
+    },
+    {
+        "input": "*(thirteen)",
+        "output": "neetriht"
+    },
+    {
+        "input": "*(fourteen)",
+        "output": "neetruof"
+    },
+    {
+        "input": "*(fifteen)",
+        "output": "neetfif"
+    },
+    {
+        "input": "*(sixteen)",
+        "output": "neetxis"
+    },
+    {
+        "input": "*(seventeen)",
+        "output": "neetneves"
+    },
+    {
+        "input": "*(eighteen)",
+        "output": "neethgie"
+    },
+    {
+        "input": "*(nineteen)",
+        "output": "neetenin"
+    },
+    {
+        "input": "*(twenty)",
+        "output": "ytnewt"
+    },
+    {
+        "input": "*(twenty-one)",
+        "output": "eno-ytnewt"
+    },
+    {
+        "input": "*(twenty-two)",
+        "output": "owt-ytnewt"
+    },
+    {
+        "input": "*(twenty-three)",
+        "output": "eerht-ytnewt"
+    },
+    {
+        "input": "*(twenty-four)",
+        "output": "ruof-ytnewt"
+    },
+    {
+        "input": "*(twenty-five)",
+        "output": "evif-ytnewt"
+    },
+    {
+        "input": "*(twenty-six)",
+        "output": "xis-ytnewt"
+    },
+    {
+        "input": "*(twenty-seven)",
+        "output": "neves-ytnewt"
+    },
+    {
+        "input": "*(twenty-eight)",
+        "output": "thgie-ytnewt"
+    },
+    {
+        "input": "*(twenty-nine)",
+        "output": "enin-ytnewt"
+    },
+    {
+        "input": "*(thirty)",
+        "output": "ytriht"
+    },
+    {
+        "input": "*(thirty-one)",
+        "output": "eno-ytriht"
+    },
+    {
+        "input": "*(thirty-two)",
+        "output": "owt-ytriht"
+    },
+    {
+        "input": "*(thirty-three)",
+        "output": "eerht-ytriht"
+    },
+    {
+        "input": "*(thirty-four)",
+        "output": "ruof-ytriht"
+    },
+    {
+        "input": "*(thirty-five)",
+        "output": "evif-ytriht"
+    },
+    {
+        "input": "*(thirty-six)",
+        "output": "xis-ytriht"
+    },
+    {
+        "input": "*(thirty-seven)",
+        "output": "neves-ytriht"
+    },
+    {
+        "input": "*(thirty-eight)",
+        "output": "thgie-ytriht"
+    },
+    {
+        "input": "*(thirty-nine)",
+        "output": "enin-ytriht"
+    },
+    {
+        "input": "*(forty)",
+        "output": "ytrof"
+    },
+    {
+        "input": "*(forty-one)",
+        "output": "eno-ytrof"
+    },
+    {
+        "input": "*(forty-two)",
+        "output": "owt-ytrof"
+    },
+    {
+        "input": "*(forty-three)",
+        "output": "eerht-ytrof"
+    },
+    {
+        "input": "*(forty-four)",
+        "output": "ruof-ytrof"
+    },
+    {
+        "input": "*(forty-five)",
+        "output": "evif-ytrof"
+    },
+    {
+        "input": "*(forty-six)",
+        "output": "xis-ytrof"
+    },
+    {
+        "input": "*(forty-seven)",
+        "output": "neves-ytrof"
+    },
+    {
+        "input": "*(forty-eight)",
+        "output": "thgie-ytrof"
+    },
+    {
+        "input": "*(forty-nine)",
+        "output": "enin-ytrof"
+    },
+    {
+        "input": "*(fifty)",
+        "output": "ytfif"
+    },
+    {
+        "input": "*(fifty-one)",
+        "output": "eno-ytfif"
+    },
+    {
+        "input": "*(fifty-two)",
+        "output": "owt-ytfif"
+    },
+    {
+        "input": "*(fifty-three)",
+        "output": "eerht-ytfif"
+    },
+    {
+        "input": "*(fifty-four)",
+        "output": "ruof-ytfif"
+    },
+    {
+        "input": "*(fifty-five)",
+        "output": "evif-ytfif"
+    },
+    {
+        "input": "*(fifty-six)",
+        "output": "xis-ytfif"
+    },
+    {
+        "input": "*(fifty-seven)",
+        "output": "neves-ytfif"
+    },
+    {
+        "input": "*(fifty-eight)",
+        "output": "thgie-ytfif"
+    },
+    {
+        "input": "*(fifty-nine)",
+        "output": "enin-ytfif"
+    },
+    {
+        "input": "*(sixty)",
+        "output": "ytxis"
+    },
+    {
+        "input": "*(sixty-one)",
+        "output": "eno-ytxis"
+    },
+    {
+        "input": "*(sixty-two)",
+        "output": "owt-ytxis"
+    },
+    {
+        "input": "*(sixty-three)",
+        "output": "eerht-ytxis"
+    },
+    {
+        "input": "*(sixty-four)",
+        "output": "ruof-ytxis"
+    },
+    {
+        "input": "*(sixty-five)",
+        "output": "evif-ytxis"
+    },
+    {
+        "input": "*(sixty-six)",
+        "output": "xis-ytxis"
+    },
+    {
+        "input": "*(sixty-seven)",
+        "output": "neves-ytxis"
+    },
+    {
+        "input": "*(sixty-eight)",
+        "output": "thgie-ytxis"
+    },
+    {
+        "input": "*(sixty-nine)",
+        "output": "enin-ytxis"
+    },
+    {
+        "input": "*(seventy)",
+        "output": "ytneves"
+    },
+    {
+        "input": "*(seventy-one)",
+        "output": "eno-ytneves"
+    },
+    {
+        "input": "*(seventy-two)",
+        "output": "owt-ytneves"
+    },
+    {
+        "input": "*(seventy-three)",
+        "output": "eerht-ytneves"
+    },
+    {
+        "input": "*(seventy-four)",
+        "output": "ruof-ytneves"
+    },
+    {
+        "input": "*(seventy-five)",
+        "output": "evif-ytneves"
+    },
+    {
+        "input": "*(seventy-six)",
+        "output": "xis-ytneves"
+    },
+    {
+        "input": "*(seventy-seven)",
+        "output": "neves-ytneves"
+    },
+    {
+        "input": "*(seventy-eight)",
+        "output": "thgie-ytneves"
+    },
+    {
+        "input": "*(seventy-nine)",
+        "output": "enin-ytneves"
+    },
+    {
+        "input": "*(eighty)",
+        "output": "ythgie"
+    },
+    {
+        "input": "*(eighty-one)",
+        "output": "eno-ythgie"
+    },
+    {
+        "input": "*(eighty-two)",
+        "output": "owt-ythgie"
+    },
+    {
+        "input": "*(eighty-three)",
+        "output": "eerht-ythgie"
+    },
+    {
+        "input": "*(eighty-four)",
+        "output": "ruof-ythgie"
+    },
+    {
+        "input": "*(eighty-five)",
+        "output": "evif-ythgie"
+    },
+    {
+        "input": "*(eighty-six)",
+        "output": "xis-ythgie"
+    },
+    {
+        "input": "*(eighty-seven)",
+        "output": "neves-ythgie"
+    },
+    {
+        "input": "*(eighty-eight)",
+        "output": "thgie-ythgie"
+    },
+    {
+        "input": "*(eighty-nine)",
+        "output": "enin-ythgie"
+    },
+    {
+        "input": "*(ninety)",
+        "output": "ytenin"
+    },
+    {
+        "input": "*(ninety-one)",
+        "output": "eno-ytenin"
+    },
+    {
+        "input": "*(ninety-two)",
+        "output": "owt-ytenin"
+    },
+    {
+        "input": "*(ninety-three)",
+        "output": "eerht-ytenin"
+    },
+    {
+        "input": "*(ninety-four)",
+        "output": "ruof-ytenin"
+    },
+    {
+        "input": "*(ninety-five)",
+        "output": "evif-ytenin"
+    },
+    {
+        "input": "*(ninety-six)",
+        "output": "xis-ytenin"
+    },
+    {
+        "input": "*(ninety-seven)",
+        "output": "neves-ytenin"
+    },
+    {
+        "input": "*(ninety-eight)",
+        "output": "thgie-ytenin"
+    },
+    {
+        "input": "*(ninety-nine)",
+        "output": "enin-ytenin"
+    }
+]
