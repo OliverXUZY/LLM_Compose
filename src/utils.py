@@ -10,6 +10,20 @@ def save_json(data, file_path, indent = 4):
     with open(file_path, 'w') as file:
         json.dump(data, file, indent = indent)
 
+# Function to load JSON data from a file line by line
+def load_json_lines(file_path):
+    data = []
+    with open(file_path, 'r') as file:
+        for line in file:
+            data.append(json.loads(line))
+    return data
+
+# Function to save a list of JSON objects to a file, each JSON object on a new line
+def save_json_lines(data, file_path):
+    with open(file_path, 'w') as file:
+        for json_obj in data:
+            json_line = json.dumps(json_obj)
+            file.write(json_line + '\n')
 
 class Timer(object):
 

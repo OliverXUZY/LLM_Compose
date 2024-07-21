@@ -71,7 +71,7 @@ def inference(
     kwangs_fewshot_context = {}
 
     if limit is not None:
-        limit = int(len(task_docs) * limit) if limit < 1.0 else int(limit)
+        limit = int(len(test_examples) * limit) if limit < 1.0 else int(limit)
 
     accs = 0
     results = []

@@ -7,3 +7,5 @@ from . import oppopair
 from . import verbpair
 from . import verbsingle
 from . import oppoverb
+from . import equation
+from . import upper_plusOne
