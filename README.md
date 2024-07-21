@@ -2,7 +2,7 @@
 Zhuoyan Xu*, Zhenmei Shi*, Yingyu Liang
 
 This repository is contains the benchmark and associate code in paper
-[Do Large Language Models Have Compositional Ability? An Investigation into Limitations and Scalability](https://openreview.net/pdf?id=4XPeF0SbJs). 
+[Do Large Language Models Have Compositional Ability? An Investigation into Limitations and Scalability](https://openreview.net/forum?id=iI1CzEhEMU). 
 
 ## Requirements
 
